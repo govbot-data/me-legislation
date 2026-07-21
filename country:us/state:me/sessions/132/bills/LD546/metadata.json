@@ -413,6 +413,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:51Z"
+    "logs_latest_update": "2026-07-21T18:54:51Z",
+    "text_extraction_latest_update": "2026-07-21T19:32:10.765223Z"
   }
 }
