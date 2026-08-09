@@ -64,6 +64,18 @@
       }
     },
     {
+      "description": "The Bill was in the possession of the Committee on Appropriations and Financial Affairs when the Legislature adjourned Sine Die and was placed in the Legislative Files. (DEAD)",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
       "description": "Carry Over Approved",
       "date": "2025-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -140,7 +152,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:52Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T22:21:11.049400Z"
   }
 }

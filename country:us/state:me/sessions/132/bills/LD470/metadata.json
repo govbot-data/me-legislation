@@ -262,6 +262,18 @@
       }
     },
     {
+      "description": "Became Law without Governor's Signature",
+      "date": "2026-01-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
       "description": "Work Session Held - TABLED",
       "date": "2025-03-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -391,6 +403,17 @@
       ],
       "date": "",
       "classification": "amendment"
+    },
+    {
+      "note": "Chapter 124",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0209&item=3&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -410,6 +433,17 @@
       "links": [
         {
           "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN047002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Amendment Fiscal Status - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN047003.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -446,7 +480,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:48Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T19:34:15.135105Z"
   }
 }

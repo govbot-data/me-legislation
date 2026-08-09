@@ -110,6 +110,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:52Z"
       }
+    },
+    {
+      "description": "The Bill was in the possession of the House when the Legislature adjourned Sine Die and was placed in the Legislative Files. (DEAD)",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,7 +196,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "LD 1281 SP 509 - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN128101.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -214,7 +238,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:52Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T19:34:57.439972Z"
   }
 }

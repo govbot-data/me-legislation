@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "96 having voted in the affirmative and 44 in the negative, with 8 being absent, and accordingly it was the vote of the House that the Bill become a law notwithstanding the objections of the Governor, since two-thirds of the members of the House so voted.",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097781",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097781",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097781",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097781",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1228"
+}

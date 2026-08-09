@@ -291,6 +291,18 @@
       }
     },
     {
+      "description": "Became Law without Governor's Signature",
+      "date": "2026-01-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
       "description": "Work Session Held - TABLED",
       "date": "2025-05-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -422,6 +434,17 @@
       "classification": "amendment"
     },
     {
+      "note": "Chapter 532",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0372&item=4&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment C-B (S-224)",
       "links": [
         {
@@ -450,6 +473,17 @@
       "links": [
         {
           "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN083902.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Amendment Fiscal Status - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN083904.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -497,7 +531,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:52Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T19:59:22.311015Z"
   }
 }

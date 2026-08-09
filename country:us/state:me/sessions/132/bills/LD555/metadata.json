@@ -72,6 +72,227 @@
       }
     },
     {
+      "description": "Reports READ.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Motion by Senator INGWERSEN of York to ACCEPT The Majority Ought Not To Pass Report FAILED.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Roll Call Ordered Roll Call Number 928 Yeas 12 - Nays 23 - Excused 0 - Absent 0",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Subsequently The Minority Ought to Pass As Amended by Committee Amendment \"A\" (S-653) Report ACCEPTED",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "READ ONCE",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Committee Amendment \"A\" (S-653) READ and ADOPTED",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-653)",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Sent down for concurrence",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Reports READ.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Representative MEYER of Eliot moved to ACCEPT the Majority Ought Not to Pass Report.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "On motion of Representative FAULKINGHAM of Winter Harbor, TABLED pending the motion of Representative MEYER of Eliot to ACCEPT the Majority Ought Not to Pass Report.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Later today assigned.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Speaker laid before the House",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Subsequently, on motion of Representative MEYER of Eliot, the Majority Ought Not to Pass Report was ACCEPTED.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "ROLL CALL NO. 817",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "(Yeas 75 - Nays 72 - Absent 3 - Excused 0 - Vacant 1)",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "In NON-CONCURRENCE.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "HELD at the Request of Representative MOONEN of Portland.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES. (DEAD)",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "RELEASED.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
       "description": "Work Session Held - TABLED",
       "date": "2025-05-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -99,6 +320,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:49Z"
+      }
+    },
+    {
+      "description": "Work Session Held",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Voted - Divided Report",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Reported Out - ONTP/OTP-AM",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
       }
     }
   ],
@@ -188,9 +439,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment C-A (S-653)",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0217&item=2&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment C-A (S-653) - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN055502.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -220,7 +494,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:49Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T22:15:56.874535Z"
   }
 }

@@ -14,7 +14,48 @@
       "identifier": "ocd-bill-me-132-sp829"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "READ and ORDERED PLACED ON FILE.",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Ordered sent down forthwith for concurrence.",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "READ and ORDERED PLACED ON FILE.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    }
+  ],
   "sponsorships": [],
   "related_bills": [],
   "versions": [],
@@ -48,7 +89,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:47Z",
+    "logs_latest_update": "2026-08-09T06:20:43Z",
     "text_extraction_latest_update": "2026-08-08T12:31:27.806220Z"
   }
 }

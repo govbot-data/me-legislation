@@ -223,6 +223,18 @@
       }
     },
     {
+      "description": "Signed by Governor",
+      "date": "2025-06-13",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
       "description": "Work Session Held - TABLED",
       "date": "2025-04-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -445,7 +457,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:50Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T20:12:40.263521Z"
   }
 }

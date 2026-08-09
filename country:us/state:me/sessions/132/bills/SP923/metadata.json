@@ -14,7 +14,30 @@
       "identifier": "ocd-bill-me-132-sp923"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Motion by Senator BENNETT of Oxford READ and FAILED PASSAGE.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Placed in Legislative Files (DEAD)",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Richard BENNETT",
@@ -67,7 +90,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:51Z",
+    "logs_latest_update": "2026-08-09T06:20:43Z",
     "text_extraction_latest_update": "2026-07-21T21:53:38.177895Z"
   }
 }

@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "ACCEPTANCE The Majority Ought to Pass As Amended by Committee Amendment \"A\" (H-877) Report FAILED.",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101146",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101146",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101146",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101146",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 2089"
+}

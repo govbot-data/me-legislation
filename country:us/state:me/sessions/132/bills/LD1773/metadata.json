@@ -239,6 +239,40 @@
       }
     },
     {
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Subsequently, PASSED TO BE ENACTED in concurrence.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
       "description": "Work Session Held",
       "date": "2025-05-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -326,6 +360,17 @@
       ],
       "date": "",
       "classification": "amendment"
+    },
+    {
+      "note": "Chapter 714",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0691&item=3&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -345,6 +390,17 @@
       "links": [
         {
           "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN177302.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Amendment Fiscal Status - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN177303.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -381,7 +437,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:49Z",
+    "logs_latest_update": "2026-08-09T06:20:43Z",
     "text_extraction_latest_update": "2026-07-21T21:36:19.586354Z"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "On motion by Senator BALDACCI of Penobscot Bill and accompanying papers COMMITTED to the Committee on Inland Fisheries and Wildlife PREVAILED in NON-CONCURRENCE",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100940",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100940",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100940",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100940",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 2054"
+}

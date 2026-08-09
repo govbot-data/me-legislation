@@ -43,6 +43,18 @@
       }
     },
     {
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
       "description": "Work Session Held",
       "date": "2025-04-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -90,6 +102,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:50Z"
+      }
+    },
+    {
+      "description": "Work Session Held",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Voted - ONTP",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Reported Out - ONTP",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
       }
     }
   ],
@@ -219,7 +261,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:50Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T19:00:40.903457Z"
   }
 }

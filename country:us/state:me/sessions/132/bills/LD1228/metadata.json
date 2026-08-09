@@ -272,6 +272,70 @@
       }
     },
     {
+      "description": "This Bill, having been returned by the Governor, together with objections to the same pursuant to Article IV, Part Third, Section 2 of the Constitution of the State of Maine, after reconsideration, the House proceeded to vote on the question: \"Shall this Bill become a law notwithstanding the objections of the Governor?\"",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "ROLL CALL NO. 605V",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "96 having voted in the affirmative and 44 in the negative, with 8 being absent, and accordingly it was the vote of the House that the Bill become a law notwithstanding the objections of the Governor, since two-thirds of the members of the House so voted.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "LD 1228 In Senate, January 20, 2026, this Bill, having been returned by the Governor, together with objections to the same pursuant to the provisions of the Constitution of the State of Maine, after reconsideration, the Senate proceeded to vote on the question: \"Shall this Bill become a law notwithstanding the objections of the Governor?\" 10 and 24, accordingly it was the vote of the Senate that the Bill not become law and the VETO was SUSTAINED.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Placed in Legislative Files (DEAD)",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
       "description": "Work Session Held - TABLED",
       "date": "2025-04-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -490,7 +554,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:47Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T21:13:17.216853Z"
   }
 }

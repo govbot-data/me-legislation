@@ -18,7 +18,135 @@
       "identifier": "ocd-bill-me-132-ld2241"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Report READ and ACCEPTED.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "READ ONCE.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Sent down for concurrence.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Reported by Senator NANGLE for the Joint Standing Committee on Transportation pursuant to Resolve 2025, chapter 77, section 5.",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Report was READ.",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "On motion of Representative CRAFTS of Newcastle, TABLED pending ACCEPTANCE of the Committee Report.",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Later today assigned.",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "The Bill was in the possession of the House when the Legislature adjourned Sine Die and was placed in the Legislative Files. (DEAD)",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Voted - OTP",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Comes From Committee - TRA",
+      "date": "2026-03-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Reported Out - OTP",
+      "date": "2026-03-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Timothy NANGLE",
@@ -85,7 +213,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:49Z",
+    "logs_latest_update": "2026-08-09T06:20:41Z",
     "text_extraction_latest_update": "2026-07-21T20:31:40.532188Z"
   }
 }

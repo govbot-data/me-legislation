@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland the Senate INSISTED on PASSAGE TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-563) as Amended by Senate Amendment \"A\" (S-632) thereto",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280099068",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280099068",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280099068",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280099068",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1908"
+}

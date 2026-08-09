@@ -328,6 +328,244 @@
       }
     },
     {
+      "description": "RECALLED From Governor's Desk pursuant to Joint Order SP 876.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "On motion by Senator PIERCE of Cumberland Bill and accompanying papers were COMMITTED to the Committee on VETERANS AND LEGAL AFFAIRS in NON-CONCURRENCE.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Sent down for concurrence",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "The House RECEDED and CONCURRED to COMMITTING the Bill and accompanying papers to the Committee on VETERANS AND LEGAL AFFAIRS.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "ORDERED SENT FORTHWITH.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Report READ and ACCEPTED.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "READ ONCE.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Committee Amendment \"B\" (S-586) READ and ADOPTED.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"B\" (S-586).",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Ordered sent down forthwith for concurrence.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "CONSENT CALENDAR - FIRST DAY",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Under suspension of the rules CONSENT CALENDAR - SECOND DAY.",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"B\" (S-586).",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "PASSED TO BE ENACTED.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "On motion by Senator STEWART of Aroostook Tabled until Later in Today's Session, pending PASSAGE TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence.",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Taken from the table by the President",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Subsequently, PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Roll Call Ordered Roll Call Number 568 Yeas 26 - Nays 8 - Excused 1 - Absent 0",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Became Law without Governor's Signature",
+      "date": "2026-04-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
       "description": "Work Session Held",
       "date": "2025-05-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -355,6 +593,66 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:52Z"
+      }
+    },
+    {
+      "description": "Referred To - VLA",
+      "date": "2026-01-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Work Session Held",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Voted - OTP-AM",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Work Session Reconsidered",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Voted - OTP-AM",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Reported Out - OTP-AM",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
       }
     }
   ],
@@ -406,10 +704,10 @@
       "classification": ""
     },
     {
-      "note": "Amendment C-A (S-320)",
+      "note": "Amendment C-B (S-586)",
       "links": [
         {
-          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0603&item=2&snum=132",
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0603&item=7&snum=132",
           "media_type": "application/pdf"
         }
       ],
@@ -417,10 +715,21 @@
       "classification": "amendment"
     },
     {
-      "note": "Amendment S-B to C-A (S-409)",
+      "note": "Chapter 764",
       "links": [
         {
-          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0603&item=5&snum=132",
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0603&item=8&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment C-A (S-320)",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0603&item=2&snum=132",
           "media_type": "application/pdf"
         }
       ],
@@ -437,9 +746,42 @@
       ],
       "date": "",
       "classification": "amendment"
+    },
+    {
+      "note": "Amendment S-B to C-A (S-409)",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0603&item=5&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
   "documents": [
+    {
+      "note": "Amendment C-B (S-586) - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN148807.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Amendment Fiscal Status - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN148808.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    },
     {
       "note": "Amendment C-A (S-320) - Fiscal Note",
       "links": [
@@ -452,10 +794,10 @@
       "classification": "fiscal-note"
     },
     {
-      "note": "Amendment S-B to C-A (S-409) - Fiscal Note",
+      "note": "Amendment S-A to C-A (S-342) - Fiscal Note",
       "links": [
         {
-          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN148805.pdf",
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN148804.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -463,10 +805,10 @@
       "classification": "fiscal-note"
     },
     {
-      "note": "Amendment S-A to C-A (S-342) - Fiscal Note",
+      "note": "Amendment S-B to C-A (S-409) - Fiscal Note",
       "links": [
         {
-          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN148804.pdf",
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN148805.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -503,7 +845,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:52Z",
+    "logs_latest_update": "2026-08-09T06:20:41Z",
     "text_extraction_latest_update": "2026-07-21T21:25:09.956755Z"
   }
 }

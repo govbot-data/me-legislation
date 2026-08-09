@@ -53,6 +53,18 @@
       }
     },
     {
+      "description": "Died in Possession of the Committee Upon Conclusion of the 132nd Legislature and PLACED IN THE LEGISLATIVE FILES (DEAD).",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
       "description": "Carry Over Approved",
       "date": "2025-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -201,7 +213,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:53Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T21:57:16.875740Z"
   }
 }

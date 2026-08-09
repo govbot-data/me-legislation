@@ -42,6 +42,100 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:51Z"
       }
+    },
+    {
+      "description": "Reports READ.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "On motion of Representative HEPLER of Woolwich, the Majority Ought Not to Pass Report was ACCEPTED.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Reports Read",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED in concurrence.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Placed in Legislative Files (DEAD)",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Work Session Held",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Voted - Divided Report",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Reported Out - ONTP/OTP-AM",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,9 +160,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment C-A (H-854)",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1361&item=2&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment C-A (H-854) - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN203102.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -98,7 +215,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:51Z",
+    "logs_latest_update": "2026-08-09T06:20:41Z",
     "text_extraction_latest_update": "2026-07-21T22:05:12.687723Z"
   }
 }

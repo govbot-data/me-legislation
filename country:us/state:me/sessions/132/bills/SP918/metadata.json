@@ -14,7 +14,50 @@
       "identifier": "ocd-bill-me-132-sp918"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "On motion by Senator PIERCE of Cumberland READ and PASSED",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "Ordered sent down forthwith for concurrence",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "READ and PASSED.",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:41Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Teresa PIERCE",
@@ -55,7 +98,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:53Z",
+    "logs_latest_update": "2026-08-09T06:20:41Z",
     "text_extraction_latest_update": "2026-08-08T12:31:28.055069Z"
   }
 }

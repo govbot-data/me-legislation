@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Motion by Senator PIERCE of Cumberland to RECEDE and CONCUR to The Majority Ought to Pass As Amended and PASSAGE TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-533) FAILED",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098736",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098736",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098736",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098736",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1766"
+}

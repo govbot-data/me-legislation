@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Senator HICKMAN of Kennebec to RECEDE and CONCUR to ACCEPTANCE of The Majority Ought to Pass As Amended by Committee Amendment \"B\" (S-522) Report and PASSAGE TO BE ENGROSSED AS AMENDED BY Committee Amendment \"B\" (S-522) PREVAILED.",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097920",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097920",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097920",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097920",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1343"
+}

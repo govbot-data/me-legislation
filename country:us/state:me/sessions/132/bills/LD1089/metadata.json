@@ -266,13 +266,13 @@
       }
     },
     {
-      "description": "Roll Call Ordered Roll Call Number 491 Yeas 16 - Nays 19 - Excused 0 - Absent 0",
+      "description": "Roll Call Ordered Roll Call Number 592 Yeas 16 - Nays 19 - Excused 0 - Absent 0",
       "date": "2025-06-16",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:49Z"
+        "log_file_created": "2026-08-09T06:20:42Z"
       }
     },
     {
@@ -286,13 +286,13 @@
       }
     },
     {
-      "description": "Roll Call Ordered Roll Call Number 492 Yeas 20 - Nays 15 - Excused 0 - Absent 0",
+      "description": "Roll Call Ordered Roll Call Number 593 Yeas 20 - Nays 15 - Excused 0 - Absent 0",
       "date": "2025-06-16",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:49Z"
+        "log_file_created": "2026-08-09T06:20:42Z"
       }
     },
     {
@@ -392,6 +392,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:49Z"
+      }
+    },
+    {
+      "description": "The Bill was in the possession of the House when the Legislature adjourned Sine Die and was placed in the Legislative Files. (DEAD)",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
       }
     },
     {
@@ -594,7 +606,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:49Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T21:59:47.716310Z"
   }
 }

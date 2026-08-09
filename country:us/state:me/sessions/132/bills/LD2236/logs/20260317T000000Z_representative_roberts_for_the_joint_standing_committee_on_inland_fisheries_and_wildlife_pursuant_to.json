@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Representative ROBERTS for the Joint Standing Committee on Inland Fisheries and Wildlife pursuant to Resolve 2025, chapter 37, section 6 reports that the Bill be REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE and printed pursuant to Joint Rule 218.",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101989",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101989",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101989",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101989",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 2236"
+}

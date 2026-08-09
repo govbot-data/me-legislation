@@ -54,6 +54,100 @@
       }
     },
     {
+      "description": "Reports READ.",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "On motion of Representative GERE of Kennebunkport, the Majority Ought Not to Pass Report was ACCEPTED.",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "ROLL CALL NO. 640",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "(Yeas 92 - Nays 46 - Absent 11 - Excused 1 - Vacant 1)",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Reports READ",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "On motion by Senator CURRY of Waldo the Majority Ought Not to Pass Report ACCEPTED in concurrence.",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Roll Call Ordered Roll Call Number 758 Yeas 32 - Nays 2 - Excused 1 - Absent 0",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Placed in Legislative Files (DEAD)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
       "description": "Work Session Held - TABLED",
       "date": "2025-05-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -81,6 +175,46 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:51Z"
+      }
+    },
+    {
+      "description": "Work Session Held - TABLED",
+      "date": "2026-01-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Work Session Held",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Voted - Divided Report",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    },
+    {
+      "description": "Reported Out - ONTP/OTP-AM",
+      "date": "2026-03-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
       }
     }
   ],
@@ -162,9 +296,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment C-A (H-836)",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1207&item=2&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment C-A (H-836) - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN180602.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -194,7 +351,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:51Z",
+    "logs_latest_update": "2026-08-09T06:20:43Z",
     "text_extraction_latest_update": "2026-07-21T22:14:36.437173Z"
   }
 }

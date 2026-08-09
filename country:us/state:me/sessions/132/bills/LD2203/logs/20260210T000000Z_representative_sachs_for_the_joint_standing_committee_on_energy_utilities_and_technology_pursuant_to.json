@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Representative SACHS for the Joint Standing Committee on Energy, Utilities and Technology pursuant to Public Law 2025, chapter 123, section 3, subsection 2 reports that the Bill be REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY and printed pursuant to Joint Rule 218.",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101501",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101501",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101501",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101501",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 2203"
+}

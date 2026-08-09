@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland the Senate RECEDED and CONCURRED to The Majority Ought to Pass As Amended Report and PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-641) as Amended by House Amendment \"A\" (H-1047) AND Senate Amendment \"A\" (S-656) thereto.",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101119",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101119",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101119",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101119",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 2150"
+}

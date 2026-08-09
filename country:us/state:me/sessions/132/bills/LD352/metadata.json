@@ -53,6 +53,18 @@
       }
     },
     {
+      "description": "Pursuant to Joint Rule 310.5, Placed in Legislative Files (DEAD).",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
       "description": "Work Session Held - TABLED",
       "date": "2025-05-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -80,6 +92,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:47Z"
+      }
+    },
+    {
+      "description": "LTW Approved by Chairs - LTW",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
+    },
+    {
+      "description": "Reported Out - LTW",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
       }
     }
   ],
@@ -140,7 +172,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:47Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T20:47:14.124388Z"
   }
 }

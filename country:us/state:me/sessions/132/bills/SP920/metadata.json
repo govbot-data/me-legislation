@@ -14,7 +14,18 @@
       "identifier": "ocd-bill-me-132-sp920"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "NOT PRESENTED.",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:43Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Teresa PIERCE",
@@ -55,7 +66,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:49Z",
+    "logs_latest_update": "2026-08-09T06:20:43Z",
     "text_extraction_latest_update": "2026-08-08T12:31:28.003926Z"
   }
 }

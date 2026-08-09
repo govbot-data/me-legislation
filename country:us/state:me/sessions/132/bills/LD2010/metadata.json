@@ -42,6 +42,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:54Z"
       }
+    },
+    {
+      "description": "The Bill was in the possession of the Committee on Taxation when the Legislature adjourned Sine Die and was placed in the Legislative Files. (DEAD)",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:20:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,7 +110,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:54Z",
+    "logs_latest_update": "2026-08-09T06:20:42Z",
     "text_extraction_latest_update": "2026-07-21T19:10:29.002059Z"
   }
 }
