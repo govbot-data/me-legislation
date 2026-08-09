@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 683
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 683
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1384 - L.D. 2071
+An Act to Expand Access to Vaccines Approved by the United States Food
+and Drug Administration by Allowing Pharmacists to Prescribe, Dispense
+and Administer Vaccines and Require Insurance Coverage
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 24-A MRSA §4320-A, sub-§1, ¶B, as enacted by PL 2017, c. 343, §1 and
+affected by §2, is amended to read:
+B. With respect to the individual insured, immunizations that have a recommendation
+from the federal Department of Health and Human Services, Centers for Disease
+Control and Prevention, Advisory Committee on Immunization Practices or have been
+licensed by the federal Food and Drug Administration and that are consistent with the
+recommendations of the American Academy of Pediatrics, the American Academy of
+Family Physicians or the American College of Obstetricians and Gynecologists or a
+successor organization;
+Sec. 2. 32 MRSA §13831, sub-§1, as amended by PL 2023, c. 170, §1, is further
+amended to read:
+1. Administration of influenza vaccines. A pharmacist licensed in this State who
+meets the qualifications and requirements of section 13832 and rules adopted by the board
+may prescribe, dispense or administer topically or by injection or by inhalation all forms
+of influenza vaccines, including intranasal influenza vaccines, to a person 3 years 6 months
+of age or older without a prescription.
+Sec. 3. 32 MRSA §13831, sub-§2, as corrected by RR 2023, c. 2, Pt. A, §49, is
+amended to read:
+2. Administration of other vaccines. A pharmacist licensed in this State who meets
+the qualifications and requirements of section 13832 and rules adopted by the board, in
+addition to influenza vaccines under subsection 1, may prescribe, dispense or administer
+vaccines licensed by the United States Food and Drug Administration that are
+recommended by the United States Centers for Disease Control and Prevention Advisory
+Committee on Immunization Practices or consistent with recommendations of the
+American Academy of Pediatrics, the American Academy of Family Physicians or the
+Page 1 - 132LR2608(05)
+
+American College of Obstetricians and Gynecologists, or a successor organization, for
+administration to a person 18 years of age or older. A pharmacist may administer vaccines
+licensed by the United States Food and Drug Administration that are recommended by the
+United States Centers for Disease Control and Prevention Advisory Committee on
+Immunization Practices or consistent with the recommendations of the American Academy
+of Pediatrics, the American Academy of Family Physicians or the American College of
+Obstetricians and Gynecologists, or a successor organization, for administration to a person
+3 years of age or older and under 18 years of age according to a valid prescription from a
+prescriber licensed under chapter 31, 36 or 48. A pharmacist may administer vaccines
+licensed by the United States Food and Drug Administration that are outside the guidelines
+recommended by the United States Centers for Disease Control and Prevention Advisory
+Committee on Immunization Practices, or successor organization, for administration to a
+person 18 years of age or older according to a valid prescription if the prescription
+specifically states that the vaccine is medically necessary.
+Sec. 4. 32 MRSA §13831, sub-§2-A, as enacted by PL 2021, c. 28, Pt. B, §2, is
+amended to read:
+2-A. Administration of COVID-19 vaccines. A pharmacist licensed in this State
+who meets the qualifications and requirements of section 13832 and rules adopted by the
+board may prescribe, dispense, administer and order COVID-19 vaccines licensed or
+authorized under an emergency use authorization by the United States Food and Drug
+Administration that are recommended by the United States Centers for Disease Control and
+Prevention Advisory Committee on Immunization Practices, or successor organization, to
+a person 3 years 6 months of age or older. For the purposes of this subsection, "COVID-
+19" has the same meaning as in Title 24‑A, section 4320‑P, subsection 1, paragraph A.
+Sec. 5. 32 MRSA §13831, sub-§7, as enacted by PL 2023, c. 170, §3 and
+reallocated by RR 2023, c. 1, Pt. A, §28, is amended to read:
+7. Notification of vaccines administration. A pharmacist licensed in this State who
+meets the qualifications and requirements of section 13832 and rules adopted by the board
+shall provide a written immunization record to the person, or the person's representative,
+receiving a vaccine administered under this section. Within 72 hours of administering a
+vaccine, a pharmacist shall notify the person's primary care provider, if any, of
+administration of the vaccine. Beginning August 1, 2023, a pharmacist shall report the
+administration of the vaccine to the appropriate state immunization information reporting
+system within 72 hours of administering the vaccine.
+Sec. 6. 32 MRSA §13834, sub-§1, as amended by PL 2023, c. 245, §3, is further
+amended to read:
+1. Delegate authority. A pharmacist may not delegate the pharmacist's authority to
+administer drugs or vaccines; except that a pharmacist licensed under this chapter who has
+obtained a certificate of administration pursuant to section 13832 may delegate the
+authority to administer vaccines to a pharmacy technician who is under that pharmacist's
+direct supervision and has met the requirements of section 13831, subsection 6 or may
+delegate the authority to administer drugs and vaccines to a pharmacy intern who is under
+that pharmacist's direct supervision and who has obtained drug administration training
+pursuant to section 13832, subsection 3. A pharmacy intern may administer drugs and
+vaccines only to a person 18 years of age or older.
+Page 2 - 132LR2608(05)

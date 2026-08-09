@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 525
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 525
+JANUARY 11, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+H.P. 145 - L.D. 222
+An Act to Establish a Take-back and Disposal Program for Firefighting and
+Fire-suppressing Foam to Which Perfluoroalkyl and Polyfluoroalkyl
+Substances Have Been Added
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 38 MRSA §424-C, sub-§5-A is enacted to read:
+5-A. Take-back and disposal program. In consultation with the Department of
+Public Safety, Office of the State Fire Marshal, when funds are available, the department
+shall design and, by July 1, 2027, implement a take-back and disposal program for
+firefighting and fire-suppressing foam to which PFAS have been intentionally added that
+is located in the State and that is in the possession of a person located in the State. The
+program must provide for the collection of such firefighting or fire-suppressing foam from
+a person that voluntarily requests collection and for the safe and contained disposal of the
+collected foam. The department may contract with a 3rd-party entity to implement and
+administer the program and may adopt rules as necessary for the implementation and
+administration of the program, which are routine technical rules as defined in Title 5,
+chapter 375, subchapter 2-A. The department may receive funds, grants or contributions
+from public or private sources to design and implement the program.
+Sec. 2. Appropriations and allocations. The following appropriations and
+allocations are made.
+ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+Firefighting Foam Disposal Program N968
+Initiative: Provides baseline allocation to establish an account to accept funding for
+contracted services related to the take-back and disposal of firefighting and fire-suppressing
+foam containing perfluoroalkyl and polyfluoroalkyl substances.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+All Other $500 $500
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $500 $500
+Page 1 - 132LR0101(10)

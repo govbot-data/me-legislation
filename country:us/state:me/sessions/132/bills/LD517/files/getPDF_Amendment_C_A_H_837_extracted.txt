@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-837)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 517
+2 Date: (Filing No. H- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 335, L.D. 517, “An Act to Protect the
+10 First Amendment Rights of Individuals in the State”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act Regarding Synthetic Media in Campaign Advertising'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 21-A MRSA §1014, sub-§3, as amended by PL 2025, c. 224, §7, is further
+16 amended to read:
+17 3. Broadcasting prohibited without disclosure. A Except as provided in subsection
+18 5-C, paragraph C, a person operating a broadcast, cable or satellite system within this State
+19 may not broadcast any public communication, as described in subsections 1 to 2‑A, without
+20 an oral or written visual announcement of the each disclosure required by this section.
+21 Sec. 2. 21-A MRSA §1014, sub-§3-B, as amended by PL 2025, c. 224, §7, is
+22 further amended to read:
+23 3-B. Newspapers. A Except as provided in subsection 5-C, paragraph C, a newspaper
+24 may not publish a public communication described in subsections 1 to 2‑A without
+25 including the each disclosure required by this section. For purposes of this subsection,
+26 "newspaper" includes any printed material intended for general circulation or to be read by
+27 the general public, including a version of the newspaper displayed on a website owned or
+28 operated by the newspaper. When necessary, a newspaper may seek the advice of the
+29 commission regarding whether or not a communication requires the disclosure.
+30 Sec. 3. 21-A MRSA §1014, sub-§4, as amended by PL 2025, c. 224, §7, is further
+31 amended to read:
+32 4. Enforcement. A violation of this section may result in a civil penalty of no more
+33 than 100% of the amount of the expenditure in violation, except that a violation of
+34 subsection 5-C may result in a civil penalty of no more than 500% of the amount of the
+35 expenditure in violation and except that an expenditure for yard signs lacking the required
+Page 1 - 132LR1130(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 335, L.D. 517
+316 information may result in a maximum civil penalty of $200. In assessing a civil penalty,
+327 the commission shall consider, among other things, how widely the public communication
+338 was disseminated, whether the violation was intentional, whether the violation occurred as
+349 the result of an error by a printer or other paid vendor and whether the public
+450 communication conceals or misrepresents the identity of the person who financed it. If the
+461 person who financed the public communication or who committed the violation corrects
+472 the violation within 10 days after receiving notification of the violation from the
+483 commission by adding the missing information to the public communication, the
+494 commission may, except for a violation of subsection 5-C, decide to assess no civil penalty.
+10 Sec. 4. 21-A MRSA §1014, sub-§5-C is enacted to read:
+11 5-C. Use of synthetic media. Whenever a public communication that requires a
+12 disclosure under subsections 1, 2, 2-A or 2-B contains synthetic media, the public
+13 communication must include, in addition to any other required disclosure, the words "THIS
+14 COMMUNICATION CONTAINS AUDIO, VIDEO AND/OR IMAGES THAT HAVE
+15 BEEN MANIPULATED OR ALTERED." The commission shall adopt rules regarding the
+16 manner, size and placement of the disclosure required under this subsection. Rules adopted
+17 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+18 subchapter 2-A.
+19 A. For purposes of this subsection, "synthetic media" means an image, an audio
+20 recording or a video recording depicting a candidate's appearance, speech or conduct
+21 that:
+22 (1) In a manner that is likely to deceive a reasonable person, depicts the candidate
+23 saying or doing something that the candidate did not say or do; or
+24 (2) Has been manipulated or altered in a manner that is likely to provide a
+25 reasonable person with a materially different understanding or impression of the
+26 candidate's appearance, action or speech than a reasonable person would have from
+27 an unaltered, original version of the image, audio recording or video recording.
+28 B. For purposes of this subsection, "synthetic media" does not include:
+29 (1) An image, an audio recording or a video recording depicting a candidate's
+30 appearance, speech or conduct that has been modified to improve audio, video or
+31 image clarity, to add captions or to highlight a specific section of the image, audio
+32 recording or video recording as long as the modification does not create a
+33 materially different understanding or impression of the candidate's appearance,
+34 action or speech than a reasonable person would have from an unaltered, original
+35 version of the image, audio recording or video recording; or
+36 (2) Satire or parody.
+37 C. A person operating a broadcast, cable or satellite system within the State that
+38 broadcasts a public communication does not violate this subsection and a newspaper
+39 that publishes a public communication does not violate this subsection unless the
+40 broadcaster broadcasts or newspaper publishes a paid public communication with
+41 actual knowledge that the public communication contains synthetic media. The
+42 broadcaster's or newspaper's receipt of an allegation made by a 3rd party that a public
+43 communication contains synthetic media does not, by itself, constitute actual
+44 knowledge by the broadcaster or newspaper that the public communication contains
+Page 2 - 132LR1130(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 335, L.D. 517
+415 synthetic media. For purposes of this paragraph, "newspaper" has the same meaning
+426 as in subsection 3-B.
+3 D. The commission shall notify the Office of the Attorney General if a person who is
+4 in violation of this subsection does not cease violating this subsection after being
+5 notified of the violation by the commission or if the commission is unable for any
+6 reason to notify a person that the person is in violation of this subsection. The Attorney
+7 General may bring a civil action in the Superior Court of Kennebec County for
+8 injunctive or other appropriate equitable relief requiring the person to comply with this
+9 subsection. An action under this paragraph may be combined with an action under
+10 section 1004-B for the purposes of the enforcement of penalties assessed by the
+11 commission. If the Attorney General prevails in an action under this paragraph, the
+12 court may award to the Attorney General the costs of the action together with
+13 reasonable attorney's fees as determined by the court.
+14 E. This subsection may not be construed to prohibit or limit any other cause of action
+15 that a person may have against a person who violates this subsection.'
+16 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+17 number to read consecutively.
+18 SUMMARY
+1199 This amendment, which is the majority report of the committee, replaces the bill, which
+2200 is a concept draft, and changes the title.
+21 The amendment requires certain political public communications that contain synthetic
+22 media to be accompanied by a disclosure revealing that the communication contains audio,
+23 video or images that have been manipulated or altered. It defines "synthetic media" as an
+24 image, an audio recording or a video recording depicting a candidate's appearance, speech
+25 or conduct that either depicts the candidate saying or doing something the candidate did
+26 not do or say in a manner that is likely to deceive a reasonable person or that has been
+27 manipulated or altered in a manner likely to provide a reasonable person with a materially
+28 different understanding or impression of the candidate's appearance, action or speech than
+29 a reasonable person would have from an unaltered, original version of the communication.
+30 Public communications that are satire or parody or that contain only minor modifications
+31 are not subject to the disclosure requirement. The amendment clarifies that broadcasters
+32 and newspapers may not be found in violation of the disclosure requirement unless they
+33 broadcast or publish a paid public communication with actual knowledge that it contains
+34 synthetic media.
+35 The amendment also clarifies that violations of the disclosure requirement are subject
+36 to investigation by the Commission on Governmental Ethics and Election Practices, which
+37 may impose a civil penalty of up to 500% of the amount of the expenditure made for the
+38 public communication. The Attorney General may also bring a civil action for injunctive
+39 or other appropriate equitable relief requiring compliance with the requirements of this
+40 legislation.
+4411 FISCAL NOTE REQUIRED
+4422 (See attached)
+Page 3 - 132LR1130(02)
+COMMITTEE AMENDMENT

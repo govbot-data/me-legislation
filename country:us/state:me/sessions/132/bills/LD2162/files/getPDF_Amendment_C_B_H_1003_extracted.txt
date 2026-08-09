@@ -1,0 +1,153 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-B (H-1003)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2162
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1451, L.D. 2162, “An Act to Regulate
+10 and Prevent Children's Access to Artificial Intelligence Chatbots with Human-like Features
+11 and Social Artificial Intelligence Companions”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Regulate Artificial Intelligence Companion Models'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 10 MRSA c. 247 is enacted to read:
+17 CHAPTER 247
+18 REGULATION OF ARTIFICIAL INTELLIGENCE COMPANION MODELS
+19 §1500-PP. Definitions
+20 As used in this chapter, unless the context otherwise indicates, the following terms
+21 have the following meanings.
+22 1. Artificial intelligence; artificial intelligence technology; AI. "Artificial
+23 intelligence," "artificial intelligence technology" or "AI" means a machine-based system
+24 that can, for a given set of human-defined objectives:
+25 A. Make predictions, recommendations or decisions influencing real or virtual
+26 environments;
+27 B. Use machine-based and human-based inputs to perceive real and virtual
+28 environments and abstract such perceptions into models through analysis in an
+29 automated manner; and
+30 C. Use model influence to formulate options for information or action.
+Page 1 - 132LR2723(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1451, L.D. 2162
+1 2. AI companion. "AI companion" means a system using artificial intelligence,
+2 generative artificial intelligence or emotional recognition algorithms designed to simulate
+3 a sustained human or human-like relationship, including, but not limited to, intimate,
+4 romantic or platonic interactions or companionship, with a user by:
+5 A. Retaining information on prior interactions or user sessions and user preferences to
+6 personalize the interaction and facilitate ongoing engagement with the AI companion;
+7 B. Asking unprompted or unsolicited emotion-based questions that go beyond a direct
+8 response to a user prompt; and
+9 C. Sustaining an ongoing dialogue concerning matters personal to the user.
+10 "AI companion" does not include a system used by a business entity solely for customer
+11 service or to strictly provide users with information about available commercial services or
+12 products offered for sale by that business entity, with customer account information or
+13 other information strictly related to its customer service; a system that is primarily designed
+14 and marketed for providing efficiency improvements or research or technical assistance; or
+15 a system used by a business entity solely for internal purposes or employee productivity.
+16 3. AI model. "AI model" means a component of an information system that
+17 implements artificial intelligence technology and uses computational, statistical or
+18 machine-learning techniques to produce outputs from a given set of inputs.
+19 4. Emotional recognition algorithms. "Emotional recognition algorithms" means
+20 artificial intelligence that detects and interprets human emotional signals in text using
+21 natural language processing and sentiment analysis, in audio using voice emotion analysis,
+22 in video, using facial movement analysis, gait analysis or physiological analysis, or a
+23 combination of text, audio and video.
+24 5. Generative artificial intelligence. "Generative artificial intelligence" means a
+25 class of AI models that emulate the structure and characteristics of input data to generate
+26 derived synthetic content, including, but not limited to, images, video, audio, text or other
+27 digital content.
+28 6. Operator. "Operator" means any person, partnership, association, firm or business
+29 entity, or any member, affiliate, subsidiary or beneficial owner of any partnership,
+30 association, firm or business entity, who operates or provides an AI companion to a user.
+31 7. Person. "Person" means a natural person.
+32 8. Self-harm. "Self-harm" means intentional self-injury with or without the intent to
+33 cause death.
+34 9. User. "User" means a person who uses an AI companion for personal use within
+35 the State and who is not an operator, or an agent or affiliate of an operator.
+36 §1500-QQ. Requirements for operator of AI companion
+37 An operator may not operate or provide an AI companion to a user unless the AI
+38 companion contains a protocol to take reasonable efforts for detecting or addressing
+39 suicidal ideation or expressions of self-harm expressed by a user to the AI companion that
+40 includes, but is not limited to, detection of user expressions of suicidal ideation or self-
+41 harm, and a notification to the user that refers the user to crisis service providers such as
+42 the 9-8-8 suicide prevention and behavioral health crisis hotline, a crisis text line or other
+Page 2 - 132LR2723(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1451, L.D. 2162
+413 appropriate crisis services upon detection of the user's expressions of suicidal ideation or
+424 self-harm.
+3 §1500-RR. Notification
+4 An operator shall provide a clear and conspicuous notice to a user at the beginning of
+5 any AI companion interaction that the user is not communicating with a human being. The
+6 notice may be provided to the user verbally or in writing and must be provided at least once
+7 per day for a single AI companion interaction and at least every 3 hours for continuing AI
+8 companion interactions.
+9 §1500-SS. Enforcement
+10 1. Civil action brought by Attorney General. Whenever the Attorney General
+11 believes from evidence satisfactory to the Attorney General that an operator has engaged
+12 in or is about to engage in any of the acts or practices in violation of this chapter, the
+13 Attorney General may bring a civil action against a person that violates this chapter.
+14 Penalties may include:
+15 A. An order to enjoin a violation of this chapter;
+16 B. A civil penalty of up to $15,000 per day for a violation of this chapter; or
+17 C. Such other remedies as the court may deem appropriate.
+18 2. Disposition of fees, fines and penalties. All fees, fines and penalties collected
+19 under this chapter must be deposited into the Suicide Prevention Fund established in section
+20 1500-TT.
+21 §1500-TT. Suicide Prevention Fund
+22 1. Fund established. The Suicide Prevention Fund, referred to in this section as "the
+23 fund," is established as a dedicated, nonlapsing fund administered by the Attorney General
+24 for the purposes of funding initiatives supporting suicide prevention, education and
+25 awareness programs. The fund must receive money from any fees, fines and penalties
+26 collected under this chapter and may receive money from any gift, grant, contribution,
+27 legislative appropriation, allocation or transfer. The money in the fund may be used only
+28 for the purposes described in this subsection and paying fund administration costs.
+29 2. Report. Beginning January 15, 2028 and annually thereafter, the Attorney General
+30 shall report annually to the joint standing committee of the Legislature having jurisdiction
+31 over the regulation of artificial intelligence matters on the money in the fund and any
+32 disbursement of funding for the purposes described in this subsection during the previous
+33 calendar year.
+34 Sec. 2. Appropriations and allocations. The following appropriations and
+35 allocations are made.
+36 ATTORNEY GENERAL, DEPARTMENT OF THE
+37 Suicide Prevention Fund N490
+38 Initiative: Establishes the Suicide Prevention Fund with a base Other Special Revenue
+39 Funds allocation.
+40 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+41 All Other $0 $500
+Page 3 - 132LR2723(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1451, L.D. 2162
+1 __________ __________
+2 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $500
+31 '
+4 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+5 number to read consecutively.
+6 SUMMARY
+77 This amendment replaces the bill and changes the title. The amendment requires
+88 operators of artificial intelligence companions to implement protocols for detecting and
+99 addressing user expressions of suicidal ideation or self-harm. The amendment requires
+1100 operators to provide clear and conspicuous notice to users that the user is not
+1111 communicating with a human. The amendment authorizes the Attorney General to bring a
+1122 civil action against an operator that violates the provisions of this legislation and to seek
+1133 penalties of up to $15,000 per day for a violation. Any penalties collected based on
+1144 violations must be deposited into the newly established Suicide Prevention Fund and,
+1155 beginning January 15, 2027, the Attorney General is required to submit annual reports on
+1166 the use of the fund.
+1177 FISCAL NOTE REQUIRED
+1188 (See attached)
+Page 4 - 132LR2723(04)
+COMMITTEE AMENDMENT

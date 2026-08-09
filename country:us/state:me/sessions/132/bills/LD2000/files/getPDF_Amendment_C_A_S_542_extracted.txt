@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-542)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2000
+2 Date: (Filing No. S- )
+3 VETERANS AND LEGAL AFFAIRS
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 814, L.D. 2000, “An Act to Update the
+10 Campaign Finance Laws”
+11 Amend the bill in section 2 in paragraph C in subparagraph (3) in the first line (page 1,
+12 line 34 in L.D.) by striking out the following: "$2,000" and inserting the following: '$1,500'
+13 Amend the bill in section 2 in paragraph C in subparagraph (4) in the first line (page 1,
+14 line 35 in L.D.) by striking out the following: "$2,000" and inserting the following: '$1,500'
+15 Amend the bill by inserting after section 2 the following:
+16 'Sec. 3. 21-A MRSA §1017-A, sub-§2, as amended by PL 2019, c. 323, §11, is
+17 repealed and the following enacted in its place:
+18 2. Expenditures to influence campaign. A party committee shall report all
+19 expenditures made to influence a campaign, as defined in section 1052, subsection 1. For
+20 each expenditure, the party committee shall report:
+21 A. The candidate or ballot measure for which the expenditure was made;
+22 B. For a candidate, the office sought by the candidate and the district that the candidate
+23 seeks to represent;
+24 C. The date and amount of each expenditure;
+25 D. The purpose of each expenditure, including whether the expenditure was made to
+26 support or oppose the candidate or ballot measure; and
+27 E. The name and address of each payee.'
+28 Amend the bill in section 3 in paragraph E in the 4th line (page 2, line 6 in L.D.) by
+29 striking out the following: "24 48" and inserting the following: '24'
+30 Amend the bill in section 3 in paragraph E in the 5th line (page 2, line 7 in L.D.) by
+31 striking out the following: "24 48" and inserting the following: '24'
+32 Amend the bill in section 4 in paragraph C in the 3rd line (page 2, line 18 in L.D.) by
+33 striking out the following: "24 48" and inserting the following: '24'
+Page 1 - 132LR2767(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 814, L.D. 2000
+1 Amend the bill in section 4 in paragraph C in the 4th line (page 2, line 19 in L.D.) by
+2 striking out the following: "24 48" and inserting the following: '24'
+3 Amend the bill by inserting after section 5 the following:
+4 'Sec. 6. 21-A MRSA §1052, sub-§2-A, as enacted by PL 2021, c. 217, §3, is
+5 amended to read:
+6 2-A. Ballot question committee. "Ballot question committee" means a person that
+7 receives contributions or makes expenditures aggregating in excess of $5,000 for the
+8 purpose of initiating or influencing a campaign, other than a campaign for the nomination
+9 or election of a candidate. The term "ballot question committee" does not include a political
+10 action committee or an exempt donor party committee, an exempt donor or a political
+11 action committee not required to register as a ballot question committee under section
+12 1052-A, subsection 1-A, paragraph A.'
+13 Amend the bill in section 6 in paragraph E in the 4th line (page 3, line 12 in L.D.) by
+14 striking out the following: "24 48" and inserting the following: '24'
+15 Amend the bill in section 6 in paragraph E in the 5th line (page 3, line 13 in L.D.) by
+16 striking out the following: "24 48" and inserting the following: '24'
+17 Amend the bill by striking out all of section 7 and inserting the following:
+18 'Sec. 7. Qualifying period for Maine Clean Election Act in 2026.
+19 Notwithstanding the definition of "qualifying period" in the Maine Revised Statutes, Title
+20 21-A, section 1122, subsection 8, for State Senate or State House of Representatives
+21 participating candidates who file with the Commission on Governmental Ethics and
+22 Election Practices a declaration of intent to seek certification as a Maine Clean Election
+23 Act candidate after January 15, 2026, the qualifying period ends at 5:00 p.m. on May 21,
+24 2026.'
+25 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+26 number to read consecutively.
+27 SUMMARY
+2288 This amendment makes the following changes to the bill.
+29 1. It reduces the threshold amounts for financial transactions that require candidates for
+30 State Representative and municipal office to file reports during the last 13 days before an
+31 election from $2,000, as in the bill, to $1,500.
+32 2. It removes the extended deadline for certain reports of contributions or expenditures
+33 for party committees and reports of independent expenditures but retains the extended
+34 deadline for candidates.
+35 3. It removes the direction to the Commission on Governmental Ethics and Election
+36 Practices to amend its rules to provide that independent expenditures made during the 60
+37 days before an election must be disclosed in a report within 2 calendar days of the
+38 expenditure.
+39 4. It adds a section that clarifies what party committees must disclose in their campaign
+40 finance reports, including for each expenditure: the candidate or ballot measure; for a
+41 candidate, the office sought and the candidate's district; the date and amount of each
+Page 2 - 132LR2767(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 814, L.D. 2000
+412 expenditure; the purpose of each expenditure, including whether the expenditure was in
+423 support of or opposition to the candidate or ballot measure; and the name and address of
+434 each payee.
+4 5. It adds party committees to the list of entities that are not included in the definition
+5 of "ballot question committee."
+6 6. It adds a section extending the qualifying period for State Senate or State House of
+7 Representatives participating candidates who file with the commission a declaration of
+8 intent to seek certification as a Maine Clean Election Act candidate after January 15, 2026
+9 to 5:00 p.m. on May 21, 2026.
+1100 FISCAL NOTE REQUIRED
+1111 (See attached)
+Page 3 - 132LR2767(02)
+COMMITTEE AMENDMENT

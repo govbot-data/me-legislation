@@ -1,0 +1,308 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-B (S-658)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1803
+2 Date: (Filing No. S- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 702, L.D. 1803, “An Act to Amend the
+10 Laws Governing Optometric Practice”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 32 MRSA §19101, sub-§24, as enacted by PL 2023, c. 580, §8, is repealed
+14 and the following enacted in its place:
+15 24. Practice of optometry. "Practice of optometry" has the same meaning as
+16 described in section 19102.
+17 Sec. 2. 32 MRSA §19102 is enacted to read:
+18 §19102. Practice of optometry
+19 The following provisions describe the practice of optometry for the purposes of this
+20 chapter.
+21 1. Definitions. For the purposes of this section, unless the context otherwise indicates,
+22 the following terms have the following meanings.
+23 A. "Diagnostic and therapeutic pharmaceutical agent" means any prescription or
+24 nonprescription drug delivered by any route of administration, which may be used or
+25 prescribed for the diagnosis, treatment, prevention or mitigation of abnormal
+26 conditions and diseases of the visual system or the human eye and its adnexa, including
+27 approved narcotics when used in the treatment of disorders or diseases of the eye and
+28 its adnexa.
+29 B. "Ophthalmic surgery" means a procedure upon the human eye and its adnexa in
+30 which in vivo tissue is injected, cut, burned, frozen, sutured, vaporized, coagulated or
+31 photo disrupted by the use of surgical instrumentation, including, but not limited to, a
+32 scalpel, cryoprobe, laser or electric cautery, or by the use of ionizing radiation.
+33 "Ophthalmic surgery" does not include any surgical procedures that do not involve the
+34 eye or its adnexa.
+Page 1 - 132LR1434(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 702, L.D. 1803
+1 2. Practice of optometry. The practice of optometry is the evaluation, diagnosis,
+2 prevention or treatment of diseases, disorders or conditions of the human vision system,
+3 eyes and adjacent and associated structures, including, in addition to all forms of care and
+4 treatment approved on the effective date of this subsection:
+5 A. Measuring the powers and range of vision of the human eye using subjective and
+6 objective means, including the use of lenses, prisms and automated testing devices, to
+7 determine its accommodative and refractive state and general scope of function of
+8 human vision;
+9 B. The adaptation, sale and dispensing of frames and lenses in all their forms to
+10 overcome errors of refraction and restore as near as possible normal human vision;
+11 C. The adaptation, sale and dispensing of plano or zero power contact lenses;
+12 D. Ordering appropriate diagnostic laboratory or imaging tests for the purpose of
+13 prescribing contact lenses for prosthetic or therapeutic purposes, including
+14 orthokeratology;
+15 E. Ordering appropriate diagnostic laboratory or imaging tests to facilitate the
+16 provision of contact lenses for cosmetic purposes;
+17 F. The dispensing of samples to initiate treatment;
+18 G. The use or prescription of lenses, prisms, vision therapy and vision rehabilitation;
+19 H. The prescription of diagnostic and therapeutic pharmaceutical agents for ocular
+20 disease, by any delivery system necessary, including controlled substances included in
+21 schedules III, IV and V as described in 21 United States Code, Section 812;
+22 I. The use and prescription of medical devices;
+23 J. The prescription of oral and topical antihistamines or anti-allergy medication,
+24 including the prescription of medicated contact lenses;
+25 K. The prescription of topical anti-inflammatory medication and oral nonsteroidal anti-
+26 inflammatories and corticosteroids;
+27 L. The prescription of oral and topical anti-glaucoma medications, including oral
+28 acetazolamide;
+29 M. The use of therapeutic ultrasound, radio frequency and intense pulsed light
+30 treatments; and
+31 N. Ophthalmic surgery as expressly provided in this paragraph:
+32 (1) The intradermal injection of a neuromuscular blocking agent into the eyelids;
+33 and
+34 (2) The independent performance of corneal collagen cross-linking involving an
+35 intact corneal epithelium.
+36 Notwithstanding any provision of this chapter to the contrary, a person may not
+37 perform ophthalmic surgery in accordance with this paragraph until the board has
+38 finally adopted rules in accordance with subsection 4 and sections 19103 and 19204.
+Page 2 - 132LR1434(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 702, L.D. 1803
+1 3. Ophthalmic surgery procedures excluded from practice of optometry. Any
+2 ophthalmic surgery procedures not expressly described in subsection 2, paragraph N are
+3 excluded from the practice of optometry.
+4 4. Credentialing requirements for ophthalmic surgery procedures. A person may
+5 not perform ophthalmic surgery unless the person has satisfied the credentialing
+6 requirements established in rule by the board. Rules adopted pursuant to this subsection are
+7 major substantive rules as described in Title 5, chapter 375, subchapter 2-A.
+8 5. Mechanical work associated with eyeglasses with ophthalmic lenses. This section
+9 does not prevent a person from doing the mechanical work associated with adapting, fitting,
+10 bending, adjusting, providing, replacing or duplicating eyeglasses with ophthalmic lenses.
+11 Sec. 3. 32 MRSA §19103 is enacted to read:
+12 §19103. Scope of practice; board authority
+13 The board shall adopt rules to further define the scope of practice of optometry in
+14 accordance with section 19102, subsections 2 and 3. Rules adopted pursuant to this section
+15 are major substantive rules as described in Title 5, chapter 375, subchapter 2-A.
+16 Sec. 4. 32 MRSA §19202, sub-§8, as enacted by PL 2023, c. 580, §8, is amended
+17 to read:
+18 8. Authority to order a mental or physical examination. The authority to direct a
+19 licensee or license applicant, who by virtue of an application for and acceptance of a license
+20 to practice under this chapter is considered to have given consent, to submit to an
+21 examination of the board's choice. With respect to a licensee, the board may order that
+22 licensee to submit to an examination whenever information is received by the board that
+23 would cause the board to reasonably determine that the licensee may be suffering from a
+24 mental illness or physical illness that may be interfering with competent practice under this
+25 chapter or from the use of intoxicants or drugs to an extent that the use is preventing the
+26 licensee from practicing optometry competently and safely. A licensee or license applicant
+27 examined pursuant to an order of the board may not prevent the testimony of the examining
+28 individual or prevent the acceptance into evidence of the report of the examining individual
+29 in a proceeding under this chapter. The board may petition the District Court for immediate
+30 suspension of license if the licensee fails to comply with an order of the board to submit to
+31 a mental or physical examination pursuant to this subsection; and
+32 Sec. 5. 32 MRSA §19202, sub-§9, as enacted by PL 2023, c. 580, §8, is amended
+33 to read:
+34 9. Report. The duty to submit to the commissioner, on or before August 1st of each
+35 year, the board's annual report of its operations and financial position for the preceding
+36 fiscal year ending June 30th, together with comments and recommendations the board
+37 considers essential.; and
+38 Sec. 6. 32 MRSA §19202, sub-§10 is enacted to read:
+39 10. Advisory opinions; declaratory rulings. The authority to issue advisory opinions
+40 and declaratory rulings related to this chapter and any rules adopted pursuant to this
+41 chapter.
+42 Sec. 7. 32 MRSA §19204, as enacted by PL 2023, c. 580, §8, is amended to read:
+Page 3 - 132LR1434(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 702, L.D. 1803
+1 §19204. Rulemaking Rule-making authority
+2 The board shall adopt rules that are necessary for the implementation of this chapter.
+3 The rules may include, but need not be limited to, requirements for licensure, license
+4 renewal and license reinstatement as well as practice setting standards, including scope of
+5 practice, that apply to individuals licensed under this chapter. Rules relating to scope of
+6 practice and credentialing standards are major substantive rules as defined in Title 5,
+7 chapter 375, subchapter 2-A. All other rules adopted pursuant to this chapter are routine
+8 technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+9 Sec. 8. 32 MRSA §19304, sub-§2, ¶A, as enacted by PL 2023, c. 580, §8, is
+10 amended by amending subparagraph (2) to read:
+11 (2) Nothing in this This paragraph may not be construed to permit the optometric
+12 use of pharmaceutical agents that are:
+13 (a) Controlled substances identified in schedules I and II as described in 21
+14 United States Code, Section 812; and
+15 (b) Administered exclusively by subdermal injection, intramuscular injection,
+16 intravenous injection, subcutaneous injection or retrobulbar injection, except
+17 injections for the emergency treatment of anaphylactic shock; and
+18 (c) For the specific treatment of a systemic disease unless the pharmaceutical
+19 agent is used specifically for an ocular disease.
+20 Sec. 9. 32 MRSA §19308, as enacted by PL 2023, c. 580, §8, is amended to read:
+21 §19308. Standard of care
+22 A licensee shall be held to the same standard of care in diagnosis, treatment and
+23 management of patient care as that degree of skill and proficiency commonly exercised by
+24 a physician with a specialty in eye care in this State. A licensee shall ensure that the services
+25 provided are consistent with the licensee's scope of practice, including the licensee's
+26 education, training, experience, ability, licensure and certification. A licensee shall carry
+27 malpractice insurance in an amount established by the board.
+28 Sec. 10. 32 MRSA §19312, sub-§2, ¶D, as amended by PL 2025, c. 390, Pt. A,
+29 §53, is further amended to read:
+30 D. The dispensing party may dispense contact lenses only upon receipt of a written
+31 prescription, except that an optometrist may fill a prescription of another optometrist
+32 or a physician without a copy of the prescription. Mail order contact lens suppliers
+33 must be licensed by and register with the Maine Board of Pharmacy pursuant to section
+34 13751 and are subject to discipline by that board for violations of that board's rules and
+35 the laws governing the board. An individual who fills a contact lens prescription shall
+36 maintain a copy of that prescription for a period of 5 10 years. A dispensing party other
+37 than an optometrist with an optometrist-patient relationship shall forward a copy of the
+38 details of a prescription for contact lenses to the optometrist with the optometrist-
+39 patient relationship.
+40 Sec. 11. 32 MRSA §19602, as enacted by PL 2023, c. 580, §8, is amended to read:
+41 §19602. Telehealth services permitted
+Page 4 - 132LR1434(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 702, L.D. 1803
+1 A person licensed under this chapter may provide telehealth services as long as the
+2 licensee acts within the scope of practice of the licensee's license, in accordance with any
+3 requirements and restrictions imposed by this subchapter chapter and in accordance with
+4 standards of practice.
+5 Sec. 12. 32 MRSA §19605, as enacted by PL 2023, c. 580, §8, is amended to read:
+6 §19605. Rulemaking
+7 The board shall adopt rules governing the provision of telehealth services by a person
+8 licensed under this chapter in accordance with section 19204. These rules must establish
+9 standards of practice and appropriate restrictions for the various types and forms of
+10 telehealth services.
+11 Sec. 13. Task Force to Study the Optometry Practice Laws and
+12 Recommend Changes to Modernize Board Oversight and to Update the
+13 Licensure and Scope of Practice Provisions established. The Task Force to Study
+14 the Optometry Practice Laws and Recommend Changes to Modernize Board Oversight and
+15 to Update the Licensure and Scope of Practice Provisions, referred to in this section as "the
+16 task force," is established.
+17 1. Task force membership. Notwithstanding Joint Rule 353, the task force consists
+18 of 11 members appointed as follows:
+19 A. Two members of the Senate, appointed by the President of the Senate, at least one
+20 of whom must be a member of the Joint Standing Committee on Health Coverage,
+21 Insurance and Financial Services;
+22 B. Two members of the House of Representatives, appointed by the Speaker of the
+23 House of Representatives, at least one of whom must be a member of the Joint Standing
+24 Committee on Health Coverage, Insurance and Financial Services;
+25 C. Two members who are practicing as licensed optometrists in the State, one of whom
+26 must be a member of the State Board of Optometry, one appointed by the President of
+27 the Senate and one appointed by the Speaker of the House of Representatives;
+28 D. Two members who are practicing as licensed ophthalmologists in the State, one
+29 appointed by the President of the Senate and one appointed by the Speaker of the House
+30 of Representatives;
+31 E. One member representing the Board of Licensure in Medicine, appointed by the
+32 Board of Licensure in Medicine;
+33 F. One member representing the Maine Board of Pharmacy, appointed by the Maine
+34 Board of Pharmacy; and
+35 G. One member representing the Department of Professional and Financial Regulation,
+36 Office of Professional and Occupational Regulation, appointed by the Governor.
+37 2. Chairs. The first-named Senate member is the Senate chair and the first-named
+38 House of Representatives member is the House chair of the task force.
+39 3. Appointments; convening of task force. All appointments must be made no later
+40 than 30 days following the effective date of this Act. The appointing authorities shall notify
+41 the Executive Director of the Legislative Council once all appointments have been
+42 completed. After appointment of all members, the chairs shall call and convene the first
+Page 5 - 132LR1434(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 702, L.D. 1803
+413 meeting of the task force. If 30 days or more after the effective date of this Act a majority
+424 of but not all appointments have been made, the chairs may request authority and the
+435 Legislative Council may grant authority for the task force to meet and conduct its business.
+4 4. Duties. The task force shall conduct a study of the Maine Revised Statutes, Title 32,
+5 chapter 151 and any laws associated with the provisions of that chapter to recommend:
+6 A. Structural and administrative changes to modernize oversight of the State Board of
+7 Optometry; and
+8 B. Changes to update the licensure and scope of practice provisions for optometrists
+9 to more accurately reflect their education and training and the practice settings and
+10 delivery models for optometry services in this State.
+11 The task force shall review and identify best practices from similar efforts in other states.
+12 The task force may hold hearings and invite testimony from experts and the public to gather
+13 information.
+14 5. Staff assistance. The Legislative Council shall provide necessary staffing services
+15 to the task force, except that Legislative Council staff support is not authorized when the
+16 Legislature is in regular or special session.
+17 6. Stakeholder participation. The task force may invite stakeholders to participate in
+18 meetings or subcommittee meetings of the task force to ensure that the task force has the
+19 information and expertise necessary to fulfill its duties.
+20 7. Reporting date. Notwithstanding Joint Rule 353, the task force shall report any
+21 recommendations pursuant to section 4 to the joint standing committee of the Legislature
+22 having jurisdiction over matters concerning the practice of optometry on or before February
+23 1, 2027. The joint standing committee may report out a bill to the 133rd Legislature in 2027
+24 related only to the task force's recommendations to modernize oversight of the State Board
+25 of Optometry and to continue the task force process. The joint standing committee may
+26 report out a bill to the Second Regular Session of the 133rd Legislature to update the
+27 licensure and scope of practice provisions for optometrists.
+28 Sec. 14. Appropriations and allocations. The following appropriations and
+29 allocations are made.
+30 PROFESSIONAL AND FINANCIAL REGULATION, DEPARTMENT OF
+31 Optometry - Board of 0385
+32 Initiative: Provides funding for consulting services and rulemaking.
+33 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+34 All Other $0 $77,918
+35 __________ __________
+36 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $77,918
+3373 '
+38 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+39 number to read consecutively.
+Page 6 - 132LR1434(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 702, L.D. 1803
+1 SUMMARY
+22 This amendment, which is the minority report of the committee, replaces the bill. The
+33 amendment does the following.
+4 The amendment makes changes to the provisions of the law governing optometrists by
+5 providing a more detailed explanation of what constitutes the practice of optometry. The
+6 definition of "practice of optometry" in current law does not include surgical procedures.
+7 The amendment, which is more limited in scope than the majority report, includes only 2
+8 specific ophthalmic surgeries in the practice of optometry and all other procedures are
+9 specifically excluded. The amendment directs the State Board of Optometry to adopt major
+10 substantive rules, subject to legislative approval before final adoption, to further define the
+11 scope of practice of optometry and establish credentialing requirements. An optometrist
+12 may not perform ophthalmic surgery as provided in the amendment until the board has
+13 finally approved major substantive rules regarding an optometrist's scope of practice and
+14 credentialing standards.
+15 The amendment also broadens the authority of an optometrist to dispense and
+16 administer certain medications independently and removes language that prohibits an
+17 optometrist from administering drugs by injection or intravenously. The amendment
+18 authorizes the board to issue advisory opinions and declaratory rulings. The amendment
+19 requires an optometrist to obtain malpractice insurance in an amount established by the
+20 board and also makes minor changes to the provisions relating to telehealth services and
+21 filling contact lenses and spectacle prescriptions.
+22 The amendment also establishes the Task Force to Study the Optometry Practice Laws
+23 and Recommend Changes to Modernize Board Oversight and to Update the Licensure and
+24 Scope of Practice Provisions and directs the task force to study the Maine Revised Statutes,
+25 Title 32, chapter 151, which governs optometrists, and any laws associated with the
+26 provisions of that chapter to recommend structural and administrative changes to
+27 modernize board oversight and changes to update the licensure and scope of practice
+28 provisions for optometrists to more accurately reflect their education and training and the
+29 practice settings and delivery models for optometry services in this State. The task force is
+30 required to report any recommendations from the study to the joint standing committee of
+31 the Legislature having jurisdiction over matters concerning the practice of optometry on or
+32 before February 1, 2027. The joint standing committee may report out a bill to the 133rd
+33 Legislature in 2027 related only to the task force’s recommendations to modernize board
+34 oversight and to continue the task force process. The joint standing committee may report
+35 out a bill to the Second Regular Session of the 133rd Legislature to update the licensure
+36 and scope of practice provisions for optometrists.
+3377 FISCAL NOTE REQUIRED
+3388 (See attached)
+Page 7 - 132LR1434(03)
+COMMITTEE AMENDMENT

@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 627
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 3, 2026 627
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 839 - L.D. 2046
+An Act to Update Certain Duties Regarding Student Health Related to
+Communicable and Infectious Disease
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 20-A MRSA §6301, as amended by PL 2017, c. 381, §§5 to 7 and corrected
+by RR 2017, c. 2, §3, is further amended to read:
+§6301. Student health Communicable or infectious disease
+The following provisions apply to a student health showing symptoms of a
+communicable or infectious disease.
+1. Duty of teacher school personnel. A teacher member of school personnel who has
+reason to believe that a student is a public health threat as a result of having a communicable
+disease of the skin, mouth or eyes showing symptoms of a communicable or infectious
+disease reportable under Title 22, chapter 250, subchapter 3 or that pose a public health
+threat shall inform the superintendent building administrator.
+1-A. Duty of building administrator. A building administrator informed by a
+member of school personnel that a student is showing symptoms of a communicable or
+infectious disease under subsection 1 shall consult with the school nurse. Upon
+recommendation from the school nurse, the building administrator shall inform the
+superintendent or superintendent's designee.
+2. Duty of superintendent. A superintendent or a superintendent's designee informed
+by a teacher a building administrator under subsection 1 1-A may:
+A. Inform Advise the student's parent: to furnish the student with the required home
+or medical treatment for the relief of the student's symptoms or disease reported under
+subsection 1;
+(1) To cleanse the clothing and body of the student; and
+(2) To furnish the student with the required home or medical treatment for the
+relief of the student's trouble so defined in subsection 1;
+B. Exclude the student from the public schools until the student is no longer a public
+health threat;
+Page 1 - 132LR2710(03)
+
+C. Exclude the student from public school as soon as safe and proper transportation
+home is available; and
+D. Consult with the school nurse.
+3. Duty of parent. A parent informed by a superintendent or the superintendent's
+designee under subsection 2 shall promptly do what is reasonably necessary to ensure that
+the student is not a public health threat.
+4. Penalty. Any parent who fails to comply with subsection 3 shall be fined not more
+than $5 for the first offense or $10 for subsequent offenses.
+5-A. Notification. The A superintendent or the superintendent's designee informed
+by a building administrator under subsection 1-A shall cause notice of the communicable
+or infectious disease to be given to the Department of Health and Human Services, in
+accordance with the requirements of Title 22, chapters 250 and 251, and rules issued under
+those chapters.
+6. Authority and duties of the Department of Health and Human Services. The
+Department of Health and Human Services has the authority and duties prescribed in Title
+22, chapters 250 and 251 with respect to the control of notifiable diseases and conditions
+and communicable or infectious diseases.
+Sec. 2. 20-A MRSA §6305, as amended by PL 2019, c. 560, §2, is further amended
+to read:
+§6305. Epinephrine autoinjectors automated devices; guidelines; emergency
+administration
+1. Definitions. As used in this section, unless the context otherwise indicates, the
+following terms have the following meanings.
+A. "Collaborative practice agreement" means a written and signed agreement between
+a physician licensed in this State or a school health advisor under section 6402‑A and
+a school nurse under section 6403‑A that provides for the prescription of epinephrine
+autoinjectors automated devices by the physician or school health advisor and
+administration of epinephrine autoinjectors automated devices by a school nurse or
+designated school personnel to students, school personnel or visitor during school or a
+school-sponsored activity under emergency circumstances involving anaphylaxis.
+B. "Designated school personnel" means those employees, agents or volunteers of a
+school administrative unit or an approved private school designated by a collaborative
+practice agreement between a physician licensed in this State or a school health advisor
+under section 6402‑A and a school nurse under section 6403‑A who have completed
+the training required by rule to provide or administer an epinephrine autoinjector to a
+student automated device.
+C. "Epinephrine autoinjector automated device" means a single-use device used for
+the automatic injection administration of a premeasured dose of epinephrine into a
+human body or another single-use epinephrine delivery system approved by the federal
+Food and Drug Administration for public use.
+D. "School" means a public or approved private school.
+Page 2 - 132LR2710(03)
+
+2. Collaborative practice agreement; adoption authorized. A school administrative
+unit or an approved private school may authorize adoption of a collaborative practice
+agreement for the purposes of stocking and administering epinephrine autoinjectors
+automated devices as provided under this section. The administration of an epinephrine
+autoinjector automated device in accordance with this section is not the practice of
+medicine.
+3. Collaborative practice agreement; authority. A collaborative practice agreement
+permits a physician licensed in this State or school health advisor under section 6402‑A to
+prescribe an epinephrine autoinjector automated device and direct a school nurse under
+section 6403‑A to administer an epinephrine autoinjector automated device in good faith
+to any student experiencing anaphylaxis during school or a school-sponsored activity.
+Pursuant to a collaborative practice agreement, a physician licensed in this State or school
+health advisor under section 6402‑A may authorize the school nurse under section 6403‑A
+during school or a school-sponsored activity to designate other school personnel with
+training required by rule to administer an epinephrine autoinjector automated device if the
+school nurse is not present when a student experiences anaphylaxis.
+4. Collaborative practice agreement; terms and provisions. A collaborative
+practice agreement must include the following information:
+A. Name and physical address of the school;
+B. Identification and signatures of the physician or school health advisor under section
+6402‑A and school nurse under section 6403‑A who are parties to the collaborative
+practice agreement, the dates the agreement is signed by each party and the beginning
+and end dates of the period of time within which the agreement is in effect; and
+C. Any other information considered appropriate by the physician or school health
+advisor under section 6402‑A and school nurse under section 6403‑A.
+5. Use of epinephrine autoinjectors automated devices without a collaborative
+practice agreement. The governing body of a school administrative unit or an approved
+private school may authorize a school nurse under section 6403‑A to train and designated
+designate school personnel to administer an epinephrine autoinjector automated device to
+a student in accordance with a prescription specific to the student on file with the school
+nurse and in accordance with section 254, subsection 5. The administration of an
+epinephrine autoinjector in accordance with this subsection is not the practice of medicine.
+6. Manufacturer or supplier arrangement. A school administrative unit or an
+approved private school may enter into an arrangement with a manufacturer of epinephrine
+autoinjectors automated devices or a 3rd-party supplier of epinephrine autoinjectors
+automated devices to obtain epinephrine autoinjectors automated devices at fair market
+prices or reduced prices or for free.
+7. Purchase from licensed pharmacies. A collaborative practice agreement under
+this section may provide that a school administrative unit or an approved private school
+may purchase epinephrine autoinjectors automated devices from a pharmacy licensed in
+this State.
+8. Guidelines. By December 1, 2015 and as needed after that date, the department in
+consultation with the Department of Health and Human Services shall develop and make
+Page 3 - 132LR2710(03)
+
+available to all schools guidelines for the management of students with life-threatening
+allergies. The guidelines must include, but are not limited to:
+A. Guidelines regarding education and training for school personnel on the
+management of students with life-threatening allergies, including training related to the
+administration of an epinephrine autoinjector automated device;
+B. Procedures for responding to life-threatening allergic reactions;
+C. A process for the development of individualized health care and allergy action plans
+for students with known life-threatening allergies; and
+D. Protocols to prevent exposure to allergens.
+9. Plan. By September 1, 2016 and as needed after that date, the governing body of a
+school administrative unit or an approved private school shall:
+A. Implement a protocol based on the guidelines developed pursuant to subsection 8
+for the management of students with life-threatening allergies enrolled in the schools
+under its jurisdiction; and
+B. Make the protocol under paragraph A available on the governing body's publicly
+accessible website or the publicly accessible website of each school under the
+governing body's jurisdiction or, if those websites do not exist, make the protocol
+publicly available through other means as determined by the governing body.
+The governing body of the school administrative unit or the approved private school shall
+annually attest to the department that the schools under its jurisdiction are implementing
+the protocol in accordance with the provisions of this subsection.
+Sec. 3. 20-A MRSA §6401-B, sub-§3, as enacted by PL 2011, c. 380, Pt. DD, §3,
+is amended to read:
+3. Staff development. Foster and promote staff development for school nurses by
+planning and providing orientation, educational offerings and networking with universities
+and other providers of continuing education to meet identified needs; and
+Sec. 4. 20-A MRSA §6401-B, sub-§4, as enacted by PL 2011, c. 380, Pt. DD, §3,
+is amended to read:
+4. Standards. Gather and analyze data relevant to the school health care program and
+monitor standards to promote school nursing excellence and optimal health of school
+children.; and
+Sec. 5. 20-A MRSA §6401-B, sub-§5 is enacted to read:
+5. Guidance. Manage the development and dissemination of school health guidelines
+as they relate to the health and well-being of students and staff in schools.
+Sec. 6. 20-A MRSA §6403-A, sub-§1, as enacted by PL 1985, c. 258, §4, is
+amended to read:
+1. Duties. The school nurse shall supervise and coordinate the health services and
+health-related activities required by this Title in accordance with the most recent scope and
+standards of school nursing practices and follow all applicable rules adopted by the State
+Board of Nursing and laws under Title 32, chapter 31.
+Page 4 - 132LR2710(03)
+
+Sec. 7. 20-A MRSA §6403-A, sub-§5, as enacted by PL 1985, c. 258, §4, is
+amended to read:
+5. Guidelines. The commissioner shall issue guidelines on the provision of school
+health services and health-related activities. Guidelines must be based on state and national
+standards and updated at least every 3 years.
+Page 5 - 132LR2710(03)

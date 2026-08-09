@@ -1,0 +1,225 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-1033)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2196
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1475, L.D. 2196, “An Act to Lower
+10 Health Insurance Costs, Reduce Barriers to Health Care and Ensure Fair Prices for Health
+11 Care”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'PART A
+15 Sec. A-1. 5 MRSA §3122, sub-§3, ¶F, as enacted by PL 2021, c. 459, §3, is
+16 amended to read:
+17 F. Develop proposals for consideration by the legislative oversight committee on
+18 potential methods to improve consumer experience with the health care system,
+19 including the provision of a consumer advocacy function on health care matters not
+20 addressed by the Health Insurance Consumer Assistance Program established in Title
+21 24‑A, section 4326 or the Department of Professional and Financial Regulation,
+22 Bureau of Insurance, Consumer Health Care Division established in Title 24‑A, section
+23 4321; and
+24 Sec. A-2. 5 MRSA §3122, sub-§3, ¶G, as enacted by PL 2021, c. 459, §3, is
+25 amended to read:
+26 G. Provide staffing assistance to the Maine Prescription Drug Affordability Board
+27 established in chapter 167.;
+28 Sec. A-3. 5 MRSA §3122, sub-§3, ¶H is enacted to read:
+29 H. Review and audit compliance with Title 22, section 1730-B. In carrying out this
+30 duty, the office may request from a hospital or an insurer information necessary to
+31 review and audit compliance and, upon request, a hospital or an insurer shall provide
+32 any requested information. Information provided by a hospital or an insurer is
+33 confidential unless a request to review the information is made in accordance with Title
+34 1, section 408-A and the office, in consultation with the Office of the Attorney General,
+35 determines that the records do not contain proprietary information. For the purposes
+Page 1 - 132LR2841(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1475, L.D. 2196
+316 of this paragraph, "proprietary information" means information that is a trade secret or
+327 production, commercial or financial information the disclosure of which would impair
+338 the competitive position of the hospital or insurer submitting the information and would
+349 make available information not otherwise publicly available;
+5 Sec. A-4. 5 MRSA §3122, sub-§3, ¶I is enacted to read:
+6 I. Monitor the impact of the implementation of Title 22, section 1730-B on the quality
+7 and accessibility of hospital care in this State and on the costs of nonhospital services.
+8 The office may adopt rules pursuant to subsection 10 as necessary to address its duties
+9 under this paragraph; and
+10 Sec. A-5. 5 MRSA §3122, sub-§3, ¶J is enacted to read:
+11 J. Beginning January 15, 2027 and annually thereafter, report on the impact of the
+12 implementation of Title 22, section 1730-B to the joint standing committee of the
+13 Legislature having jurisdiction over health and human services matters and to the joint
+14 standing committee of the Legislature having jurisdiction over health coverage,
+15 insurance and financial services matters. The report must summarize the status of the
+16 implementation of Title 22, section 1730-B, its impact on the quality, accessibility and
+17 utilization of hospital care in the State and its impact on premiums paid by individuals
+18 insured by the state group health plan established in section 285, by an individual health
+19 plan, as defined in Title 24-A, section 2736-C, subsection 1, paragraph C, and by a
+20 small group health plan governed by Title 24-A, section 2808-B.
+21 Sec. A-6. 22 MRSA §1730-B is enacted to read:
+22 §1730-B. Hospital facility price growth ceiling
+23 1. Definitions. For the purposes of this section, unless the context otherwise indicates,
+24 the following terms have the following meanings.
+25 A. "General hospital" has the same meaning as in section 7932, subsection 2-A.
+26 B. "Hospital facility price" means the total amount a hospital expects to receive for
+27 health care services, including both the amount paid to a hospital by any insurer or plan
+28 sponsor and any payment received directly from an insured or uninsured individual for
+29 institutional services.
+30 C. "Individual health plan" has the same meaning as in Title 24-A, section 2736-C,
+31 subsection 1, paragraph C.
+32 D. "Insurer" has the same meaning as in Title 24-A, section 3952, subsection 6.
+33 E. "Plan sponsor" means any person, other than an insurer, that establishes or maintains
+34 a health plan covering residents of this State, including, but not limited to, plans
+35 established or maintained by 2 or more employers or jointly by one or more employers
+36 and one or more employee organizations, associations, committees, joint boards of
+37 trustees or other similar groups of representatives of the parties that establish or
+38 maintain the plan. "Plan sponsor" does not include the MaineCare program; the federal
+39 Medicare program; the Civilian Health and Medical Program for the Uniformed
+40 Services, known as TRICARE; the Federal Employees Health Benefits Program; the
+41 United States Department of Health and Human Services, Indian Health Service; or
+42 any program providing health benefits administered by the United States Department
+43 of Veterans Affairs.
+Page 2 - 132LR2841(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1475, L.D. 2196
+1 F. "Small group health plan" means an insurance plan governed by Title 24-A, section
+2 2808-B.
+3 2. Hospital facility price growth ceiling. A general hospital may not:
+4 A. Beginning January 1, 2027, enter into a contract with a carrier that issues an
+5 individual health plan or a carrier that issues a small group health plan in which the
+6 growth of the allowed amount for any inpatient or outpatient facility service, for the
+7 services covered by such plans, exceeds a percentage equal to the inpatient prospective
+8 payment system annual hospital market basket update established by the United States
+9 Department of Health and Human Services, Centers for Medicare and Medicaid
+10 Services for that plan year, except that an acute care hospital with standardized
+11 commercial inpatient prices below the national first quartile may enter into a contract
+12 with any individual or small group market carrier in which the growth of the allowed
+13 amount for any inpatient or outpatient facility service does not exceed a percentage
+14 equal to the inpatient prospective payment system annual hospital market basket update
+15 established by the Centers for Medicare and Medicaid Services for that plan year plus
+16 1%;
+17 B. Beginning January 1, 2028, enter into a contract with any administrator of the state
+18 employee health insurance program established in Title 5, chapter 13 in which the
+19 growth of the allowed amount for any inpatient or outpatient facility service exceeds a
+20 percentage equal to the inpatient prospective payment system annual hospital market
+21 basket update established by the United States Department of Health and Human
+22 Services, Centers for Medicare and Medicaid Services for that plan year; or
+23 C. Beginning January 1, 2027, bill or collect payment for any inpatient or outpatient
+24 facility service from any out-of-network insurer whose plan would otherwise be subject
+25 to the caps in paragraph A or from the state employee health insurance program, subject
+26 to the caps in paragraph B, if the hospital is out of network with the state employee
+27 health insurance program or from an individual covered by any such plan in an amount
+28 that exceeds the hospital's median commercial negotiated rate for that same service as
+29 of the effective date of this section by more than the cumulative growth in the inpatient
+30 prospective payment system annual hospital market basket update established by the
+31 United States Department of Health and Human Services, Centers for Medicare and
+32 Medicaid Services for that plan year.
+33 Upon the agreement of a carrier and hospital, individual service-level prices may exceed
+34 the caps established by paragraphs A to C as long as the average of all price changes,
+35 applied against the previous year's service mix, does not result in the growth of prices
+36 exceeding a percentage equal to the inpatient prospective payment system annual hospital
+37 market basket update established by the United States Department of Health and Human
+38 Services, Centers for Medicare and Medicaid Services for that plan year.
+39 PART B
+40 Sec. B-1. 24-A MRSA §2736-C, sub-§2, ¶K is enacted to read:
+41 K. For each rate filing submitted for the 2028 plan year and each plan year thereafter,
+42 a carrier shall certify that its contracts with hospitals meet the requirements of Title 22,
+43 section 1730-B and provide in a format determined by the superintendent detailed
+Page 3 - 132LR2841(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1475, L.D. 2196
+414 information on the experience period and projected trend in both utilization and per-
+425 unit payment by benefit category and by hospital.
+3 Sec. B-2. 24-A MRSA §2808-B, sub-§2-A, ¶D is enacted to read:
+4 D. For each rate filing submitted for the 2028 plan year and each plan year thereafter,
+5 a carrier shall certify that its contracts with hospitals meet the requirements of Title 22,
+6 section 1730-B and provide in a format determined by the superintendent detailed
+7 information on the experience period and projected trend in both utilization and per-
+8 unit payment by benefit category and by hospital.
+9 Sec. B-3. 24-A MRSA §4320-A, sub-§3-C is enacted to read:
+10 3-C. Minimum negotiated rate for certain in-network primary care services or
+11 behavioral health care evaluation and management services. The minimum negotiated
+12 rate of an individual or small group health plan or the state group health plan established
+13 in Title 5, section 285 for any in-network primary care service or behavioral health care
+14 evaluation and management service may not be less than the greater of the carrier's
+15 negotiated rate with the same provider as of January 1, 2026 and the following:
+16 A. For plans with an effective date beginning January 1, 2028 and ending December
+17 31, 2028, 100% of the Medicare rate for the same service in the same geographic area;
+18 B. For plans with an effective date beginning January 1, 2029 and ending December
+19 31, 2029, 105% of the Medicare rate for the same service in the same geographic area;
+20 C. For plans with an effective date beginning January 1, 2030 and ending December
+21 31, 2030, 115% of the Medicare rate for the same service in the same geographic area;
+22 D. For plans with an effective date beginning January 1, 2031 and ending December
+23 31, 2031, 125% of the Medicare rate for the same service in the same geographic area;
+24 E. For plans with an effective date beginning January 1, 2032 and ending December
+25 31, 2032, 135% of the Medicare rate for the same service in the same geographic area;
+26 F. For plans with an effective date beginning January 1, 2033 and ending December
+27 31, 2033, 145% of the Medicare rate for the same service in the same geographic area;
+28 and
+29 G. For plans with an effective date from January 1, 2034 and thereafter, 150% of the
+30 Medicare rate for the same service in the same geographic area.
+31 PART C
+32 Sec. C-1. Appropriations and allocations. The following appropriations and
+33 allocations are made.
+34 OFFICE OF AFFORDABLE HEALTH CARE
+35 Office of Affordable Health Care Z320
+36 Initiative: Provides funding for the Office of Affordable Health Care to contract with
+37 external consultants to conduct data analysis and build functionality to support
+38 implementation and compliance monitoring.
+39 GENERAL FUND 2025-26 2026-27
+40 All Other $0 $25,000
+Page 4 - 132LR2841(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1475, L.D. 2196
+1 __________ __________
+2 GENERAL FUND TOTAL $0 $25,000
+31 '
+4 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+5 number to read consecutively.
+6 SUMMARY
+77 This amendment, which is the majority report of the committee, makes the following
+88 changes to the bill.
+9 1. It updates the price growth ceilings to apply only to individual health plans, small
+10 group health plans and the state employee health plan.
+11 2. It adds an exception to price growth ceilings for acute care hospitals with
+12 standardized commercial inpatient prices below the national first quartile and provides the
+13 circumstances under which those hospitals may enter into a contract with an individual or
+14 small group market insurer.
+15 3. It adds language providing that, upon the agreement of a carrier and hospital,
+16 individual service level prices may exceed the price caps as long as certain criteria are met.
+17 4. It removes provisions establishing maximum prices for inpatient and outpatient
+18 hospital services.
+19 5. It removes the requirement that the Office of Affordable Health Care determine
+20 whether a hospital is financially distressed.
+21 6. It removes provisions regarding limitations on prior authorizations for treatment of
+22 chronic conditions.
+23 7. It clarifies that the minimum negotiated rate requirements for in-network primary
+24 care or behavioral health care evaluation and management apply only to individual health
+25 plans, small group health plans and the state employee health plan.
+26 8. It adds a graduated implementation period for minimum negotiated rate
+27 requirements for in-network primary care or behavioral health care evaluation and
+28 management.
+29 9. It adds language requiring the Office of Affordable Health Care to, beginning
+30 January 15, 2027, report on the impact of growth caps to the joint standing committee of
+31 the Legislature having jurisdiction over health and human services matters and to the joint
+32 standing committee of the Legislature having jurisdiction over health coverage, insurance
+33 and financial services matters. The report must summarize the status of the implementation
+34 of growth caps, their impact on the quality and accessibility of hospital care in the State
+35 and their impact on premiums paid by individuals insured by the state employee health
+36 plan, individual health plans and small group health plans.
+3377 FISCAL NOTE REQUIRED
+3388 (See attached)
+Page 5 - 132LR2841(02)
+COMMITTEE AMENDMENT

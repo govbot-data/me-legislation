@@ -1,0 +1,620 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-993)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1893
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893, “An Act to Establish
+10 an Independent Office of the Child Advocate”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 2 MRSA §6, sub-§5, as amended by PL 2019, c. 343, Pt. OOO, §1, is further
+14 amended to read:
+15 5. Range 86. The salaries of the following state officials and employees are within
+16 salary range 86:
+17 State Archivist;
+18 Director, Division of Land Use Planning, Permitting and Compliance;
+19 Chair, Maine Unemployment Insurance Commission;
+20 Child Welfare Services Ombudsman Advocate; and
+21 Director of the Maine Drug Enforcement Agency.
+22 Sec. 2. 5 MRSA §12004-G, sub-§5-B is enacted to read:
+23 5-B.
+24 Children's Services Advisory Committee to the Not Authorized 5 MRSA c. 641
+25 Child Advocate
+2264
+27 Sec. 3. 5 MRSA Pt. 32 is enacted to read:
+28 PART 32
+29 CHILD ADVOCATE
+Page 1 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+1 CHAPTER 641
+2 OFFICE OF THE CHILD ADVOCATE
+3 §26201. Definitions
+4 As used in this chapter, unless the context otherwise indicates, the following terms
+5 have the following meanings.
+6 1. Advisory committee. "Advisory committee" means the Advisory Committee to
+7 the Child Advocate under section 26209.
+8 2. Child. "Child" means a person who is under 18 years of age who is in the custody
+9 of or receiving services from or arranged through a state agency, or is qualified to receive
+10 such services, or in the past 3 years has been in such custody or received such services.
+11 “Child” also means a person who is under 18 years of age and is in custody or detention in
+12 any Department of Corrections juvenile correctional facility.
+13 3. Child Advocate. "Child Advocate" means the individual appointed by the
+14 Governor and confirmed by the Legislature pursuant to section 26204 to serve as the
+15 administrator of the Office of the Child Advocate and to perform all other duties as assigned
+16 in this chapter.
+17 4. Office. "Office" means the Office of the Child Advocate established in section
+18 26202.
+19 5. Oversight. "Oversight" means reviewing, monitoring and recommending changes
+20 to a state agency's implementation of laws and rules and all contracted programs, providers,
+21 services and activities of that state agency as well as that state agency's policies, procedures
+22 and practices.
+23 6. Record. "Record" means information created, received, possessed or controlled by
+24 or on behalf of a state agency.
+25 7. Safety science. "Safety science" means the systematic application of evidence-
+26 based methods of incident review that recognize human error not as cause, but consequence
+27 and symptom of conditions of the system in which decisions are made. A process grounded
+28 in safety science takes into account all the influencing factors on decision making to
+29 determine the adequacy of the infrastructure that supports decisions and influences
+30 outcomes.
+31 8. Services. "Services" means residential or home and community-based children's
+32 behavioral health services or child welfare services provided directly by the Department of
+33 Health and Human Services or indirectly through a private provider or services provided
+34 by the Department of Corrections in a secure facility for children involved in the juvenile
+35 justice system. "Services" does not include standard juvenile correctional security
+36 practices.
+37 9. State agency. "State agency" means a department, bureau or office of the State,
+38 including any public or private child service agency providing services under contract or
+39 agreement with a state agency to a child.
+40 §26202. Office of the Child Advocate established; fund
+Page 2 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+1 1. Office established; purposes. The Office of the Child Advocate is established as
+2 an independent agency to provide independent oversight of state agencies and promote the
+3 best interests of children and ensure that children receive timely, safe and effective services
+4 in accordance with state and federal law. The office, notwithstanding any provision of law
+5 to the contrary, shall operate with full independence from any state official or state agency.
+6 The office is established within the Department of Administrative and Financial Services
+7 for administrative purposes only.
+8 2. Fund. A fund is established within the Department of Administrative and Financial
+9 Services to support the operation of the office. Any unexpended balance remaining in the
+10 fund at the end of the fiscal year does not lapse and must be carried forward to the next
+11 fiscal year.
+12 §26203. Powers and duties of office
+13 1. Complaints. The office shall review complaints and determine if the office
+14 considers it necessary to:
+15 A. Investigate the actions of a state agency and make recommendations to address
+16 concerns;
+17 B. Identify whether a complaint raises a systemic issue that must be addressed and
+18 make recommendations to a state agency that is implicated; and
+19 C. Make recommendations to a state agency related to specific complaints.
+20 2. Case-specific reviews. The office may complete a case-specific review on the
+21 receipt of a complaint or on the office's own initiative. When coordinating a case-specific
+22 review, the office shall coordinate efforts with the state agencies involved to minimize the
+23 impact and trauma to the child, family and department personnel involved.
+24 A. In a child welfare case, if there is a pending criminal investigation or prosecution
+25 in state or federal court identified prior to or during a case-specific review, the office
+26 may consult with the Attorney General before proceeding with the review. The
+27 consultation with the Attorney General does not halt or delay the case-specific review.
+28 B. If a review requires the office to interview a child receiving services from the
+29 Department of Health and Human Services, the office shall consult with the Attorney
+30 General. An interview must be conducted using trauma-informed and developmentally
+31 sensitive interview techniques.
+32 C. If a review requires the office to interview a child in the custody of the Department
+33 of Corrections, the prosecuting attorney, the defense attorney for the child and the
+34 Attorney General must all agree to the interview, including any specific terms of the
+35 interview. An interview must be conducted using trauma-informed and
+36 developmentally sensitive interview techniques.
+37 3. Systems-wide or periodic review; recommendations. The office may complete
+38 systems-wide or periodic review of policies, programs, rules, procedures or services
+39 offered to children and provide recommendations to address systemic concerns in order to
+40 improve the quality of care in order to provide children with the opportunity to live full and
+41 productive lives.
+Page 3 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+1 4. Consultation. The Child Advocate shall regularly consult with state agencies and
+2 the advisory committee and participate in conferences, meetings and studies aimed at
+3 improving the performance of state agencies.
+4 5. Information and referral services. The office shall provide information and
+5 referral assistance to families and the public to assist families and the public in navigating
+6 and accessing services available through state agencies and to promote the child's best
+7 interest. The provision of information under this subsection does not constitute legal
+8 representation of a child or parent. A family may seek and must receive information
+9 regardless of whether the family is represented by legal counsel. The information must be
+10 provided free of charge. Failure to provide information under this subsection does not
+11 create a cause of action or have any effect on a child protective proceeding.
+12 6. Outreach and advocacy. The office shall perform educational outreach and
+13 advocacy initiatives as part of the mission and responsibilities of the office and in
+14 coordination with other relevant advocacy organizations. The office shall provide
+15 information through a toll-free telephone number and a publicly accessible website.
+16 §26204. Child Advocate; term; appointment; removal
+17 1. Appointment. The Governor shall appoint the Child Advocate to supervise the
+18 office, serve as the office's administrator and perform all other duties as assigned by this
+19 chapter. The appointment must be made on the recommendation of the advisory committee
+20 from the list provided pursuant to section 26209, subsection 4, paragraph A and is subject
+21 to review by the joint standing committee of the Legislature having jurisdiction over health
+22 and human services matters and to confirmation by the Legislature. No later than 8 weeks
+23 after receiving the list of candidates from the advisory committee, the Governor shall
+24 designate a candidate for Child Advocate from among those recommended by the advisory
+25 committee and submit the appointment for approval by the Legislature. If a candidate
+26 withdraws from consideration prior to approval by the Legislature, the Governor shall
+27 designate another candidate from among the remaining candidates recommended by the
+28 advisory committee to the Governor. If the Governor fails to designate a candidate within
+29 8 weeks after receiving the recommendations of the advisory committee, the candidate
+30 ranked first by the advisory committee is deemed appointed and submitted for approval by
+31 the Legislature. The position of Child Advocate is a full-time, unclassified position.
+32 2. Term. The Child Advocate serves a term of 5 years and until a successor is
+33 appointed and approved. A vacancy in the position of Child Advocate must be filled in the
+34 same manner as the original appointment was made for the remainder of the unexpired
+35 term. The Child Advocate's term may be renewed as described in subsection 3.
+36 3. Reappointment. The advisory committee may recommend reappointment of the
+37 Child Advocate by providing notice to the Governor. If the Governor does not respond to
+38 the recommendation for reappointment within 8 weeks after receiving the recommendation
+39 from the advisory committee, the Child Advocate's reappointment must be referred to the
+40 Legislature for approval.
+41 4. Qualifications. A person appointed to the position of Child Advocate must be
+42 selected without regard to political affiliation and on the basis of integrity and demonstrated
+43 ability and must possess a professional graduate degree in law, health care, public health,
+44 social work or a related field and be qualified by education, experience and expertise to
+45 perform the duties of the position. The appointee must have knowledge of safety science
+Page 4 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+416 and juvenile correctional practices or be willing to undergo training as determined by
+427 industry standards for safety science-based system and juvenile correctional practices.
+3 5. Removal. The Child Advocate may be removed from office for cause by the
+4 Governor with approval by a 2/3 vote of the Senate. As used in this subsection, "cause"
+5 includes, but is not limited to, substantial neglect of duty, gross misconduct or conviction
+6 of a crime. The cause for removal of the Child Advocate must be stated in writing, and
+7 that document must be sent to the Secretary of the Senate and the Clerk of the House of
+8 Representatives and is a public document.
+9 6. Associate Child Advocate hire; other personnel. The Child Advocate shall hire
+10 an Associate Child Advocate, who must meet the same qualifications required of the Child
+11 Advocate as specified in subsection 4. The Child Advocate may, subject to available
+12 appropriations, hire such other personnel as the Child Advocate considers necessary for the
+13 efficient management of the office. The duties of the personnel must be performed under
+14 the supervision of the Child Advocate. If a vacancy occurs in the position of Child
+15 Advocate and until such time as a candidate has been appointed by the Governor and
+16 approved by the Legislature, the Associate Child Advocate shall serve as the acting Child
+17 Advocate and is entitled to the compensation and privileges of and exercises the powers of
+18 the Child Advocate.
+19 §26205. Access to personnel, files, records and facilities; confidentiality
+20 When necessary to fulfill its duties as described in this chapter, the office has access to
+21 files, records, personnel and facilities as described in this section.
+22 1. Access to Department of Health and Human Services and certain facilities and
+23 residential programs. Access by the office to the Department of Health and Human
+24 Services and facilities and residential programs serving children is governed by this
+25 subsection.
+26 A. The office has access, for which a fee may not be imposed, to files and records of
+27 the Department of Health and Human Services and to the personnel of the department
+28 for the purposes of an investigation of a complaint or for a case-specific review. The
+29 office may also enter the premises of the department for the purposes of investigation
+30 of a complaint or case-specific review without prior notice.
+31 B. The office may visit facilities and residential programs serving children.
+32 C. Information obtained by the office under this subsection is confidential. Disclosure
+33 may be made as allowed or required in accordance with the provisions of Title 22,
+34 section 4008, subsections 2 and 3. Unlawful dissemination is subject to the provisions
+35 of Title 22, section 4008, subsection 4.
+36 2. Access to Department of Corrections. Access by the office to the Department of
+37 Corrections is governed by this subsection.
+38 A. The Child Advocate has access, for which a fee may not be imposed, to information
+39 regarding juveniles, subject to the limitations specified in Title 34-A, section 1216,
+40 held by the Department of Corrections, except that juvenile intelligence and
+41 investigative record information remains subject to Title 15, section 3308-A and
+42 personnel records remain subject to section 7070. The Child Advocate may also enter
+43 the premises of the department for the purposes of investigation of an inquiry or
+Page 5 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+414 complaint without prior notice as long as such entry does not create a safety and
+425 security concern.
+3 B. Information obtained under this subsection is confidential. Disclosure may be made
+4 as allowed under Title 34-A, section 1216 and Title 15, section 3308-A. Unlawful
+5 dissemination is subject to the provisions of Title 34-A, section 1216, subsection 3.
+6 §26206. Confidentiality of records
+7 1. Confidentiality; disclosure. A record held by or created by the office is
+8 confidential and may be disclosed only as described in subsection 2 and section 26205.
+9 2. Disclosure of investigation findings. Notwithstanding any provision of law to the
+10 contrary, if the Child Advocate determines that the health, safety or welfare of a child is at
+11 risk, the office may disclose to the relevant entity only those details of investigation
+12 findings necessary to address the issue, subject to the following limitations.
+13 A. The name, address or other identifying information of an individual who is the
+14 subject of a confidential proceeding or that is subject to a statutory confidentiality
+15 provision may not be released by the relevant entity to the public.
+16 B. Unless agreed to by the Department of Health and Human Services, the Department
+17 of Corrections and the Office of the Attorney General, investigation findings may not
+18 be released by the relevant entity if there is a pending child protection action, a pending
+19 criminal investigation, a pending prosecution or a pending proceeding under the Maine
+20 Juvenile Code.
+21 3. Exception to archive laws. Notwithstanding section 95-C, subsection 1, paragraph
+22 C, any records held by or created by the Child Advocate must remain confidential until the
+23 relevant records have been in existence for 100 years.
+24 §26207. Notification of child death
+25 The Department of Health and Human Services shall notify the Child Advocate of a
+26 death of a child if:
+27 1. Child welfare involvement. The child was involved with child welfare services at
+28 any time; or
+29 2. Abuse or neglect. The fatality is suspected of being the result of abuse or neglect
+30 as defined in Title 22, section 4002, subsection 1.
+31 Notification under this section must occur within 48 hours of a determination by the
+32 department that this section applies to the child death. The notification may be provided
+33 by oral or electronic communication.
+34 §26208. Reporting and oversight
+35 1. Annual report. Beginning in 2028, the Child Advocate shall report annually by
+36 January 15th to the Governor, the joint standing committee of the Legislature having
+37 jurisdiction over health and human services matters, the joint standing committee of the
+38 Legislature having jurisdiction over juvenile justice matters and the advisory committee on
+39 the activities of the office. The report must include an account of complaints received,
+40 case-specific reviews conducted, systems-wide recommendations, information and referral
+41 services, outreach and advocacy and any obstacles to carrying out the requirements of the
+42 office. The report is a public record.
+Page 6 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+1 2. Oversight. The joint standing committee of the Legislature having jurisdiction over
+2 health and human services matters shall review the operations of the office and may make
+3 recommendations to the Governor regarding the operations and administration of the
+4 office. The joint standing committee may report out legislation related to the annual report
+5 under subsection 1.
+6 §26209. Advisory Committee to the Child Advocate
+7 1. Membership. The Advisory Committee to the Child Advocate, as established in
+8 section 12004-G, subsection 5-B, consists of the following members:
+9 A. A member of the Senate appointed by the President of the Senate;
+10 B. A member of the House of Representatives appointed by the Speaker of the House;
+11 C. Two members with lived experience with children's services administered by a state
+12 agency, including child protection, juvenile justice and developmental or educational
+13 services, as a child or family member, one of whom is appointed by the President of
+14 the Senate and one of whom is appointed by the Speaker of the House;
+15 D. One member with expertise in special education appointed by the President of the
+16 Senate;
+17 E. One member with expertise in mental health and substance use disorder treatment
+18 appointed by the Speaker of the House;
+19 F. One member with expertise in juvenile justice systems and restorative justice
+20 appointed by the President of the Senate;
+21 G. One member with policy expertise in children's behavioral health services or child
+22 welfare appointed by the Speaker of the House;
+23 H. One member representing the Maine Chapter of the American Academy of
+24 Pediatrics or a successor organization appointed by the Governor;
+25 I. One member with expertise in standards that apply in juvenile correctional facilities
+26 appointed by the Governor; and
+27 J. A member of the public appointed by the Governor.
+28 The advisory committee members shall elect a chair at the beginning of each calendar year.
+29 The chair may be reelected by the advisory committee.
+30 2. Designees. A member of the advisory committee may appoint a designee to
+31 represent the member on the advisory committee. A designee, once appointed, qualifies as
+32 a full voting member of the advisory committee with all the rights and privileges of full
+33 membership on the advisory committee.
+34 3. Terms of members. Legislative members of the advisory committee serve a term
+35 coterminous with their term in office. All other members serve 3-year terms. Members
+36 may be reappointed. Any vacancy on the advisory committee must be filled in the same
+37 manner as the original appointment, but for the unexpired term.
+38 4. Duties. The advisory committee shall:
+39 A. Recommend at least 3 qualified candidates to the Governor, ranked in order by
+40 qualifications, for appointment to the position of Child Advocate, except that, at the
+41 conclusion of the Child Advocate's 5-year term and upon receipt of a request from the
+Page 7 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+412 Child Advocate to be considered for reappointment, the advisory committee shall
+423 determine whether to recommend reappointment;
+3 B. Evaluate the Child Advocate's performance as determined necessary based on
+4 feedback received related to the Child Advocate;
+5 C. Annually recommend whether the Child Advocate should receive a cost-of-living
+6 increase, salary increase or both in accordance with performance evaluations and
+7 request that the Governor include the necessary appropriation in the next biennial or
+8 supplemental budget;
+9 D. Advise the Child Advocate on the strategic direction of the office and its mission
+10 and help promote the use of, engagement in and access to the office;
+11 E. Work cooperatively with the Child Advocate to provide fiscal oversight of the
+12 general operating budget of the office and ensure that the office operates in compliance
+13 with the provisions of this chapter and state and federal laws relating to children's
+14 services; and
+15 F. Provide consultation to the office in its effort to promote an effective,
+16 comprehensive and coordinated system of services and programs for children and
+17 families.
+18 5. Quorum; meetings. Six members of the advisory committee constitute a quorum
+19 for a meeting. The advisory committee may meet as often as necessary but no less than 3
+20 times a year.
+21 §26210. Rules
+22 The office shall adopt rules to carry out this chapter. The rules must include, but are
+23 not limited to, procedures and processes related to the complaint system, case-specific
+24 reviews and coordination with other entities with overlapping jurisdiction and during co-
+25 occurring investigations or reviews, including state agencies; child advocacy centers
+26 established pursuant to Title 22, section 4019; the child death and serious injury review
+27 panel established pursuant to Title 22, section 4004, subsection 1, paragraph E; and
+28 criminal justice agencies as defined in Title 16, section 803, subsection 4 with
+29 responsibility for juvenile justice records collected pursuant to Title 15, sections 3308-A
+30 and 3308-B. Rules adopted pursuant to this section are routine technical rules as defined
+31 in chapter 375, subchapter 2-A.
+32 Sec. 4. 18-C MRSA §5-127, sub-§4, as enacted by PL 2017, c. 402, Pt. A, §2 and
+33 affected by PL 2019, c. 417, Pt. B, §14, is amended by amending the first blocked paragraph
+34 to read:
+35 The organization shall maintain records on the training and background checks of agents,
+36 including the content and dates of training and full transcripts of background checks, for a
+37 period of not less than 5 years after the minor attains 18 years of age. The organization
+38 shall make the records available to a parent or guardian executing a power of attorney under
+39 this section and to the ombudsman Office of the Child Advocate under Title 22 5, section
+40 4087‑A chapter 641 and any local, state or federal authority conducting an investigation
+41 involving the agent, the parent or guardian or the minor.
+42 Sec. 5. 22 MRSA §4004, sub-§1, ¶E, as amended by PL 2023, c. 261, §1, is further
+43 amended to read:
+Page 8 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+1 E. Establishing a child death and serious injury review panel for reviewing deaths and
+2 serious injuries to children. The panel consists of the following members: the Chief
+3 Medical Examiner, a pediatrician, a public health nurse, forensic and community
+4 mental health clinicians, law enforcement officers, departmental child welfare staff,
+5 district attorneys, criminal or civil assistant attorneys general and the ombudsman
+6 pursuant to section 4087‑A Child Advocate or a designee of the ombudsman Child
+7 Advocate.
+8 The purpose of the panel is to recommend to state and local agencies methods of
+9 improving the child protection system, including modifications of statutes, rules,
+10 policies and procedures. Beginning January 1, 2023 and every 2 years thereafter, the
+11 department shall submit a report to the joint standing committee of the Legislature
+12 having jurisdiction over health and human services matters.
+13 The panel shall submit a report to the joint standing committee of the Legislature
+14 having jurisdiction over health and human services matters at least every 3 months.
+15 The panel may submit a combined report with the child welfare advisory panel
+16 established in section 4010‑D or any judicial branch task force or panel with a focus
+17 on the child welfare system or child protective proceedings. Any presentation of the
+18 report to the committee must be presented by the citizen members of the panels to the
+19 extent possible. Each quarterly report must contain, at a minimum, the following:
+20 (1) A summary of generalized and anonymized observations in the prior 3-month
+21 period regarding efforts by the Office of Child and Family Services to improve the
+22 child welfare system;
+23 (2) A summary of the collaboration between the child welfare advisory panel and
+24 the child death and serious injury review panel as well as any judicial branch task
+25 force or panel with a focus on the child welfare system or child protective
+26 proceedings; and
+27 (3) Any recommendations on how to further protect the State's children through
+28 department policy and rulemaking and through legislation;
+29 Sec. 6. 22 MRSA c. 1071, sub-c. 10-A, as amended, is repealed.
+30 Sec. 7. Funds transferred. Notwithstanding the Maine Revised Statutes, Title 5,
+31 sections 1585 and 1586, all accrued expenditures, assets, liabilities, balances or allocations,
+32 transfers, revenues or other available funds in any account or subdivision of an account of
+33 the Department of Health and Human Services or the Executive Department and authorized
+34 for use by the child welfare services ombudsman program under Title 22, section 4087-A
+35 must be reallocated to the Department of Administrative and Financial Services, Office of
+36 the Child Advocate under Title 5, chapter 641 on October 1, 2026.
+37 Sec. 8. Personnel transfer. As of October 1, 2026, 3 personnel from the child
+38 welfare services ombudsman program employed under the contract on the effective date of
+39 this Act are transferred to the Office of the Child Advocate at their existing budgeted
+40 compensation until such time as the Legislature has confirmed the Child Advocate. As
+41 authorized by the Maine Revised Statutes, Title 5, section 26204, subsection 6, the Child
+42 Advocate confirmed by the Legislature shall hire an Associate Child Advocate and any
+43 staff necessary for the efficient management of the Office of the Child Advocate. The
+44 Child Advocate may hire any of the staff transferred to the office during the interim period.
+Page 9 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+415 All personnel employed by the Office of the Child Advocate are state employees with all
+426 the rights and privileges of state employees.
+3 Sec. 9. Interim Child Advocate. The Governor shall appoint an interim Child
+4 Advocate no later than October 1, 2026 to serve until a Child Advocate is appointed
+5 according to the Maine Revised Statutes, Title 5, chapter 641, giving preference to the child
+6 welfare services ombudsman contracted under Title 22, section 4087-A. The Governor
+7 shall appoint a Child Advocate no later than July 15, 2027.
+8 Sec. 10. Implementation resource needs assessment. Prior to the Governor's
+9 appointment of the Child Advocate, the interim Child Advocate shall prepare an in-depth
+10 report of resource needs, including but not limited to staffing, equipment, travel,
+11 consultancies, access to records and any other requirements for implementing the
+12 requirements of the Maine Revised Statutes, Title 5, chapter 641. The report must be
+13 submitted to the joint standing committee of the Legislature having jurisdiction over health
+14 and human services matters no later than February 15, 2027. The joint standing committee
+15 may report out legislation to the 133rd Legislature in 2027 to make any necessary
+16 adjustments to the Office of the Child Advocate related to the report.
+17 Sec. 11. Appointments to Advisory Committee to the Child Advocate.
+18 Appointments to the Advisory Committee to the Child Advocate, as established in the
+19 Maine Revised Statutes, Title 5, section 26209, must be made by the relevant appointing
+20 authorities no later than March 15, 2027. Notwithstanding Title 5, section 26209,
+21 subsection 3, the members initially appointed pursuant to Title 5, section 26209, subsection
+22 1, paragraphs D, E and J serve for a one-year term and the members initially appointed
+23 pursuant to Title 5, section 26209, subsection 1, paragraphs C and H serve for a 2-year
+24 term.
+25 Sec. 12. Appropriations and allocations. The following appropriations and
+26 allocations are made.
+27 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+28 Office of the Child Advocate N580
+29 Initiative: Establishes one Public Service Coordinator II position and 2 Public Service
+30 Coordinator I positions in the Office of the Child Advocate, beginning October 1, 2026.
+31 GENERAL FUND 2025-26 2026-27
+32 POSITIONS - LEGISLATIVE COUNT 0.000 3.000
+33 Personal Services $0 $324,220
+34 All Other $0 $16,326
+35 __________ __________
+36 GENERAL FUND TOTAL $0 $340,546
+3371 Office of the Child Advocate N580
+38 Initiative: Provides one-time funding for office needs, staffing needs, contracting services
+39 and training during the transition into the Office of the Child Advocate.
+40 GENERAL FUND 2025-26 2026-27
+41 All Other $0 $100,000
+42 __________ __________
+43 GENERAL FUND TOTAL $0 $100,000
+Page 10 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+11 Office of the Child Advocate N580
+2 Initiative: Establishes one Public Service Coordinator I position and one Office Associate
+3 II position, beginning April 1, 2027.
+4 GENERAL FUND 2025-26 2026-27
+5 POSITIONS - LEGISLATIVE COUNT 0.000 2.000
+6 Personal Services $0 $55,204
+7 All Other $0 $3,628
+8 __________ __________
+9 GENERAL FUND TOTAL $0 $58,832
+104
+11 ADMINISTRATIVE AND FINANCIAL
+12 SERVICES, DEPARTMENT OF
+13 DEPARTMENT TOTALS 2025-26 2026-27
+14
+15 GENERAL FUND $0 $499,378
+16 __________ __________
+17 DEPARTMENT TOTAL - ALL FUNDS $0 $499,378
+1181 EXECUTIVE DEPARTMENT
+19 Ombudsman Program 0103
+20 Initiative: Deappropriates and deallocates funding from the contract for the child welfare
+21 ombudsman program to be transferred over to the new Office of the Child Advocate,
+22 effective October 1, 2026.
+23 GENERAL FUND 2025-26 2026-27
+24 All Other $0 ($241,539)
+25 __________ __________
+26 GENERAL FUND TOTAL $0 ($241,539)
+2273
+28 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+29 All Other $0 ($37,150)
+30 __________ __________
+31 FEDERAL EXPENDITURES FUND TOTAL $0 ($37,150)
+3228
+33 EXECUTIVE DEPARTMENT
+34 DEPARTMENT TOTALS 2025-26 2026-27
+35
+36 GENERAL FUND $0 ($241,539)
+37 FEDERAL EXPENDITURES FUND $0 ($37,150)
+38 __________ __________
+39 DEPARTMENT TOTAL - ALL FUNDS $0 ($278,689)
+4303 LEGISLATURE
+41 Legislature 0081
+Page 11 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+1 Initiative: Appropriates funds for the costs of Legislators participating on the Advisory
+2 Committee to the Child Advocate.
+3 GENERAL FUND 2025-26 2026-27
+4 Personal Services $0 $330
+5 All Other $0 $720
+6 __________ __________
+7 GENERAL FUND TOTAL $0 $1,050
+83
+9 LEGISLATURE
+10 DEPARTMENT TOTALS 2025-26 2026-27
+11
+12 GENERAL FUND $0 $1,050
+13 __________ __________
+14 DEPARTMENT TOTAL - ALL FUNDS $0 $1,050
+159
+16 SECTION TOTALS 2025-26 2026-27
+17
+18 GENERAL FUND $0 $258,889
+19 FEDERAL EXPENDITURES FUND $0 ($37,150)
+20 __________ __________
+21 SECTION TOTAL - ALL FUNDS $0 $221,739
+2126 Sec. 13. Effective date. This Act takes effect October 1, 2026.'
+23 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+24 number to read consecutively.
+25 SUMMARY
+2266 This amendment replaces the bill. It eliminates the child welfare services ombudsman
+2277 program and replaces it with the Office of the Child Advocate. The ombudsman program
+2288 was established as a contract with a 5-year term. The Office of the Child Advocate is
+2299 established as an independent office within the Department of Administrative and Financial
+3300 Services for administrative purposes only. The Child Advocate is appointed for a 5-year
+3311 term that may be renewed. The Child Advocate must have a professional graduate degree
+3322 in law, health care, public health, social work or a related field. The Child Advocate must
+3333 also have knowledge of safety science and juvenile correctional practices or be willing to
+3344 undergo training. The Child Advocate is required to hire an Associate Child Advocate,
+3355 who must be similarly qualified.
+36 The Office of the Child Advocate is established to provide independent oversight of
+37 state agencies and promote the best interests of children and ensure that children receive
+38 timely, safe and effective services in accordance with state and federal law.
+39 The office is required to review complaints and determine if it is necessary to
+40 investigate the actions of a state agency and make recommendations to address concerns,
+41 identify whether the issue is systemic and make recommendations on specific complaints.
+42 The office may complete case-specific reviews on the receipt of complaints or on the
+Page 12 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+413 office's own initiative. In a child welfare case, if there is a pending active criminal
+424 investigation or prosecution in state or federal court, the office may consult with the
+435 Attorney General before proceeding with the review. If the review requires the office to
+446 interview a child receiving services from the Department of Health and Human Services,
+457 the office must consult with the Attorney General. If the review requires the office to
+468 interview a child receiving services from the Department of Corrections, the prosecuting
+479 attorney, the defense attorney for the child and the Attorney General must all agree to the
+580 interview, including any specific terms of the interview, in order for an interview to take
+591 place.
+10 The office may complete systems-wide or periodic review of policies, programs, rules,
+11 procedures or services offered to children and offer recommendations to address systemic
+12 concerns.
+13 The office is required to provide information and referral assistance to families and the
+14 public and assist them in navigating and accessing services although this does not constitute
+15 legal representation. The office is also required to perform educational outreach and
+16 advocacy.
+17 The office has access to files and records from the Department of Health and Human
+18 Services and to the premises of the department. The office may also visit facilities and
+19 residential programs serving children. The office has access to juvenile information held
+20 by the Department of Corrections except for juvenile intelligence and investigative record
+21 information and personnel records. The office may enter the premises of the department
+22 as long as the entry does not create a safety and security concern. Information obtained,
+23 held or created by the office is confidential and may be disclosed only under certain
+24 circumstances.
+25 The amendment creates the Advisory Committee to the Child Advocate, which is an
+26 11-member committee with members who serve 3-year terms, except for Legislators on the
+27 committee, whose terms are coterminous with their term in office. Members may be
+28 reappointed. The duties of the advisory committee include: recommending at least 3
+29 qualified candidates for the Child Advocate position to the Governor as well as determining
+30 whether to recommend reappointment of the Child Advocate; evaluating the Child
+31 Advocate's performance; recommending cost-of-living or salary increases for the Child
+32 Advocate and requesting the Governor to include any salary increase in the next budget;
+33 advising on the strategic direction of the office; working collaboratively with the Child
+34 Advocate to provide fiscal oversight and compliance with federal and state laws; and
+35 providing consultation to the office in its efforts to promote an effective, comprehensive
+36 and coordinated system of services and programs. Appointments to the advisory committee
+37 must be complete by March 15, 2027. The first terms of the members are staggered. The
+38 advisory committee must be in place to make recommendations of candidates to the
+39 Governor for the first Child Advocate.
+40 The Child Advocate is required to report annually to the Governor, the joint standing
+41 committees of the Legislature having jurisdiction over health and human services matters
+42 and juvenile justice matters and the Advisory Committee to the Child Advocate. The joint
+43 standing committee of the Legislature having jurisdiction over health and human services
+44 matters has oversight over the operations of the office and may make recommendations to
+45 the Governor and report out legislation.
+Page 13 - 132LR0112(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1264, L.D. 1893
+1 The office has routine technical rule-making authority. Rules must include procedures
+2 related to the complaint system, case-specific reviews and coordination with other entities
+3 with overlapping jurisdiction and during co-occurring investigations.
+4 The amendment transfers the funding and the positions from the current ombudsman
+5 contract to the Office of the Child Advocate as of October 1, 2026. The appointment of
+6 the first Child Advocate must be made by July 15, 2027. The new Child Advocate may
+7 hire staff as necessary, which may include the staff that were transferred. Beginning April
+8 1, 2027, funding is available for 2 additional staff, one of which is professional child
+9 advocate staff and one of which is administrative staff. It also requires an additional
+10 $100,000 for staffing, office expenses, training and contractual services. The Governor is
+11 required to appoint an interim Child Advocate by October 1, 2026, giving preference to the
+12 current ombudsman. The interim Child Advocate is required to prepare an in-depth report
+13 of resource needs, including staffing, equipment, travel and consultancies, to implement
+14 the new office. The report must be submitted by February 15, 2027 to the joint standing
+15 committee of the Legislature having jurisdiction over health and human services matters.
+16 The joint standing committee may report out legislation to make any necessary adjustments
+17 to the office.
+1188 FISCAL NOTE REQUIRED
+1199 (See attached)
+Page 14 - 132LR0112(02)
+COMMITTEE AMENDMENT

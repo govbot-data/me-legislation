@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-1064)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1223
+2 Date: (Filing No. H- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 798, L.D. 1223, “An Act to Lower
+10 Electric Rates for Maine Ratepayers by Requiring the Payment of Certain Costs from the
+11 General Fund”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Establish an Income Tax Credit for Net Energy Billing Costs'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 36 MRSA §5219-CCC is enacted to read:
+17 §5219-CCC. Net energy billing customer cost tax credit
+18 1. Definitions. As used in this section, unless the context otherwise indicates, the
+19 following terms have the following meanings.
+20 A. "Commercial and institutional program costs" means:
+21 (1) The dollar amount of bill credits paid to a customer based on the tariff rates
+22 established under Title 35-A, section 3209-B, subsection 5; and
+23 (2) Costs incurred by a transmission and distribution utility in connection with the
+24 Public Utilities Commission's administration of the commercial and institutional
+25 net energy billing program established in Title 35-A, section 3209-B.
+26 B. "Investor‑owned transmission and distribution utility" has the same meaning as in
+27 Title 35-A, section 3104, subsection 1, paragraph A.
+28 C. "Kilowatt-hour credit program costs" means:
+29 (1) Transmission and distribution costs that would otherwise be paid by a customer
+30 through the volumetric charge on the customer's electricity bill that are not received
+31 by a transmission and distribution utility due to application of net energy billing
+32 kilowatt-hour credits to the customer's electricity bill; and
+Page 1 - 132LR1905(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 798, L.D. 1223
+1 (2) Costs incurred by a transmission and distribution utility for the administration
+2 of net energy billing arrangements.
+3 For the purposes of this paragraph, "net energy billing" has the same meaning as in
+4 Title 35-A, section 3209-A, subsection 1, paragraph C.
+5 D. "Monetized benefits" means a monetized net financial benefit determined by the
+6 Public Utilities Commission pursuant to Title 35-A, section 3209-C, subsection 2 and
+7 the revenue received by a transmission and distribution utility that is generated in
+8 connection with the commercial and institutional net energy billing program
+9 established in Title 35-A, section 3209-B by the sale of:
+10 (1) Electricity produced by a distributed generation resource participating in the
+11 program; and
+12 (2) Capacity rights associated with a distributed generation resource participating
+13 in the program.
+14 E. "Net energy billing customer costs" means the amount paid by a residential
+15 customer or small commercial customer that represents kilowatt-hour credit program
+16 costs and commercial and institutional program costs reduced by monetized benefits.
+17 F. "Residential customer" has the same meaning as in Title 35-A, section 3106,
+18 subsection 1, paragraph C.
+19 G. "Small commercial customer" has the same meaning as in Title 35-A, section 3106,
+20 subsection 1, paragraph D.
+21 H. "Transmission and distribution utility" has the same meaning as in Title 35-A,
+22 section 102, subsection 20-B.
+23 2. Net energy billing customer costs; disclosure. Starting February 1, 2027, an
+24 investor-owned transmission and distribution utility shall include on monthly electricity
+25 bills for its residential customers and small commercial customers the dollar amount or
+26 charge per kilowatt-hour of net energy billing customer costs for the prior month applicable
+27 to the type of customer receiving the bill. Each electricity bill must include a statement
+28 that the dollar amount or charge per kilowatt-hour represents the costs paid by the customer
+29 in the prior month for net energy billing programs, that the customer may be eligible for an
+30 income tax credit in the amount of those costs paid by the customer during the calendar
+31 year and that the information provided in the electricity bill may be used to calculate the
+32 credit under this section.
+33 3. Credit; net energy billing customer costs. For tax years beginning on or after
+34 January 1, 2027, a resident individual or domestic business entity that has paid net energy
+35 billing customer costs is allowed a credit against taxes imposed under this Part in an amount
+36 equal to the net energy billing customer costs paid by the resident individual or domestic
+37 business entity for the same taxable year, subject to the limitations under subsection 5.
+38 4. Refundability of credit. The tax credit allowed under this section is refundable.
+39 5. Limitations. The following are not eligible for the credit under this section:
+40 A. An individual or business entity participating in a net energy billing arrangement
+41 pursuant to Title 35-A, section 3209-A or 3209-B;
+42 B. An individual who does not qualify as a resident individual; or
+Page 2 - 132LR1905(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 798, L.D. 1223
+1 C. A business entity whose internal affairs are not governed by the laws of this State.
+2 '
+3 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+4 number to read consecutively.
+5 SUMMARY
+66 This amendment replaces the bill and changes the title. The amendment establishes,
+77 for tax years beginning on or after January 1, 2027, an income tax credit for costs paid by
+88 certain individuals and businesses associated with net energy billing arrangements. The
+99 credit, which is refundable, equals the amount paid by the individual or business for net
+1100 energy billing costs for the taxable year that have been paid by ratepayers. An individual
+1111 or business participating in a net energy billing arrangement pursuant to the Maine Revised
+1122 Statutes, Title 35-A, section 3209-A or 3209-B is not eligible for the credit.
+1133 FISCAL NOTE REQUIRED
+1144 (See attached)
+Page 3 - 132LR1905(02)
+COMMITTEE AMENDMENT

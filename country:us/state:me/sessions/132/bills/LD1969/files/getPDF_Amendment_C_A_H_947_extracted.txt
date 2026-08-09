@@ -1,0 +1,236 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-947)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1969
+2 Date: (Filing No. H- )
+3 STATE AND LOCAL GOVERNMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1313, L.D. 1969, “An Act to Amend the
+10 Maine Revised Unclaimed Property Act”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Amend the Maine Revised Unclaimed Property Act and Clarify the
+13 Definition of "Virtual Currency"'
+14 Amend the bill by inserting before section 1 the following:
+15 'Sec. 1. 33 MRSA §2052, sub-§23-A is enacted to read:
+16 23-A. Private key. "Private key" means a unique element of cryptographic data used
+17 for signing transactions on a blockchain, as defined in Title 32, section 6164, subsection 1,
+18 that is known to the owner of the element.'
+19 Amend the bill in section 2 in subsection 32-A in the 3rd line (page 1, line 9 in L.D.)
+20 by striking out the following: "of the United States" and inserting the following: ',
+21 regardless of whether or not it is denominated in legal tender'
+22 Amend the bill in section 2 in subsection 32-A by striking out all of paragraph A (page
+23 1, line 10 in L.D.) and inserting the following:
+24 'A. A loyalty card, including a transaction in which a merchant grants as part of an
+25 affinity or rewards program value that cannot be taken from or exchanged with the
+26 merchant for legal tender, bank or credit union credit or a digital financial asset; or'
+27 Amend the bill in section 2 in subsection 32-A in paragraph B in the first line (page 1,
+28 line 11 in L.D.) by striking out the following: "; or" and inserting the following: 'consisting
+29 of a digital representation of value issued by or on behalf of a publisher and used solely
+30 within an online game, gaming platform or family of games sold by the publisher or offered
+31 on the same gaming platform.'
+32 Amend the bill in section 2 in subsection 32-A by striking out all of paragraph C (page
+33 1, line 12 in L.D.).
+Page 1 - 132LR0562(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1313, L.D. 1969
+1 Amend the bill in section 5 in subsection 14-A in the 2nd line (page 1, line 29 in L.D.)
+2 by striking out the following: "as soon as administratively feasible" and inserting the
+3 following: 'one year'
+4 Amend the bill in section 6 in §2062 in the first line (page 1, line 32 in L.D.) by striking
+5 out the following: "tax-advantaged" and inserting the following: 'tax-exempt'
+6 Amend the bill in section 6 in §2062 in subsection 1 in the 2nd line (page 1, line 35 in
+7 L.D.) by striking out the following: "tax advantage" and inserting the following: 'in a
+8 retirement account that is tax-exempt'
+9 Amend the bill in section 6 in §2062 in subsection 1 in the last 4 lines (page 1, lines 37
+10 to 40 in L.D.) by striking out the following: "later of: date a distribution is required under
+11 the United States Internal Revenue Code of 1986 in order to avoid a tax penalty, including
+12 a distribution required due to the death of the apparent owner, or in the case of a tax-
+13 advantaged retirement account, 3 years after the death of the apparent owner." and inserting
+14 the following: 'later of:'
+15 Amend the bill in section 6 in §2062 in subsection 1 by striking out all of paragraph A
+16 (page 2, lines 1 to 7 in L.D.) and inserting the following:
+17 'A. The later of the following dates:
+18 (1) Except as in subparagraph (2), the date a communication sent by the holder by
+19 first class United States mail to the apparent owner is returned to the holder as
+20 undeliverable by the United States Postal Service; and
+21 (2) If the returned communication is resent within 30 days, the date the resent
+22 communication was returned as undeliverable by the United States Postal Service;
+23 and'
+24 Amend the bill in section 6 in §2062 in subsection 1 in paragraph B in the first line
+25 (page 2, line 8 in L.D.) by striking out the following: "B. The" and inserting the following:
+26 'B. The'
+27 Amend the bill in section 6 in §2062 in subsection 1 in paragraph B in the first line
+28 (page 2, line 8 in L.D.) by inserting after the following: "dates:" the following: 'date a
+29 distribution is required under the United States Internal Revenue Code of 1986 in order to
+30 avoid a tax penalty, including situations in which the apparent owner is deceased.'
+31 Amend the bill in section 8 in subsection 1 in the 7th line (page 2, line 41 in L.D.) by
+32 inserting after the following: "opened" the following: 'in accordance with the provisions of
+33 section 2068 for securities and section 2061, subsection 5 for a payroll card or demand,
+34 savings or time deposit'
+35 Amend the bill by striking out all of sections 11 and 12 and inserting the following:
+36 'Sec. 11. 33 MRSA §2066, sub-§1, ¶A, as enacted by PL 2019, c. 498, §22, is
+37 amended to read:
+38 A. December 31st June 30th of the year in which the obligation is issued or additional
+39 funds are deposited into it;
+40 Sec. 12. 33 MRSA §2067-A is enacted to read:
+41 §2067-A. When virtual currency presumed abandoned; liquidation by holder
+Page 2 - 132LR0562(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1313, L.D. 1969
+1 1. Presumed abandoned after 5 years. Subject to subsection 2, virtual currency is
+2 presumed abandoned 5 years after the last indication of interest by the apparent owner. If
+3 communication is sent by first class United States mail during the regular course of
+4 business, the virtual currency is presumed abandoned 5 years after the date that a
+5 communication sent by the holder by first class United States mail to the apparent owner
+6 is returned to the holder as undeliverable by the United States Postal Service.
+7 2. Remitting virtual currency. If a holder of virtual currency has private keys,
+8 credentials or other information necessary to effectuate a transfer of virtual currency that
+9 is presumed abandoned, the holder shall report in a record to the administrator in
+10 accordance with section 2091 and shall deliver the virtual currency within 30 days before
+11 filing the report in native form to the custody of the administrator in accordance with any
+12 directions from the administrator.
+13 3. Holder unable to transfer virtual currency. If a holder does not have sufficient
+14 information to effectuate a transfer of the virtual currency, the holder shall maintain
+15 possession of the virtual currency until the holder acquires the information necessary to
+16 effectuate a transfer.
+17 4. Determination of value; exempt from reporting or liquidation. The
+18 administrator may decline to accept virtual currency that is presumed abandoned if the
+19 administrator, in the administrator's discretion, determines that the virtual currency is not
+20 freely transferable, is of nominal value or has value that is less than the estimated expenses
+21 of maintenance, notice or sale of the property. The administrator may also prescribe by rule
+22 classes or types of virtual currency exempt from reporting or liquidation.
+23 5. Liquidation of unclaimed virtual currency; transfer to state-owned account.
+24 The administrator, at the administrator's discretion, may direct a holder of unclaimed virtual
+25 currency to liquidate the virtual currency. The liquidation must occur within 30 days prior
+26 to the filing of a report under section 2091. The holder may transfer virtual currency to a
+27 state-owned account held by the holder before liquidation.
+28 6. Liquidation not possible. If a holder of unclaimed virtual currency reasonably
+29 believes that the holder cannot liquidate the virtual currency and cannot otherwise cause
+30 the virtual currency to be liquidated, the holder shall promptly notify the administrator in
+31 writing and explain the reasons why the virtual currency cannot be liquidated as otherwise
+32 required under subsection 5. The administrator shall then direct the holder concerning an
+33 alternate disposition of the virtual currency.
+34 7. Administrator, State and holder held harmless. An apparent owner does not have
+35 recourse against the administrator, the State or a holder of unclaimed virtual currency to
+36 recover any gain in value that occurs after the liquidation of the virtual currency under
+37 subsection 5 or pursuant to section 2132, subsection 3. Consistent with section 2114,
+38 subsection 2, the administrator shall defend and indemnify a holder against liability on any
+39 such claim, as long as the holder has acted in good faith and substantially complied with
+40 sections 2101 and 2102.'
+41 Amend the bill in section 15 in §2071 in the first indented paragraph in the last 3 lines
+42 (page 4, lines 29 to 31 in L.D.) by striking out the following: "in accordance with section
+43 2061, subsection 7, or 3 years after the beneficiary's last indication of interest in the
+44 account, whichever is later" and inserting the following: '3 years after the beneficiary's last
+45 indication of interest in the account'
+Page 3 - 132LR0562(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1313, L.D. 1969
+1 Amend the bill by inserting after section 16 the following:
+2 'Sec. 17. 33 MRSA §2093, sub-§2, as enacted by PL 2019, c. 498, §22, is amended
+3 to read:
+4 2. May 1st. Subject to subsection 3, a report under section 2091 containing
+5 information about life insurance policies, gift obligations and stored-value obligations must
+6 be filed before May 1st of each year for the immediately preceding calendar year.'
+7 Amend the bill in section 18 in paragraph D in the last 3 lines (page 5, lines 11 to 13
+8 in L.D.) by striking out the following: "sold by the administrator and, with respect to virtual
+9 currency presumed abandoned under section 2067-A, state that the property may be sold
+10 by the holder prior to its reporting" and inserting the following: 'sold by the administrator
+11 subject to liquidation if the apparent owner does not respond to the notice'
+12 Amend the bill in section 23 in §2121 in the first indented paragraph in the first line
+13 (page 5, line 32 in L.D.) by striking out the following: "and stored-value obligations"
+14 Amend the bill by inserting after section 23 the following:
+15 'Sec. 24. 33 MRSA §2132, as enacted by PL 2019, c. 498, §22, is amended to read:
+16 §2132. Disposal of securities or virtual currency
+17 1. Sell or liquidate security securities or virtual currency after one year. Except
+18 as provided in section 2155, subsection 1, or unless in the discretion of the administrator it
+19 is determined to be in the best interest of the State otherwise, the administrator may not sell
+20 or otherwise liquidate a security or virtual currency until one year after the administrator
+21 receives the security or virtual currency is placed in the administrator's custody.
+22 2. Price of security or virtual currency. The administrator may not sell a security
+23 or virtual currency listed on an established stock exchange for less than the price prevailing
+24 on the exchange at the time of sale. The administrator may sell a security or virtual
+25 currency not listed on an established exchange by any commercially reasonable method.
+26 3. Claim after securities or virtual currency sold. A person making a claim under
+27 this Act after a security or virtual currency has been sold is entitled only to the net proceeds
+28 received from the sale.
+29 Sec. 25. 33 MRSA §2133, as enacted by PL 2019, c. 498, §22, is amended to read:
+30 §2133. Recovery of securities, virtual currency or value by owner
+31 1. Claim for securities or virtual currency sold before one year after delivery. If
+32 securities or virtual currency are sold by the administrator before the expiration of one year
+33 after their delivery of the securities or virtual currency to the administrator, a person making
+34 a claim under this Act before the end of the one-year period is entitled to the proceeds of
+35 the sale of the securities or virtual currency or the market value of the securities or virtual
+36 currency at the time the claim is made, whichever is greater, plus dividends, interest and
+37 other increments thereon up to the time the claim is made, less any deduction for expenses
+38 of sale. A person making a claim under this Act after the expiration of the one-year period
+39 is entitled to receive the securities or virtual currency delivered to the administrator by the
+40 holder, if the securities or virtual currency remain in the custody of the administrator, or
+41 the net proceeds received from sale and is not entitled to receive any appreciation in the
+Page 4 - 132LR0562(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1313, L.D. 1969
+412 value of the property occurring after delivery to the administrator, except in a case of
+423 intentional misconduct or malfeasance by the administrator.
+3 2. Claim for securities of a single issue. Notwithstanding this section, the
+4 administrator may sell the securities of any single issue for which custodial costs are likely
+5 to exceed value 90 days or more after the securities have been published pursuant to section
+6 2103. A person making a claim under this Act after the securities have been sold is entitled
+7 only to the net proceeds received from the sale.'
+8 Amend the bill by inserting after section 27 the following:
+9 'Sec. 28. 33 MRSA §2166, as enacted by PL 2019, c. 498, §22, is amended to read:
+10 §2166. Failure of person examined to retain records
+11 If a person subject to examination under section 2162 does not retain the records as
+12 required by section 2094, the administrator may determine the value of property due using
+13 a reasonable method of estimation based on all information available to the administrator,
+14 including extrapolation and use of statistical sampling when appropriate and necessary,
+15 consistent with examination procedures and standards adopted under and in accordance
+16 with section 2163. A payment made based on estimation under this section does not relieve
+17 a person from the obligation to retain records as required by section 2094.'
+18 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+19 number to read consecutively.
+20 SUMMARY
+2211 This amendment amends the bill in the following ways.
+22 1. It defines "private key" as it relates to signing transactions on a blockchain.
+23 2. It clarifies when funds from a terminated retirement plan are presumed to be
+24 abandoned.
+25 3. It establishes new provisions for the presumption of abandonment process for tax-
+26 exempt rather than tax-advantaged retirement accounts and other tax-deferred accounts.
+27 4. It clarifies the presumption of abandonment for custodial accounts for minors to not
+28 be remitted to the administrator until the owner is no longer a minor.
+29 5. It adds a new provision that changes the date for when a stored-value obligation is
+30 presumed abandoned.
+31 6. It clarifies the establishment of virtual currency as a property type and provisions
+32 regarding presumed abandonment and liquidation and amends the definition of "virtual
+33 currency."
+34 7. It retains provisions under current law governing when a security is presumed
+35 abandoned.
+36 8. It specifies how long proceeds must be retained by an insurance company or a
+37 financial organization with which accounts for the proceeds of an insurance policy or
+38 annuity are deposited.
+39 9. It removes provisions of law in which the terms "gift obligations" and "stored-value
+40 obligations" are no longer applicable.
+Page 5 - 132LR0562(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1313, L.D. 1969
+1 10. It adds a provision clarifying that a payment made based on estimation when a
+2 person is subject to examination and does not retain records as required by law does not
+3 relieve a person from an obligation to report and deliver property to the state in which the
+4 holder is domiciled.
+55 FISCAL NOTE REQUIRED
+66 (See attached)
+Page 6 - 132LR0562(02)
+COMMITTEE AMENDMENT

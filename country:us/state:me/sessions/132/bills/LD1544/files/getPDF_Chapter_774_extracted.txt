@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 774
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 774
+APRIL 26, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 628 - L.D. 1544
+An Act to Support Families by Improving the Court Process for Child
+Protection Cases
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA §4002, sub-§1-B, ¶C, as enacted by PL 1997, c. 715, Pt. B, §1,
+is repealed.
+Sec. 2. 22 MRSA §4034, sub-§1, as amended by PL 2015, c. 501, §9, is repealed
+and the following enacted in its place:
+1. Request. A petitioner may add to a child protection petition a request for a
+preliminary protection order or may request a preliminary protection order separately from
+the child protection petition. A request for a preliminary protection order must be sworn
+and must include at least the following:
+A. A summary of facts to support the request;
+B. A detailed summary of how the department weighed the trauma to the child of
+removal from the child's home against the alleged immediate risk of serious harm to
+the child and the specific factors the department considered; and
+C. The specific services offered and provided under section 4036‑B, subsection 3 to
+prevent the removal of the child from the child's home.
+Sec. 3. 22 MRSA §4034, sub-§2, as amended by PL 2001, c. 696, §25, is further
+amended to read:
+2. Order. If the court finds by a preponderance of the evidence presented in the sworn
+summary or otherwise that there is an immediate risk of serious harm to the child, it may
+order any disposition under section 4036. In considering whether to grant a preliminary
+protection order, the court shall consider the trauma to the child of removal from the child's
+home and whether the department has exhausted the options to mitigate the immediate risk
+of serious harm to the child and avoid the removal of the child from the child's home. A
+preliminary protection order automatically expires at the time of the issuing of a final
+protection order under section 4035 or a judicial review order under section 4038.
+Page 1 - 132LR0671(05)
+
+Sec. 4. 22 MRSA §4034, sub-§4, as amended by PL 2015, c. 501, §10, is further
+amended to read:
+4. Summary preliminary hearing. The court shall schedule a summary preliminary
+hearing on a preliminary protection order within 14 days but not less than 7 days after
+issuance of the preliminary protection order, except that counsel for a parent may request
+that the hearing take place sooner. Upon request of counsel, the court may conduct the
+summary preliminary hearing as expeditiously as the court determines the interests of
+justice require. If a parent, custodian or legal guardian appears for the summary
+preliminary hearing and does not consent to the preliminary protection order, the court shall
+conduct a hearing at which the petitioner bears the burden of proof. At a summary
+preliminary hearing, the court shall consider the trauma to the child of removal from the
+child's home in determining whether to continue the preliminary protection order and
+whether the department has exhausted the options to mitigate the immediate risk of serious
+harm to the child and avoid the removal of the child from the child's home. The court may
+limit testimony to the testimony of the caseworker, parent, custodian, legal guardian,
+guardian ad litem, foster parent, preadoptive parent or relative providing care and may
+admit evidence, including reports and records, that would otherwise be inadmissable
+inadmissible as hearsay evidence. If after the hearing the court finds by a preponderance
+of the evidence that returning the child to the child's custodian would place the child in
+immediate risk of serious harm, it shall make findings explaining why the risk of harm to
+the child is outweighed by the trauma of the child's removal from the child's home and that
+the department has exhausted the options to mitigate the immediate risk of serious harm
+and avoid the removal of the child from the child's home and continue the order or make
+another disposition under section 4036. If the court's preliminary protection order includes
+a finding of an aggravating factor, the court may order the department not to commence
+reunification or to cease reunification, in which case the court shall conduct a hearing on
+jeopardy and conduct a permanency planning hearing. The hearings must commence
+within 30 days of entry of the preliminary protection order.
+If the petitioner has not been able to serve a parent, custodian or legal guardian before the
+scheduled summary preliminary hearing, the parent, custodian or legal guardian may
+request a subsequent summary preliminary hearing within 10 days after receipt of the
+petition.
+Page 2 - 132LR0671(05)

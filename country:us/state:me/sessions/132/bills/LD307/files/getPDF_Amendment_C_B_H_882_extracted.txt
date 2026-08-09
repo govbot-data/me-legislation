@@ -1,0 +1,267 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-B (H-882)
+Media Type: application/pdf
+
+================================================================================
+
+1 L.D. 307
+2 Date: (Filing No. H- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 207, L.D. 307, “An Act Regarding
+10 Energy, Utilities and Technology”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Establish the Maine Data Center Coordination Council and Place a
+13 Temporary Limitation on Certain Data Centers'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. Interim suspension on certain data center approvals.
+17 1. Definitions. For the purposes of this section, the following terms have the following
+18 meanings.
+19 A. "Commission" means the Public Utilities Commission.
+20 B. "Data center" means any facility in the State, which may be a freestanding structure
+21 or a facility within a larger structure, that primarily contains electronic equipment used
+22 to process, store and transmit digital information that uses environmental control
+23 equipment to maintain the proper conditions for the operation of electronic equipment.
+24 C. "Electric demand" means, with respect to a data center, the projected or current
+25 electricity usage of the data center calculated based on aggregated load at a single site
+26 or contiguous parcels under common ownership or control.
+27 D. "Exemption order" means an order issued by the commission after an adjudicatory
+28 proceeding as described in subsection 3.
+29 2. Interim suspension. Notwithstanding any provision of law to the contrary, prior
+30 to November 1, 2027, a municipality, a quasi-municipal entity or an agency of the State
+31 may not accept an application for or issue, approve or make finally effective a permit,
+32 certificate, license, lease authorization or other approval for the development, construction
+33 or operation of a data center with a projected or current electric demand of 20 megawatts
+Page 1 - 132LR1521(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 207, L.D. 307
+314 or more, other than a data center that has received an exemption order pursuant to
+325 subsection 3.
+3 3. Exempt data center projects. A developer or operator of a data center may petition
+4 the commission for an exemption order to demonstrate to a municipality or agency of the
+5 State that the data center is not subject to the interim suspension under subsection 2. The
+6 commission may issue an exemption order after an adjudicatory proceeding, if the
+7 commission determines in its discretion that:
+8 A. The developer or operator of the data center:
+9 (1) Prior to the effective date of this Act, established control of the data center site
+10 through ownership, an executed purchase agreement or option or binding long-
+11 term lease or option;
+12 (2) Prior to the effective date of this Act, executed a binding interconnection
+13 agreement or obtained written confirmation from the applicable transmission and
+14 distribution utility specifying available electric capacity at the data center site
+15 without requiring transmission or distribution upgrades funded through
+16 transmission and distribution rates;
+17 (3) Demonstrates to the commission's satisfaction that the owner or operator has
+18 the capability to execute on a timely basis a binding construction contract or
+19 redevelopment agreement;
+20 (4) Demonstrates to the commission's satisfaction that the owner or operator has
+21 the capability to execute on a timely basis a substantial financial commitment
+22 through secured financing, equity contribution or other legally binding financial
+23 obligation; and
+24 (5) Demonstrates the owner or operator has established appropriate cost allocation
+25 mechanisms with the transmission and distribution utility in whose service territory
+26 the data center will be located to ensure that the project bears the full cost of any
+27 infrastructure upgrades required to serve the load; and
+28 B. The data center:
+29 (1) Will not materially increase transmission and distribution costs to ratepayers
+30 in the State;
+31 (2) Does not have a projected electrical demand that will exceed the level
+32 documented in the binding interconnection agreement or written confirmation from
+33 the utility described in paragraph A, subparagraph 2;
+34 (3) Does not have projected water withdrawals, consumption or discharge that will
+35 materially adversely affect local water resources, municipal or regional water
+36 systems or wastewater treatment capacity; and
+37 (4) Does not have projected natural gas consumption, if any, including fuel used
+38 for on-site generation or backup generation, that will materially increase rates or
+39 utility infrastructure requirements borne by other natural gas customers.
+40 In evaluating a petition under this subsection, the commission may consult with the
+41 Department of Environmental Protection, the Department of Energy Resources and any
+42 relevant municipal water or wastewater authorities. The commission may impose
+Page 2 - 132LR1521(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 207, L.D. 307
+413 conditions in its exemption order that the commission determines are necessary to protect
+424 ratepayers, water resources, natural gas customers or system reliability.
+3 If the commission issues an exemption order in accordance with this subsection, the
+4 commission shall promptly, and no later than the next general electric rate or stranded cost
+5 recovery proceeding, allocate to ratepayers any transmission and distribution rate
+6 reductions resulting solely from the projected and actual operation of a data center that has
+7 received the exemption order.
+8 4. Limitation on increased electric demand. Prior to November 1, 2027, a data
+9 center receiving an exemption order pursuant to subsection 3 may not increase its electric
+10 demand beyond the level documented in its petition to the commission unless the
+11 commission approves the increase following notice and opportunity for hearing and finds
+12 that the criteria described in subsection 3, paragraphs A and B remain satisfied and that the
+13 data center's electric demand delivered through the facilities of a transmission and
+14 distribution utility is no more than 100 megawatts.
+15 5. Restriction on financial incentives. Notwithstanding any provision of law to the
+16 contrary, prior to November 1, 2027, a state agency or quasi-independent state agency may
+17 not approve, award or disburse state-funded financial incentives, grants, loans, refundable
+18 or transferable tax credits or other discretionary economic development benefits for a data
+19 center with an electric demand of 20 megawatts or more. This subsection does not apply to
+20 incentives that were finally approved and legally binding prior to the effective date of this
+21 Act.
+22 6. Repeal. This section is repealed November 1, 2027.
+23 Sec. 2. Establishment of Maine Data Center Coordination Council. The
+24 Department of Energy Resources shall convene the Maine Data Center Coordination
+25 Council, referred to in this legislation as "the council," to provide strategic input, facilitate
+26 coordinated state planning considerations and evaluate policy tools to address data center
+27 opportunities and related benefits and risks to the State. For the purposes of this section,
+28 "data center" means any facility in the State, which may be a freestanding structure or a
+29 facility within a larger structure, that primarily contains electronic equipment used to
+30 process, store and transmit digital information that uses environmental control equipment
+31 to maintain the proper conditions for the operation of electronic equipment.
+32 1. The council shall evaluate issues related to data centers located or proposed to be
+33 located in the State, with the goals of protecting ratepayers, maintaining electric grid
+34 reliability, minimizing environmental impacts and enabling responsible and appropriately
+35 sited economic development. In conducting its evaluation, the council shall consider the
+36 State's policy goals related to renewable energy in the Maine Revised Statutes, Title 35-A,
+37 section 3210, greenhouse gas reduction objectives, including those in Title 38, section
+38 576-A, goals for broadband service established in Title 35-A, section 9202-A, the state
+39 economic development strategy and the legislative findings described in Title 38, section
+40 480-A. In carrying out its work, the council shall:
+41 A. Review and consider legislation related to data centers that has been considered or
+42 adopted in other states;
+Page 3 - 132LR1521(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 207, L.D. 307
+1 B. Evaluate projections of electric load growth, infrastructure needs and system
+2 reliability and resource adequacy impacts associated with data centers in the State and
+3 the ISO-New England region;
+4 C. Identify strategies to protect ratepayers from rate inflation or negative financial
+5 effects resulting from data centers, including, but not limited to, cost allocation
+6 approaches, rate design changes, impact fees, efficiency standards, energy supply
+7 obligations and demand response and load flexibility during periods of high demand
+8 or grid emergencies;
+9 D. Review applicability of existing state programs and financial tools to data centers;
+10 E. Assess potential environmental and natural resource impacts, including, but not
+11 limited to, water use, emissions, land use and other impacts on host communities, and
+12 identify strategies to minimize adverse impacts;
+13 F. Consider data-sharing requirements and processes for proposed data centers,
+14 including use of nondisclosure agreements and identify information essential to grid
+15 operators, electric utilities, state agencies and policy makers regarding electric load,
+16 peak demand, water use and other operational characteristics necessary to inform state
+17 and local planning;
+18 G. Offer guidance to assist municipalities in assessing potential data center impacts
+19 and benefits, including the use of community benefit agreements; and
+20 H. Develop recommendations to clarify roles, responsibilities, information-sharing
+21 practices and timelines among state agencies, utilities, municipalities and other
+22 governmental entities to support coordinated, timely and well-informed responses to
+23 data center development inquiries.
+24 2. The Commissioner of Energy Resources or the commissioner's designee shall serve
+25 as chair of the council. The council must include the following 14 additional members:
+26 A. The Director of the Maine Office of Community Affairs or the director's designee;
+27 B. The Commissioner of Economic and Community Development or the
+28 commissioner's designee;
+29 C. The Public Advocate or the Public Advocate's designee;
+30 D. The chair of the Public Utilities Commission or the chair's designee;
+31 E. The president of the Maine Connectivity Authority or the president's designee;
+32 F. The Commissioner of Environmental Protection or the commissioner's designee;
+33 G. The executive director of the Wabanaki Alliance or the executive director's
+34 designee;
+35 H. The following 7 members appointed by the Commissioner of Energy Resources or
+36 the commissioner's designee:
+37 (1) A representative of the Maine Municipal Association;
+38 (2) One representative each from the 2 investor-owned transmission and
+39 distribution utilities in the State and one representative of the interests of
+40 cooperative and municipally owned utilities in the State;
+Page 4 - 132LR1521(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 207, L.D. 307
+1 (3) One representative of an environmental advocacy organization;
+2 (4) One representative of a labor organization; and
+3 (5) One representative with technical expertise in data center design and operation.
+4 The Commissioner of Energy Resources or the commissioner's designee may invite
+5 additional agency representatives, experts or stakeholders to provide comment or provide
+6 assistance to the council as the commissioner determines appropriate to address technical,
+7 economic and environmental factors of data center development.
+8 3. The council shall hold at least 5 meetings. The council shall provide an opportunity
+9 for public comment on the council's draft findings prior to submitting the final strategy
+10 report described in subsection 4.
+11 4. By February 1, 2027, the council shall submit a final strategy report with the findings
+12 of its evaluation and any recommendations, including any proposed legislation, to the
+13 Governor and the joint standing committee of the Legislature having jurisdiction over
+14 energy matters. The committee may report out a bill related to the report to the 133rd
+15 Legislature in 2027.
+16 Sec. 3. Appropriations and allocations. The following appropriations and
+17 allocations are made.
+18 ENERGY RESOURCES, DEPARTMENT OF
+19 Department of Energy Resources Z424
+20 Initiative: Provides one-time funding for contracted technical and facilitation support for
+21 the Maine Data Center Coordination Council.
+22 GENERAL FUND 2025-26 2026-27
+23 All Other $0 $95,000
+24 __________ __________
+25 GENERAL FUND TOTAL $0 $95,000
+2262
+27 ENERGY RESOURCES, DEPARTMENT OF
+28 DEPARTMENT TOTALS 2025-26 2026-27
+29
+30 GENERAL FUND $0 $95,000
+31 __________ __________
+32 DEPARTMENT TOTAL - ALL FUNDS $0 $95,000
+3237 PUBLIC UTILITIES COMMISSION
+34 Public Utilities - Administrative Division 0184
+35 Initiative: Provides one-time funding for contracted consulting services.
+36 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+37 All Other $0 $201,608
+38 __________ __________
+39 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $201,608
+4306
+Page 5 - 132LR1521(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 207, L.D. 307
+1 PUBLIC UTILITIES COMMISSION
+2 DEPARTMENT TOTALS 2025-26 2026-27
+3
+4 OTHER SPECIAL REVENUE FUNDS $0 $201,608
+5 __________ __________
+6 DEPARTMENT TOTAL - ALL FUNDS $0 $201,608
+71
+8 SECTION TOTALS 2025-26 2026-27
+9
+10 GENERAL FUND $0 $95,000
+11 OTHER SPECIAL REVENUE FUNDS $0 $201,608
+12 __________ __________
+13 SECTION TOTAL - ALL FUNDS $0 $296,608
+148 '
+15 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+16 number to read consecutively.
+17 SUMMARY
+1188 This amendment replaces the bill, which is a concept draft, and changes the title.
+19 It establishes a temporary suspension on the authority of a municipality, a quasi-
+20 municipal entity or any agency of the State, prior to November 1, 2027, to accept an
+21 application for or to issue, approve or make finally effective a permit, certificate, license,
+22 lease authorization or other approval for the development, construction or operation of a
+23 data center with an electric demand of 20 megawatts or more, other than a data center that
+24 has received an exemption order from the Public Utilities Commission. To receive an
+25 exemption order, a developer or operator of a data center must demonstrate that it has met
+26 certain criteria.
+27 The amendment also prohibits a state agency or quasi-independent entity from
+28 approving, awarding or disbursing state-funded financial incentives, grants, loans,
+29 refundable or transferable tax credits or other discretionary economic development benefits
+30 for a data center with an electric demand of 20 megawatts or more prior to November 1,
+31 2027. This prohibition does not apply to incentives that were finally approved and legally
+32 binding prior to the effective date of this legislation.
+33 The amendment also requires the Department of Energy Resources to convene the
+34 Maine Data Center Coordination Council to provide strategic input, facilitate coordinated
+35 state planning considerations and evaluate policy tools to address data center opportunities
+36 and related benefits and risks to the State. By February 1, 2027, the council is required to
+37 submit a final strategy report, including the findings of its evaluation and
+38 recommendations, to the Governor and the joint standing committee of the Legislature
+39 having jurisdiction over energy matters.
+4400 FISCAL NOTE REQUIRED
+4411 (See attached)
+Page 6 - 132LR1521(03)
+COMMITTEE AMENDMENT

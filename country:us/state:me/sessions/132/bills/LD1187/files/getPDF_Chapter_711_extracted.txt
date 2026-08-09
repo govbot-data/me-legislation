@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 711
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 15, 2026 711
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 792 - L.D. 1187
+An Act to Include Certain Mental Health Assessment Data in Firearm
+Fatalities and Hospitalizations Reports
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA c. 256-A, headnote is amended to read:
+CHAPTER 256-A
+REPORTING OF FIREARM FATALITIES AND, HOSPITALIZATIONS AND
+MENTAL HEALTH ASSESSMENT DATA
+Sec. 2. 22 MRSA §1425, as amended by PL 2021, c. 676, Pt. A, §32, is further
+amended by amending the section headnote to read:
+§1425. Annual report on firearm fatalities and, hospitalizations and mental health
+assessment data
+Sec. 3. 22 MRSA §1425, sub-§1, ¶C, as enacted by PL 2021, c. 369, §1, is
+amended to read:
+C. Unintentional discharges, further separated by the ages of the victims; and
+Sec. 4. 22 MRSA §1425, sub-§2, as amended by PL 2021, c. 676, Pt. A, §32, is
+further amended to read:
+2. Hospitalizations. Hospitalizations that occurred as a result of a firearm but did not
+result in death.; and
+Sec. 5. 22 MRSA §1425, sub-§3 is enacted to read:
+3. Risk assessments. The number of assessments by a medical practitioner performed
+pursuant to Title 34-B, section 3862-A, the number of individuals assessed who received a
+referral for mental health treatment and services and any aggregate demographic
+information about the individuals assessed that can be released without risking individual
+identification.
+Page 1 - 132LR1802(09)

@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 732
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 16, 2026 732
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1443 - L.D. 2154
+An Act to Establish the Health Information Technology Fund to Support a
+State-designated Statewide Health Information Exchange
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA §1730-B is enacted to read:
+§1730-B. Health Information Technology Fund
+The Health Information Technology Fund, referred to in this section as "the fund," is
+established within the department.
+1. Use of fund. The fund must be used to support the operation and sustainability of
+a state-designated statewide health information exchange operated in accordance with
+section 1711-C, subsection 18 and to meet the State's matching fund requirements to obtain
+federal funding to support the operation and sustainability of such an exchange. Funds
+received pursuant to subsection 2 may be used only for purposes directly related to the
+operation and sustainability of a state-designated statewide health information exchange.
+The department shall administer the fund in a manner that maximizes eligibility for
+available federal matching funds.
+2. Source of funds; separate account; interest; nonlapsing fund. The fund is
+administered by the department. The fund consists of money appropriated or allocated by
+the Legislature, federal funds, grants, gifts and other funds from public or private sources.
+The fund must be held separate and apart from all other money, funds and accounts.
+Interest earned by the fund must be credited to the fund. Any unexpended balances
+remaining in the fund at the end of the fiscal year do not lapse and must be carried forward
+to the next fiscal year.
+Sec. 2. Transfer of settlement funds. Notwithstanding any provision of law to
+the contrary, the State Controller shall transfer $350,000 from the Administration -
+Attorney General, Other Special Revenue Funds account within the Department of the
+Attorney General from funds received from settlement agreements to the unappropriated
+surplus of the General Fund no later than June 30, 2027.
+Sec. 3. Appropriations and allocations. The following appropriations and
+allocations are made.
+Page 1 - 132LR2753(07)
+
+HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+Health Information Technology Fund N565
+Initiative: Provides one-time funding to support the operations of a state-designated
+statewide health information exchange and to meet the State's matching fund requirements
+for available federal funding.
+GENERAL FUND 2025-26 2026-27
+All Other $0 $350,000
+__________ __________
+GENERAL FUND TOTAL $0 $350,000
+Page 2 - 132LR2753(07)

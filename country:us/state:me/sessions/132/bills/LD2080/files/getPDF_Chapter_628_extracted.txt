@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 628
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 3, 2026 628
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1395 - L.D. 2080
+An Act to Protect Consumers by Prohibiting the Use of Credit Cards in
+Sports Wagering and Internet Gaming
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 8 MRSA §1203, sub-§2, ¶C, as enacted by PL 2021, c. 681, Pt. J, §6, is
+amended to read:
+C. The methods of operation of sports wagering, including but not limited to the
+permitted systems and methods of wagers; the use of credit and checks by persons
+making wagers, which must prohibit a person from making a wager using a credit card;
+the types of wagering receipts that may be used; the method of issuing receipts; the
+prevention of sports wagering on prohibited sports events; the protection of patrons
+placing wagers; and the promotion of social responsibility and responsible gaming and
+display of information on resources for problem gambling at a facility operator's
+premises or on any mobile application or digital platform used to place wagers;
+Sec. 2. 8 MRSA §1203, sub-§2, ¶F, as enacted by PL 2021, c. 681, Pt. J, §6, is
+amended to read:
+F. Minimum design and security requirements for the physical premises of facility
+operators in which sports wagering is conducted, including but not limited to minimum
+requirements for the acceptance of wagers at a self-serve kiosk located on the premises
+and minimum required methods for verifying the identity and age of a person who
+places a wager with a facility operator, for verifying that the person making a wager is
+not prohibited from making a wager under section 1213, for ensuring that a person does
+not use a credit card to make a wager and for requiring the refund of any wager
+determined to have been placed by a person prohibited from making a wager under
+section 1213;
+Sec. 3. 8 MRSA §1203, sub-§2, ¶G, as enacted by PL 2021, c. 681, Pt. J, §6, is
+amended to read:
+G. Minimum design and security requirements for mobile applications and digital
+platforms for the acceptance of wagers by mobile operators, including required
+methods for verifying the age and identity of a person who places a wager with a mobile
+Page 1 - 132LR2768(03)
+
+operator, for verifying that the person making the wager is physically located in the
+State and is not prohibited from making a wager under section 1213, for ensuring that
+a person does not use a credit card to make a wager and for requiring the refund of any
+wager determined to have been placed by a person prohibited from making a wager
+under section 1213;
+Sec. 4. 8 MRSA §1214-A is enacted to read:
+§1214-A. Credit cards prohibited
+An operator and a management services licensee under section 1209 conducting sports
+wagering on behalf of an operator may not accept a wager on a sports event from a person
+using a credit card.
+Sec. 5. 8 MRSA §1403, sub-§2, ¶A, as enacted by PL 2025, c. 538, §4, is amended
+to read:
+A. The methods of operation of Internet gaming, including but not limited to the
+permitted systems and methods of wagers; the use of credit and checks by persons
+making wagers, which must prohibit a person from making a wager using a credit card;
+the types of wagering receipts that may be used; the method of issuing receipts; the
+protection of patrons placing wagers; and the promotion of social responsibility and
+responsible gaming and display of information on resources for problem gambling;
+Sec. 6. 8 MRSA §1403, sub-§2, ¶C, as enacted by PL 2025, c. 538, §4, is amended
+to read:
+C. Minimum design and security requirements for applications and digital platforms
+for the acceptance of wagers by operators, including required methods for verifying
+the age and identity of a person who places a wager with an operator, for verifying that
+the person making the wager is physically located in the State and is not prohibited
+from making a wager under section 1412, for ensuring that a person does not use a
+credit card to make a wager and for requiring the refund of any wager determined to
+have been placed by a person prohibited from making a wager under section 1412;
+Sec. 7. 8 MRSA §1412-A is enacted to read:
+§1412-A. Credit cards prohibited
+An operator and a management services licensee under section 1408 conducting
+Internet gaming on behalf of an operator may not accept a wager from a person using a
+credit card.
+Page 2 - 132LR2768(03)

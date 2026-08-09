@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 623
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 3, 2026 623
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1162 - L.D. 1744
+An Act to Modify Provisions of the State Civil Service System Governing
+Employee Recruitment and Retention
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 5 MRSA §7065, sub-§2, as amended by PL 1993, c. 705, §1, is further
+amended to read:
+2. Salary limits. No A position may not be assigned a salary greater than the
+maximum or less than the minimum rates fixed in the compensation plan except as provided
+by subsection 2‑D 2-E.
+Sec. 2. 5 MRSA §7065, sub-§2-D, as corrected by RR 2023, c. 1, Pt. B, §38 and
+affected by §50, is repealed.
+Sec. 3. 5 MRSA §7065, sub-§2-E is enacted to read:
+2-E. Recruitment and retention adjustments. The following provisions govern the
+process of requesting a recruitment and retention adjustment.
+A. An agency or bargaining agent shall file a request for a recruitment and retention
+adjustment with the Bureau of Human Resources on forms prescribed by the bureau.
+B. When a request for a recruitment and retention adjustment is filed by an agency or
+bargaining agent with the Bureau of Human Resources under paragraph A, the officer
+shall conduct a preliminary review to determine the extent to which vacancy rates,
+turnover rates or other workforce indicators identified in the request are attributable to
+any of the following conditions:
+(1) Statewide or departmental hiring freezes, position holds, delays in hiring
+authorizations or funding lapses;
+(2) Management-directed attrition, including for the purposes of anticipated
+reorganizations, or programmatic changes affecting staffing levels;
+(3) Temporary operational decisions or policy directives that limit recruitment or
+filling of vacancies; or
+Page 1 - 132LR1588(03)
+
+(4) Any other reasonable material, operational, fiscal or administrative
+circumstances that reasonably explain vacancy or turnover levels independent of
+compensation or labor market competitiveness.
+If any of the conditions in subparagraphs (1) to (4) are determined to be present, the
+officer may choose not to form a committee pursuant to paragraph D, subject to an
+appeal filed pursuant to paragraph F. If none of the conditions in subparagraphs (1) to
+(4) are determined to be present, the committee must be formed.
+The officer shall complete the preliminary review outlined in this paragraph as soon as
+possible but no later than 30 days following the receipt of the request.
+C. A recruitment and retention adjustment may be authorized by the officer only when
+justified by the following conditions:
+(1) High turnover exists or long-term vacancies exist either within a specific
+department or across State Government in the relevant occupational classifications
+or job series;
+(2) Reasonable and appropriate recruitment and retention efforts have been
+attempted and have proven ineffective at the current levels of compensation; and
+(3) Comprehensive, verifiable documentation of labor market compensation levels
+for the relevant occupation has been compiled to determine competitive pay levels
+within the defined labor market. This documentation must demonstrate that a labor
+market disparity exists and that the disparity represents a long-term problem and
+not a transitory or seasonal problem.
+D. Except as provided in paragraph B, to assist the officer in making a determination
+under paragraph C, a committee must be formed to evaluate the request from an agency
+or bargaining agent for a recruitment and retention adjustment. The following
+provisions apply to the committee formed under this paragraph.
+(1) The committee must be composed of a representative of the Bureau of Human
+Resources, a representative of the agency and a representative of the bargaining
+agent if applicable.
+(2) The committee shall evaluate the request against the conditions specified in
+paragraph C and shall conduct studies as the committee considers necessary to
+evaluate the request.
+(3) The committee shall, by majority vote, provide the officer, the agency and the
+bargaining agent, if applicable, with a report recommending and documenting
+adjustments authorized under this subsection. The officer, the agency and the
+bargaining agent, if applicable, shall act on the report. If resources within the
+department or agency budget do not exist to fund an approved adjustment, the
+officer shall submit the cost items for inclusion in the Governor's next operating
+budget. If the Legislature does not appropriate the requested funds, the department
+or agency is not obligated to pay any requested recruitment and retention
+adjustment.
+(4) Salary compression within the affected position’s supervisory organizational
+structure must be given consideration by the committee. The committee may
+recommend pay adjustments within the supervisory organizational structure in
+Page 2 - 132LR1588(03)
+
+order to reduce any potential compression that exceeds 4 steps in a salary grade. If
+resources within the department or agency budget do not exist for the pay
+adjustment to reduce this compression, the original request must move forward
+without addressing the compression and the officer shall submit the cost items
+regarding potential additional compressed positions for inclusion in the Governor's
+next operating budget. If the Legislature does not appropriate the requested funds,
+the department or agency is not obligated to make the requested pay adjustments.
+For the purposes of this subparagraph, "salary compression" means a relatively
+narrow range of salaries within an occupational classification.
+The officer shall provide to the requesting agency or bargaining agent a written
+decision including the proposed course of action within 30 days of receiving the
+committee’s final recommendation.
+E. A recruitment and retention adjustment must be reviewed at least every 4 years in
+alignment with section 7061, subsection 4, paragraph B and adjusted to changes in the
+labor market or the overall relation of the standard pay policy to the specialized labor
+market. If the subsequent review provided in this paragraph results in the adjustment
+being decreased or discontinued, an employee receiving the recruitment and retention
+adjustment may not be subject to a reduction in pay. The resulting recruitment and
+retention adjustment applies to employees hired subsequent to the review provided in
+this paragraph.
+F. A decision by the officer may be appealed by an interested party consistent with the
+following.
+(1) A party appealing the officer’s decision must file a written request for appeal
+with the officer. All appeals must be submitted within 10 business days following
+receipt of the officer’s written decision.
+(2) An employee whose classification is not represented by a bargaining agent
+may appeal a decision of the officer to the appeals board pursuant to subchapter 3.
+The officer’s decision satisfies the requirement of section 7083, subsection 4.
+(3) An employee whose classification is represented by a bargaining agent may
+submit to a neutral 3rd party for a final decision and report. The neutral 3rd party
+may be jointly agreed upon by the officer, the agency and the bargaining agent, but
+if an agreement is not reached, the parties must petition the Maine Labor Relations
+Board to appoint a neutral 3rd party. The Maine Labor Relations Board must
+submit to the parties a list from which the parties can alternately strike a name until
+a single name is left, and that person must be appointed by the Maine Labor
+Relations Board as the arbitrator.
+(4) All decisions requiring funding by the neutral 3rd party are subject to the
+legislative budgeting process. If resources within the department or agency do not
+exist to fund the neutral 3rd party’s decision, the officer shall submit the cost items
+for inclusion in the Governor's next operating budget. If the Legislature does not
+appropriate the requested funds, the department or agency is not obligated to pay
+any requested recruitment and retention adjustment.
+Page 3 - 132LR1588(03)
+
+(5) A decision by the officer under paragraph B to not form a committee may be
+appealed. The arbitrator’s authority on such an appeal is limited to ordering the
+formation of a committee.
+Page 4 - 132LR1588(03)

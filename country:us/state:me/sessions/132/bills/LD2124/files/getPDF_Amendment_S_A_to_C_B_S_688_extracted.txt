@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-A to C-B (S-688)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2124
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1439,
+9 L.D. 2124, “An Act to Support Emergency Shelter Funding Using Revenue from the Real
+10 Estate Transfer Tax”
+11 Amend the amendment by striking out all of sections 1 and 2 and inserting the
+12 following:
+13 'Sec. 1. 36 MRSA §4641-B, sub-§4-B, ¶E-4 is enacted to read:
+14 E-4. Notwithstanding paragraphs E-1 and E-2, the State Controller shall first credit
+15 $1,012,617 in fiscal year 2026-27 of the revenues available to the Maine State Housing
+16 Authority under paragraph E-2, subparagraph (2), division (c) for the Housing
+17 Production Fund established in Title 30-A, section 4773 to the Maine State Housing
+18 Authority, which shall deposit the funds in the authority's shelter operating subsidy
+19 program to support emergency homeless shelters in the State.
+20 Sec. 2. Appropriations and allocations. The following appropriations and
+21 allocations are made.
+22 HOUSING AUTHORITY, MAINE STATE
+23 Housing Production Fund N557
+24 Initiative: Reduces allocations to reflect a one-time decrease in revenue from shifting 2%
+25 of real estate transfer tax revenue from the Housing Production Fund program to the Maine
+26 State Housing Authority to be used for the shelter operating subsidy program.
+27 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+28 All Other $0 ($1,012,617)
+29 __________ __________
+30 OTHER SPECIAL REVENUE FUNDS TOTAL $0 ($1,012,617)
+3217 Shelter Operating Subsidy 0661
+32 Initiative: Provides a one-time allocation to support emergency homeless shelters in the
+33 State through the authority's shelter operating subsidy program.
+34 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+35 All Other $0 $1,012,617
+36 __________ __________
+Page 1 - 132LR2746(06)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1439, L.D. 2124
+1 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $1,012,617
+21
+3 HOUSING AUTHORITY, MAINE STATE
+4 DEPARTMENT TOTALS 2025-26 2026-27
+5
+6 OTHER SPECIAL REVENUE FUNDS $0 $0
+7 __________ __________
+8 DEPARTMENT TOTAL - ALL FUNDS $0 $0
+93 '
+10 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+11 section number to read consecutively.
+12 SUMMARY
+1133 This amendment requires, in fiscal year 2026-27 only, that the State Controller transfer
+1144 $1,012,617 of the real estate transfer tax funds paid to the Maine State Housing Authority
+1155 for rural affordable rental housing and homeownership to the authority's program to support
+1166 emergency homeless shelters. The amendment also replaces the appropriations and
+1177 allocations section.
+1188 SPONSORED BY: ___________________________________
+1199 (Senator ROTUNDO, M.)
+2200 COUNTY: Androscoggin
+Page 2 - 132LR2746(06)
+SENATE AMENDMENT

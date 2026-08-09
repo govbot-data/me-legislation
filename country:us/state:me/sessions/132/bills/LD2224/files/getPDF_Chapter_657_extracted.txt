@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 657
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 657
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 907 - L.D. 2224
+An Act to Reduce Certain Costs Associated with Residential Construction
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 10 MRSA §9722, sub-§2, as amended by PL 2025, c. 597, Pt. A, §9, is
+further amended to read:
+2. Membership. The board consists of 12 13 members, including the Director of the
+Efficiency Maine Trust, who serves ex officio and may not vote, and the following 11 12
+individuals, who are voting members appointed by the Governor:
+A. The State Fire Marshal or a designee or a fire chief, recommended by the Maine
+Fire Chiefs' Association or its successor organization;
+B. A municipal code enforcement officer employed by a municipality that is not a
+service center community under Title 30‑A, chapter 187, recommended by the Maine
+Municipal Association or its successor organization;
+C. A municipal code enforcement officer employed by a service center community
+under Title 30‑A, chapter 187, recommended by the Maine Service Centers Coalition
+or its successor organization;
+D. A residential builder recommended by a statewide or regional association of home
+builders and remodelers;
+E. A commercial builder recommended by a statewide association of general
+contractors;
+F. An architect licensed in the State who is accredited by a nationally recognized
+organization that administers credentialing programs related to environmentally sound
+building practices and standards, recommended by a statewide chapter of a national
+institute of architects;
+G. A structural engineer licensed in the State, recommended by a statewide association
+of structural engineers;
+H. A historic preservation representative, recommended by the Maine Historic
+Preservation Commission, with experience implementing the standards for the
+Page 1 - 132LR3035(03)
+
+treatment of historic properties set forth in 36 Code of Federal Regulations, Part 68
+(2007), who is:
+(1) An architect licensed in the State;
+(2) A structural engineer licensed in the State; or
+(3) A builder;
+I. An energy efficiency representative, recommended by the Commissioner of Energy
+Resources, who has experience or expertise in the design or implementation of energy
+codes or in the application of energy efficiency measures in residential or commercial
+construction;
+J. A mechanical engineer licensed in the State, recommended by a statewide
+association of mechanical engineers; and
+K. A lumber material dealer or supplier, recommended by a statewide association of
+lumber dealers in the State.; and
+L. An affordable housing expert, recommended by a statewide association
+representing affordable housing interests.
+A member appointed under this subsection must have at least 5 years' experience in the
+field that member is nominated to represent and must be employed in that field.
+Sec. 2. Technical Building Codes and Standards Board; hoistway fire
+safety rulemaking; report. By September 1, 2026, the Technical Building Codes and
+Standards Board, established in the Maine Revised Statutes, Title 5, section 12004-G,
+subsection 5-A, shall initiate rulemaking to remove any requirements in the Maine Uniform
+Building and Energy Code for smoke and draft protection assemblies for elevator hoistway
+doors and remove requirements for 2-way emergency video communication systems in
+elevators. The board shall report to the joint standing committee of the Legislature having
+jurisdiction over housing matters on the outcome of rulemaking required by this section by
+January 15, 2027. The joint standing committee is authorized to submit legislation based
+on the board's report to the 133rd Legislature in 2027.
+Sec. 3. Office of State Fire Marshal to update standards in accordance with
+National Fire Protection Association standards update. The Department of Public
+Safety, Office of the State Fire Marshal shall update the state-adopted National Fire
+Protection Association standards by adopting the 2025 edition of the National Fire
+Protection Association 72: National Fire Alarm and Signaling Code.
+Sec. 4. Office of State Fire Marshal to convene working group to study
+costs and life safety impacts of fire sprinklers and limited use limited
+application elevators; report. The Department of Public Safety, Office of the State
+Fire Marshal shall convene a working group, referred to in this section as "the working
+group," to study the housing and life safety impacts of residential fire sprinklers and the
+accessibility and life safety impacts of permitting limited use limited application elevators
+in 2-story and 3-story buildings. In conducting its work, the working group shall explore
+ways to lower the costs associated with the requirement that construction of residential
+housing include fire sprinkler systems.
+Page 2 - 132LR3035(03)
+
+1. The State Fire Marshal or the State Fire Marshal's designee shall invite the
+participation in the working group of the following persons: a representative from the fire
+sprinkler industry; a municipal fire safety officer; a representative from the housing
+development industry; and any additional persons considered necessary by the State Fire
+Marshal to ensure comprehensive stakeholder representation.
+2. The working group shall:
+A. Conduct a comprehensive review of the existing sprinkler system requirements for
+residential buildings with 3 or more units and the affiliated costs of the sprinkler
+systems;
+B. Collect and analyze data on the housing and life safety impacts of residential fire
+sprinkler systems, including, but not limited to, the frequency of the presence of
+sprinkler systems in reported house fires and the estimated impact on financial loss and
+life safety impact;
+C. Explore innovative incentives to reduce the associated costs of installing sprinkler
+systems in residential construction;
+D. Develop recommendations for legislative and regulatory changes to reduce the
+costs of installing required residential sprinkler systems;
+E. Conduct a comprehensive review of the existing elevator requirements and the
+affiliated costs for residential buildings with 4 or more units;
+F. Collect and analyze data on the accessibility and life safety impacts of limited use
+limited application elevators in buildings with fewer than 4 stories; and
+G. If determined appropriate by working group members, develop recommendations
+for legislative and regulatory changes to the codes and standards permitting limited use
+limited application elevators.
+3. The Office of the State Fire Marshal shall provide staff assistance to the working
+group.
+4. By January 15, 2027, the Office of the State Fire Marshal shall submit a report on
+the working group's findings and recommendations, including proposed legislation, to the
+joint standing committee of the Legislature having jurisdiction over housing matters. The
+joint standing committee is authorized to submit legislation based on the report to the 133rd
+Legislature in 2027.
+Sec. 5. Department of Professional and Financial Regulation, Office of
+Professional and Occupational Regulation to report on rulemaking. No later
+than January 15, 2027, the Director of the Office of Professional and Occupational
+Regulation within the Department of Professional and Financial Regulation shall report to
+the joint standing committee of the Legislature having jurisdiction over housing matters
+regarding the status of the adoption of rules for the elevator and tramway safety program
+within the Office of Professional and Occupational Regulation pursuant to the Maine
+Revised Statutes, Title 32, section 15205-A, subsection 2. The committee is authorized to
+report out legislation related to the report required by this section to the 133rd Legislature
+in 2027.
+Page 3 - 132LR3035(03)

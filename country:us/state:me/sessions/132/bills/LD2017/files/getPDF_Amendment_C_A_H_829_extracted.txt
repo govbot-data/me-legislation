@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-829)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2017
+2 Date: (Filing No. H- )
+3 EDUCATION AND CULTURAL AFFAIRS
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1347, L.D. 2017, “An Act to Update
+10 Certain Statutes Governing School Nutrition”
+11 Amend the bill in section 1 in §6601-A in the first indented paragraph in the 16th line
+12 (page 1, line 21 in L.D.) by inserting after the following: "school" the following: 'or other
+13 agency making the determination for a student's eligibility for free or reduced-price meals'
+14 Amend the bill by striking out all of section 4 and inserting the following:
+15 'Sec. 4. Appropriations and allocations. The following appropriations and
+16 allocations are made.
+17 EDUCATION, DEPARTMENT OF
+18 School Finance and Operations Z078
+19 Initiative: Reduces funding due to the removal of a requirement for an Internet-based
+20 application for free or reduced-price meals under the National School Lunch Program.
+21 GENERAL FUND 2025-26 2026-27
+22 All Other $0 ($250,000)
+23 __________ __________
+24 GENERAL FUND TOTAL $0 ($250,000)
+2251 '
+26 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+27 number to read consecutively.
+28 SUMMARY
+2299 This amendment, which is the majority report of the committee, strikes from the bill
+3300 the repeal of a provision of education law governing student access to food, collection of
+3311 student meal debt and use of food as discipline in schools.
+32 The amendment changes the provision regarding data submitted through an Internet-
+33 based school meal application. Current law requires that such an application be transmitted
+Page 1 - 132LR2622(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1347, L.D. 2017
+314 directly to the applicable public school. The amendment adds, as an alternative recipient of
+325 the application, another agency making the eligibility determination for free or reduced-
+336 price meals.
+347 FISCAL NOTE REQUIRED
+358 (See attached)
+Page 2 - 132LR2622(02)
+COMMITTEE AMENDMENT

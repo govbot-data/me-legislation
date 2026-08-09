@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-894)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2051
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1375, L.D. 2051, “An Act to Ensure
+10 Access to the Supplemental Nutrition Assistance Program in Maine”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 22 MRSA §3104-A, sub-§1, as amended by PL 2013, c. 368, Pt. OO, §§1
+14 and 2, is repealed.
+15 Sec. 2. 22 MRSA §3104-A, sub-§1-A is enacted to read:
+16 1-A. Food assistance. The department shall provide food assistance to households
+17 that would be eligible for assistance under the federal Supplemental Nutrition Assistance
+18 Program, 7 United States Code, Section 2011 et seq. but for having an immigration status
+19 that does not qualify for federal food assistance benefits as follows.
+20 A. An individual who was receiving food assistance under former subsection 1 as of
+21 July 1, 2011 may continue to receive assistance, as long as the individual remains
+22 eligible without regard to interruptions in coverage or gaps in eligibility for service.
+23 B. A noncitizen who was neither receiving assistance on July 1, 2011 nor had an
+24 application pending for assistance on July 1, 2011 who was later approved is not
+25 eligible for food assistance through a state-funded program unless that noncitizen has
+26 both a qualifying immigration status under subparagraph (1) and at least one of the
+27 qualifying conditions under subparagraph (2), as follows:
+28 (1) The individual is lawfully present in the United States but does not have an
+29 immigration status that qualifies for federal food assistance benefits and is not
+30 lawfully present solely as a temporary worker, student or tourist. Lawfully present
+31 individuals include:
+32 (a) Qualified aliens under 8 United States Code, Section 1641;
+33 (b) Lawful permanent residents who do not meet the special conditions for
+34 federal assistance under 8 United States Code, Section 1613;
+Page 1 - 132LR2773(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1375, L.D. 2051
+1 (c) Asylees under Section 208 of the federal Immigration and Nationality Act,
+2 8 United States Code, Section 1158;
+3 (d) Individuals who have a pending application for asylum or withholding of
+4 removal with the Department of Homeland Security or the Department of
+5 Justice Immigration Court;
+6 (e) Refugees under Section 207 of the federal Immigration and Nationality
+7 Act, 8 United States Code, Section 1157;
+8 (f) Individuals with Temporary Protected Status;
+9 (g) Individuals with Special Immigrant Juvenile Status; and
+10 (h) Individuals who received or were eligible to receive federal Supplemental
+11 Nutrition Assistance Program benefits on July 3, 2025 but who are no longer
+12 eligible pursuant to the federal Food and Nutrition Act of 2008, as amended
+13 by Public Law 119-21 (2025); and
+14 (2) The individual is:
+15 (a) Elderly or disabled, as described under the laws governing supplemental
+16 security income, 42 United States Code, Sections 1381 to 1383f;
+17 (b) A victim of domestic violence or human trafficking or experiencing the
+18 effects of domestic violence or human trafficking;
+19 (c) Unable to work or the dependent child of a parent who is unable to work
+20 due to the time necessary to obtain proper work documentation, as defined by
+21 the department in rule. Rules adopted by the department under this division are
+22 routine technical rules as defined by Title 5, chapter 375, subchapter 2‑A; or
+23 (d) Unemployed or the dependent child of a parent who is unemployed but
+24 has obtained proper work documentation, as defined by the department by rule.
+25 Rules adopted by the department under this division are routine technical rules
+26 as defined by Title 5, chapter 375, subchapter 2‑A.'
+27 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+28 number to read consecutively.
+29 SUMMARY
+3300 This amendment replaces the bill. It repeals language describing eligibility for the state
+3311 Supplemental Nutrition Assistance Program. It adds language clarifying current eligibility
+3322 and establishing eligibility for the program for individuals who became ineligible for the
+3333 federal Supplemental Nutrition Assistance Program under Public Law 119-21 (2025),
+3344 commonly known as the One Big Beautiful Bill Act.
+3355 FISCAL NOTE REQUIRED
+3366 (See attached)
+Page 2 - 132LR2773(02)
+COMMITTEE AMENDMENT

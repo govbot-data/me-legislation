@@ -1,0 +1,245 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-1029)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1821
+2 Date: (Filing No. H- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1219, L.D. 1821, “An Act to Ensure
+10 Responsible Business Practices by Licensed Firearms Dealers”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 15 MRSA c. 19 is enacted to read:
+14 CHAPTER 19
+15 FIREARM DEALER RESPONSIBLE BUSINESS PRACTICES ACT
+16 §501. Short title
+17 This chapter may be known and cited as "the Firearm Dealer Responsible Business
+18 Practices Act."
+19 §502. Definitions
+20 As used in this chapter, unless the context otherwise indicates, the following terms
+21 have the following meanings.
+22 1. ATF. "ATF" means the federal Department of Justice, Bureau of Alcohol, Tobacco,
+23 Firearms and Explosives or its successor agency.
+24 2. Department. "Department" means the Department of Public Safety.
+25 3. Federally licensed firearms dealer. "Federally licensed firearms dealer" has the
+26 same meaning as in section 395, subsection 1, paragraph E.
+27 4. Firearm. "Firearm" has the same meaning as in Title 17-A, section 2, subsection
+28 12-A.
+29 5. Gun show. "Gun show" has the same meaning as in section 395, subsection 1,
+30 paragraph G.
+Page 1 - 132LR1676(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1219, L.D. 1821
+1 6. Law enforcement officer. "Law enforcement officer" has the same meaning as in
+2 Title 25, section 2801-A, subsection 5.
+3 7. Straw purchase. "Straw purchase" means the purchase or attempted purchase by
+4 a person of a firearm or ammunition for a firearm on behalf of or for the use of another
+5 person known or unknown. "Straw purchase" does not include a purchase or attempted
+6 purchase for the purpose of making a bona fide gift to a person who is not prohibited from
+7 possessing or receiving the firearm or ammunition. For purposes of this subsection, a gift
+8 is not a bona fide gift if the person offers or gives the purchaser a service or thing of value
+9 to acquire the firearm for the person.
+10 8. Transaction. "Transaction" means the transfer of ownership of a firearm from a
+11 seller to a buyer.
+12 §503. Security
+13 A federally licensed firearms dealer shall take reasonable steps to prevent loss or theft
+14 of firearms by adopting the following minimum security measures:
+15 1. Business or firearms unattended. Whenever the place of business or firearms are
+16 unattended, ensuring that the place of business is secure through the use of controls such
+17 as door locks, window locks, alarms and window bars or ensuring that firearms are secure
+18 through the use of a safe or other locking device; and
+19 2. Other security measures. Any other reasonable and effective security measures
+20 designed to reduce the risk of theft.
+21 §504. Employee vetting and training
+22 1. Background checks on employees required. A federally licensed firearms dealer
+23 may not employ a person to handle, sell or deliver firearms unless the person is at least 18
+24 years of age and is not prohibited from possessing a firearm under state or federal law as
+25 determined by a background check using a background check entity authorized by the
+26 department. This background check must be completed every 2 years.
+27 2. Approved federally licensed firearms dealer employee training. The department
+28 shall provide on its publicly accessible website a list of approved employee training courses
+29 and materials for use by federally licensed firearms dealers. The approved training courses
+30 must address, at a minimum, the following topics:
+31 A. Federal and state laws governing firearm transactions;
+32 B. How to recognize, identify, respond to and report straw purchases, illegal purchases
+33 and fraudulent activity;
+34 C. How to recognize, identify, respond to and report individuals who intend to use
+35 firearms for unlawful purposes, including self-harm;
+36 D. How to prevent, respond to and report theft or burglary of firearms and ammunition;
+37 E. How to educate customers on gun safety practices, including but not limited to the
+38 safe handling and storage of firearms and ammunition; and
+39 F. Any other responsible business practice identified by the department.
+40 3. Prohibition. A federally licensed firearms dealer and a federally licensed firearms
+41 dealer's employee may not participate in the sale or disposition of firearms unless the
+Page 2 - 132LR1676(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1219, L.D. 1821
+412 federally licensed firearms dealer and federally licensed firearms dealer's employee have
+423 completed the training described in subsection 2 within 30 days of initial employment and
+434 every 2 years thereafter.
+4 §505. Maintenance of records
+5 1. Record of purchase. A federally licensed firearms dealer shall establish and
+6 maintain a written or electronic record of purchases, sales, acquisitions and dispositions, as
+7 required by 27 Code of Federal Regulations, Section 478.125. The records must, at a
+8 minimum, include the make, model, caliber or gauge, manufacturer's name and serial
+9 number of all firearms that the federally licensed firearms dealer acquires or disposes of no
+10 later than one business day after the acquisition or disposal. Physical copies of written
+11 records must be created at least monthly and stored in a secure container designed to
+12 prevent loss by fire, theft or flood. Electronic records must be backed up on an external
+13 server or over the Internet at the close of each business day.
+14 2. Federal form required. A federally licensed firearms dealer shall retain all ATF
+15 Form 4473 records on the federally licensed firearms dealer's premises, as required by 27
+16 Code of Federal Regulations, Section 478.129. The records must be stored in a secure
+17 container designed to prevent loss by fire, theft or flood.
+18 3. Record of inventory. A federally licensed firearms dealer shall account for all
+19 firearms acquired but not yet disposed of in a monthly inventory check and shall maintain
+20 records of such checks in a secure location.
+21 4. Record of criminal firearm trace. A federally licensed firearms dealer shall
+22 maintain records of all criminal firearm traces initiated by the ATF.
+23 5. Records confidential. Notwithstanding any provision of law to the contrary,
+24 information contained in the records maintained under this section is confidential and may
+25 not be disclosed to any person.
+26 6. Inspection of records. Notwithstanding subsection 5, a federally licensed firearms
+27 dealer shall permit law enforcement officers to inspect the records required to be
+28 maintained under this section during regular business hours.
+29 §506. Reporting
+30 1. Transactions involving more than one pistol or revolver. A federally licensed
+31 firearms dealer shall report a transaction involving more than one pistol or revolver to a
+32 law enforcement agency, as required by 27 Code of Federal Regulations, Section 478.126a.
+33 2. Thefts and losses. A federally licensed firearms dealer shall report a theft or loss
+34 within 48 hours of discovery to a law enforcement agency, as required by 27 Code of
+35 Federal Regulations, Section 478.39a.
+36 §507. Compliance
+37 1. Certification. A federally licensed firearms dealer shall, at least annually, certify
+38 to the department in a form designed by the department that the federally licensed firearms
+39 dealer is in compliance with the requirements of this chapter.
+40 2. Inspections. A federally licensed firearms dealer shall provide the department with
+41 full access to the federally licensed firearms dealer's premises for an inspection. The
+42 department may conduct an inspection of a federally licensed firearms dealer's premises
+Page 3 - 132LR1676(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1219, L.D. 1821
+413 during the premises' regular business hours to determine compliance by the federally
+424 licensed firearms dealer with the requirements of this chapter.
+3 3. Report. The department shall, beginning January 15, 2027, prepare and publish on
+4 its publicly accessible website an annual report providing information on the number of
+5 federally licensed firearms dealers that submitted compliance certification forms, a
+6 summary of any inspections or investigations conducted that does not identify any federally
+7 licensed firearms dealer and any other information that the department considers necessary
+8 and appropriate.
+9 4. False certification; penalty. A federally licensed firearms dealer may not
+10 intentionally or knowingly falsify the information in or contents of the compliance
+11 certification form required by subsection 1. Notwithstanding section 508, a person who
+12 violates this subsection commits a civil violation for which a fine of not more than $1,000
+13 may be adjudged.
+14 §508. Violations
+15 The following penalties apply to violations of this chapter.
+16 1. First violation. A federally licensed firearms dealer who violates any provision of
+17 this chapter commits a civil violation for which a fine of not less than $100 and not more
+18 than $500 may be adjudged.
+19 2. Subsequent violations. A federally licensed firearms dealer who violates any
+20 provision of this chapter after having been adjudicated as having committed one or more
+21 civil violations under this chapter or for engaging in substantially similar conduct to that
+22 contained in this chapter in another jurisdiction within the previous 5-year period commits
+23 a civil violation for which a fine of not less than $500 and not more than $1,000 may be
+24 adjudged.
+25 §509. Notice to purchasers upon sale of firearm
+26 1. Department to create signs. The department shall create and maintain a set of
+27 standardized posters that are accessible by federally licensed firearms dealers on the
+28 department's publicly accessible website and that contain the following notices:
+29 A. "ENDANGERING THE WELFARE OF A CHILD IS A CRIME. IF YOU LEAVE
+30 A FIREARM AND AMMUNITION WITHIN EASY ACCESS OF A CHILD, YOU
+31 MAY BE SUBJECT TO A FINE, IMPRISONMENT OR BOTH.
+32 KEEP FIREARMS AND AMMUNITION SEPARATE.
+33 KEEP FIREARMS AND AMMUNITION LOCKED UP.
+34 USE TRIGGER LOCKS, CABLE LOCKS, A LOCKBOX OR A SAFE.
+35 PER STATE LAW, STORE STAFF MUST OFFER TO DEMONSTRATE THE USE
+36 OF THESE SAFETY DEVICES.";
+37 B. A notice prescribed by the department that informs purchasers of the background
+38 check requirements of section 395 and the waiting period requirements of Title 25,
+39 section 2016;
+40 C. "Firearm suicide is the most common type of gun fatality. If you or a loved one is
+41 experiencing distress or depression or is contemplating suicide, please call [insert the
+42 telephone number for mental health assistance] to find your nearest Maine Crisis
+Page 4 - 132LR1676(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1219, L.D. 1821
+413 Receiving Center or call the National Suicide Prevention Lifeline at [insert the
+424 telephone number for lifeline]."; and
+3 D. Information relating to the availability of local voluntary firearm safety programs.
+4 2. Posting required. The posters created and maintained by the department under
+5 subsection 1 must be posted at all entrances of a gun show and by a federally licensed
+6 firearms dealer at all firearm points of sale.
+7 3. Violation. A federally licensed firearms dealer or gun show operator who fails to
+8 post the posters required by this section commits a civil violation for which a fine of not
+9 more than $200 may be adjudged.
+10 §510. Resources for federally licensed firearms dealers
+11 The department shall establish a page on the department's publicly accessible website
+12 and post and regularly update on the page the following information:
+13 1. Authorized background check entities. Links to authorized entities for
+14 background checks approved by the department pursuant to section 504, subsection 1;
+15 2. Authorized training materials. Links to authorized training materials approved
+16 by the department pursuant to section 504, subsection 2;
+17 3. Certification form. A link to the annual compliance certification form described
+18 in section 507, subsection 1; and
+19 4. Authorized posters. Links to authorized posters to be posted at gun show entrances
+20 and firearm points of sale as required by section 509, subsection 2.
+21 Sec. 2. 25 MRSA §2012, sub-§2, ¶B, as enacted by PL 1991, c. 127, is amended
+22 to read:
+23 B. Offer to demonstrate to the purchaser the use of a trigger locking device, cable lock,
+24 gun safe or lockbox; and
+25 Sec. 3. Appropriations and allocations. The following appropriations and
+26 allocations are made.
+27 PUBLIC SAFETY, DEPARTMENT OF
+28 State Police 0291
+29 Initiative: Provides funding for one State Police Sergeant position, 3 State Police Detective
+30 positions, one Management Analyst I position, one State Police Lieutenant position and
+31 related All Other costs to develop and administer a process related to minimum security
+32 requirements for firearms dealers.
+33 GENERAL FUND 2025-26 2026-27
+34 POSITIONS - LEGISLATIVE COUNT 0.000 6.000
+35 Personal Services $0 $698,500
+36 All Other $0 $40,701
+37 __________ __________
+38 GENERAL FUND TOTAL $0 $739,201
+3393
+40 HIGHWAY FUND 2025-26 2026-27
+Page 5 - 132LR1676(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1219, L.D. 1821
+1 Personal Services $0 $376,115
+2 All Other $0 $21,916
+3 __________ __________
+4 HIGHWAY FUND TOTAL $0 $398,031
+51 '
+6 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+7 number to read consecutively.
+8 SUMMARY
+99 This amendment replaces the bill. It removes from the bill references to the Office of
+1100 Violence Prevention and clarifies the security requirements in the bill for the premises of a
+1111 federally licensed firearms dealer. The amendment provides that a background check
+1122 performed on an employee of a firearms dealer must be completed by an entity approved
+1133 by the Department of Public Safety rather than the Federal Bureau of Investigation. The
+1144 amendment creates a civil violation for false certification of required reporting data.
+1155 Finally, the amendment requires the Department of Public Safety to post resources on the
+1166 department's publicly accessible website, including links to authorized entities for
+1177 background checks, links to authorized training materials, links to required posters to be
+1188 posted at gun shows and firearm points of sale and a link to the annual compliance form.
+1199 FISCAL NOTE REQUIRED
+2200 (See attached)
+Page 6 - 132LR1676(02)
+COMMITTEE AMENDMENT

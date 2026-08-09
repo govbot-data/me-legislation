@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 640
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 3, 2026 640
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1482 - L.D. 2203
+An Act to Limit Rates Charged to Low-income Electricity Consumers
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 35-A MRSA §3203, sub-§4-D is enacted to read:
+4-D. Low-income assistance program; rate limitation. A competitive electricity
+provider may not provide to a customer receiving low-income assistance authorized by
+section 3214, subsection 2 generation service at a rate that is greater than the standard-offer
+service rate established under section 3212 that would otherwise be applicable to that
+customer. The commission may adopt rules to implement this subsection, including, but
+not limited to, rules governing the sharing of low-income assistance customer data by a
+transmission and distribution utility with a competitive electricity provider. Rules adopted
+under this subsection are routine technical rules as defined in Title 5, chapter 375,
+subchapter 2‑A.
+Page 1 - 132LR3044(03)

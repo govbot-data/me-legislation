@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-555)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1996
+2 Date: (Filing No. S- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 809, L.D. 1996, “An Act to Clarify
+10 Responsibilities of the State in the Laws Governing General Assistance”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 22 MRSA §4323, sub-§6, as enacted by PL 2023, c. 575, §6, is amended
+14 to read:
+15 6. Database. Beginning on July 1, 2025 2028, the department shall provide overseers
+16 access to an Internet-based, real-time database containing the information necessary to
+17 properly determine an applicant’s eligibility.
+18 Sec. 2. Department report. The Department of Health and Human Services shall
+19 submit a written update to the joint standing committee of the Legislature having
+20 jurisdiction over health and human services matters by February 1, 2027 regarding the
+21 department's progress toward building a statewide general assistance database pursuant to
+22 the Maine Revised Statutes, Title 22, section 4323, subsection 6.
+23 Sec. 3. Appropriations and allocations. The following appropriations and
+24 allocations are made.
+25 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+26 Office for Family Independence Z020
+27 Initiative: Provides one-time funding to the Department of Health and Human Services to
+28 build a general assistance database.
+29 GENERAL FUND 2025-26 2026-27
+30 All Other $0 $2,800,000
+31 __________ __________
+32 GENERAL FUND TOTAL $0 $2,800,000
+3239 Office for Family Independence Z020
+Page 1 - 132LR2801(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 809, L.D. 1996
+1 Initiative: Provides funding to the Department of Health and Human Services for the
+2 ongoing maintenance of the general assistance database.
+3 GENERAL FUND 2025-26 2026-27
+4 All Other $0 $450,000
+5 __________ __________
+6 GENERAL FUND TOTAL $0 $450,000
+73
+8 HEALTH AND HUMAN SERVICES,
+9 DEPARTMENT OF
+10 DEPARTMENT TOTALS 2025-26 2026-27
+11
+12 GENERAL FUND $0 $3,250,000
+13 __________ __________
+14 DEPARTMENT TOTAL - ALL FUNDS $0 $3,250,000
+158 '
+16 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+17 number to read consecutively.
+18 SUMMARY
+1199 This amendment replaces the bill. It shifts from July 1, 2025 to July 1, 2028 the
+2200 compliance date for the Department of Health and Human Services to create an Internet-
+2211 based, real-time database containing the information necessary to properly determine an
+2222 applicant's eligibility for general assistance. It requires the department to report to the joint
+2233 standing committee of the Legislature having jurisdiction over health and human services
+2244 matters by February 1, 2027 on its progress toward building a statewide general assistance
+2255 database. It also adds an appropriations and allocations section providing $2,800,000 in
+2266 one-time funding to the department to build the database and $450,000 in ongoing funding
+2277 to maintain the database.
+2288 FISCAL NOTE REQUIRED
+2299 (See attached)
+Page 2 - 132LR2801(02)
+COMMITTEE AMENDMENT

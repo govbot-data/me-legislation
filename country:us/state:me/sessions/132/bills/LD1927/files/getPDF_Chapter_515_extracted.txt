@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 515
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 515
+JANUARY 11, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+H.P. 1288 - L.D. 1927
+An Act to Add Mold to the Implied Warranty and Covenant of Habitability
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 14 MRSA §6021, sub-§1, as enacted by PL 1977, c. 401, §4, is repealed
+and the following enacted in its place:
+1. Definition. As used in this section, unless the context otherwise indicates, the
+following terms have the following meanings.
+A. "Dwelling unit" includes mobile homes, apartments, buildings and other structures,
+including the common areas thereof, that are rented for human habitation.
+B. "Leaking event" means a water leak from flooding or a system or structural failure,
+such as a failure of a roof, window, door, plumbing system, foundation or appliance.
+Sec. 2. 14 MRSA §6021, sub-§6-B is enacted to read:
+6-B. Mold; bacteria; other biological organisms. It is a breach of the implied
+warranty of fitness for human habitation when a landlord offers for rent a dwelling unit in
+which there is a leaking event, chronic moisture or humidity conditions outside of the
+control of a tenant that result in the growth of mold, bacteria or other biological organisms.
+A municipality may adopt more stringent standards by ordinance than those provided in
+this section.
+Page 1 - 132LR1868(05)

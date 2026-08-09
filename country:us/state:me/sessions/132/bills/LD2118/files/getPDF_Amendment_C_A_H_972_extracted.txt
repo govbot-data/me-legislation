@@ -1,0 +1,194 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-972)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2118
+2 Date: (Filing No. H- )
+3 AGRICULTURE, CONSERVATION AND FORESTRY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1433, L.D. 2118, “An Act to Eliminate
+10 the Natural Areas Program and Reassign Certain Responsibilities Under the Program to the
+11 Department of Inland Fisheries and Wildlife and to Amend the Law Governing
+12 Administration of the Department of Inland Fisheries and Wildlife, Bureau of Resource
+13 Management”
+14 Amend the bill in section 32 in sub-c. 4 in §12825 by inserting after the first indented
+15 paragraph the following:
+16 'This section is repealed September 30, 2029.'
+17 Amend the bill by striking out all of section 41.
+18 Amend the bill by inserting after section 44 the following:
+19 'Sec. 45. Report regarding rulemaking. No later than February 15, 2029, the
+20 Department of Inland Fisheries and Wildlife shall provide a report, including any findings
+21 and recommendations, to the joint standing committees of the Legislature having
+22 jurisdiction over inland fisheries and wildlife matters and agriculture, conservation and
+23 forestry matters regarding the effect of the prohibition established in the Maine Revised
+24 Statutes, Title 12, section 12825, which provides that the Commissioner of Inland Fisheries
+25 and Wildlife may not adopt rules to protect plants and plant communities under Title 12,
+26 chapter 925, subchapter 4 except when required for the conservation of rare fish or wildlife
+27 species, threatened fish or wildlife species or endangered fish or wildlife species. Each
+28 committee may submit legislation related to the subject matter of the report to the 134th
+29 Legislature in 2029.
+30 Sec. 46. Transfer of Personal Services balances to All Other; Department
+31 of Inland Fisheries and Wildlife, Resource Management Services - Inland
+32 Fisheries and Wildlife. Notwithstanding any provision of law to the contrary, for fiscal
+33 year 2026-27, the Department of Inland Fisheries and Wildlife is authorized to transfer up
+34 to $150,000 of available balances of Personal Services appropriations, after all salary,
+35 benefit and other obligations are met, to the All Other line category of the Resource
+36 Management Services - Inland and Fisheries Wildlife program, General Fund account for
+Page 1 - 132LR2633(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1433, L.D. 2118
+317 the purpose of funding early detection and rapid response efforts to eradicate invasive stilt
+328 grass. These amounts may be transferred by financial order upon the recommendation of
+339 the State Budget Officer and approval of the Governor. These transfers are not considered
+440 adjustments to appropriations.
+5 Sec. 47. Transfer of Personal Services balances to All Other; Department
+6 of Inland Fisheries and Wildlife, Resource Management Services - Inland
+7 Fisheries and Wildlife. Notwithstanding any provision of law to the contrary, for fiscal
+8 year 2026-27, the Department of Inland Fisheries and Wildlife is authorized to transfer up
+9 to $25,000 of available balances of Personal Services appropriations, after all salary,
+10 benefit and other obligations are met, to the All Other line category of the Resource
+11 Management Services - Inland Fisheries and Wildlife program, General Fund account for
+12 the purpose of funding an update to the State's official list of threatened and endangered
+13 plants. These amounts may be transferred by financial order upon the recommendation of
+14 the State Budget Officer and approval of the Governor. These transfers are not considered
+15 adjustments to appropriations.
+16 Sec. 48. Appropriations and allocations. The following appropriations and
+17 allocations are made.
+18 AGRICULTURE, CONSERVATION AND FORESTRY, DEPARTMENT OF
+19 Natural Areas Program Z821
+20 Initiative: Transfers one Public Service Manager II position, one Resource Management
+21 Coordinator position and 5 Biologist II positions from the Natural Areas Program within
+22 the Department of Agriculture, Conservation and Forestry to the Resource Management
+23 Services - Inland Fisheries and Wildlife program within the Department of Inland Fisheries
+24 and Wildlife. This initiative also transfers All Other funds from the Natural Areas Program
+25 within the Department of Agriculture, Conservation and Forestry to the Resource
+26 Management Services - Inland Fisheries and Wildlife program within the Department of
+27 Inland Fisheries and Wildlife.
+28 GENERAL FUND 2025-26 2026-27
+29 Personal Services $0 ($418,180)
+30 All Other $0 ($66,242)
+31 __________ __________
+32 GENERAL FUND TOTAL $0 ($484,422)
+3238
+34 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+35 Personal Services $0 ($179,238)
+36 All Other $0 ($133,082)
+37 __________ __________
+38 FEDERAL EXPENDITURES FUND TOTAL $0 ($312,320)
+3394
+40 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+41 Personal Services $0 ($302,202)
+42 All Other $0 ($605,699)
+43 __________ __________
+Page 2 - 132LR2633(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1433, L.D. 2118
+1 OTHER SPECIAL REVENUE FUNDS TOTAL $0 ($907,901)
+21
+3 AGRICULTURE, CONSERVATION AND
+4 FORESTRY, DEPARTMENT OF
+5 DEPARTMENT TOTALS 2025-26 2026-27
+6
+7 GENERAL FUND $0 ($484,422)
+8 FEDERAL EXPENDITURES FUND $0 ($312,320)
+9 OTHER SPECIAL REVENUE FUNDS $0 ($907,901)
+10 __________ __________
+11 DEPARTMENT TOTAL - ALL FUNDS $0 ($1,704,643)
+123 INLAND FISHERIES AND WILDLIFE, DEPARTMENT OF
+13 Natural Areas Conservation Fund N548
+14 Initiative: Provides baseline allocation to establish the account.
+15 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+16 All Other $0 $500
+17 __________ __________
+18 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $500
+1195 Resource Management Services - Inland Fisheries and Wildlife 0534
+20 Initiative: Transfers one Public Service Manager II position, one Resource Management
+21 Coordinator position and 5 Biologist II positions from the Natural Areas Program within
+22 the Department of Agriculture, Conservation and Forestry to the Resource Management
+23 Services - Inland Fisheries and Wildlife program within the Department of Inland Fisheries
+24 and Wildlife. This initiative also transfers All Other funds from the Natural Areas Program
+25 within the Department of Agriculture, Conservation and Forestry to the Resource
+26 Management Services - Inland Fisheries and Wildlife program within the Department of
+27 Inland Fisheries and Wildlife.
+28 GENERAL FUND 2025-26 2026-27
+29 Personal Services $0 $418,180
+30 All Other $0 $66,242
+31 __________ __________
+32 GENERAL FUND TOTAL $0 $484,422
+3238
+34 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+35 Personal Services $0 $179,238
+36 All Other $0 $133,082
+37 __________ __________
+38 FEDERAL EXPENDITURES FUND TOTAL $0 $312,320
+3394
+40 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+41 Personal Services $0 $302,202
+42 All Other $0 $605,699
+Page 3 - 132LR2633(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1433, L.D. 2118
+1 __________ __________
+2 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $907,901
+31
+4 INLAND FISHERIES AND WILDLIFE,
+5 DEPARTMENT OF
+6 DEPARTMENT TOTALS 2025-26 2026-27
+7
+8 GENERAL FUND $0 $484,422
+9 FEDERAL EXPENDITURES FUND $0 $312,320
+10 OTHER SPECIAL REVENUE FUNDS $0 $908,401
+11 __________ __________
+12 DEPARTMENT TOTAL - ALL FUNDS $0 $1,705,143
+134
+14 SECTION TOTALS 2025-26 2026-27
+15
+16 GENERAL FUND $0 $0
+17 FEDERAL EXPENDITURES FUND $0 $0
+18 OTHER SPECIAL REVENUE FUNDS $0 $500
+19 __________ __________
+20 SECTION TOTAL - ALL FUNDS $0 $500
+2114 '
+22 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+23 number to read consecutively.
+24 SUMMARY
+2255 This amendment repeals on September 30, 2029 the provision of the bill that prohibits
+2266 the Commissioner of Inland Fisheries and Wildlife from adopting rules to protect plants
+2277 and plant communities except when required for the conservation of rare fish or wildlife
+2288 species, threatened fish or wildlife species or endangered fish or wildlife species.
+29 The amendment directs the Department of Inland Fisheries and Wildlife to provide a
+30 report, including any findings and recommendations, to the joint standing committees of
+31 the Legislature having jurisdiction over inland fisheries and wildlife matters and
+32 agriculture, conservation and forestry matters regarding the effect of this prohibition. Each
+33 committee may submit legislation related to the subject matter of the report to the 134th
+34 Legislature in 2029.
+35 The amendment allows the Department of Inland Fisheries and Wildlife to transfer
+36 funds from available balances of Personal Services appropriations to the Resource
+37 Management Services - Inland Fisheries and Wildlife program for the purposes of funding
+38 early detection and rapid response efforts to eradicate invasive stilt grass and funding an
+39 update to the State's official list of threatened and endangered plants.
+40 The amendment also removes from the bill a provision allowing the Department of
+41 Inland Fisheries and Wildlife to determine that a municipality has a comprehensive land
+42 use plan in providing for the protection of wildlife habitat, fisheries, unusual natural areas
+Page 4 - 132LR2633(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1433, L.D. 2118
+413 and archaeological and historic sites for the purposes of an exemption from review for the
+424 determination of municipal capacity for a site location of development.
+435 The amendment adds an appropriations and allocations section.
+446 FISCAL NOTE REQUIRED
+457 (See attached)
+Page 5 - 132LR2633(02)
+COMMITTEE AMENDMENT

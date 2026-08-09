@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 615
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 3, 2026 615
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1416 - L.D. 2101
+An Act to Establish a Monetary Penalty for Employers Whose
+Unemployment Payment Is Returned Unpaid
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 26 MRSA §1225, sub-§9 is enacted to read:
+9. Returned payments. If any payment made under this chapter is returned unpaid
+for any reason, including but not limited to insufficient funds, account closure,
+nonexistence of the account, stop-payment order or any other cause, the commissioner shall
+assess a penalty equal to $25 or 1% of the payment amount, whichever is greater.
+Sec. 2. Appropriations and allocations. The following appropriations and
+allocations are made.
+LABOR, DEPARTMENT OF
+Employment Security Services 0245
+Initiative: Allocates funding for bank fees charged for returned payments made under the
+Employment Security Law.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+All Other $0 $7,000
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $7,000
+Page 1 - 132LR2689(03)

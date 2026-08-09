@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-610)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2224
+2 Date: (Filing No. S- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 907, L.D. 2224, “An Act to Reduce
+10 Certain Costs Associated with Residential Construction”
+11 Amend the bill by striking out all of sections 1, 2 and 3 and inserting the following:
+12 'Sec. 1. 10 MRSA §9722, sub-§2, as amended by PL 2025, c. 597, Pt. A, §9, is
+13 further amended to read:
+14 2. Membership. The board consists of 12 13 members, including the Director of the
+15 Efficiency Maine Trust, who serves ex officio and may not vote, and the following 11 12
+16 individuals, who are voting members appointed by the Governor:
+17 A. The State Fire Marshal or a designee or a fire chief, recommended by the Maine
+18 Fire Chiefs' Association or its successor organization;
+19 B. A municipal code enforcement officer employed by a municipality that is not a
+20 service center community under Title 30‑A, chapter 187, recommended by the Maine
+21 Municipal Association or its successor organization;
+22 C. A municipal code enforcement officer employed by a service center community
+23 under Title 30‑A, chapter 187, recommended by the Maine Service Centers Coalition
+24 or its successor organization;
+25 D. A residential builder recommended by a statewide or regional association of home
+26 builders and remodelers;
+27 E. A commercial builder recommended by a statewide association of general
+28 contractors;
+29 F. An architect licensed in the State who is accredited by a nationally recognized
+30 organization that administers credentialing programs related to environmentally sound
+31 building practices and standards, recommended by a statewide chapter of a national
+32 institute of architects;
+33 G. A structural engineer licensed in the State, recommended by a statewide association
+34 of structural engineers;
+Page 1 - 132LR3035(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 907, L.D. 2224
+1 H. A historic preservation representative, recommended by the Maine Historic
+2 Preservation Commission, with experience implementing the standards for the
+3 treatment of historic properties set forth in 36 Code of Federal Regulations, Part 68
+4 (2007), who is:
+5 (1) An architect licensed in the State;
+6 (2) A structural engineer licensed in the State; or
+7 (3) A builder;
+8 I. An energy efficiency representative, recommended by the Commissioner of Energy
+9 Resources, who has experience or expertise in the design or implementation of energy
+10 codes or in the application of energy efficiency measures in residential or commercial
+11 construction;
+12 J. A mechanical engineer licensed in the State, recommended by a statewide
+13 association of mechanical engineers; and
+14 K. A lumber material dealer or supplier, recommended by a statewide association of
+15 lumber dealers in the State.; and
+16 L. An affordable housing expert, recommended by a statewide association
+17 representing affordable housing interests.
+18 A member appointed under this subsection must have at least 5 years' experience in the
+19 field that member is nominated to represent and must be employed in that field.
+20 Sec. 2. Technical Building Codes and Standards Board; hoistway fire
+21 safety rulemaking; report. By September 1, 2026, the Technical Building Codes and
+22 Standards Board, established in the Maine Revised Statutes, Title 5, section 12004-G,
+23 subsection 5-A, shall initiate rulemaking to remove any requirements in the Maine Uniform
+24 Building and Energy Code for smoke and draft protection assemblies for elevator hoistway
+25 doors and remove requirements for 2-way emergency video communication systems in
+26 elevators. The board shall report to the joint standing committee of the Legislature having
+27 jurisdiction over housing matters on the outcome of rulemaking required by this section by
+28 January 15, 2027. The joint standing committee is authorized to submit legislation based
+29 on the board's report to the 133rd Legislature in 2027.'
+30 Amend the bill by striking out all of section 5 and inserting the following:
+31 'Sec. 5. Office of State Fire Marshal to convene working group to study
+32 costs and life safety impacts of fire sprinklers and limited use limited
+33 application elevators; report. The Department of Public Safety, Office of the State
+34 Fire Marshal shall convene a working group, referred to in this section as "the working
+35 group," to study the housing and life safety impacts of residential fire sprinklers and the
+36 accessibility and life safety impacts of permitting limited use limited application elevators
+37 in 2-story and 3-story buildings. In conducting its work, the working group shall explore
+38 ways to lower the costs associated with the requirement that construction of residential
+39 housing include fire sprinkler systems.
+40 1. The State Fire Marshal or the State Fire Marshal's designee shall invite the
+41 participation in the working group of the following persons: a representative from the fire
+42 sprinkler industry; a municipal fire safety officer; a representative from the housing
+Page 2 - 132LR3035(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 907, L.D. 2224
+413 development industry; and any additional persons considered necessary by the State Fire
+424 Marshal to ensure comprehensive stakeholder representation.
+3 2. The working group shall:
+4 A. Conduct a comprehensive review of the existing sprinkler system requirements for
+5 residential buildings with 3 or more units and the affiliated costs of the sprinkler
+6 systems;
+7 B. Collect and analyze data on the housing and life safety impacts of residential fire
+8 sprinkler systems, including, but not limited to, the frequency of the presence of
+9 sprinkler systems in reported house fires and the estimated impact on financial loss and
+10 life safety impact;
+11 C. Explore innovative incentives to reduce the associated costs of installing sprinkler
+12 systems in residential construction;
+13 D. Develop recommendations for legislative and regulatory changes to reduce the
+14 costs of installing required residential sprinkler systems;
+15 E. Conduct a comprehensive review of the existing elevator requirements and the
+16 affiliated costs for residential buildings with 4 or more units;
+17 F. Collect and analyze data on the accessibility and life safety impacts of limited use
+18 limited application elevators in buildings with fewer than 4 stories; and
+19 G. If determined appropriate by working group members, develop recommendations
+20 for legislative and regulatory changes to the codes and standards permitting limited use
+21 limited application elevators.
+22 3. The Office of the State Fire Marshal shall provide staff assistance to the working
+23 group.
+24 4. By January 15, 2027, the Office of the State Fire Marshal shall submit a report on
+25 the working group's findings and recommendations, including proposed legislation, to the
+26 joint standing committee of the Legislature having jurisdiction over housing matters. The
+27 joint standing committee is authorized to submit legislation based on the report to the 133rd
+28 Legislature in 2027.'
+29 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+30 number to read consecutively.
+31 SUMMARY
+3322 This amendment removes the provisions of the bill that exclude from the Maine
+3333 Uniform Building and Energy Code the requirements that elevators have a 2-way
+3344 communication system and smoke partitions. The amendment directs the Technical
+3355 Building Codes and Standards Board to initiate rulemaking to remove any requirement in
+3366 the Maine Uniform Building and Energy Code for smoke and draft protection assemblies
+3377 for elevator hoistway doors and remove requirements for 2-way emergency video
+3388 communication systems in elevators. The amendment increases the membership of the
+3399 board. The amendment also changes the duties of the working group required in the bill to
+Page 3 - 132LR3035(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 907, L.D. 2224
+410 provide that the working group must study the costs and life safety impacts of residential
+421 fire sprinklers and limited use limited application elevators.
+432 FISCAL NOTE REQUIRED
+443 (See attached)
+Page 4 - 132LR3035(02)
+COMMITTEE AMENDMENT

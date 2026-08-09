@@ -1,0 +1,212 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-567)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1804
+2 Date: (Filing No. S- )
+3 TRANSPORTATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 704, L.D. 1804, “An Act Concerning
+10 Funding and Oversight of Transportation Matters”
+11 Amend the bill by striking out all of section 1 and inserting the following:
+12 'Sec. 1. 3 MRSA §521, as enacted by PL 1981, c. 702, Pt. S, is repealed and the
+13 following enacted in its place:
+14 §521. Committees
+15 1. Oversight of financial matters. The joint standing committee of the Legislature
+16 having jurisdiction over appropriations and financial affairs is authorized to provide
+17 oversight of financial matters, excluding financial matters described in subsection 2 or
+18 those items over which the Legislative Council has statutory authority.
+19 2. Oversight of Highway Fund. The joint standing committee of the Legislature
+20 having jurisdiction over transportation matters is authorized to provide oversight of
+21 financial matters related to the Highway Fund, including all allocations and subdivisions
+22 of an allocation from the Highway Fund and excluding those items over which the
+23 Legislative Council has statutory authority.
+24 Sec. 2. 3 MRSA §522, as amended by PL 1997, c. 24, Pt. DD, §1, is further amended
+25 to read:
+26 §522. Purpose and powers
+27 The joint standing committee of the Legislature having jurisdiction over appropriations
+28 and financial affairs, referred to in this section as "the committee," shall oversee the transfer
+29 of funds in accordance with Title 5, section 1585, the transfer of funds in accordance with
+30 any other provision of law, block grant changes in accordance with Title 5, section 1670
+31 and any other related fiscal matters, except that the committee may not oversee any
+32 financial matters that are overseen by the joint standing committee of the Legislature
+33 having jurisdiction over transportation matters pursuant to section 522-C. The committee
+34 shall also review all other financial orders that have been submitted to the Office of Fiscal
+35 and Program Review since the last meeting, except for those financial orders reviewed by
+Page 1 - 132LR1627(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 704, L.D. 1804
+316 the joint standing committee of the Legislature having jurisdiction over transportation
+327 matters pursuant to section 522-C. The committee may meet monthly or as often as is
+338 determined necessary by the chairs.'
+4 Amend the bill in section 2 in §522-C in the first indented paragraph in the 3rd line
+5 (page 1, line 20 in L.D.) by inserting after the following: "changes" the following:
+6 'pertaining to transportation matters'
+7 Amend the bill in section 2 in §522-C in the first indented paragraph in the 5th line
+8 (page 1, line 22 in L.D.) by striking out the following: "or" and inserting the following: ';'
+9 Amend the bill in section 2 in §522-C in the first indented paragraph in the 5th line
+10 (page 1, line 22 in L.D.) by inserting after the following: "Vehicles" the following: '; and
+11 the Department of Public Safety, Bureau of Highway Safety and Bureau of State Police
+12 pursuant to Title 23, section 1653, subsections 2-A and 2-B'
+13 Amend the bill by striking out all of section 3 and inserting the following:
+14 'Sec. 3. 5 MRSA §1585, sub-§1, as amended by PL 2009, c. 291, §1, is further
+15 amended to read:
+16 1. Transfer procedures. Any balance of any appropriation or subdivision of an
+17 appropriation made by the Legislature for any state department or agency, except for those
+18 balances transferred in accordance with Title 23, section 1652, which at any time may not
+19 be required for the purpose named in such appropriations or subdivision, may be transferred
+20 at any time prior to the closing of the books to any other appropriation or subdivision of an
+21 appropriation made by the Legislature for the use of the same department or agency for the
+22 same fiscal year subject to review by the joint standing committee of the Legislature having
+23 jurisdiction over appropriations and financial affairs. Financial orders describing such
+24 transfers must be submitted by the Bureau of the Budget to the Office of Fiscal and Program
+25 Review 30 days before the transfer is to be implemented. In case of extraordinary
+26 emergency transfers, the 30-day prior submission requirement may be waived by vote of
+27 the committee. Positions, or funding for those positions, that are currently funded with
+28 federal or other funds may not be transferred by financial order to the General Fund.
+29 Financial orders proposing to transfer 4th or 3rd quarter allotments to the 3rd, 2nd or 1st
+30 quarters that result from trends that will cause financial commitments to exceed current
+31 appropriations or allocations are subject to the provisions of this section. The Department
+32 of Health and Human Services is authorized to transfer funds within the TANF program
+33 account to the ASPIRE-TANF program account as often as necessary in order to support
+34 and assist participants in obtaining or retaining employment during the fiscal year. In
+35 making a transfer of TANF program funds to the ASPIRE-TANF program account, the
+36 department does not need to submit a financial order to the committee in advance of the
+37 transfer. For purposes of this subsection, "TANF" and "ASPIRE-TANF program" have the
+38 same meaning as in Title 22, section 3762, subsection 1, paragraph E and Title 22, section
+39 3781‑A, subsection 1, respectively.
+40 Sec. 4. 5 MRSA §1664-A is enacted to read:
+41 §1664-A. Baseline Highway Fund expenditure and appropriation requirements for
+42 capital
+43 Beginning July 1, 2027, the baseline expenditure and appropriation requirements,
+44 submitted to the State Budget Officer pursuant to section 1665, for capital expenditures in
+Page 2 - 132LR1627(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 704, L.D. 1804
+415 the Department of Transportation, Highway and Bridge Capital; Highway Light Capital;
+426 and Multimodal Transportation Fund programs must be no less than:
+3 1. Highway and Bridge Capital program. For the Department of Transportation,
+4 Highway and Bridge Capital program, $150,000,000;
+5 2. Highway Light Capital program. For the Department of Transportation, Highway
+6 Light Capital program, $20,000,000; and
+7 3. Multimodal Transportation Fund program. For the Department of
+8 Transportation, Multimodal Transportation Fund program, $30,000,000.
+9 Beginning in 2030 and in every even-numbered year thereafter, on or before September
+10 1st, the State Budget Officer shall adjust the baseline expenditure requirements outlined in
+11 this section by the percentage change in the Consumer Price Index, as defined in section
+12 17001, subsection 9, from the 2 complete calendar years preceding the biennial budget.'
+13 Amend the bill by inserting after section 4 the following:
+14 'Sec. 5. 23 MRSA c. 19, sub-c. 4, headnote is amended to read:
+15 SUBCHAPTER 4
+16 GENERAL HIGHWAY FUND'
+17 Amend the bill in section 6 in §1653 by inserting after subsection 2 the following:
+18 '2-A. State police. Beginning July 1, 2027, for the Department of Public Safety,
+19 Bureau of State Police for the purposes described in Title 25, section 1509-B, subsection
+20 2;
+21 2-B. Highway safety. Beginning July 1, 2027, for the administration of the
+22 Department of Public Safety, Bureau of Highway Safety;'
+23 Amend the bill in section 6 in §1653 in subsection 5 in the first line (page 3, line 18 in
+24 L.D.) by striking out the following: "said tax" and inserting the following: 'said tax the tax
+25 described in subsection 4'
+26 Amend the bill in section 6 in §1653 in subsection 8 in the first line (page 3, line 22 in
+27 L.D.) by striking out the following: "Pursuant to" and inserting the following: 'Subject to
+28 the limitations in'
+29 Amend the bill by striking out all of section 7.
+30 Amend the bill in section 8 in §1984 in the first indented paragraph in the first line
+31 (page 4, line 10 in L.D.) by striking out the following: "2026" and inserting the following:
+32 '2028'
+33 Amend the bill in section 9 in §4241 in subsection 1 in the 2nd line (page 4, line 22 in
+34 L.D.) by inserting after the following: "including" the following: 'public'
+35 Amend the bill in section 10 in §4245 in the first indented paragraph in the first line
+36 (page 4, line 37 in L.D.) by striking out the following: "2026" and inserting the following:
+37 '2028'
+38 Amend the bill by striking out all of section 11 and inserting the following:
+Page 3 - 132LR1627(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 704, L.D. 1804
+1 'Sec. 11. 25 MRSA §1509-A, as amended by PL 2013, c. 354, Pt. F, §1 and c. 368,
+2 Pt. EEE, §1, is repealed.
+3 Sec. 12. 25 MRSA §1509-B is enacted to read:
+4 §1509-B. Funding
+5 1. Funding from General Fund. Beginning in fiscal year 2027-28, state funding for
+6 the Department of Public Safety, Bureau of State Police for the following purposes must
+7 be appropriated from the General Fund:
+8 A. Patrolling rural areas of the State without organized police departments; enforcing
+9 highway safety laws in rural areas and on the Maine Turnpike and the interstate system;
+10 investigating homicides that occur outside Portland and Bangor; investigating child
+11 abuse cases; providing crime laboratory services to all law enforcement agencies; and
+12 providing a repository for criminal history records information; and
+13 B. Providing clerical support for the field troops of the State Police.
+14 2. Funding from Highway Fund. Beginning in fiscal year 2027-28, state funding for
+15 the Department of Public Safety, Bureau of State Police for the following purposes must
+16 be allocated from the Highway Fund:
+17 A. Providing accident reconstruction and training services and maintaining the
+18 statewide crash reporting system, including services provided by the Bureau of State
+19 Police air wing program;
+20 B. Overseeing and enforcing the laws regarding weight, dimension and protection of
+21 ways and ensuring compliance with federal motor vehicle commercial hours of service
+22 regulations by checking vehicle log books; and
+23 C. Administering and enforcing the motor vehicle inspection program, including
+24 issuing stickers and authorizing garages to perform the inspections.'
+25 Amend the bill in section 13 in the indented paragraph in the first line (page 5, line 16
+26 in L.D.) by striking out the following: "2026" and inserting the following: '2027'
+27 Amend the bill in section 13 in the indented paragraph in the 7th line (page 5, line 22
+28 in L.D.) by striking out the following: "60%" and inserting the following: '100%'
+29 Amend the bill by striking out all of section 14 and inserting the following:
+30 'Sec. 14. Effective date. Those sections of this Act that repeal and replace the Maine
+31 Revised Statutes, Title 3, section 521 and Title 30-A, section 6054, subsection 5 and that
+32 repeal Title 25, section 1509-A and that enact Title 25, section 1509-B take effect July 1,
+33 2027.'
+34 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+35 number to read consecutively.
+36 SUMMARY
+3377 This amendment, which is the minority report of the committee, makes the following
+3388 changes to the bill.
+Page 4 - 132LR1627(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 704, L.D. 1804
+1 1. It excludes financial matters related to the Highway Fund, including transfers of
+2 allocations from the Highway Fund, from oversight by the joint standing committee of the
+3 Legislature having jurisdiction over appropriations and financial affairs.
+4 2. It clarifies that use of the Highway Fund for the multimodal transportation fund is
+5 subject to limitations provided in the Constitution of Maine, Article IX, Section 19.
+6 3. It removes provisions of the bill that require allocations from the Highway Fund to
+7 meet minimum funding levels for construction and maintenance of highway bridges, lights
+8 and multimodal transportation and replaces those provisions with language that establishes,
+9 beginning July 1, 2027, baseline expenditure requirements to be used for capital in the
+10 Department of Transportation, Highway and Bridge Capital; Highway Light Capital; and
+11 Multimodal Transportation Fund programs.
+12 4. It requires, beginning in fiscal year 2030-31, the State Budget Officer to adjust the
+13 baseline for the Highway and Bridge Capital, Highway Light Capital and Multimodal
+14 Transportation Fund programs in the Department of Transportation by the percentage
+15 change in the Consumer Price Index from the 2 complete calendar years preceding the
+16 biennial budget on or before September 1st of each even-numbered year.
+17 5. It requires that, beginning in fiscal year 2027-28, state funding for the Department
+18 of Public Safety, Bureau of State Police is no longer divided to require 35% from the
+19 Highway Fund and 65% from the General Fund, but instead requires that certain functions
+20 of the bureau be funded by the Highway Fund and certain other functions be funded by the
+21 General Fund.
+22 6. It clarifies that, beginning July 1, 2027, the Highway Fund may be used to fund the
+23 administration of the Department of Public Safety, Bureau of State Police for certain
+24 specified purposes only. It also provides that the Highway Fund may be used to fund the
+25 Department of Public Safety, Bureau of Highway Safety.
+26 7. It modifies language in the bill that amends the Maine Revised Statutes, Title 36,
+27 section 1821 by increasing from 60% to 100% the percentage of revenue from automobile-
+28 related sales and use taxes that must be transferred from the General Fund to the Highway
+29 Fund beginning July 1, 2027.
+3300 FISCAL NOTE REQUIRED
+3311 (See attached)
+Page 5 - 132LR1627(02)
+COMMITTEE AMENDMENT

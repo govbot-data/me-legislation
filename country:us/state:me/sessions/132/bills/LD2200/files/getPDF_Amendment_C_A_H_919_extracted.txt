@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-919)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2200
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1479, L.D. 2200, “An Act to Prohibit
+10 Noncompete Clauses for Health Care Professionals as Recommended by the Commission
+11 to Evaluate the Scope of Regulatory Review and Oversight over Health Care Transactions
+12 That Impact the Delivery of Health Care Services in the State ”
+13 Amend the bill by striking out the title and substituting the following:
+14 'An Act Relating to Noncompete Agreements Between Employers and Health Care
+15 Practitioners'
+16 Amend the bill by striking out everything after the enacting clause and inserting the
+17 following:
+18 'Sec. 1. 26 MRSA §599-A, sub-§1, ¶A-1 is enacted to read:
+19 A-1. "Health care practitioner" means an individual qualified or licensed under state
+20 law to perform or provide health care services to persons in the State.
+21 Sec. 2. 26 MRSA §599-A, sub-§2, as enacted by PL 2019, c. 513, §1, is amended
+22 by enacting at the end a new last blocked paragraph to read:
+23 A noncompete agreement between an employer and a health care practitioner that is
+24 enforceable under this subsection must recognize an individual's right to choose that
+25 individual's own health care practitioner.
+26 Sec. 3. 26 MRSA §599-A, sub-§5, as enacted by PL 2019, c. 513, §1, is amended
+27 to read:
+28 5. Effective date of a noncompete agreement. Except for a noncompete agreement
+29 between an employer and an allopathic physician or an osteopathic physician licensed
+30 under Title 32, chapter 48 or chapter 36, respectively a health care practitioner, the terms
+31 of a noncompete agreement do not take effect until after one year of the employee's
+32 employment with the employer or a period of 6 months from the date the agreement was
+33 signed, whichever is later.
+Page 1 - 132LR3026(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1479, L.D. 2200
+1 Sec. 4. Application. This Act applies to all noncompete agreements entered into or
+2 renewed on or after the effective date of this Act.'
+3 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+4 number to read consecutively.
+5 SUMMARY
+66 This amendment, which is the majority report of the committee, changes the title and
+77 replaces the bill. The amendment requires that any noncompete agreement between an
+88 employer and a health care practitioner that is enforceable must recognize an individual's
+99 right to choose the individual's own health care practitioner.
+10 Under current law, the terms of noncompete agreements between employers and
+11 allopathic physicians or osteopathic physicians may take effect at any time, unlike the terms
+12 of noncompete agreements for other types of employees, which may not go into effect for
+13 a certain period of time. The amendment replaces the language referring to physicians in
+14 current law with language referring to all types of health care practitioners.
+Page 2 - 132LR3026(02)
+COMMITTEE AMENDMENT

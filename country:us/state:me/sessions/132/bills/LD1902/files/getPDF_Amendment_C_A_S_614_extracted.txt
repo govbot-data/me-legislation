@@ -1,0 +1,490 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-614)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1902
+2 Date: (Filing No. S- )
+3 VETERANS AND LEGAL AFFAIRS
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902, “An Act to Support
+10 Nonprofit Organizations by Authorizing the Operation of Electronic Lucky Seven Devices
+11 and Similar Sealed Ticket Games”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Authorize the Operation of Electronic Sealed Ticket Games by Certain
+14 Qualifying Fraternal, Patriotic or Veterans' Organizations'
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 17 MRSA §324-A, sub-§2, ¶C, as amended by PL 2025, c. 424, §5, is
+18 further amended to read:
+19 C. Sealed ticket game tickets may be sold when that game of chance is registered with
+20 the Gambling Control Unit and when a valid license or registration certificate is
+21 properly displayed. Notwithstanding the other provisions any provision of this section
+22 and section 312 to the contrary, sealed ticket games may be conducted during the period
+23 beginning 2 hours before and ending 2 hours after a "beano" game at any time as
+24 authorized by the registration issued under section 1832.
+25 Notwithstanding any other rule provision of law to the contrary, sealed ticket game
+26 tickets may be sold that have a sale value of $1 or less, and a person who sells or
+27 distributes "beano" cards or materials used to play "beano" prior to the conduct of
+28 "beano" as a volunteer, as provided in this section, is permitted to play in the "beano"
+29 game.
+30 Sec. 2. 17 MRSA §1831, sub-§3, as amended by PL 2025, c. 424, §9, is further
+31 amended to read:
+32 3. Distributor. "Distributor" means a person, firm, corporation, association or
+33 organization, other than an Internet raffle operator or an electronic sealed ticket game
+34 system distributor, that sells, markets or otherwise distributes sealed ticket games,
+Page 1 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+315 gambling apparatus or any other implements of gambling that may be used in the conduct
+326 of a game of chance.
+3 Sec. 3. 17 MRSA §1831, sub-§3-A is enacted to read:
+4 3-A. Electronic sealed ticket game. "Electronic sealed ticket game" means a sealed
+5 ticket game in which the tickets or cards are represented digitally and the digital tickets or
+6 cards are displayed on the screen of an electronic sealed ticket game terminal.
+7 Sec. 4. 17 MRSA §1831, sub-§3-B is enacted to read:
+8 3-B. Electronic sealed ticket game system. "Electronic sealed ticket game system"
+9 means a system composed of electronic sealed ticket game terminals, electronic sealed
+10 ticket games and any electronic devices used to facilitate the operation of electronic sealed
+11 ticket game terminals, including all related hardware and software.
+12 Sec. 5. 17 MRSA §1831, sub-§3-C is enacted to read:
+13 3-C. Electronic sealed ticket game system distributor. "Electronic sealed ticket
+14 game system distributor" means a person, firm, corporation, association or organization
+15 that leases or otherwise distributes electronic sealed ticket game systems.
+16 Sec. 6. 17 MRSA §1831, sub-§3-D is enacted to read:
+17 3-D. Electronic sealed ticket game terminal. "Electronic sealed ticket game
+18 terminal" means an electronic device that, upon the insertion of cash or a voucher, allows
+19 a person to play an electronic sealed ticket game for which the element of chance is
+20 provided by the electronic sealed ticket game tickets or cards and not by the electronic
+21 sealed ticket game terminal. "Electronic sealed ticket game terminal" does not include a
+22 dispenser as defined in section 314-A, subsection 1-A and is not a machine.
+23 Sec. 7. 17 MRSA §1832, sub-§3, as amended by PL 2023, c. 391, §3, is further
+24 amended to read:
+25 3. Must be 18 years of age. The Gambling Control Unit may not accept a registration
+26 to conduct a game night, a game of chance, a raffle or certain tournament games or accept
+27 an application from or issue a license for electronic sealed ticket games, card games and
+28 certain tournament games under this section to a person or representative of an eligible
+29 organization or committee who is not 18 years of age or older.
+30 Sec. 8. 17 MRSA §1832, sub-§9 is enacted to read:
+31 9. Electronic sealed ticket game license; application. The Gambling Control Unit
+32 may issue a license to operate electronic sealed ticket games to a bona fide fraternal,
+33 patriotic or veterans' organization that is eligible for a license under subsection 2 and that
+34 has restricted social quarters on the organization's premises designated for use
+35 predominately by members of the organization for social and recreational activities, that is
+36 accessible exclusively to members of the organization and their guests and that is not
+37 advertised to or open to the general public. An organization seeking a license to operate
+38 electronic sealed ticket games shall submit an application in a form provided by the
+39 Gambling Control Unit and signed by a duly authorized officer of the organization. The
+40 application must include the full name and address of the organization, the number of
+41 electronic sealed ticket game terminals to be operated, a description of the restricted social
+42 quarters on the premises where the electronic sealed ticket game terminals will be located
+Page 2 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+413 and any other information determined necessary by the Gambling Control Unit for the
+424 issuance of a license to operate electronic sealed ticket games.
+3 Sec. 9. 17 MRSA §1834, sub-§2-A is enacted to read:
+4 2-A. Operation of electronic sealed ticket games. The fee for a license to operate
+5 electronic sealed ticket games is $1,000 per electronic sealed ticket game terminal for a
+6 calendar year.
+7 Sec. 10. 17 MRSA §1834, sub-§5-B is enacted to read:
+8 5-B. Electronic sealed ticket game system distributor. The fee for a license issued
+9 to an electronic sealed ticket game system distributor is $5,000 for each calendar year or
+10 portion of a calendar year.
+11 Sec. 11. 17 MRSA §1835-C is enacted to read:
+12 §1835-C. Operation of electronic sealed ticket games
+13 The following provisions apply to the operation of electronic sealed ticket games by
+14 organizations issued a license under section 1832, subsection 9.
+15 1. Eligible premises; definition. For the purposes of this section, "eligible premises"
+16 means the restricted social quarters on the premises of a licensed organization designated
+17 for use predominately by members of the organization for social and recreational activities,
+18 that are accessible exclusively to members of the organization and their guests and that are
+19 not advertised or open to the general public and were included on the application for a
+20 license under section 1832, subsection 9.
+21 2. Electronic sealed ticket game system; operation. A licensed organization may
+22 lease an electronic sealed ticket game system only from a licensed electronic sealed ticket
+23 game system distributor. An electronic sealed ticket game system must include a method
+24 for players to redeem vouchers issued by an electronic sealed ticket game terminal. An
+25 electronic sealed ticket game system may be operated only by duly authorized members of
+26 the licensed organization or by persons employed by the licensed organization for another
+27 purpose within the eligible premises. A person under 18 years of age may not operate an
+28 electronic sealed ticket game system.
+29 3. Electronic sealed ticket game terminals. An electronic sealed ticket game
+30 terminal must be certified by an independent testing laboratory approved by the director.
+31 An electronic sealed ticket game terminal may be moved into, out of or within the State
+32 only by a licensed electronic sealed ticket game system distributor. An electronic sealed
+33 ticket game terminal may issue to a player only a printed voucher for any prize, including
+34 a monetary prize or single set of prizes won by that player, or for any remaining amount
+35 due to the player at the end of play. An electronic sealed ticket game terminal may not
+36 dispense cash to a player.
+37 4. Number and location of electronic sealed ticket game terminals. A licensed
+38 organization may operate the following number of electronic sealed ticket game terminals
+39 per eligible premises of the licensed organization:
+40 A. No more than 4 electronic sealed ticket game terminals for a licensed organization
+41 with fewer than 100 members; or
+Page 3 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+1 B. No more than 8 electronic sealed ticket game terminals for a licensed organization
+2 with 100 or more members.
+3 Notwithstanding paragraph B, a licensed organization with eligible premises that are
+4 located within a 35-mile radius of a casino licensed under Title 8, chapter 31 may operate
+5 no more than 4 electronic sealed ticket game terminals on those premises.
+6 5. Hours of operation. A licensed organization may permit the operation of electronic
+7 sealed ticket game terminals for no more than 12 hours during any day, except that an
+8 electronic sealed ticket game terminal may not be operated between 2:00 a.m. and 10:00
+9 a.m. and may not be operated during any time when the eligible premises are being used
+10 for an event at which the majority of participants are under 18 years of age or the majority
+11 of participants are members of the public.
+12 6. Number of tickets or cards per electronic sealed ticket game. An electronic
+13 sealed ticket game terminal may offer more than one electronic sealed ticket game. Each
+14 electronic sealed ticket game must contain a fixed number of tickets or cards, which may
+15 not exceed 25,000.
+16 7. Games played by members and guests; age requirements. An electronic sealed
+17 ticket game may be played only by a member of the licensed organization or by that
+18 member's guest. A person under 18 years of age is not permitted to play electronic sealed
+19 ticket games.
+20 8. Wagers. The maximum value for each ticket or card within an electronic sealed
+21 ticket game is the same as the maximum bet for a licensed game of chance under section
+22 1835-A, subsection 1, paragraph A.
+23 9. Revenue; compensation; fees. An electronic sealed ticket game may be operated
+24 only for the exclusive benefit of the licensed organization, except that:
+25 A. No more than 20% of the gross revenue from the operation of electronic sealed
+26 ticket games may be used to compensate those duly authorized members or employees
+27 of the licensed organization who operate electronic sealed ticket games;
+28 B. No more than 30% of the gross revenue from the operation of electronic sealed
+29 ticket games may be paid to the electronic sealed ticket game system distributor as a
+30 leasing fee under a contract approved by the director;
+31 C. The director may collect from each licensed organization a fee equal to 1% of the
+32 gross revenue from the operation of electronic sealed ticket games for the purpose of
+33 paying administrative expenses. The fee must be deposited in the Gambling Control
+34 Unit administrative expenses Other Special Revenue Funds account, which is a
+35 nonlapsing dedicated account. Fees are due on the 10th of each month for the previous
+36 month. All fees under this paragraph due to the State but not remitted when due must
+37 be paid together with interest on the unpaid balance at a rate of 1.5% per month; and
+38 D. The director shall collect 5% of gross revenue from the operation of electronic
+39 sealed ticket games from each licensed organization and distribute it to the Treasurer
+40 of State to be deposited in the Maine Veterans' Homes Stabilization Fund established
+41 in Title 37-B, section 613, subsection 1.
+42 10. Records and reports. A licensed organization shall keep records and submit
+43 reports in accordance with section 1839.
+Page 4 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+1 11. Illegal gambling machine. Electronic sealed ticket game terminals may not be
+2 operated in a manner that meets the definition of "illegal gambling machine" in Title 17-A,
+3 section 952, subsection 5-A.
+4 12. Rules. The Gambling Control Unit shall adopt rules to facilitate the operation of
+5 electronic sealed ticket game systems. Rules must include, but are not limited to, rules
+6 regarding the registration, certification, auditing and shipment of electronic sealed ticket
+7 game systems.
+8 13. Report. Beginning February 15, 2027 and annually thereafter, the director shall
+9 submit a report to the joint standing committee of the Legislature having jurisdiction over
+10 gambling matters regarding the operation of electronic sealed ticket games. The report must
+11 include, but is not limited to, the names and total number of licensed electronic sealed ticket
+12 game system distributors, the names and total number of organizations licensed to operate
+13 electronic sealed ticket games and the premises where the electronic sealed ticket game
+14 terminals are located, the number of electronic sealed ticket game terminals located at each
+15 premises, the total annual gross revenue reported by licensed organizations under section
+16 1839 and the total annual gross revenue deposited in the Maine Veterans' Homes
+17 Stabilization Fund under subsection 9, paragraph D.
+18 Sec. 12. 17 MRSA §1839, as amended by PL 2023, c. 86, §6, is further amended to
+19 read:
+20 §1839. Records and reports
+21 1. Records required. Each licensee or registrant shall keep a record of all financial
+22 transactions involving games operated or conducted under this chapter. Except for records
+23 kept by eligible organizations operating raffles under section 1837‑A, the records must
+24 include an exact account of all gross revenue from the games, an itemization of all
+25 allowable expenses, including, but not limited to, the cost of prizes, printing, licenses and
+26 administration, and the disposition of all proceeds, including, but not limited to, all gifts,
+27 grants and payments to any person, firm, corporation, association or organization for any
+28 purpose whatsoever. All financial records involving games operated or conducted under
+29 this chapter must be separate and distinguishable from other records of the organization.
+30 Revenue from more than one game operated or conducted under this chapter may be
+31 entered into one account as long as the revenue from each game operated or conducted by
+32 a licensee or registrant is deposited into the account in a separate transaction and recorded
+33 separately from other game revenue.
+34 2. Records required for licensee or registrant employing tokens. If a licensee or
+35 registrant employs tokens to account for revenue from games operated or conducted under
+36 this chapter and if the licensee or registrant maintains direct control over the sale and
+37 redemption of the tokens and keeps accurate records of all tokens used, then the Gambling
+38 Control Unit may by rule alter or reduce the record-keeping requirements of subsection 1
+39 to the extent the use of tokens renders those records unnecessary for adequate control of
+40 the licensee's or registrant's games.
+41 3. Disposition of funds reports. Within 10 business days after the last day of any
+42 period during which a conclusion of each licensed game under this chapter is conducted,
+43 the licensee shall file with the Gambling Control Unit a disposition of funds form
+44 prescribed and furnished by the Gambling Control Unit, detailing that details for the period
+45 the total receipts and expenditures of the game and the disposition of funds gross revenue,
+Page 5 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+416 each deposit that matches the total gross revenue and any allowable expenses under this
+427 chapter for the game. Every statement must be made under oath by an officer of the
+438 licensee or by the member in charge of the operation or conduct of the game. A registrant
+449 who operates or conducts games under this chapter shall maintain records of disposition of
+550 funds, which must be made available to the Gambling Control Unit upon request. An
+561 organization licensed under section 1832, subsection 9 filing a disposition of funds report
+572 under this subsection shall file reports monthly, and the report is due by the first day of
+583 each calendar month for the previous month.
+9 4. Disposition of funds reports from registrant using tokens. If tokens are
+10 employed to account for revenue from games operated or conducted under this chapter,
+11 then the registrant shall maintain a report of the number of tokens sold, the value of the
+12 tokens, the number of tokens redeemed and the disposition of funds from the proceeds of
+13 sale in addition to such other information as the Gambling Control Unit may require under
+14 subsection 3.
+15 5. Records maintained for 3 years. Every licensee or registrant that has operated or
+16 conducted a game under this chapter shall maintain and keep for a period of 3 years reports
+17 as may be necessary to substantiate the records and reports required by this section or by
+18 the rules adopted under this chapter.
+19 6. Location. All records maintained by a licensee or registrant pursuant to this section
+20 and pursuant to the rules adopted under this chapter must be kept and maintained on the
+21 premises where the game has been operated or conducted or at the primary business office
+22 of the licensee or registrant, which must be designated by the licensee in the license
+23 application or the registrant in the registration. These records must be open to inspection
+24 by the Gambling Control Unit, and a licensee or registrant may not refuse the Gambling
+25 Control Unit permission to inspect or audit the records. Refusal to permit inspection or
+26 audit of the records does not constitute a crime under this chapter but constitutes grounds
+27 for revocation of license or registration.
+28 Sec. 13. 17 MRSA §1840-A is enacted to read:
+29 §1840-A. Electronic sealed ticket game system distributors
+30 The following provisions apply to licensed electronic sealed ticket game system
+31 distributors.
+32 1. Electronic sealed ticket game system distributor license. An electronic sealed
+33 ticket game system distributor may not lease, market or otherwise distribute electronic
+34 sealed ticket game systems without a license issued by the Gambling Control Unit. A
+35 nonresident manufacturer or distributor of electronic sealed ticket game systems doing
+36 business in this State must have an agent in this State who is licensed as an electronic sealed
+37 ticket game system distributor. The Gambling Control Unit may adopt rules regarding the
+38 licensing of electronic sealed ticket game system distributors.
+39 2. Application; criminal history record check. An applicant for an electronic sealed
+40 ticket game system distributor license, or, if the applicant is a firm, corporation, association
+41 or other organization, its resident manager, superintendent or official representative, shall
+42 file an application with the Gambling Control Unit on a form provided by the Gambling
+43 Control Unit. The director shall request a criminal history record check in accordance with
+44 this subsection for each applicant for initial licensure. The director may require a criminal
+Page 6 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+415 history record check in accordance with this subsection from a licensee seeking to renew a
+426 license. A criminal history record check conducted pursuant to this subsection must include
+437 criminal history record information obtained from the Maine Criminal Justice Information
+448 System established in Title 16, section 631 and the Federal Bureau of Investigation.
+5 A. Criminal history record information obtained from the Maine Criminal Justice
+6 Information System pursuant to this subsection must include a record of public criminal
+7 history record information as defined in Title 16, section 703, subsection 8.
+8 B. Criminal history record information obtained from the Federal Bureau of
+9 Investigation pursuant to this subsection must include other state and national criminal
+10 history record information.
+11 C. An individual required to submit to a criminal history record check under this
+12 subsection shall submit to having the individual's fingerprints taken. The Department
+13 of Public Safety, Bureau of State Police, upon payment by the individual of the fee
+14 required under paragraph E, shall take or cause to be taken the individual's fingerprints
+15 and shall immediately forward the fingerprints to the Bureau of State Police, State
+16 Bureau of Identification. Any person who fails to transmit criminal fingerprint records
+17 to the State Bureau of Identification pursuant to this paragraph is subject to the
+18 provisions of Title 25, section 1550.
+19 D. The Department of Public Safety, Bureau of State Police, State Bureau of
+20 Identification shall conduct the state and national criminal history record checks
+21 required under this subsection. Except for the portion of a payment, if any, that
+22 constitutes the processing fee for a criminal history record check charged by the Federal
+23 Bureau of Investigation, all money received by the Bureau of State Police under this
+24 subsection must be paid to the Treasurer of State, who shall apply the money to the
+25 expenses incurred by the Department of Public Safety in the administration of this
+26 subsection.
+27 E. The director shall by rule set the amount of the fee to be paid for each criminal
+28 history record check required to be performed under this subsection.
+29 F. The subject of a Federal Bureau of Investigation criminal history record check may
+30 obtain a copy of the criminal history record check by following the procedures outlined
+31 in 28 Code of Federal Regulations, Sections 16.32 and 16.33. The subject of a state
+32 criminal history record check may inspect and review the criminal history record
+33 information pursuant to Title 16, section 709.
+34 G. State and national criminal history record information obtained by the director
+35 under this subsection may be used only for the purpose of screening an applicant for a
+36 license or a license renewal under this chapter.
+37 H. All criminal history record information obtained by the director pursuant to this
+38 subsection is confidential, is for the official use of the director only and may not be
+39 disseminated by the director or disclosed to any other person or entity except as
+40 provided in paragraph F.
+41 I. The director, after consultation with the Department of Public Safety, Bureau of
+42 State Police, State Bureau of Identification, shall adopt rules to implement this
+43 subsection.
+Page 7 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+1 3. Limitations; licensed organizations. An electronic sealed ticket game system
+2 distributor may lease, market or otherwise distribute electronic sealed ticket game systems
+3 only to a person or organization licensed under section 1832, subsection 9 to operate
+4 electronic sealed ticket games.
+5 4. Electronic sealed ticket game system certification. Electronic sealed ticket game
+6 systems must be certified by an independent testing laboratory approved by the director.
+7 The electronic sealed ticket game system distributor shall pay the cost of the certification
+8 before the certification occurs. To be certified by an independent testing laboratory, the
+9 electronic sealed ticket game system shall demonstrate, at a minimum, that the system
+10 meets the operation requirements in section 1835-C.
+11 5. Lease agreements. When an electronic sealed ticket game system is leased, the
+12 electronic sealed ticket game system distributor shall forward to the Gambling Control Unit
+13 a copy of the lease agreement, shipment approval and any registration and certification
+14 information for the electronic sealed ticket game terminals and any other information as
+15 required by the Gambling Control Unit by rule, prior to the delivery of the leased system.
+16 A lease agreement must include all ongoing services provided by the electronic sealed
+17 ticket game system distributor to the organization licensed to operate electronic sealed
+18 ticket games. A lease agreement must include, but is not limited to, the name and address
+19 of the electronic sealed ticket game system distributor, the name and address of the
+20 organization licensed under section 1832, subsection 9 that is leasing the electronic sealed
+21 ticket game system, a description of the electronic sealed ticket game system, including
+22 serial numbers and model names and numbers for any electronic sealed ticket game
+23 terminals, and all prices and payments for the lease and for any ongoing services provided
+24 as a part of that lease. Any change, modification or alteration of a lease agreement must be
+25 reported to the Gambling Control Unit by the electronic sealed ticket game system
+26 distributor within 6 days of the change, modification or alteration. Each lease must be for
+27 a specific period of time.
+28 6. Reports. By the first day of each calendar month, for the previous month, a licensed
+29 electronic sealed ticket game system distributor shall file with the Gambling Control Unit
+30 a report for each organization licensed to operate electronic sealed ticket games with which
+31 the electronic sealed ticket game system distributor has a lease agreement indicating:
+32 A. The total gross revenue of the organization from the operation of electronic sealed
+33 ticket game systems under the lease;
+34 B. The amount paid as a percentage of total gross revenue to the distributor under
+35 section 1835-C, subsection 9, paragraph B;
+36 C. The amount paid to the director for administrative expenses under section 1835-C,
+37 subsection 9, paragraph C; and
+38 D. The amount paid to the director for deposit in the Maine Veterans' Homes
+39 Stabilization Fund under section 1835-C, subsection 9, paragraph D.
+40 The Gambling Control Unit may require from a licensed electronic sealed ticket game
+41 system distributor other reports as determined necessary by the Gambling Control Unit for
+42 the purposes of the administration and enforcement of this section and section 1835-C.
+43 7. Maintenance and inspection of records. A licensed electronic sealed ticket game
+44 system distributor shall maintain and keep for a period of 3 years, on the premises of the
+Page 8 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+415 electronic sealed ticket game system distributor, any records that may be necessary to
+426 substantiate the reports required by this section or by the rules adopted under this chapter.
+437 The records must be open to inspection, and an electronic sealed ticket game system
+448 distributor may not refuse permission for the Gambling Control Unit to inspect or audit the
+459 records. Refusal to permit the inspection or audit of the records by the Gambling Control
+560 Unit does not constitute a crime under this chapter but constitutes grounds for revocation
+571 of license or registration.
+8 Sec. 14. 17 MRSA §1841, sub-§1, as enacted by PL 2009, c. 487, Pt. A, §2, is
+9 amended to read:
+10 1. Schemes prohibited. A license may not be issued under this chapter for the conduct
+11 or operation of a machine, a slot machine, roulette or games commonly known as policy or
+12 numbers, except that a license may be issued for an electronic video machine or for an
+13 electronic sealed ticket game terminal. An electronic video machine or an electronic sealed
+14 ticket game terminal that constitutes a game of chance is fully governed by this chapter.
+15 Sec. 15. 17 MRSA §1842, sub-§2, ¶B, as amended by PL 2017, c. 284, Pt.
+16 KKKKK, §29, is further amended by amending subparagraph (2) to read:
+17 (2) If a distributor violates section 1840, subsection 2 or an electronic sealed ticket
+18 game system distributor violates section 1840-A, subsection 1, the Gambling
+19 Control Unit is not required to give the notice or allow the compliance period
+20 provided in subparagraph (1); or
+21 Sec. 16. 17-A MRSA §952, sub-§5-A, ¶C, as amended by PL 2009, c. 487, Pt. B,
+22 §11, is further amended to read:
+23 C. That is not a machine that a person may lawfully operate pursuant to a license that
+24 has been issued under Title 17, chapter 62 or that is operated by the Department of
+25 Administrative and Financial Services, Bureau of Alcoholic Beverages and Lottery
+26 Operations; and
+27 Sec. 17. 17-A MRSA §952, sub-§5-A, ¶D, as enacted by PL 2003, c. 687, Pt. A,
+28 §7 and affected by Pt. B, §11, is amended to read:
+29 D. That is not a slot machine registered pursuant to Title 8, section 1020 and owned
+30 by a slot machine distributor licensed pursuant to Title 8, section 1013.; and
+31 Sec. 18. 17-A MRSA §952, sub-§5-A, ¶E is enacted to read:
+32 E. That is not an electronic sealed ticket game terminal operated by an organization
+33 licensed pursuant to Title 17, section 1832, subsection 9.
+34 Sec. 19. 25 MRSA §1542-A, sub-§1, ¶JJ is enacted to read:
+35 JJ. Who is an applicant for licensure as an electronic sealed ticket game system
+36 distributor, as required under Title 17, section 1840-A, subsection 2.
+37 Sec. 20. 25 MRSA §1542-A, sub-§3, ¶II is enacted to read:
+38 II. The State Police shall take or cause to be taken the fingerprints of the person named
+39 in subsection 1, paragraph JJ at the request of that person or the Director of the
+40 Gambling Control Unit within the Department of Public Safety and upon payment of
+Page 9 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+411 the fee established by the Director of the Gambling Control Unit pursuant to Title 17,
+422 section 1840-A, subsection 2.
+3 Sec. 21. Appropriations and allocations. The following appropriations and
+4 allocations are made.
+5 DEFENSE, VETERANS AND EMERGENCY MANAGEMENT, DEPARTMENT
+6 OF
+7 Maine Veterans' Homes Stabilization Fund Z358
+8 Initiative: Provides authorization to allow for the expenditure of funding received pursuant
+9 to Maine Revised Statutes, Title 17, section 1835-C, subsection 9, paragraph D.
+10 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+11 All Other $0 $225,225
+12 __________ __________
+13 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $225,225
+1140
+15 DEFENSE, VETERANS AND EMERGENCY
+16 MANAGEMENT, DEPARTMENT OF
+17 DEPARTMENT TOTALS 2025-26 2026-27
+18
+19 OTHER SPECIAL REVENUE FUNDS $0 $225,225
+20 __________ __________
+21 DEPARTMENT TOTAL - ALL FUNDS $0 $225,225
+2125 PUBLIC SAFETY, DEPARTMENT OF
+23 Gambling Control Board Z002
+24 Initiative: Provides funding for one Public Service Manager I and one Auditor II position
+25 and associated All Other costs.
+26 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+27 POSITIONS - LEGISLATIVE COUNT 0.000 2.000
+28 Personal Services $0 $55,050
+29 All Other $0 $5,997
+30 __________ __________
+31 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $61,047
+3226
+33 PUBLIC SAFETY, DEPARTMENT OF
+34 DEPARTMENT TOTALS 2025-26 2026-27
+35
+36 OTHER SPECIAL REVENUE FUNDS $0 $61,047
+37 __________ __________
+38 DEPARTMENT TOTAL - ALL FUNDS $0 $61,047
+3393
+40 SECTION TOTALS 2025-26 2026-27
+41
+42 OTHER SPECIAL REVENUE FUNDS $0 $286,272
+Page 10 - 132LR0690(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 742, L.D. 1902
+1 __________ __________
+2 SECTION TOTAL - ALL FUNDS $0 $286,272
+31 '
+4 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+5 number to read consecutively.
+6 SUMMARY
+77 This amendment replaces the bill and changes the title. The amendment authorizes the
+88 Gambling Control Unit to issue licenses to operate electronic sealed ticket games to bona
+99 fide fraternal, patriotic or veterans' organizations that are eligible for a license to conduct
+1100 games of chance and that have restricted social quarters on their premises designated for
+1111 use predominately by members of the organization for social and recreational activities,
+1122 that are accessible exclusively to members of the organization and their guests and that are
+1133 not advertised or open to the general public. It also authorizes the Gambling Control Unit
+1144 to issue a license to an electronic sealed ticket game system distributor. The amendment
+1155 establishes operating requirements for licensed organizations, including limits on the
+1166 location and number of terminals, requirements related to playing an electronic sealed
+1177 ticket game and reporting requirements. It also establishes requirements for distributors,
+1188 which also include reporting requirements. The amendment includes definitions for
+1199 relevant terms and makes other changes to the laws governing games of chance related to
+2200 records and reports and games conducted during a beano game.
+2211 FISCAL NOTE REQUIRED
+2222 (See attached)
+Page 11 - 132LR0690(02)
+COMMITTEE AMENDMENT

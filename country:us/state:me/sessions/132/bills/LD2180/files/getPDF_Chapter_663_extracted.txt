@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 663
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 663
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1467 - L.D. 2180
+An Act to Make Changes to the Laws Regarding the Department of
+Administrative and Financial Services, Bureau of Human Resources and the
+State Civil Service Appeals Board
+Be it enacted by the People of the State of Maine as follows:
+PART A
+Sec. A-1. 4 MRSA §807, sub-§3, ¶U, as amended by PL 2025, c. 97, §2, is further
+amended to read:
+U. Practice, pursuant to a rule of the Supreme Judicial Court, by a law student enrolled
+in a law school accredited by the American Bar Association; or
+Sec. A-2. 4 MRSA §807, sub-§3, ¶V, as enacted by PL 2025, c. 97, §3, is amended
+to read:
+V. An attorney certified by the judge advocate general of that attorney's respective
+military branch representing Maine National Guard members in proceedings conducted
+pursuant to Title 37‑B, section 415‑A.;
+Sec. A-3. 4 MRSA §807, sub-§3, ¶W is enacted to read:
+W. A person who is not an attorney but is representing the State before the State Civil
+Service Appeals Board as described in Title 5, section 7081 on a reclassification,
+reallocation or reorganization appeal; or
+Sec. A-4. 4 MRSA §807, sub-§3, ¶X is enacted to read:
+X. A person who is not an attorney but is representing the State before an arbitrator
+related to a grievance filed under a collective bargaining agreement.
+PART B
+Sec. B-1. 5 MRSA §7083, as corrected by RR 2023, c. 2, Pt. B, §§73 to 76, is
+amended to read:
+§7083. Procedure for settlement
+Page 1 - 132LR2679(03)
+
+A grievance or dispute between a state employee and the agency of the State by whom
+the state employee is employed must be entertained by the appeals board upon the
+application of the employee, as long as there has been compliance with the following
+requirements:
+1. Adjust dispute. That the employee aggrieved or the employee's representative, or
+both, have attempted to adjust the dispute through oral communication with the employee's
+immediate supervisor within 7 working days of the time that the employee is aware of the
+grievable incident. The immediate supervisor is then required to render an oral decision to
+the employee within 3 working days;
+2. Grievance in writing. If the employee is dissatisfied with the oral decision of the
+employee's immediate supervisor, the employee or the employee's representative, or both,
+may, before the end of the 10th working day following the day of the oral decision, present
+the grievance to the employee's supervisor again, this time in written form. The supervisor
+is then required to make a decision in writing and present it to the employee within 10
+working days;
+3. Appeal Submission of grievance or dispute to department or agency head. If
+the employee is dissatisfied with the supervisor's written decision, the employee or the
+employee's representative, or both, then may, before the end of the 20th working day
+following receipt of the decision, appeal in writing to the department head. The Within 21
+days of the employee becoming aware of the grievance or dispute, the employee or the
+employee’s representative, or both, shall submit the grievance or dispute in writing to the
+department or agency head describing the employee’s desired resolution. Within 21 days
+of receiving the employee’s written notice of the grievance or dispute, the department or
+agency head shall meet with the employee or the employee's designated representative, or
+both, within 20 working days of receipt of the employee's notice of dissatisfaction and
+attempt to adjust the dispute. Within 5 working days of meeting with the employee or the
+employee’s representative, or both, the department or agency head shall render a decision
+in writing to the aggrieved employee and or the employee's representative;, or both.
+If the department or agency head issues a written decision after conducting a due process
+meeting with the employee or the employee’s representative, or both, at which the
+employee was afforded an opportunity to present information relating to proposed
+disciplinary action issued by the department or agency head, the written decision must be
+treated as the final written decision of the department or agency head for the purposes of
+this subsection. Upon receipt of the written decision following the due process meeting, no
+further action by the employee is required at the department or agency level, and the
+employee may appeal the written decision to the officer pursuant to subsection 4 if the
+employee is a classified employee or the employee may appeal the written decision directly
+to the appeals board pursuant to subsection 5 if the employee is an unclassified employee;
+4. Appeal to State Human Resources Officer. If the classified employee is
+dissatisfied with the written decision following the meeting with of the department or
+agency head, the employee or the employee's representative, or both, may appeal in writing
+to the State Human Resources Officer within 7 working days of meeting with the
+department head 21 days of receiving the written decision. The officer shall within 10
+working 21 days reply in writing to the aggrieved employee, or the employee's
+representative, or both, and the department or agency head involved stating the officer's
+decision, based on the Civil Service Law and rules;
+Page 2 - 132LR2679(03)
+
+5. Submission to board. In the event the grievance is not satisfactorily adjusted under
+subsections 1 to 3 and 4, within the time limits in those subsections, the dispute may be
+submitted to the appeals board within 10 working 21 days following receipt of the officer's
+written decision of the last relevant written decision from the employer pursuant to
+subsection 3 or 4. The appeals board shall investigate the matters in controversy, shall hear
+all interested persons who come before it and shall make a written decision, which is
+binding on the parties involved. The appeals board's written decision must be issued within
+30 working days after the hearing on the dispute is concluded, unless both parties agree
+that an extension of the time limit should be allowed; and
+6. Procedure. Any member of the appeals board may administer oaths and subpoena
+and require the attendance of witnesses and the production of books, papers, public records
+and other relevant documentary evidence or certified copies of the evidence by the
+department or agency head pertinent to the dispute and shall do so if requested in writing
+by any party to the dispute or the party's representative. A witness summonsed by subpoena
+is entitled to witness fees and travel allowance in the amount allowed for appearance in
+District Court, the costs of which must be advanced by the party requesting the subpoena
+prior to issuance of the subpoena. A state employee subpoenaed under this subsection may
+not lose pay to which the employee would otherwise be entitled.
+Sec. B-2. 5 MRSA §7084, sub-§1, as corrected by RR 2023, c. 2, Pt. B, §77, is
+amended to read:
+1. Application for extension. The chair of the appeals board may extend any time
+limit specified in section 7083, subsections 1 3 to 4 5, upon written application of either
+party, as long as the application is submitted within the time provided for in the applicable
+step. Failure of an employee to pursue a grievance within the prescribed time limits
+constitutes an acceptance of the last response by the department or agency head. Failure
+of the department or agency head to respond within the stipulated time limits provided for
+in the applicable step constitutes an automatic waiver of that step and the employee may
+proceed to the next step as outlined in this section.
+A. At least one day prior to the presentation submission of the employee's grievance
+to the employee's supervisor department or agency head, the employee's representative,
+if any, may have access to the work location of the employee involved during the
+working hours for the purpose of investigating the grievance.
+B. The department or agency head may designate a representative, with authority to
+take appropriate action, who must be at the deputy or assistant department or agency
+head or labor specialist level to represent the department or agency head in section
+7083, subsections 2 and 3 and 4.
+Page 3 - 132LR2679(03)

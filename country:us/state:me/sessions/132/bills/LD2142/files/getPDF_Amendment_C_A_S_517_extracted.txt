@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-517)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2142
+2 Date: (Filing No. S- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 860, L.D. 2142, “An Act to Establish
+10 Guidance for Awarding General Spousal Support”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 19-A MRSA §951-A, sub-§1-A is enacted to read:
+14 1-A. Definitions. As used in this section, unless the context otherwise indicates, the
+15 following terms have the following meanings.
+16 A. "Length of the marriage" means the length of time from the date that the parties
+17 were married to the date of the filing of the action for divorce.
+18 B. "Spousal support income" means, with respect to each party and regardless of
+19 whether there are any children of the marriage, the party's gross income, as defined in
+20 section 2001, subsection 5, less, for a party who is a child support obligee, any amount
+21 the party is determined to spend directly in support of the minor child or children of
+22 the marriage as reflected on the child support worksheet and less, for a party who is a
+23 child support obligor, any amount the party is obligated to pay directly in support of
+24 the minor child or children of the marriage as reflected on the child support worksheet.
+25 Sec. 2. 19-A MRSA §951-A, sub-§2, as amended by PL 2023, c. 646, Pt. C, §1, is
+26 further amended to read:
+27 2. Types of spousal support. The court may, after consideration of the facts of the
+28 case and of all factors set forth in subsection 5, award or modify spousal support for on one
+29 or more of the following reasons grounds.
+30 A. General support may be awarded to provide financial assistance to a spouse with
+31 substantially less income potential than the other spouse so that both spouses can
+32 maintain a reasonable standard of living after the divorce allocate equitably between
+33 spouses financial losses that either or both may incur due to dissolution of a marriage
+34 of a significant length when the family is divided into separate economic units. A
+35 spouse married to someone with significantly greater income or earning capacity is
+Page 1 - 132LR2646(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 860, L.D. 2142
+316 entitled at the dissolution of the marriage to compensation for a portion of the decrease
+327 in the standard of living the spouse would otherwise experience, if the length of the
+338 marriage is of sufficient duration that equity requires that some portion of the loss be
+349 treated as the spouses' joint responsibility.
+5 (1) There is a rebuttable presumption that general support may not be awarded if
+6 the parties were married for less than 10 years as of the date of the filing of the
+7 action for divorce. There is also a rebuttable presumption that general support may
+8 not be awarded for a term exceeding 1/2 the length of the marriage if the parties
+9 were married for at least 10 years but not more than 20 years as of the date of the
+10 filing of the action for divorce. There is a rebuttable presumption that general
+11 support must be awarded for an indefinite period if the parties were married for
+12 more than 20 years as of the date of the filing of the action for divorce.
+13 (1-A) There is a rebuttable presumption that a spouse is entitled to an award of
+14 general support if the parties have been married for at least 10 years as of the date
+15 of the filing of the action for divorce and if that spouse's spousal support income
+16 as of the date of the filing of the action for divorce is equal to or less than 65% of
+17 the other spouse's spousal support income as of the date of the filing of the action
+18 for divorce.
+19 (1-B) There is a rebuttable presumption that the annual amount of any general
+20 support awarded under this paragraph must equal the difference in the parties'
+21 spousal support incomes multiplied by a durational factor that is calculated by
+22 multiplying the number of years of the marriage by 0.015, except that the
+23 durational factor may not exceed 0.3. The amount of general support must be
+24 calculated on an annual basis, but the court may order the obligor to pay general
+25 support on a monthly, weekly or other scheduled basis.
+26 (2) If the court finds that a spousal support award based upon a presumption
+27 established by this paragraph would be inequitable or unjust, that finding is
+28 sufficient to rebut the applicable presumption. The court shall use the factors set
+29 forth in subsection 5 and may use any other fact the court considers relevant to
+30 determine whether a presumption under this paragraph would be inequitable or
+31 unjust and shall make written findings supporting the court's conclusion. A court
+32 may award general support in cases for which there is a presumption that no general
+33 support may be awarded if the court finds that a substantial injustice will result if
+34 there is no award and the court makes written findings supporting the court's
+35 conclusion.
+36 B. Transitional support may be awarded to provide for a spouse's transitional needs,
+37 including, but not limited to:
+38 (1) Short-term needs resulting from financial dislocations associated with the
+39 dissolution of the marriage; or
+40 (2) Reentry or advancement in the work force, including, but not limited to,
+41 physical or emotional rehabilitation services, vocational training and education.
+42 C. Reimbursement support may be awarded to achieve an equitable result in the overall
+43 dissolution of the parties' financial relationship in response to exceptional
+44 circumstances. Exceptional circumstances include, but are not limited to:
+Page 2 - 132LR2646(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 860, L.D. 2142
+1 (1) Economic misconduct by a spouse;
+2 (2) Substantial contributions a spouse made towards the educational or
+3 occupational advancement of the other spouse during the marriage; and
+4 (3) Economic abuse by a spouse. For the purposes of this subparagraph,
+5 "economic abuse" has the same meaning as in section 4102, subsection 5.
+6 Reimbursement support may be awarded only if the court determines that the parties'
+7 financial circumstances do not permit the court to fully address equitable
+8 considerations through its distributive order pursuant to section 953.
+9 D. Nominal support may be awarded to preserve the court's authority to grant spousal
+10 support in the future.
+11 E. Interim support may be awarded to provide for a spouse's separate support during
+12 the pendency of an action for divorce or judicial separation.
+13 Sec. 3. 19-A MRSA §951-A, sub-§4-A is enacted to read:
+14 4-A. Award at expiration of child support obligation. If a child support obligation
+15 for the minor child or children of the marriage will terminate within 3 years of the
+16 anticipated date of a final judgment awarding general support, the court may establish a
+17 separate general support award that will take effect upon the termination of the child
+18 support obligation.
+19 Sec. 4. 19-A MRSA §951-A, sub-§5, ¶H, as enacted by PL 1999, c. 634, §3, is
+20 amended to read:
+21 H. The tax consequences of the division of marital property, including the tax
+22 consequences of the sale of the marital home resulting from division of the marital
+23 property, if applicable;
+24 Sec. 5. 19-A MRSA §951-A, sub-§5, ¶P, as enacted by PL 1999, c. 634, §3, is
+25 amended to read:
+26 P. The effect of the following on a party's need for spousal support or a party's ability
+27 to pay spousal support:
+28 (1) Actual or potential income from marital or nonmarital property awarded or set
+29 apart to each party as part of the court's distributive order pursuant to section 953;
+30 and
+31 (2) Child support for the support of a minor child or children of the marriage
+32 pursuant to chapter 63; and
+33 Sec. 6. 19-A MRSA §951-A, sub-§5, ¶P-1 is enacted to read:
+34 P-1. Whether the spousal support award combined with a child support obligation for
+35 the support of a minor child or children of the marriage would be inequitable or unjust;
+36 Sec. 7. 19-A MRSA §951-A, sub-§5, ¶P-2 is enacted to read:
+37 P-2. Whether the spousal support incomes of the parties are sufficiently low or
+38 sufficiently high that application of the presumptive calculation in subsection 2,
+39 paragraph A, subparagraph (1-B) would be inequitable or unjust; and
+Page 3 - 132LR2646(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 860, L.D. 2142
+1 Sec. 8. Application. This Act applies to all actions pending on or after January 1,
+2 2027. If a party files a motion to modify a general spousal support award that was issued
+3 before January 1, 2027, the following provisions apply.
+4 1. The court may not use the rebuttable presumption in the Maine Revised Statutes,
+5 Title 19-A, section 951-A, subsection 2, paragraph A, subparagraph (1-B) as the basis for
+6 finding a substantial change in financial circumstances under Title 19-A, section 951-A,
+7 subsection 4.
+8 2. If a party establishes a substantial change in financial circumstances through means
+9 other than application of the presumption under the Maine Revised Statutes, Title 19-A,
+10 section 951-A, subsection 2, paragraph A, subparagraph (1-B) and it appears to the court
+11 that justice requires the award to be modified, the court may consider the presumption in
+12 determining the amount of the modified general support award.'
+13 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+14 number to read consecutively.
+15 SUMMARY
+1166 This amendment makes the following changes to the bill.
+17 1. It clarifies that the parties' spousal support income is calculated using the definition
+18 of "gross income" under the child support statutes, regardless of whether there are any
+19 children of the marriage. If there are children of the marriage, the spousal support income
+20 of the party obligated to pay child support must be reduced based on the amount that party
+21 is obligated to pay directly in support of the children of the marriage as reflected on the
+22 child support worksheet and the spousal support income of the party receiving child support
+23 must be reduced by the amount that party is determined to spend directly in support of
+24 children of the marriage as reflected on the child support worksheet.
+25 2. It increases the income disparity between the spouses required to trigger a
+26 presumptive entitlement to general spousal support by providing that there is a rebuttable
+27 presumption that a spouse is entitled to general spousal support if the parties have been
+28 married for at least 10 years and that spouse's spousal support income is an amount equal
+29 to or less than 65% of the other spouse's spousal support income.
+30 3. It clarifies that, after a court calculates a presumptive spousal support award in
+31 appropriate cases using the formula set forth in the amendment, the court must consider the
+32 factors set forth in the Maine Revised Statutes, Title 19-A, section 951-A, subsection 5 and
+33 any other fact the court determines relevant in deciding whether that presumptive spousal
+34 support amount would be equitable or unjust. It also amends the list of factors to require a
+35 court to consider whether the incomes of the parties are sufficiently low or sufficiently high
+36 that application of the presumptive general spousal support calculation is inequitable or
+37 unjust.
+38 4. It clarifies that the court must make written findings supporting any decision that
+39 any of the general spousal support rebuttable presumptions have been rebutted because its
+40 application would be inequitable or unjust.
+41 5. It clarifies that the court may enter a separate spousal support award that will take
+42 effect upon expiration of a child support obligation that is expected to expire within 3 years
+Page 4 - 132LR2646(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 860, L.D. 2142
+413 of a final judgment awarding general support only in cases when the court has entered an
+424 award of general spousal support.
+3 6. It changes the structure of the language of the bill to more closely match the structure
+4 of current law.
+Page 5 - 132LR2646(02)
+COMMITTEE AMENDMENT

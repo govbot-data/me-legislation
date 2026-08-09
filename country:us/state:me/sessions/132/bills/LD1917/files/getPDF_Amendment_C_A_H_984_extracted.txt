@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-984)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1917
+2 Date: (Filing No. H- )
+3 CRIMINAL JUSTICE AND PUBLIC SAFETY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1278, L.D. 1917, “An Act to Allow the
+10 Sealing of Criminal History Record Information Related to Convictions for Conduct That
+11 Is No Longer a Crime in the State”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Allow the Sealing of Criminal History Record Information Related to
+14 Convictions for Conduct That Is No Longer a Crime in the State and to Clarify
+15 Dissemination of Sealed Criminal History Record Information to the Department of
+16 Professional and Financial Regulation'
+17 Amend the bill by striking out everything after the enacting clause and inserting the
+18 following:
+19 'Sec. 1. 15 MRSA §2261, sub-§6, ¶B, as amended by PL 2025, c. 513, §3, is further
+20 amended by amending subparagraph (5) to read:
+21 (5) Unlawful possession of a scheduled drug under Title 17‑A, former section
+22 1107 when that drug was marijuana and the underlying crime was a Class D crime;
+23 and
+24 Sec. 2. 15 MRSA §2261, sub-§6, ¶C, as enacted by PL 2025, c. 513, §4, is
+25 amended to read:
+26 C. For a motion under section 2262-B, a criminal conviction for any current or former
+27 crime.; and
+28 Sec. 3. 15 MRSA §2261, sub-§6, ¶D is enacted to read:
+29 D. A conviction for conduct that, subsequent to the conviction, the conduct is no longer
+30 a crime.
+31 Sec. 4. 15 MRSA §2265, sub-§5, as enacted by PL 2021, c. 674, §1, is amended to
+32 read:
+33 5. Financial services regulatory agencies. The Notwithstanding any provision of
+34 law to the contrary, except as provided for in subsection 8, the Department of Professional
+Page 1 - 132LR2457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1278, L.D. 1917
+315 and Financial Regulation, Bureau of Insurance, Bureau of Consumer Credit Protection,
+326 Bureau of Financial Institutions and Office of Securities to ensure compliance with Titles
+337 9‑A, 9‑B, 10, 24, 24‑A and 32, as applicable, and any state or federal requirement to
+348 perform criminal background checks by those agencies;
+5 Sec. 5. 15 MRSA §2265, sub-§6, as enacted by PL 2021, c. 674, §1, is repealed
+6 and the following enacted in its place:
+7 6. Occupational and professional licensing boards and agencies. Notwithstanding
+8 any provision of law to the contrary, except as provided in subsection 8, occupational and
+9 professional licensing boards as established in Title 5, section 12004-A; agencies
+10 performing any regulatory functions within the Office of Professional and Occupational
+11 Regulation as described in Title 10, section 8001 and affiliated with the Department of
+12 Professional and Financial Regulation as established in Title 10, section 8001; the State
+13 Harness Racing Commission as established in Title 5, section 12004-G, subsection 32; and
+14 the Maine Criminal Justice Academy under Title 25, chapter 341;
+15 Sec. 6. 15 MRSA §2265, sub-§8, as enacted by PL 2021, c. 674, §1, is amended to
+16 read:
+17 8. Subject to fingerprinting. An entity that is required by federal or state law to
+18 conduct a fingerprint-based criminal history record check pursuant to Title 25, section
+19 1542‑A. To the extent this subsection applies to the dissemination of any particular record
+20 to boards and agencies identified in subsection 5 or 6, this subsection is the exclusive basis
+21 for disseminating that criminal history record information or sealed record.
+22 Sec. 7. 15 MRSA §2265, as enacted by PL 2021, c. 674, §1, is amended by enacting
+23 at the end a new paragraph to read:
+24 Disseminations authorized in subsections 5, 6 and 8 apply to all criminal history record
+25 information and any sealed record, including convictions and nonconvictions. For the
+26 purposes of this section, "nonconviction" means a criminal charge that did not result in a
+27 conviction. An entity receiving such information may use the disseminated record and
+28 information contained in such record as may be reasonably necessary to conduct public
+29 administrative proceedings to allow an applicant or licensee to demonstrate rehabilitation
+30 under Title 5, chapter 341. An entity receiving such information may use the disseminated
+31 record and information contained in such record in any other adjudicatory proceeding, as
+32 long as the disseminated information remains confidential but subject to disclosure as
+33 provided in Title 5, section 9057, subsection 6, paragraph B. Title 16, section 708,
+34 subsections 4 and 5 apply to any administrative proceeding addressed in this paragraph.
+35 Sec. 8. 15 MRSA §2266, as enacted by PL 2021, c. 674, §1, is amended to read:
+36 §2266. Limited disclosure of eligible criminal conviction
+37 A person whose eligible criminal conviction is the subject of a sealing order under
+38 section 2264 may respond to inquiries from persons other than criminal justice agencies
+39 and other than entities that are authorized to obtain the sealed criminal history record
+40 information under section 2265 by not disclosing the existence of the eligible criminal
+41 conviction without being subject to any sanctions under the laws of this State. Other than
+42 when responding to criminal justice agencies or when under oath while being prosecuted
+43 for a subsequent crime, a person whose criminal conviction is sealed does not violate Title
+44 17‑A, section 451, 452 or 453 by not disclosing the sealed criminal conviction.
+Page 2 - 132LR2457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1278, L.D. 1917
+415 Notwithstanding any provision of law to the contrary, a person shall disclose all criminal
+426 history record information that is the subject of a sealing order under section 2264 when
+437 the disclosure is requested as part of an application to any entity identified in section 2265,
+448 subsection 5 or 6 or when disclosure to any such entity is otherwise required by law. A
+459 person’s failure to make such required disclosure may result in any such entity withholding,
+560 denying or revoking the license or other benefit for which the individual applied or received
+571 or in such other administrative action as may be authorized by law.'
+8 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+9 number to read consecutively.
+10 SUMMARY
+1111 This amendment, which is the majority report of the committee, replaces the bill,
+1122 changes the title and clarifies the list of entities to which sealed criminal history record
+1133 information may be disseminated, the basis for such dissemination and the permissible use
+1144 of disseminated sealed criminal history record information by the Department of
+1155 Professional and Financial Regulation, its agencies and boards and certain other entities.
+1166 The amendment clarifies a license applicant’s obligation to disclose sealed criminal history
+1177 record information to these entities. The amendment also clarifies that for the conduct to
+1188 be an eligible criminal conviction, the conduct must no longer be a crime.
+1199 FISCAL NOTE REQUIRED
+2200 (See attached)
+Page 3 - 132LR2457(02)
+COMMITTEE AMENDMENT

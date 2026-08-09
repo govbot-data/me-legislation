@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-703)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2178
+2 Date: (Filing No. S- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 883, L.D. 2178, “An Act to Establish the
+10 Independent Office of Tax Appeals and Make Other Changes to the Laws Governing the
+11 Tax Appeals Process”
+12 Amend the bill in Part B in section 9 in §151-E in subsection 3 in the last line (page 4,
+13 line 22 in L.D.) by inserting after the following: "State." the following: 'Notwithstanding
+14 this subsection, the Commissioner of Administrative and Financial Services may assign
+15 other duties to the hearing officers consistent with subsection 4, including assisting the
+16 State Board of Property Tax Review.'
+17 Amend the bill in Part B in section 9 in §151-E in subsection 4 by striking out all of
+18 the first blocked paragraph (page 4, lines 33 to 35 in L.D.).
+19 Amend the bill in Part B in section 9 in §151-E in subsection 5 by striking out all of
+20 paragraphs E and F (page 5, lines 6 to 11 in L.D.) and inserting the following:
+21 'E. Ensuring that the assignment of duties to hearing officers comports with conflicts
+22 of interest standards and other ethics standards; and
+23 F. Providing and assigning part-time duties to a hearing officer to provide legal
+24 services to the State Board of Property Tax Review in consultation with the Office of
+25 the Attorney General.'
+26 Amend the bill in Part B in section 14 in subsection 1 in the first line (page 7, line 36
+27 in L.D.) by striking out the following: "September 15, 2026" and inserting the following:
+28 'January 1, 2027'
+29 Amend the bill in Part B in section 14 in subsection 2 in the last line (page 7, line 39
+30 in L.D.) by striking out the following: "September 15, 2026" and inserting the following:
+31 'January 1, 2027'
+32 Amend the bill in Part B in section 14 in subsection 5 in the first line (page 8, line 6 in
+33 L.D.) by striking out the following: "September 15, 2026" and inserting the following:
+34 'January 1, 2027'
+35 Amend the bill in Part B by striking out all of section 15 and inserting the following:
+Page 1 - 132LR2674(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 883, L.D. 2178
+1 'Sec. B-15. Effective date. This Part takes effect January 1, 2027.'
+2 Amend the bill in Part C by striking out all of section 2.
+3 Amend the bill in Part C by striking out all of sections 6 to 12.
+4 Amend the bill by striking out all of Part D.
+5 Amend the bill in Part E by striking out all of section 2.
+6 Amend the bill by inserting after Part E the following:
+7 'PART F
+8 Sec. F-1. Appropriations and allocations. The following appropriations and
+9 allocations are made.
+10 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+11 Independent Office of Tax Appeals N585
+12 Initiative: Effective January 1, 2027, transfers all 3 existing Legislative Count and funding
+13 in the Maine Board of Tax Appeals to the newly created Independent Office of Tax
+14 Appeals.
+15 GENERAL FUND 2025-26 2026-27
+16 POSITIONS - LEGISLATIVE COUNT 0.000 3.000
+17 Personal Services $0 $206,458
+18 All Other $0 $26,564
+19 __________ __________
+20 GENERAL FUND TOTAL $0 $233,022
+2115
+22 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+23 All Other $0 $22,500
+24 __________ __________
+25 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $22,500
+2262 Maine Board of Tax Appeals Z146
+27 Initiative: Effective January 1, 2027, transfers all 3 existing Legislative Count and funding
+28 in the Maine Board of Tax Appeals to the newly created Independent Office of Tax
+29 Appeals.
+30 GENERAL FUND 2025-26 2026-27
+31 POSITIONS - LEGISLATIVE COUNT 0.000 (3.000)
+32 Personal Services $0 ($206,458)
+33 All Other $0 ($26,564)
+34 __________ __________
+35 GENERAL FUND TOTAL $0 ($233,022)
+3360
+37 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+38 All Other $0 ($22,500)
+39 __________ __________
+40 OTHER SPECIAL REVENUE FUNDS TOTAL $0 ($22,500)
+Page 2 - 132LR2674(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 883, L.D. 2178
+11
+2 ADMINISTRATIVE AND FINANCIAL
+3 SERVICES, DEPARTMENT OF
+4 DEPARTMENT TOTALS 2025-26 2026-27
+5
+6 GENERAL FUND $0 $0
+7 OTHER SPECIAL REVENUE FUNDS $0 $0
+8 __________ __________
+9 DEPARTMENT TOTAL - ALL FUNDS $0 $0
+102 '
+11 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+12 number to read consecutively.
+13 SUMMARY
+1144 This amendment makes the following changes to the bill.
+15 1. It removes language from the powers and duties provision of the proposed
+16 Independent Office of Tax Appeals and instead adds that language to the qualifications
+17 provision to make clear that the Commissioner of Administrative and Financial Services
+18 may assign other duties to the hearing officers, including assisting the State Board of
+19 Property Tax Review.
+20 2. It removes a listed duty of the Chief Hearing Officer regarding the assignment of
+21 duties to an administrative staff person and adds a listed duty to provide and assign part-
+22 time duties to a hearing officer to provide legal services to the State Board of Property Tax
+23 Review in consultation with the Office of the Attorney General.
+24 3. It changes the proposed date of transition from the existing Department of
+25 Administrative and Financial Services, Maine Board of Tax Appeals to the new
+26 Independent Office of Tax Appeals from September 15, 2026 to January 1, 2027.
+27 4. It removes provisions that propose changes to the composition, jurisdiction and
+28 duties of the State Board of Property Tax Review.
+29 5. It removes the provisions that change the jurisdictional threshold amounts and
+30 appeals process for nonresidential property.
+31 6. It removes the provisions that require the Department of Administrative and
+32 Financial Services, Bureau of Revenue Services, Office of Tax Policy to study further
+33 simplification and modernization of the administrative tax appeals process and report
+34 findings and recommendations to the joint standing committee of the Legislature having
+35 jurisdiction over taxation matters.
+36 7. It adds an appropriations and allocations section.
+3377 FISCAL NOTE REQUIRED
+3388 (See attached)
+Page 3 - 132LR2674(02)
+COMMITTEE AMENDMENT

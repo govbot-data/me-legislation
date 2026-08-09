@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 756
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 16, 2026 756
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 650 - L.D. 1003
+An Act Establishing the Retirement Improvement Fund
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 5 MRSA c. 421, sub-c. 4, art. 10 is enacted to read:
+ARTICLE 10
+RETIREMENT IMPROVEMENT FUND
+§17446. Retirement Improvement Fund
+1. Establishment of fund. The Retirement Improvement Fund, referred to in this
+section as "the fund," is established within and administered by the retirement system as an
+interest-bearing, nonlapsing fund for the payment of retirement benefit improvements.
+2. Content of fund. The fund consists of all money transferred to the fund under this
+section and other money made available to the fund, which may include but is not limited
+to legislative appropriations from the General Fund or any other fund, the unappropriated
+surplus of the General Fund or any other source or fund identified or established through
+law.
+3. Use of fund. Money in the fund must be used to pay for retirement benefit
+improvements. Whenever the fund has sufficient capital to pay for an increase in the
+amount of at least $1,000 on the benefit base on which the annual cost-of-living adjustment
+is applied pursuant to section 17806, subsection 1, paragraph A, for all beneficiaries in the
+retirement system, that increase must be applied but only until the benefit base reaches
+$40,000.
+4. Reporting. By March 1, 2029 and annually thereafter, the retirement system shall
+submit a report regarding implementation of this section to the joint standing committee of
+the Legislature having jurisdiction over retirement matters that includes the following
+information for that fiscal year and the prior 3 fiscal years:
+A. The amount of money transferred to the fund pursuant to subsection 2;
+Page 1 - 132LR1598(05)
+
+B. The total increases made to the benefit base on which the annual cost-of-living
+adjustment must be applied in accordance with subsection 3;
+C. The amount of any payment made or required to be made toward any remaining
+obligation for the unfunded actuarial liability; and
+D. The balance in the fund.
+Sec. 2. Legislative intent. It is the intention of the Legislature through this Act to
+provide for a sufficient retirement by increasing the cost-of-living adjustment for retired
+state employees, teachers and their beneficiaries, to the greatest extent possible within
+existing state resources, including the future use of current state appropriations dedicated
+to the payment of the unfunded actuarial liability when those funds are no longer needed
+for payment of the existing liability.
+Sec. 3. Appropriations and allocations. The following appropriations and
+allocations are made.
+ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+Retirement Improvement Fund N521
+Initiative: Provides base allocations to authorize the expenditure of funds to pay for
+retirement benefit improvements for retired state employees and teachers and their
+beneficiaries.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+All Other $0 $500
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $500
+Page 2 - 132LR1598(05)

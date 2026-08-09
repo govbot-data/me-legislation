@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-A to C-A (H-969)
+Media Type: application/pdf
+
+================================================================================
+
+1 L.D. 307
+2 Date: (Filing No. H- )
+3 Reproduced and distributed under the direction of the Clerk of the House.
+4 STATE OF MAINE
+5 HOUSE OF REPRESENTATIVES
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 207,
+9 L.D. 307, “An Act Regarding Energy, Utilities and Technology”
+10 Amend the amendment in section 1 in the 2nd line (page 1, line 17 in amendment) by
+11 inserting after the following: "contrary," the following: 'except as provided in section 3,'
+12 Amend the amendment by inserting after section 2 the following:
+13 'Sec. 3. Exemption for certain data centers. Notwithstanding any provision of
+14 section 1 to the contrary, a proposed data center, as defined in section 1 and referred to in
+15 this section as "the data center," is exempt from the provisions of section 1 if it meets the
+16 requirements of this section.
+17 1. Site restrictions. The exemption applies if, prior to the effective date of this Act:
+18 A. The data center developer has entered into a binding lease or purchase agreement
+19 and has demonstrated site control for the property on which the data center is planned
+20 to be constructed or operated;
+21 B. The property on which the data center is to be constructed or operated is a former
+22 industrial site with existing electrical transmission and distribution functionality that
+23 supported industrial or electric generation use and for which the data center developer
+24 provides the results of a system impact analysis provided by the transmission and
+25 distribution utility that served the site or, if applicable, ISO-New England, as well as
+26 agreements with the transmission and distribution utility and, if applicable, ISO-New
+27 England. As used in this paragraph, "ISO-New England" means the independent
+28 system operator of the New England bulk power system; and
+29 C. The data center developer has identified a maximum electric utility demand of 82
+30 megawatts for the data center, supported by documentation provided to the Public
+31 Utilities Commission, and the demand does not exceed the level evaluated by the
+32 Public Utilities Commission pursuant to subsection 2 and may not be increased except
+33 as provided in this section.
+34 2. Determination by Public Utilities Commission. Upon the receipt of a filing by a
+35 data center developer, the Public Utilities Commission shall conduct a proceeding and may
+36 approve the data center only upon a finding, based on substantial evidence in the record,
+37 including verification of compliance with subsection 1, that:
+Page 1 - 132LR1521(08)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 207, L.D. 307
+1 A. The data center will not result in material cost-shifting to electric utility ratepayers;
+2 B. All transmission, distribution, interconnection and related infrastructure costs
+3 required to serve the data center are fully borne by the data center and are not recovered
+4 through an increase in rates on other utility ratepayers;
+5 C. The data center will not materially adversely affect electric system reliability,
+6 including peak demand impacts and regional resource adequacy issues;
+7 D. The data center's projected water withdrawals, consumption and wastewater
+8 discharge will not materially burden local or regional water supplies or wastewater
+9 infrastructure;
+10 E. Any natural gas usage associated with the data center, including on-site or backup
+11 electric generation, will not result in infrastructure costs borne by other natural gas
+12 customers; and
+13 F. The data center's electric utility demand does not exceed the maximum level
+14 documented pursuant to subsection 1, paragraph C.
+15 The Public Utilities Commission may impose conditions necessary to ensure compliance
+16 with this subsection. To the greatest extent practicable, the Public Utilities Commission
+17 shall make a determination within 150 days of the effective date of the filing by the
+18 applicant.
+19 The Public Utilities Commission may assess a filing fee on a data center developer to cover
+20 any costs incurred by the Public Utilities Commission, including but not limited to
+21 consulting services associated with the proceeding required pursuant to this subsection.
+22 Filing fees paid as required under this subsection must be segregated, apportioned and
+23 expended by the commission for the purposes of this subsection. Any portion of the filing
+24 fee that is received from a data center developer and is not expended by the commission
+25 must be returned to the data center developer.
+26 3. Limitation on expansion; filing fee. A data center for which approval was received
+27 pursuant to subsection 2 may not increase its maximum electric demand beyond the level
+28 approved by the Public Utilities Commission unless the commission, after notice and a
+29 proceeding, determines that the data center continues to meet the criteria in subsection 2.
+30 The Public Utilities Commission may assess a filing fee on a data center developer to cover
+31 any applicable costs incurred by the commission, including but not limited to consulting
+32 services associated with the proceeding required pursuant to this subsection. Filing fees
+33 paid as required under this subsection must be segregated, apportioned and expended by
+34 the commission for the purposes of this subsection. Any portion of the filing fee that is
+35 received from a data center developer and is not expended by the commission must be
+36 returned to the data center developer.
+37 4. Construction timelines. An exemption granted under this section is void unless
+38 construction of the data center commences within 12 months of completion of the Public
+39 Utilities Commission review under subsection 2.
+40 5. Limitation on financial incentive. Notwithstanding any provision of law to the
+41 contrary, the Department of Economic and Community Development may not approve a
+42 municipal tax increment financing application for a data center that includes a credit
+43 enhancement agreement for a data center developer or an employment tax increment
+Page 2 - 132LR1521(08)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 207, L.D. 307
+414 financing application that includes a data center. The department may approve a municipal
+425 tax increment program if the sheltered tax revenues generated by a data center are retained
+436 by the municipality for statutorily permitted municipal uses.
+4 A state agency or quasi-independent entity may not approve, award or disburse state-
+5 funded financial incentives, tax credits, grants or loans for a data center under this section
+6 during the temporary limitation established in section 1.
+7 6. No segmentation. For purposes of this section, electric utility demand must be
+8 calculated based on the total aggregated electric utility demand at a single site or contiguous
+9 parcels under common ownership or control. The development of a data center may not be
+10 divided into phases or affiliated entities to obtain the exemption provided by this section.
+11 7. No establishment of precedent. An exemption granted pursuant to this section
+12 may not be construed to establish precedent for the Maine Data Center Coordination
+13 Council, convened pursuant to section 2, the Public Utilities Commission or any other state
+14 agency in developing recommendations, policies or regulatory frameworks applicable to
+15 data centers.
+16 8. Approval by referendum. A data center that otherwise meets the requirements of
+17 this section must also be approved by the voters of the municipality in which the data center
+18 is proposed to be located by referendum election held in 2026.'
+19 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+20 section number to read consecutively.
+21 SUMMARY
+2222 This amendment exempts from the provisions of Committee Amendment "A" a data
+2233 center that, prior to the effective date of the legislation, meets specified criteria, such as:
+24 1. The developer entered into a lease or purchase agreement for property on which the
+25 data center is planned to be constructed or operated;
+26 2. The property on which the data center is to be constructed or operated is a former
+27 industrial site with existing electrical transmission and distribution functionality that
+28 supported industrial or electric generation use;
+29 3. Following the receipt of a filing by a data center developer, the Public Utilities
+30 Commission finds, after a proceeding, that:
+31 A. The data center will not result in material cost-shifting to electric utility ratepayers;
+32 B. All transmission, distribution, interconnection and related infrastructure costs
+33 required to serve the data center are fully borne by the data center and are not recovered
+34 through an increase in rates on other utility ratepayers;
+35 C. The data center will not materially adversely affect electric system reliability,
+36 including peak demand impacts and regional resource adequacy issues;
+37 D. The data center's projected water withdrawals, consumption and wastewater
+38 discharge will not materially burden local or regional water supplies or wastewater
+39 infrastructure;
+Page 3 - 132LR1521(08)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 207, L.D. 307
+1 E. Any natural gas usage associated with the data center, including on-site or backup
+2 electric generation, will not result in infrastructure costs borne by other natural gas
+3 customers; and
+4 F. The data center's electric utility demand does not exceed the maximum level
+5 documented to the Public Utilities Commission;
+6 4. Any expansion in electric utility demand is approved by the Public Utilities
+7 Commission;
+8 5. The data center is not included in a credit enhancing agreement for a tax increment
+9 financing application or in an employment tax increment financing application. The
+10 Department of Economic and Community Development is prohibited from approving such
+11 an agreement. During the moratorium on data centers, state agencies and quasi-independent
+12 entities are prohibited from awarding or disbursing any type of state-funded grant, tax
+13 credit, incentives or loans;
+14 6. The data center construction commences within 12 months of the completion of the
+15 review by the Public Utilities Commission; and
+16 7. The municipality in which the data center is proposed to be located approves the
+17 data center by referendum held in 2026.
+1188 SPONSORED BY: ___________________________________
+1199 (Representative SACHS, M.)
+2200 TOWN: Freeport
+Page 4 - 132LR1521(08)
+HOUSE AMENDMENT

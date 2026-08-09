@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-986)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2236
+2 Date: (Filing No. H- )
+3 INLAND FISHERIES AND WILDLIFE
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1512, L.D. 2236, “An Act Regarding
+10 Public Records Maintained by the Department of Inland Fisheries and Wildlife”
+11 Amend the bill in section 2 in §10111 in subsection 1 in paragraph A in the first line
+12 (page 1, line 8 in L.D.) by inserting after the following: "any" the following: 'paper or
+13 electronic'
+14 Amend the bill in section 2 in §10111 in subsection 1 by striking out all of paragraph
+15 B (page 1, lines 11 and 12 in L.D.) and inserting the following:
+16 'B. "Data" means information existing in a paper or electronic medium that may be
+17 contained within a records database.'
+18 Amend the bill in section 2 in §10111 in subsection 1 in paragraph D by striking out
+19 all of subparagraph (1) (page 1, line 18 in L.D.).
+20 Amend the bill in section 2 in §10111 in subsection 1 in paragraph D in subparagraph
+21 (8) in the first line (page 1, line 26 in L.D.) by inserting after the following: "number;" the
+22 following: 'and'
+23 Amend the bill in section 2 in §10111 in subsection 1 in paragraph D in subparagraph
+24 (9) in the first line (page 1, line 27 in L.D.) by striking out the following: "number;" and
+25 inserting the following: 'number.'
+26 Amend the bill in section 2 in §10111 in subsection 1 in paragraph D by striking out
+27 all of subparagraphs (10) and (11) (page 1, lines 28 to 30 in L.D.).
+28 Amend the bill in section 2 in §10111 in subsection 1 in paragraph D by renumbering
+29 the subparagraphs to read consecutively.
+30 Amend the bill in section 2 in §10111 in subsection 2 in the 3rd line (page 1, line 35 in
+31 L.D.) by striking out the following: "commercial" and inserting the following: 'data,
+32 commercial record'
+33 Amend the bill in section 2 in §10111 by striking out all of subsections 3 and 4 (page
+34 2, lines 8 to 16 in L.D.) and inserting the following:
+Page 1 - 132LR3027(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1512, L.D. 2236
+1 '3. Disclosure of data not personally identifiable. The department may publicly
+2 disseminate data that is not personally identifiable information and may provide to persons,
+3 businesses and other entities copies of individual records and data that do not contain
+4 personally identifiable information. Notwithstanding subsection 1, paragraph D,
+5 subparagraph (4), information disseminated by the department pursuant to this subsection
+6 may include the names and mailing addresses contained within any license, permit or
+7 registration the department holds.
+8 4. Reasonable fees. The department may charge reasonable fees for requests of both
+9 individual records and whole or partial databases of records at the expense of the person
+10 making the request. The cost of furnishing a copy of the record or records is not subject to
+11 the limitations of Title 1, section 408-A.'
+12 Amend the bill in section 3 in §13106-E in subsection 2 in the first blocked paragraph
+13 in the first line (page 3, line 1 in L.D.) by striking out the following: "or section 13106-C"
+14 Amend the bill in section 3 in §13106-E in subsection 5 by striking out all of paragraph
+15 A (page 3, lines 26 and 27 in L.D.).
+16 Amend the bill in section 3 in §13106-E in subsection 5 by relettering the paragraphs
+17 to read alphabetically.
+18 Amend the bill in section 4 in §13157-D in subsection 2 in the 2nd line (page 4, line
+19 14 in L.D.) by striking out the following: "section" and inserting the following: 'sections
+20 13157-B and'
+21 Amend the bill in section 4 in §13157-D in subsection 2 in the 4th line (page 4, line 16
+22 in L.D.) by inserting after the following: "section" the following: '13157-B and section'
+23 Amend the bill in section 4 in §13157-D in subsection 2 by striking out all of the first
+24 blocked paragraph (page 4, lines 20 to 22 in L.D.) and inserting the following:
+25 'Notwithstanding this section, the Game Warden Colonel may disclose the date, time and
+26 location of an accident reported under sections 13157-B and 13157-C; the names and
+27 addresses of operators, owners and injured persons; the names and addresses of witnesses;
+28 and the name and address of the investigating officer. On written request, the Game Warden
+29 Colonel may furnish a photocopy of the investigating officer's report at the expense of the
+30 person making the request.'
+31 Amend the bill in section 4 in §13157-D by striking out all of subsection 4 (page 4,
+32 lines 38 to 41 in L.D.) and inserting the following:
+33 '4. Reasonable fees. The Bureau of Warden Service may charge reasonable fees for
+34 ATV accident report data. The cost of furnishing a copy of the report is not subject to the
+35 limitations of Title 1, section 408-A.
+36 5. Violation. A person commits a Class E crime if that person:
+37 A. Is an operator involved in a reportable ATV accident and knowingly fails to give a
+38 correct name and address when requested by a law enforcement officer at the scene;
+39 B. Is the operator involved in a reportable ATV accident under this section or is the
+40 owner of an ATV involved in a reportable accident and knowingly fails to produce the
+41 ATV or, if the ATV is operational, return it to the scene when requested by the
+42 investigating officer; or
+Page 2 - 132LR3027(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1512, L.D. 2236
+1 C. Obtains an ATV registration number pursuant to section 13155 and knowingly uses
+2 that ATV registration number to identify or contact a person or knowingly disseminates
+3 that ATV registration number to another person.'
+4 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+5 number to read consecutively.
+6 SUMMARY
+77 This amendment, which is the majority report of the committee, does the following.
+8 1. It makes technical changes to the bill.
+9 2. It amends the definition of "personally identifiable information," which is defined in
+10 the bill for the laws governing the Department of Inland Fisheries and Wildlife's records
+11 and databases related to licenses, permits, registrations, harvest records and applications.
+12 3. It establishes that the Department of Inland Fisheries and Wildlife may in certain
+13 situations disseminate names and mailing addresses.
+14 4. It establishes violations related to all-terrain vehicle accident report data.
+1155 FISCAL NOTE REQUIRED
+1166 (See attached)
+Page 3 - 132LR3027(02)
+COMMITTEE AMENDMENT

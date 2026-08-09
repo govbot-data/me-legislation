@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 649
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 6, 2026 649
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 818 - L.D. 2129
+An Act to Prohibit Liens on Principal Residences and Wage Garnishments
+for Medical Debt
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 9-A MRSA §5-105, sub-§4 is enacted to read:
+4. A court may not make, execute or enforce an order or process under this section
+based on medical debt as defined in Title 32, section 11002, subsection 7-A.
+Sec. 2. 9-A MRSA §5-116-A, sub-§5 is enacted to read:
+5. Prohibition of liens on principal place of residence. An execution against a
+consumer's principal place of residence may not be filed for a judgment in any action in
+which the claim against the consumer is based on medical debt. For the purposes of this
+subsection, "medical debt" has the same meaning as in Title 32, section 11002, subsection
+7-A.
+Sec. 3. 9-A MRSA §5-116-A, sub-§6 is enacted to read:
+6. Prohibition of salary or wage garnishment. The garnishment of a consumer's
+salary or wages may not be issued for a judgment in any action in which the claim against
+the consumer is based on medical debt. For the purposes of this subsection, "medical debt"
+has the same meaning as in Title 32, section 11002, subsection 7-A.
+Sec. 4. 14 MRSA §4422, sub-§1, ¶E, as enacted by PL 2021, c. 382, §2, is
+amended to read:
+E. The amount of any exemption claimed under this subsection is limited to the amount
+of the exemption in effect on the date of the recording of the lien on the property against
+which the exemption is claimed;.
+Sec. 5. 14 MRSA §4422, sub-§1, ¶F is enacted to read:
+F. Notwithstanding paragraphs A and B, a debtor's principal place of residence is
+exempt from attachment and execution based on medical debt as defined in Title 32,
+section 11002, subsection 7-A;
+Sec. 6. 14 MRSA §4655 is amended by enacting at the end a new paragraph to read:
+Page 1 - 132LR2603(03)
+
+Notwithstanding this section and any other provision of law to the contrary, interest
+may not be collected upon execution of a judgment related to any disposition of property
+subject to any lien or attachment of a judgment debtor's principal place of residence based
+on medical debt as defined in Title 32, section 11002, subsection 7-A for the amount of
+interest that has accumulated on the medical debt subject to that lien on or after the date on
+which section 4422, subsection 1, paragraph F takes effect.
+Sec. 7. 32 MRSA §11013, sub-§12 is enacted to read:
+12. Prohibition of liens on principal place of residence. A debt collector may not
+initiate an action that attaches a consumer's principal place of residence for a judgment in
+any action in which the claim against the consumer is based on medical debt.
+Sec. 8. 32 MRSA §11013, sub-§13 is enacted to read:
+13. Prohibition of wage garnishment. A debt collector may not initiate an action to
+garnish the salary or wages of a consumer in which the claim against the consumer is based
+on medical debt.
+Page 2 - 132LR2603(03)

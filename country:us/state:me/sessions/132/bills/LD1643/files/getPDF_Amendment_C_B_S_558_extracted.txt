@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-B (S-558)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1643
+2 Date: (Filing No. S- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 651, L.D. 1643, “An Act to Establish the
+10 Maine Life Science Innovation Center”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Establish the Maine Life Sciences Innovation Center'
+13 Amend the bill by inserting after the title and before the enacting clause the following:
+14 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+15 become effective until 90 days after adjournment unless enacted as emergencies; and
+16 Whereas, Maine's growing life sciences sector represents a vital component of
+17 Maine's economy, with emerging opportunities across biomedical research, marine
+18 biology, agriculture, forestry and data science; and
+19 Whereas, the life sciences sector is one of the fastest-growing sectors of Maine's
+20 economy, employing nearly 10,000 people, contributing $2.3 billion annually to Maine's
+21 gross domestic product and providing wages that are 1.7 times higher than the state
+22 average; and
+23 Whereas, innovation in life sciences contributes directly to the well-being of Maine
+24 people through advancements in human and animal health, environmental resilience,
+25 workforce development and economic growth; and
+26 Whereas, the Legislature recognizes the need for a dedicated, coordinated and
+27 strategic approach to support research, development, commercialization and investment in
+28 the life sciences sector; and
+29 Whereas, the Maine Technology Institute was established to support Maine's
+30 innovation economy through sponsorships, investments and partnerships that promote
+31 innovation and entrepreneurship, generate high-quality jobs, expand research and
+32 development, accelerate revenues, attract additional investment and foster the
+33 commercialization of new products and services in Maine's technology-intensive sectors;
+34 and
+Page 1 - 132LR2061(08)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 651, L.D. 1643
+1 Whereas, the Maine Technology Institute's mission includes advancing innovation
+2 across 7 core technology sectors, all of which are relevant to life sciences applications,
+3 making the Maine Technology Institute a natural institutional home for this initiative; and
+4 Whereas, the Legislature has demonstrated broad bipartisan support for growing
+5 Maine's life sciences economy; and
+6 Whereas, on September 18, 2025, the Governor issued Executive Order 2 FY 25/26:
+7 An Order Establishing the Maine Life Sciences Innovation Center, which established the
+8 Maine Life Sciences Innovation Center within the Maine Technology Institute; and
+9 Whereas, this legislation permanently establishes in law the Maine Life Sciences
+10 Innovation Center that was previously established by the Governor by executive order and
+11 is not intended to establish a separate, duplicative entity; and
+12 Whereas, this legislation must take effect immediately in order to ensure timely
+13 continuation of the Maine Technology Institute and ongoing support of Maine's life
+14 sciences sector; and
+15 Whereas, in the judgment of the Legislature, these facts create an emergency within
+16 the meaning of the Constitution of Maine and require the following legislation as
+17 immediately necessary for the preservation of the public peace, health and safety; now,
+18 therefore,'
+19 Amend the bill by striking out everything after the enacting clause and inserting the
+20 following:
+21 'Sec. 1. 5 MRSA §15303, sub-§6, ¶D, as enacted by PL 1999, c. 401, Pt. AAA,
+22 §3, is amended to read:
+23 D. Shall coordinate its priorities with the applied research and development efforts of
+24 the University of Maine System insofar as those efforts are in the targeted technologies
+25 and encourage, when possible and appropriate, companies and research laboratories
+26 receiving funds from the institute to establish joint ventures with the university system;
+27 and
+28 Sec. 2. 5 MRSA §15303, sub-§6, ¶E, as amended by PL 2017, c. 109, §3, is further
+29 amended to read:
+30 E. Shall cooperate with the Department of Economic and Community Development,
+31 the Maine Manufacturing Extension Partnership, the University of Maine System and
+32 others in their efforts to ensure that a complementary system of support services,
+33 including, as needed and appropriate, incubators, business assistance, technology
+34 transfer, market research, patent research and similar services, is in place and available
+35 to companies and research laboratories receiving funds from the institute.; and
+36 Sec. 3. 5 MRSA §15303, sub-§6, ¶F is enacted to read:
+37 F. Shall support the Maine Life Sciences Innovation Center pursuant to section 15331.
+38 Sec. 4. 5 MRSA c. 407, sub-c. 4 is enacted to read:
+39 SUBCHAPTER 4
+Page 2 - 132LR2061(08)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 651, L.D. 1643
+1 MAINE LIFE SCIENCES INNOVATION CENTER
+2 §15331. Maine Life Sciences Innovation Center
+3 1. Establishment; purpose. The Maine Life Sciences Innovation Center, referred to
+4 in this subchapter as "the center," is established within the institute to support life sciences
+5 innovation, research, entrepreneurship and workforce development in the State. The center
+6 is established to serve the following purposes:
+7 A. To leverage and expand the State's life sciences sector by supporting collaborative
+8 research, workforce training and entrepreneurial ventures and seeking capital
+9 investment;
+10 B. To advance life sciences innovation and sector research across disciplines, including
+11 human and animal health, marine sciences, agriculture, forestry and data science;
+12 C. To coordinate with public and private partners, educational and research institutions,
+13 nonprofit organizations and business stakeholders to strengthen the State's innovation
+14 efforts;
+15 D. To investigate opportunities for grants, loans and other resources to support life
+16 sciences entities;
+17 E. To develop strategies to attract federal, philanthropic and private investment;
+18 F. To advise the Maine Technology Institute Director under section 15310 on matters
+19 related to life sciences innovation; and
+20 G. To report regularly to the Legislature regarding the center's operations, activities
+21 and recommendations.
+22 2. Membership. The center is composed of 10 members. The members include:
+23 A. The Commissioner of Economic and Community Development, or the
+24 commissioner's designee, who serves as an ex officio, nonvoting member; and
+25 B. Nine voting members appointed by the Governor, upon the recommendation of the
+26 Finance Authority of Maine and the institute, with expertise spanning the life sciences
+27 sector and its allied disciplines, including representatives of industry, life sciences
+28 entrepreneurs, research institutions, academia, hospitals, nonprofit organizations,
+29 investors and counties, including rural counties. Each member under this paragraph is
+30 entitled to one vote.
+31 The Governor shall designate a chair from among the center's members to preside at, set
+32 the agenda for and schedule center meetings.
+33 Center members shall disclose any direct or indirect pecuniary interest in any matter before
+34 the center and recuse themselves from any participation in the consideration of such a
+35 matter.
+36 3. Operations. The following provisions govern the operations of the center.
+37 A. The center shall meet as often as it considers necessary for the center to perform its
+38 work.
+39 B. To the extent practicable, the center shall conduct its work in a manner that is open
+40 and accessible to the public.
+Page 3 - 132LR2061(08)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 651, L.D. 1643
+1 C. The center may conduct its work through subcommittees.
+2 4. Staff and administrative support. The institute shall provide staff as may be
+3 necessary to fulfill the center's mission and may seek assistance from other state agencies
+4 and private entities to accomplish the goals and work of the center.
+5 5. Annual report. The center shall submit annually to the Governor, the Executive
+6 Director of the Legislative Council and the joint standing committee of the Legislature
+7 having jurisdiction over economic development matters, no later than 120 days after the
+8 close of the center's fiscal year, a complete report on the activities of the center. The report
+9 must be made available to the public and must include the following for that fiscal year:
+10 A. A description of the center's operations;
+11 B. An accounting of the center's receipts and expenditures, assets and liabilities at the
+12 end of its fiscal year;
+13 C. A listing of all investments, grants, loans and incentives provided by the center
+14 during the fiscal year;
+15 D. A statement of the center's proposed and projected activities for the ensuing fiscal
+16 year; and
+17 E. Recommendations regarding further actions that may be suitable for achieving the
+18 purposes of this subchapter.
+19 After reviewing the report under this subsection, the joint standing committee may report
+20 out legislation relating to the report.
+21 Sec. 5. Maine Life Sciences Innovation Center; interim report. The Maine
+22 Life Sciences Innovation Center established pursuant to the Maine Revised Statutes, Title
+23 5, section 15331 shall submit an interim report to the joint standing committee of the
+24 Legislature having jurisdiction over economic development matters no later than 180 days
+25 after all members of the center have been appointed pursuant to Title 5, section 15331,
+26 subsection 2. The interim report must include, but is not limited to, the following:
+27 1. A description of the center's operations;
+28 2. Proposed and projected activities for the ensuing fiscal year; and
+29 3. Recommendations for future actions necessary to achieve the center's goals,
+30 including a recommendation regarding whether the center should be changed to a quasi-
+31 independent state entity.
+32 After reviewing the report under this section, the joint standing committee may report
+33 out legislation relating to the report.
+34 Emergency clause. In view of the emergency cited in the preamble, this legislation
+35 takes effect when approved.'
+36 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+37 number to read consecutively.
+38 SUMMARY
+3399 This amendment replaces the bill and changes the title. It adds an emergency preamble
+4400 and clause and establishes the Maine Life Sciences Innovation Center within the Maine
+Page 4 - 132LR2061(08)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 651, L.D. 1643
+411 Technology Institute to support life sciences innovation, research, entrepreneurship and
+422 workforce development in the State. The amendment directs the center to submit an interim
+433 report to the joint standing committee of the Legislature having jurisdiction over economic
+444 development matters no later than 180 days after all members of the center have been
+455 appointed.
+6 The amendment permanently establishes in law the Maine Life Sciences Innovation
+7 Center that was previously established by the Governor by executive order and is not
+8 intended to establish a separate, duplicative entity.
+99 FISCAL NOTE REQUIRED
+1100 (See attached)
+Page 5 - 132LR2061(08)
+COMMITTEE AMENDMENT

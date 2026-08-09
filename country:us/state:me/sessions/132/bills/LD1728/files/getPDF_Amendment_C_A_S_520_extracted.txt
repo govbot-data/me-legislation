@@ -1,0 +1,114 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-520)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1728
+2 Date: (Filing No. S- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 674, L.D. 1728, “An Act to Establish the
+10 Maine Child Care Affordability Program Advisory Board”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Improve Affordability, Stability and Access in the Maine Child Care
+13 Affordability Program'
+14 Amend the bill by striking out all of the emergency preamble.
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 22 MRSA §3731-A, sub-§3 is enacted to read:
+18 3. Copayments limited. The department shall limit the amount of copayments
+19 required to be paid by families receiving subsidies under the Maine Child Care
+20 Affordability Program in accordance with this subsection.
+21 A. A family earning up to 85% of the median family income in the State for a family
+22 of the same size may not be required to contribute more than 7% of the family’s
+23 household income as a copayment.
+24 B. Copayments may be further reduced or waived, as determined by the department,
+25 for additional populations, including, but not limited to:
+26 (1) Families earning up to 30% of the median family income in the State for a
+27 family of the same size;
+28 (2) Children who are in foster care or kinship care;
+29 (3) Families experiencing homelessness; and
+30 (4) Families with a child with a disability.
+31 Sec. 2. 22 MRSA §3731-B is enacted to read:
+32 §3731-B. Copayment schedule
+Page 1 - 132LR2324(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 674, L.D. 1728
+1 The department shall post on its publicly accessible website information about
+2 copayments, as determined by the department pursuant to section 3731-A, subsection 3,
+3 that must be paid by families receiving subsidies under the Maine Child Care Affordability
+4 Program established in section 3731-A. The information posted must include, but is not
+5 limited to, the sliding fee scales used to determine family copayments, estimated amounts
+6 of copayments for families based on income and family size and policies related to reduced
+7 or waived copayments. The website must use plain language and must be updated when
+8 copayment schedules and amounts change.
+9 Sec. 3. 22 MRSA §3737, sub-§7 is enacted to read:
+10 7. Reimbursements for subsidies. The department shall reimburse a provider of child
+11 care services provided under this chapter for subsidies provided under the Maine Child
+12 Care Affordability Program established in section 3731-A administered by the department
+13 pursuant to rules adopted by the department. To the extent allowable under federal law,
+14 reimbursement under the program to a child care provider must be based on generally
+15 accepted payment practices for private-pay families for child care, including enrollment-
+16 based rather than attendance-based practices. Reimbursement based on generally accepted
+17 payment practices must support child care provider stability and encourage more child care
+18 providers to serve children receiving child care services under the program. In developing
+19 the program, the department shall identify the practices common for child care providers
+20 serving private-pay families and determine which practices are most important to meet the
+21 goals of ensuring that high-quality child care providers participate in the program. The
+22 department shall make a plan to align requirements for providers accepting children
+23 receiving federal Child Care and Development Fund child care assistance to the practices
+24 of child care providers serving private-pay families. The department shall examine
+25 generally accepted payment practices regarding paying prospectively based on enrollment
+26 and practices related to separating provider closure limits for holidays or vacations or to
+27 compensate for inclement weather from child absence allowances. The department shall
+28 adopt rules to implement this subsection. Rules adopted pursuant to this subsection are
+29 routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+30 For the purposes of this subsection, "generally accepted payment practices" are practices
+31 that align with the private-pay child care market in order to encourage providers to accept
+32 children receiving federal Child Care and Development Fund child care assistance and
+33 enable families to retain child care services.
+34 Sec. 4. 22 MRSA §3737, sub-§8 is enacted to read:
+35 8. Subsidy above equivalent private rate. To the extent allowable by federal law,
+36 the department may reimburse a provider of child care services for subsidies provided
+37 under the Maine Child Care Affordability Program established in section 3731-A at the
+38 market rate established pursuant to subsection 4 to better reflect the cost of providing care
+39 even if that rate is higher than the rate charged by a provider of child care for a child in a
+40 family that is not receiving a subsidy under this chapter.'
+41 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+42 number to read consecutively.
+Page 2 - 132LR2324(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 674, L.D. 1728
+1 SUMMARY
+22 This amendment replaces the bill, changes the title and removes references to the
+33 Maine Child Care Affordability Program Advisory Board. The amendment does the
+44 following.
+5 1. It establishes a cap on copayments for families receiving subsidies under the Maine
+6 Child Care Affordability Program. A family with income up to 85% of the median family
+7 income in the State not may be required to pay more than 7% of the family’s household
+8 income. This is the current limit on copayments in federal child care subsidy regulations.
+9 2. It allows the Department of Health and Human Services to further reduce or waive
+10 copayments for additional populations, including families with income up to 30% of the
+11 median family income in the State, children in foster care or kinship care, families
+12 experiencing homelessness and families with a child with a disability.
+13 3. It requires the department to post on its publicly accessible website information
+14 related to the copayments required from families receiving subsidies under the program.
+15 4. It requires the department to reimburse child care providers for subsidies based on
+16 enrollment rather than attendance. Payment practices must promote the financial stability
+17 of child care providers and continuity of care for children.
+18 5. It allows the department to reimburse child care providers receiving a subsidy at a
+19 rate that is higher than the amount charged for a child in a family that is not receiving a
+20 subsidy.
+2211 FISCAL NOTE REQUIRED
+2222 (See attached)
+Page 3 - 132LR2324(02)
+COMMITTEE AMENDMENT

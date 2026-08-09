@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-799)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2055
+2 Date: (Filing No. H- )
+3 INLAND FISHERIES AND WILDLIFE
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1379, L.D. 2055, “An Act to Amend or
+10 Correct Certain Inland Fisheries and Wildlife Laws”
+11 Amend the bill in section 1 in subsection 16 in the 10th line (page 1, line 13 in L.D.)
+12 by striking out the following: "3-year ineligibility period under subsection 5" and inserting
+13 the following: 'eligibility period under subsection 5 that prohibits a transferee that transfers
+14 a moose permit pursuant to this subsection from obtaining another moose permit until the
+15 4th calendar year after the issuance of the last permit'
+16 Amend the bill by inserting after section 1 the following:
+17 'Sec. 2. 12 MRSA §12509, as amended by PL 2025, c. 343, §§5 to 7, is further
+18 amended to read:
+19 §12509. Permit to import live freshwater fish or eggs gametes
+20 1. Permit required. Except as otherwise authorized pursuant to this Part, a person
+21 may not introduce, import or transport any live fish or fish eggs gametes into the State or
+22 receive or have in that person's possession fish or fish eggs gametes so introduced, imported
+23 or transported without a valid permit issued under this section.
+24 A person who violates this subsection commits a Class E crime, except that,
+25 notwithstanding Title 17‑A, section 1704, the fine may not be less than $1,000 nor more
+26 than $10,000.
+27 2. Issuance. The commissioner may grant permits to introduce, import or transport
+28 any live fish or fish eggs gametes into the State or to receive or have in possession fish or
+29 fish eggs gametes so introduced, imported or transported if the commissioner determines
+30 that the species does not pose an unreasonable risk to any species of fish or other organism
+31 after evaluating fish health, habitat and population management issues. The commissioner
+32 may not adopt rules or issue permits governing any aspect of either the commercial
+33 aquaculture of Atlantic salmon when intended for use in commercial aquaculture in coastal
+34 waters, or in land-based aquaculture facilities, or the Atlantic salmon restoration program.
+Page 1 - 132LR2634(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1379, L.D. 2055
+1 3. Application. Importers shall, when requesting a permit issued pursuant to
+2 subsection 2, provide the commissioner with the following information:
+3 A. The number and species to be imported;
+4 B. The name and address of the source;
+5 C. A statement from a fish health inspector certified by the American Fisheries
+6 Society, a fish pathologist certified by the American Fisheries Society or a licensed
+7 accredited veterinarian, certifying that the fish or fish eggs gametes are from sources
+8 that show no evidence of viral hemorrhagic septicemia, infectious pancreatic necrosis,
+9 infectious hematopoietic necrosis, Myxosomo cerebralis or other diseases that may
+10 threaten fish stocks within the State; and
+11 D. Other professionally recognized tests or analyses, including evaluation of fish
+12 health, habitat or population management issues that the commissioner may require by
+13 rule to ensure that the species will not pose an unreasonable risk to any species of fish
+14 or other organism.
+15 4. Rules. The commissioner may adopt rules allowing the possession and importation
+16 of certain species of tropical fish and goldfish without a permit, for aquarium purposes
+17 only, if the commissioner determines that the species does not pose an unreasonable risk to
+18 any species of fish or other organism after evaluating fish health, habitat and population
+19 management issues. Rules adopted pursuant to this subsection are routine technical rules
+20 as defined in Title 5, chapter 375, subchapter 2‑A.
+21 Sec. 3. 12 MRSA §12510, as amended by PL 2025, c. 343, §8, is further amended
+22 to read:
+23 §12510. Permit to stock inland waters
+24 1. Permit required. Except as otherwise authorized pursuant to this Part, a person
+25 may not introduce fish or fish eggs gametes of any kind into any inland waters without a
+26 valid permit issued under this section.
+27 1-A. Penalty. A person who violates subsection 1 commits a Class E crime, except
+28 that, notwithstanding Title 17‑A, section 1704, the fine may not be less than $1,000 or more
+29 than $10,000.
+30 1-B. Restitution. In the case of a person who violates subsection 1, the court shall:
+31 A. Order that person to pay the department an amount equal to the cost of labor,
+32 equipment, chemicals and all other related expenses directly associated with mitigating
+33 or reclaiming waters affected as a result of the violation; and
+34 B. Direct that person to provide the commissioner, upon making full payment as
+35 ordered by the court under paragraph A, proof of that payment.
+36 2. Issuance. The commissioner may issue a written permit allowing a person to
+37 introduce fish or fish eggs gametes of any kind into any inland waters by means of live fish
+38 or otherwise.
+39 3. Limited permit. The commissioner may issue a written limited permit to a local
+40 government under this subsection. A limited permit:
+41 A. Allows the local government to introduce fish or fish eggs gametes only into a great
+42 pond that:
+Page 2 - 132LR2634(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1379, L.D. 2055
+1 (1) Is within the jurisdiction of the local government; and
+2 (2) Was previously stocked by the department and in which stocking was
+3 suspended prior to January 1, 2019 and has not been resumed by the department
+4 due to inadequate public access;
+5 B. Allows the introduction of only:
+6 (1) The same species of fish that was stocked at the time the department suspended
+7 stocking; and
+8 (2) Fish or fish eggs gametes obtained by the local government at its own expense
+9 from an in-state commercial facility that meets testing and health guidelines
+10 approved by the department; and
+11 C. May be issued only if the local government identifies public access to the great
+12 pond that:
+13 (1) Is at least suitable for the hand carrying of boats to the water;
+14 (2) Includes a parking area; and
+15 (3) Has been marked with signage adequate to ensure public awareness of the
+16 public access.
+17 For purposes of this subsection, "local government" means a municipality or, in the
+18 unorganized territory, a county.
+19 Sec. 4. 12 MRSA §12511, as amended by PL 2025, c. 343, §9, is further amended
+20 to read:
+21 §12511. Permit to introduce fish or fish eggs gametes into private pond
+22 1. Permit required. Except as otherwise authorized pursuant to this Part, a person
+23 may not introduce fish or fish eggs gametes into a private pond without a valid permit
+24 issued under this section.
+25 1-A. Penalty. A person who violates subsection 1 commits a Class E crime, except
+26 that, notwithstanding Title 17‑A, section 1704, the fine may not be less than $1,000 or more
+27 than $10,000.
+28 1-B. Restitution. In the case of a person who violates subsection 1, the court shall:
+29 A. Order that person to pay the department an amount equal to the cost of labor,
+30 equipment, chemicals and all other related expenses directly associated with mitigating
+31 or reclaiming waters affected as a result of the violation; and
+32 B. Direct that person to provide the commissioner, upon making full payment as
+33 ordered by the court under paragraph A, proof of that payment.
+34 2. Issuance. The commissioner may issue a written permit to introduce fish or fish
+35 eggs gametes into a private pond.
+36 Sec. 5. 12 MRSA §12607, as enacted by PL 2003, c. 414, Pt. A, §2 and affected by
+37 Pt. D, §7 and c. 614, §9, is amended by amending the section headnote to read:
+38 §12607. Unlawfully introducing department-raised fish or fish spawn gametes
+Page 3 - 132LR2634(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1379, L.D. 2055
+1 Sec. 6. 12 MRSA §12607, sub-§1, as enacted by PL 2003, c. 414, Pt. A, §2 and
+2 affected by c. 614, §9, is amended to read:
+3 1. Prohibition. A person may not introduce fish or fish spawn gametes raised by the
+4 department into a private pond, unless the department permits the introduction for fishing
+5 events held in conjunction with educational or special programs sanctioned by the
+6 department.'
+7 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+8 number to read consecutively.
+9 SUMMARY
+1100 This amendment clarifies language in the bill that prohibits a transferee who transfers
+1111 a moose permit to a disabled veteran from obtaining another moose permit until the 4th
+1122 calendar year after the issuance of the last permit. It also replaces the terms "fish eggs" and
+1133 "fish spawn" with "gametes" in certain provisions of the Maine Revised Statutes, Title 12
+1144 to clarify that the provisions apply to fish eggs and fish milt.
+1155 FISCAL NOTE REQUIRED
+1166 (See attached)
+Page 4 - 132LR2634(02)
+COMMITTEE AMENDMENT

@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 531
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 531
+JANUARY 11, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+S.P. 343 - L.D. 784
+An Act to Create a Rebuttable Presumption Related to Specialized Risk
+Screening for First Responders
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 24-A MRSA §4301-A, sub-§5-B is enacted to read:
+5-B. First responder. "First responder" means an employee or occasional employee
+of a state, county or municipal government entity or volunteer of a state, county or
+municipal government entity that provides or has the authority to provide fire, emergency
+medical, emergency communications, correctional or police services.
+Sec. 2. 24-A MRSA §4301-A, sub-§19-A is enacted to read:
+19-A. Specialized risk screening. "Specialized risk screening" means any of the
+following standard, medically accepted tests:
+A. Tests for evidence of any cancer with a known employment-related risk of exposure
+for a first responder;
+B. Blood tests, including tests conducted for a complete blood count, comprehensive
+metabolic panel, renal panel and hepatic panel;
+C. Mammography, colonoscopy or prostate examinations regardless of the age of the
+person who is the subject of the examination;
+D. Tests of any measure of serum activity of lipoprotein-associated phospholipase
+enzyme A2, oxidized low-density lipoprotein or additional indicators of endovascular
+inflammation; or
+E. Tests to measure vitamin deficiencies, nutritional deficits and mineral levels.
+Sec. 3. 24-A MRSA §4313, sub-§15 is enacted to read:
+15. Rebuttable presumption. In a cause of action under this section or under Title
+18-C, section 2-807 as permitted under subsection 14, there is a rebuttable presumption
+that a carrier has failed to exercise ordinary care when making an adverse health care
+treatment decision to deny coverage under a health plan for covered specialized risk
+screening for an enrollee who is a first responder and whose provider has determined the
+Page 1 - 132LR0577(03)
+
+enrollee's receipt of specialized risk screening is medically appropriate and has meaningful
+potential for preventive clinical benefit to the enrollee.
+Sec. 4. Application. This Act applies to an adverse health care treatment decision
+made by a carrier, as defined in the Maine Revised Statutes, Title 24-A, section 4301-A,
+subsection 3, on or after the effective date of this Act.
+Page 2 - 132LR0577(03)

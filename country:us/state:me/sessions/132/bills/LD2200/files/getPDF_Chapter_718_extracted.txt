@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 718
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 15, 2026 718
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1479 - L.D. 2200
+An Act Relating to Noncompete Agreements Between Employers and Health
+Care Practitioners
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 26 MRSA §599-A, sub-§1, ¶A-1 is enacted to read:
+A-1. "Health care practitioner" means an individual qualified or licensed under state
+law to perform or provide health care services to persons in the State.
+Sec. 2. 26 MRSA §599-A, sub-§2, as enacted by PL 2019, c. 513, §1, is amended
+by enacting at the end a new last blocked paragraph to read:
+A noncompete agreement between an employer and a health care practitioner that is
+enforceable under this subsection must recognize an individual's right to choose that
+individual's own health care practitioner.
+Sec. 3. 26 MRSA §599-A, sub-§3, ¶C is enacted to read:
+C. The employee is a health care practitioner who is employed by an entity in which
+that health care practitioner does not have an ownership interest.
+Sec. 4. 26 MRSA §599-A, sub-§5, as enacted by PL 2019, c. 513, §1, is amended
+to read:
+5. Effective date of a noncompete agreement. Except for a noncompete agreement
+between an employer and an allopathic physician or an osteopathic physician licensed
+under Title 32, chapter 48 or chapter 36, respectively a health care practitioner, the terms
+of a noncompete agreement do not take effect until after one year of the employee's
+employment with the employer or a period of 6 months from the date the agreement was
+signed, whichever is later.
+Sec. 5. Application. This Act applies to all noncompete agreements entered into or
+renewed on or after the effective date of this Act.
+Page 1 - 132LR3026(07)

@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 742
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 16, 2026 742
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 241 - L.D. 562
+An Act to Update Reimbursement Rates for Transportation of Deceased
+Persons by Funeral Homes When the Transport is at the Request of the Chief
+Medical Examiner
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA §3024, 4th ¶, as amended by PL 2011, c. 445, §1 and affected
+by §3, is further amended to read:
+The Chief Medical Examiner may authorize any other expenses necessary to carry out
+the Chief Medical Examiner's duties. The Chief Medical Examiner shall reimburse a
+funeral establishment that transports a body to Augusta at the request of the Office of Chief
+Medical Examiner at the following rates: for up to and including the first 25 miles, $120
+$135; for the next 25 miles, $2 $2.20 per mile traveled while actually transporting a body;
+and for miles in excess of 50, $1.75 $2 per mile traveled while actually transporting a body.
+If an employee of a funeral establishment is required to wait at the Office of Chief Medical
+Examiner due to processes or other official activities of the Chief Medical Examiner, the
+Chief Medical Examiner shall reimburse the funeral establishment at a rate equal to the
+wage rate in Title 26, section 664, subsection 1 for the period of time the employee waits.
+Sec. 2. Appropriations and allocations. The following appropriations and
+allocations are made.
+ATTORNEY GENERAL, DEPARTMENT OF THE
+Chief Medical Examiner - Office of 0412
+Initiative: Provides funding to increase the transportation reimbursement rate and to
+establish a reimbursement rate for employees of funeral establishments requested to
+transport a body for the Office of Chief Medical Examiner who are required to wait.
+GENERAL FUND 2025-26 2026-27
+All Other $0 $12,000
+__________ __________
+GENERAL FUND TOTAL $0 $12,000
+Page 1 - 132LR2232(07)

@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 607
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 3, 2026 607
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 894 - L.D. 2193
+An Act to Extend the Requirement That the Maine Commission on Public
+Defense Services Compensate Certain Private Attorneys Appointed to
+Provide Indigent Legal Services
+Emergency preamble. Whereas, acts and resolves of the Legislature do not
+become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, Public Law 2025, chapter 40 requires the Maine Commission on Public
+Defense Services to compensate an attorney appointed by a District Court, a Superior Court
+or the Supreme Judicial Court to represent a person who is eligible to receive indigent legal
+services if no public defender, assigned counsel, contract counsel or employed counsel is
+available to represent the person and if the appointed attorney is willing and qualified to
+undertake the representation; and
+Whereas, the provision of Public Law 2025, chapter 40 requiring compensation of
+private attorneys appointed by state courts to provide indigent legal services was repealed
+on February 1, 2026; and
+Whereas, due to the current lack of attorneys rostered by the Maine Commission on
+Public Defense Services to take these indigent legal services cases, it is important to extend
+this provision for a period of one year to ensure that the fundamental rights of indigent
+parties in these proceedings are protected; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within
+the meaning of the Constitution of Maine and require the following legislation as
+immediately necessary for the preservation of the public peace, health and safety; now,
+therefore,
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 4 MRSA §1802, sub-§4-A is enacted to read:
+4-A. Private attorney. "Private attorney" means an attorney who is not a public
+defender, contract counsel, assigned counsel or employed counsel.
+Sec. 2. 4 MRSA §1805-A, sub-§1, as amended by PL 2025, c. 40, §1, is further
+amended to read:
+Page 1 - 132LR3016(03)
+
+1. Duties. The executive director shall administer and improve reimbursement of
+expenses incurred by assigned counsel, contract counsel and, until February April 1, 2026
+2027, a private attorney appointed under section 1807 1807-A by:
+A. Establishing procedures to ensure that the eligibility of defendants and civil parties
+is verified and reviewed randomly and when circumstances have changed, information
+has changed, additional information is provided or as otherwise needed;
+B. Petitioning the court to reassess the indigency of a defendant or civil party if the
+executive director determines that indigency should be reassessed;
+C. Providing to the commission recommendations to improve reimbursement of
+expenses;
+D. Requiring that the amount of time spent on each case by assigned counsel or
+contract counsel is recorded separately for each case; and
+E. Receiving from the courts collections for the costs of representation from
+defendants or civil parties who are found to be partially indigent or who have otherwise
+been determined to be able to reimburse the commission for expenses incurred by
+assigned counsel, contract counsel or, until February April 1, 2026 2027, a private
+attorney appointed under section 1807 1807-A.
+Sec. 3. 4 MRSA §1805-A, sub-§3, as amended by PL 2025, c. 40, §2, is further
+amended to read:
+3. Partial indigency and reimbursement. This subsection applies to partial
+indigency and reimbursement of expenses incurred by assigned counsel, contract counsel
+or, until February April 1, 2026 2027, a private attorney appointed under section 1807
+1807-A.
+A. If the court determines that a defendant or civil party is unable to pay to obtain
+private counsel but is able to contribute to payment of assigned counsel, contract
+counsel or, until February April 1, 2026 2027, a private attorney appointed under
+section 1807 1807-A, the court shall order the defendant or civil party to make
+installment payments up to the full cost of representation or to pay a fixed contribution.
+The court shall remit payments received to the commission.
+B. A defendant or civil party may not be required to pay for legal services in an amount
+greater than the expenses actually incurred.
+C. Upon petition of a defendant or civil party who is incarcerated, the court may
+suspend an order for reimbursement issued pursuant to this subsection until the time of
+the defendant’s or civil party’s release.
+D. The executive director may enter into contracts to secure the reimbursement of fees
+and expenses paid by the commission as provided for in this section.
+Sec. 4. 4 MRSA §1807-A is enacted to read:
+§1807-A. Court appointment of private attorney
+1. Appointment of private attorneys by District Court and Superior Court.
+Notwithstanding any provision of this chapter to the contrary, a court may appoint a private
+attorney to represent a person who is eligible to receive indigent legal services in a matter
+pending before the District Court or Superior Court, including for purposes of providing
+Page 2 - 132LR3016(03)
+
+limited representation as defined by the court in its appointment order, if the court finds the
+following:
+A. A public defender, assigned counsel, contract counsel or employed counsel is not
+available to represent the person;
+B. The private attorney is qualified to represent the person in the matter pending before
+the court, has not been disqualified by the commission and has at least 3 years of legal
+experience relevant to the pending matter; and
+C. The private attorney consents in advance to the appointment.
+2. Private attorney appointment; Supreme Judicial Court. Notwithstanding any
+provision of this chapter to the contrary, a court may appoint a private attorney to represent
+a person who is eligible to receive indigent legal services in a matter before the Supreme
+Judicial Court, including for purposes of providing limited representation as defined by the
+court in its appointment order, if the court finds the following:
+A. A public defender, assigned counsel, contract counsel or employed counsel is not
+available to represent the person;
+B. The private attorney is qualified to represent the person in the matter pending before
+the court, has not been disqualified by the commission and either has at least 3 years
+of legal experience relevant to the pending matter or has previously served as a law
+clerk analyzing cases relevant to the pending matter; and
+C. The private attorney consents in advance to the appointment.
+3. Compensation and reimbursement. The commission shall provide compensation
+and reimbursement to a private attorney appointed by the court under subsection 1 or 2 in
+accordance with this subsection.
+A. The compensation and reimbursement must be equivalent to the compensation and
+reimbursement provided to assigned counsel under the rulemaking directed by section
+1804, subsection 3, paragraph F. The commission may decline to compensate or
+reimburse the private attorney for a particular expense or task to the same extent that
+the commission would decline to compensate or reimburse assigned counsel for a
+similar expense or task under the rules and procedures adopted by the commission
+pursuant to section 1804.
+B. The process for compensation and reimbursement must be in accordance with the
+requirements established by the commission under section 1804, subsection 3,
+paragraph B for voucher review and payment authorization.
+C. For each court proceeding identified by a single docket number, the commission is
+not required to compensate or reimburse more than one private attorney for services
+provided to represent a single indigent legal services client.
+4. Supervision. The commission's supervision of a private attorney appointed
+pursuant to subsection 1 or 2 is limited to addressing complaints made by the client whom
+the private attorney was appointed to represent under subsection 1 or 2.
+5. Confidentiality. The provisions of section 1806, subsections 2 and 3 apply, to the
+same extent that those provisions apply to commission-rostered attorneys who serve as
+Page 3 - 132LR3016(03)
+
+assigned counsel, to private attorneys appointed by the court to provide indigent legal
+services pursuant to subsections 1 and 2.
+6. Repeal. This section is repealed April 1, 2027.
+Emergency clause. In view of the emergency cited in the preamble, this legislation
+takes effect when approved.
+Page 4 - 132LR3016(03)

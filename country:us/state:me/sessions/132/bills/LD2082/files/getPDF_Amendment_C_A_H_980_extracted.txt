@@ -1,0 +1,973 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-980)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2082
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082, “An Act to Regulate
+10 the Use of Artificial Intelligence in Providing Certain Mental Health Services”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 10 MRSA §1500-EE is enacted to read:
+14 §1500-EE. Use of artificial intelligence in therapy or psychotherapy services
+15 prohibited unless provided by licensed professional
+16 1. Definitions. As used in this section, unless the context otherwise indicates, the
+17 following terms have the following meanings.
+18 A. "Artificial intelligence" means a machine-based system that, for explicit or implicit
+19 objectives, infers, from the input it receives, how to generate outputs, such as
+20 predictions, content, recommendations or decisions, that can influence physical or
+21 virtual environments.
+22 B. "Licensed professional" means an individual who holds a valid license or certificate
+23 issued in this State to practice psychotherapy or behavioral health therapy, including:
+24 (1) An individual licensed pursuant to Title 32, chapter 56;
+25 (2) An individual licensed pursuant to Title 32, chapter 83;
+26 (3) An individual licensed pursuant to Title 32, chapter 119;
+27 (4) An individual licensed or certified pursuant to Title 32, chapter 81 and
+28 authorized to provide therapy or psychotherapy services;
+29 (5) An individual licensed pursuant to Title 32, chapter 31; and
+30 (6) A physician or physician associate licensed under Title 32, chapter 36 or 48,
+31 who specializes in the diagnosis and treatment of mental disorders.
+32 C. "Therapeutic communication" means any verbal, nonverbal or written interaction,
+33 conducted in a clinical or professional setting, that is intended to diagnose, treat or
+Page 1 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+314 address an individual's mental, emotional or behavioral health concerns. "Therapeutic
+325 communication" includes, but is not limited to:
+3 (1) Direct interactions with individuals for the purpose of understanding their
+4 thoughts, emotions or experiences;
+5 (2) Providing guidance, therapeutic strategies or interventions designed to achieve
+6 mental health outcomes;
+7 (3) Offering emotional support, reassurance or empathy in response to
+8 psychological or emotional distress;
+9 (4) Collaborating with individuals to develop or modify therapeutic goals or
+10 treatment plans; and
+11 (5) Offering behavioral feedback intended to promote psychological growth or
+12 address mental health conditions.
+13 D. "Therapy or psychotherapy services" means services provided to diagnose, treat or
+14 address an individual's mental health or behavioral health through therapeutic
+15 communication.
+16 2. Offering therapy or psychotherapy services through use of Internet-based
+17 artificial intelligence or otherwise prohibited unless person licensed. A person may not
+18 provide, advertise or otherwise offer therapy or psychotherapy services, including through
+19 the use of Internet-based artificial intelligence, to the public unless the therapy or
+20 psychotherapy services are provided by a licensed professional.
+21 3. Violation. A violation of subsection 2 is a violation of the Maine Unfair Trade
+22 Practices Act.
+23 4. Exceptions. This section does not apply to an artificial intelligence-based
+24 intervention that is used solely within a research project approved by an institutional review
+25 board, as defined in Title 22, section 1711-C, subsection 6, paragraph G, and conducted in
+26 compliance with all applicable federal protections for human subjects in research.
+27 Sec. 2. 32 MRSA §2113 is enacted to read:
+28 §2113. Use of artificial intelligence to assist in providing administrative support and
+29 supplementary support in therapy or psychotherapy services
+30 1. Definitions. As used in this section, unless the context otherwise indicates, the
+31 following terms have the following meanings.
+32 A. "Administrative support" means tasks performed to assist a licensed professional
+33 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+34 communication. "Administrative support" includes, but is not limited to:
+35 (1) Managing appointment scheduling and reminders;
+36 (2) Processing billing and insurance claims; and
+37 (3) Drafting general communications related to the logistics of delivering therapy
+38 or psychotherapy services that do not include therapeutic communication.
+39 B. "Artificial intelligence" means a machine-based system that, for explicit or implicit
+40 objectives, infers, from the input it receives, how to generate outputs, such as
+Page 2 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+411 predictions, content, recommendations or decisions, that can influence physical or
+422 virtual environments.
+3 C. "Consent" means a clear, explicit and affirmative act by an individual that:
+4 unambiguously communicates the individual's express, informed, voluntary, specific
+5 and unambiguous written agreement, including a written agreement provided by
+6 electronic means or provided by initialing a specific section of an individual's general
+7 consent to treatment agreement; and is revocable by the individual.
+8 "Consent" does not include an agreement that is obtained by:
+9 (1) The acceptance of a general or broad terms-of-use agreement or a similar
+10 document that contains descriptions of artificial intelligence along with unrelated
+11 information;
+12 (2) An individual's hovering over, muting, pausing or closing a given piece of
+13 electronic content; or
+14 (3) An agreement obtained through the use of deceptive actions.
+15 D. "Supplementary support" means tasks performed to assist a licensed professional
+16 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+17 communication and that are not administrative support. "Supplementary support"
+18 includes, but is not limited to:
+19 (1) Preparing and maintaining client records, including therapy notes;
+20 (2) Analyzing anonymized data to track client progress or identify trends, subject
+21 to review by a licensed professional; and
+22 (3) Identifying and organizing external resources or referrals for client use.
+23 E. "Therapeutic communication" means any verbal, nonverbal or written interaction,
+24 conducted in a clinical or professional setting, that is intended to diagnose, treat or
+25 address an individual's mental, emotional or behavioral health concerns. "Therapeutic
+26 communication" includes, but is not limited to:
+27 (1) Direct interactions with individuals for the purpose of understanding their
+28 thoughts, emotions or experiences;
+29 (2) Providing guidance, therapeutic strategies or interventions designed to achieve
+30 mental health outcomes;
+31 (3) Offering emotional support, reassurance or empathy in response to
+32 psychological or emotional distress;
+33 (4) Collaborating with individuals to develop or modify therapeutic goals or
+34 treatment plans; and
+35 (5) Offering behavioral feedback intended to promote psychological growth or
+36 address mental health conditions.
+37 F. "Therapy or psychotherapy services" means services provided to diagnose, treat or
+38 address an individual's mental health or behavioral health through therapeutic
+39 communication.
+40 2. Permitted use of artificial intelligence. A person licensed under this chapter,
+41 referred to in this section as "the licensee," may provide administrative support or
+Page 3 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+412 supplementary support in the delivery of therapy or psychotherapy services through the use
+423 of artificial intelligence as long as the licensee acts within the scope of practice of the
+434 licensee's license, in accordance with any requirements and restrictions imposed by this
+445 chapter and in accordance with standards of practice, and only if:
+5 A. The licensee maintains full responsibility for all interactions, outputs and data use
+6 associated with the use of artificial intelligence; and
+7 B. For the use of artificial intelligence to assist in providing supplementary support,
+8 the licensee satisfies the requirements of subsection 3.
+9 3. Requirements of use; supplementary support. A licensee may use artificial
+10 intelligence to assist in providing supplementary support in therapy or psychotherapy
+11 services only when the client's therapeutic session is recorded or transcribed, and only if:
+12 A. The client or the client's legally authorized representative is informed in writing of
+13 the following:
+14 (1) That artificial intelligence will be used;
+15 (2) The specific purpose of the artificial intelligence tool or system that will be
+16 used; and
+17 (3) How session data collected by artificial intelligence will be stored, retained,
+18 used for training and deleted upon termination of therapy or psychotherapy
+19 services; and
+20 B. The client or the client's legally authorized representative provides consent to the
+21 use of artificial intelligence.
+22 4. Prohibition of use. A licensee may use artificial intelligence to provide
+23 supplementary support only to the extent the use meets the requirements of subsection 3.
+24 A licensee may not allow artificial intelligence to:
+25 A. Make independent therapeutic decisions;
+26 B. Directly interact with clients in any form of therapeutic communication; or
+27 C. Generate therapeutic recommendations or treatment plans without review and
+28 approval by the licensee.
+29 5. Denial of treatment prohibited; failure to provide consent. A licensee may not
+30 deny, or refuse to provide, therapy or psychotherapy services to a client on the sole basis
+31 that the client has not provided consent to the use of artificial intelligence to assist in
+32 providing supplementary support in therapy or psychotherapy services.
+33 6. Confidentiality. When using artificial intelligence pursuant to this section, a
+34 licensee shall comply with all state and federal confidentiality and privacy laws and shall
+35 ensure that any artificial intelligence technology is compliant with all state and federal
+36 confidentiality and privacy laws.
+37 7. Professional responsibility. All laws and rules governing professional
+38 responsibility, unprofessional conduct and generally accepted standards of practice that
+39 apply to a licensee also apply to that licensee when using artificial intelligence pursuant to
+40 this section.
+Page 4 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 8. Violation. A violation of this section is subject to disciplinary action by the board
+2 pursuant to Title 10, section 8003, subsection 5.
+3 9. Exception. This section does not apply to an artificial intelligence-based
+4 intervention that is used solely within a research project approved by an institutional review
+5 board, as defined in Title 22, section 1711-C, subsection 6, paragraph G, and conducted in
+6 compliance with all applicable federal protections for human subjects in research.
+7 10. Rules. The board shall adopt rules to implement the requirements of this section.
+8 Rules adopted pursuant to this subsection are major substantive rules as described in Title
+9 5, chapter 375, subchapter 2-A.
+10 11. Client waiver void and unenforceable. Any waiver by a client of the provisions
+11 of this section is contrary to public policy and is void and unenforceable.
+12 12. Right to civil action. This section may not be construed to prohibit a client or a
+13 client's authorized representative from:
+14 A. Maintaining an action for harm caused to a client that is attributable to the use of
+15 artificial intelligence to assist in providing administrative support or supplementary
+16 support in the delivery of therapy or psychotherapy services;
+17 B. Maintaining an action alleging professional negligence of a licensee; or
+18 C. Seeking any other remedies available under other provisions of law.
+19 Sec. 3. 32 MRSA §2600-G is enacted to read:
+20 §2600-G. Use of artificial intelligence to assist in providing administrative support
+21 and supplementary support in therapy or psychotherapy services
+22 1. Definitions. As used in this section, unless the context otherwise indicates, the
+23 following terms have the following meanings.
+24 A. "Administrative support" means tasks performed to assist a licensed professional
+25 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+26 communication. "Administrative support" includes, but is not limited to:
+27 (1) Managing appointment scheduling and reminders;
+28 (2) Processing billing and insurance claims; and
+29 (3) Drafting general communications related to the logistics of delivering therapy
+30 or psychotherapy services that do not include therapeutic communication.
+31 B. "Artificial intelligence" means a machine-based system that, for explicit or implicit
+32 objectives, infers, from the input it receives, how to generate outputs, such as
+33 predictions, content, recommendations or decisions, that can influence physical or
+34 virtual environments.
+35 C. "Consent" means a clear, explicit and affirmative act by an individual that:
+36 unambiguously communicates the individual's express, informed, voluntary, specific
+37 and unambiguous written agreement, including a written agreement provided by
+38 electronic means or provided by initialing a specific section of an individual's general
+39 consent to treatment agreement; and is revocable by the individual.
+40 "Consent" does not include an agreement that is obtained by:
+Page 5 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 (1) The acceptance of a general or broad terms-of-use agreement or a similar
+2 document that contains descriptions of artificial intelligence along with unrelated
+3 information;
+4 (2) An individual's hovering over, muting, pausing or closing a given piece of
+5 electronic content; or
+6 (3) An agreement obtained through the use of deceptive actions.
+7 D. "Supplementary support" means tasks performed to assist a licensed professional
+8 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+9 communication and that are not administrative support. "Supplementary support"
+10 includes, but is not limited to:
+11 (1) Preparing and maintaining client records, including therapy notes;
+12 (2) Analyzing anonymized data to track client progress or identify trends, subject
+13 to review by a licensed professional; and
+14 (3) Identifying and organizing external resources or referrals for client use.
+15 E. "Therapeutic communication" means any verbal, nonverbal or written interaction,
+16 conducted in a clinical or professional setting, that is intended to diagnose, treat or
+17 address an individual's mental, emotional or behavioral health concerns. "Therapeutic
+18 communication" includes, but is not limited to:
+19 (1) Direct interactions with individuals for the purpose of understanding their
+20 thoughts, emotions or experiences;
+21 (2) Providing guidance, therapeutic strategies or interventions designed to achieve
+22 mental health outcomes;
+23 (3) Offering emotional support, reassurance or empathy in response to
+24 psychological or emotional distress;
+25 (4) Collaborating with individuals to develop or modify therapeutic goals or
+26 treatment plans; and
+27 (5) Offering behavioral feedback intended to promote psychological growth or
+28 address mental health conditions.
+29 F. "Therapy or psychotherapy services" means services provided to diagnose, treat or
+30 address an individual's mental health or behavioral health through therapeutic
+31 communication.
+32 2. Permitted use of artificial intelligence. A person licensed or privileged to practice
+33 under this chapter, chapter 145 or chapter 145-A, referred to in this section as "the
+34 licensee," may provide administrative support or supplementary support in the delivery of
+35 therapy or psychotherapy services through the use of artificial intelligence as long as the
+36 licensee acts within the scope of practice of the licensee's license, in accordance with any
+37 requirements and restrictions imposed by this chapter and in accordance with standards of
+38 practice, and only if:
+39 A. The licensee maintains full responsibility for all interactions, outputs and data use
+40 associated with the use of artificial intelligence; and
+Page 6 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 B. For the use of artificial intelligence to assist in providing supplementary support,
+2 the licensee satisfies the requirements of subsection 3.
+3 3. Requirements of use; supplementary support. A licensee may use artificial
+4 intelligence to assist in providing supplementary support in therapy or psychotherapy
+5 services only when the client's therapeutic session is recorded or transcribed, and only if:
+6 A. The client or the client's legally authorized representative is informed in writing of
+7 the following:
+8 (1) That artificial intelligence will be used;
+9 (2) The specific purpose of the artificial intelligence tool or system that will be
+10 used; and
+11 (3) How session data collected by artificial intelligence will be stored, retained,
+12 used for training and deleted upon termination of therapy or psychotherapy
+13 services; and
+14 B. The client or the client's legally authorized representative provides consent to the
+15 use of artificial intelligence.
+16 4. Prohibition of use. A licensee may use artificial intelligence to provide
+17 supplementary support only to the extent the use meets the requirements of subsection 3.
+18 A licensee may not allow artificial intelligence to:
+19 A. Make independent therapeutic decisions;
+20 B. Directly interact with clients in any form of therapeutic communication; or
+21 C. Generate therapeutic recommendations or treatment plans without review and
+22 approval by the licensee.
+23 5. Denial of treatment prohibited; failure to provide consent. A licensee may not
+24 deny, or refuse to provide, therapy or psychotherapy services to a client on the sole basis
+25 that the client has not provided consent to the use of artificial intelligence to assist in
+26 providing supplementary support in therapy or psychotherapy services.
+27 6. Confidentiality. When using artificial intelligence pursuant to this section, a
+28 licensee shall comply with all state and federal confidentiality and privacy laws and shall
+29 ensure that any artificial intelligence technology is compliant with all state and federal
+30 confidentiality and privacy laws.
+31 7. Professional responsibility. All laws and rules governing professional
+32 responsibility, unprofessional conduct and generally accepted standards of practice that
+33 apply to a licensee also apply to that licensee when using artificial intelligence pursuant to
+34 this section.
+35 8. Violation. A violation of this section is subject to disciplinary action by the board
+36 pursuant to Title 10, section 8003, subsection 5.
+37 9. Exception. This section does not apply to an artificial intelligence-based
+38 intervention that is used solely within a research project approved by an institutional review
+39 board, as defined in Title 22, section 1711-C, subsection 6, paragraph G, and conducted in
+40 compliance with all applicable federal protections for human subjects in research.
+Page 7 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 10. Rules. The board shall adopt rules to implement the requirements of this section.
+2 Rules adopted pursuant to this subsection are major substantive rules as described in Title
+3 5, chapter 375, subchapter 2-A.
+4 11. Client waiver void and unenforceable. Any waiver by a client of the provisions
+5 of this section is contrary to public policy and is void and unenforceable.
+6 12. Right to civil action. This section may not be construed to prohibit a client or a
+7 client's authorized representative from:
+8 A. Maintaining an action for harm caused to a client that is attributable to the use of
+9 artificial intelligence to assist in providing administrative support or supplementary
+10 support in the delivery of therapy or psychotherapy services;
+11 B. Maintaining an action alleging professional negligence of a licensee; or
+12 C. Seeking any other remedies available under other provisions of law.
+13 Sec. 4. 32 MRSA §3300-J is enacted to read:
+14 §3300-J. Use of artificial intelligence to assist in providing administrative support
+15 and supplementary support in therapy or psychotherapy services
+16 1. Definitions. As used in this section, unless the context otherwise indicates, the
+17 following terms have the following meanings.
+18 A. "Administrative support" means tasks performed to assist a licensed professional
+19 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+20 communication. "Administrative support" includes, but is not limited to:
+21 (1) Managing appointment scheduling and reminders;
+22 (2) Processing billing and insurance claims; and
+23 (3) Drafting general communications related to the logistics of delivering therapy
+24 or psychotherapy services that do not include therapeutic communication.
+25 B. "Artificial intelligence" means a machine-based system that, for explicit or implicit
+26 objectives, infers, from the input it receives, how to generate outputs, such as
+27 predictions, content, recommendations or decisions, that can influence physical or
+28 virtual environments.
+29 C. "Consent" means a clear, explicit and affirmative act by an individual that:
+30 unambiguously communicates the individual's express, informed, voluntary, specific
+31 and unambiguous written agreement, including a written agreement provided by
+32 electronic means or provided by initialing a specific section of an individual's general
+33 consent to treatment agreement; and is revocable by the individual.
+34 "Consent" does not include an agreement that is obtained by:
+35 (1) The acceptance of a general or broad terms-of-use agreement or a similar
+36 document that contains descriptions of artificial intelligence along with unrelated
+37 information;
+38 (2) An individual's hovering over, muting, pausing or closing a given piece of
+39 electronic content; or
+40 (3) An agreement obtained through the use of deceptive actions.
+Page 8 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 D. "Supplementary support" means tasks performed to assist a licensed professional
+2 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+3 communication and that are not administrative support. "Supplementary support"
+4 includes, but is not limited to:
+5 (1) Preparing and maintaining client records, including therapy notes;
+6 (2) Analyzing anonymized data to track client progress or identify trends, subject
+7 to review by a licensed professional; and
+8 (3) Identifying and organizing external resources or referrals for client use.
+9 E. "Therapeutic communication" means any verbal, nonverbal or written interaction,
+10 conducted in a clinical or professional setting, that is intended to diagnose, treat or
+11 address an individual's mental, emotional or behavioral health concerns. "Therapeutic
+12 communication" includes, but is not limited to:
+13 (1) Direct interactions with individuals for the purpose of understanding their
+14 thoughts, emotions or experiences;
+15 (2) Providing guidance, therapeutic strategies or interventions designed to achieve
+16 mental health outcomes;
+17 (3) Offering emotional support, reassurance or empathy in response to
+18 psychological or emotional distress;
+19 (4) Collaborating with individuals to develop or modify therapeutic goals or
+20 treatment plans; and
+21 (5) Offering behavioral feedback intended to promote psychological growth or
+22 address mental health conditions.
+23 F. "Therapy or psychotherapy services" means services provided to diagnose, treat or
+24 address an individual's mental health or behavioral health through therapeutic
+25 communication.
+26 2. Permitted use of artificial intelligence. A person licensed or privileged to practice
+27 under this chapter, chapter 145 or chapter 145-A, referred to in this section as "the
+28 licensee," may provide administrative support or supplementary support in the delivery of
+29 therapy or psychotherapy services through the use of artificial intelligence as long as the
+30 licensee acts within the scope of practice of the licensee's license, in accordance with any
+31 requirements and restrictions imposed by this chapter and in accordance with standards of
+32 practice, and only if:
+33 A. The licensee maintains full responsibility for all interactions, outputs and data use
+34 associated with the use of artificial intelligence; and
+35 B. For the use of artificial intelligence to assist in providing supplementary support,
+36 the licensee satisfies the requirements of subsection 3.
+37 3. Requirements of use; supplementary support. A licensee may use artificial
+38 intelligence to assist in providing supplementary support in therapy or psychotherapy
+39 services only when the client's therapeutic session is recorded or transcribed, and only if:
+40 A. The client or the client's legally authorized representative is informed in writing of
+41 the following:
+Page 9 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 (1) That artificial intelligence will be used;
+2 (2) The specific purpose of the artificial intelligence tool or system that will be
+3 used; and
+4 (3) How session data collected by artificial intelligence will be stored, retained,
+5 used for training and deleted upon termination of therapy or psychotherapy
+6 services; and
+7 B. The client or the client's legally authorized representative provides consent to the
+8 use of artificial intelligence.
+9 4. Prohibition of use. A licensee may use artificial intelligence to provide
+10 supplementary support only to the extent the use meets the requirements of subsection 3.
+11 A licensee may not allow artificial intelligence to:
+12 A. Make independent therapeutic decisions;
+13 B. Directly interact with clients in any form of therapeutic communication; or
+14 C. Generate therapeutic recommendations or treatment plans without review and
+15 approval by the licensee.
+16 5. Denial of treatment prohibited; failure to provide consent. A licensee may not
+17 deny, or refuse to provide, therapy or psychotherapy services to a client on the sole basis
+18 that the client has not provided consent to the use of artificial intelligence to assist in
+19 providing supplementary support in therapy or psychotherapy services.
+20 6. Confidentiality. When using artificial intelligence pursuant to this section, a
+21 licensee shall comply with all state and federal confidentiality and privacy laws and shall
+22 ensure that any artificial intelligence technology is compliant with all state and federal
+23 confidentiality and privacy laws.
+24 7. Professional responsibility. All laws and rules governing professional
+25 responsibility, unprofessional conduct and generally accepted standards of practice that
+26 apply to a licensee also apply to that licensee when using artificial intelligence pursuant to
+27 this section.
+28 8. Violation. A violation of this section is subject to disciplinary action by the board
+29 pursuant to Title 10, section 8003, subsection 5.
+30 9. Exception. This section does not apply to an artificial intelligence-based
+31 intervention that is used solely within a research project approved by an institutional review
+32 board, as defined in Title 22, section 1711-C, subsection 6, paragraph G, and conducted in
+33 compliance with all applicable federal protections for human subjects in research.
+34 10. Rules. The board shall adopt rules to implement the requirements of this section.
+35 Rules adopted pursuant to this subsection are major substantive rules as described in Title
+36 5, chapter 375, subchapter 2-A.
+37 11. Client waiver void and unenforceable. Any waiver by a client of the provisions
+38 of this section is contrary to public policy and is void and unenforceable.
+39 12. Right to civil action. This section may not be construed to prohibit a client or a
+40 client's authorized representative from:
+Page 10 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 A. Maintaining an action for harm caused to a client that is attributable to the use of
+2 artificial intelligence to assist in providing administrative support or supplementary
+3 support in the delivery of therapy or psychotherapy services;
+4 B. Maintaining an action alleging professional negligence of a licensee; or
+5 C. Seeking any other remedies available under other provisions of law.
+6 Sec. 5. 32 MRSA §3820-A is enacted to read:
+7 §3820-A. Use of artificial intelligence to assist in providing administrative support
+8 and supplementary support in therapy or psychotherapy services
+9 1. Definitions. As used in this section, unless the context otherwise indicates, the
+10 following terms have the following meanings.
+11 A. "Administrative support" means tasks performed to assist a licensed professional
+12 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+13 communication. "Administrative support" includes, but is not limited to:
+14 (1) Managing appointment scheduling and reminders;
+15 (2) Processing billing and insurance claims; and
+16 (3) Drafting general communications related to the logistics of delivering therapy
+17 or psychotherapy services that do not include therapeutic communication.
+18 B. "Artificial intelligence" means a machine-based system that, for explicit or implicit
+19 objectives, infers, from the input it receives, how to generate outputs, such as
+20 predictions, content, recommendations or decisions, that can influence physical or
+21 virtual environments.
+22 C. "Consent" means a clear, explicit and affirmative act by an individual that:
+23 unambiguously communicates the individual's express, informed, voluntary, specific
+24 and unambiguous written agreement, including a written agreement provided by
+25 electronic means or provided by initialing a specific section of an individual's general
+26 consent to treatment agreement; and is revocable by the individual.
+27 "Consent" does not include an agreement that is obtained by:
+28 (1) The acceptance of a general or broad terms-of-use agreement or a similar
+29 document that contains descriptions of artificial intelligence along with unrelated
+30 information;
+31 (2) An individual's hovering over, muting, pausing or closing a given piece of
+32 electronic content; or
+33 (3) An agreement obtained through the use of deceptive actions.
+34 D. "Supplementary support" means tasks performed to assist a licensed professional
+35 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+36 communication and that are not administrative support. "Supplementary support"
+37 includes, but is not limited to:
+38 (1) Preparing and maintaining client records, including therapy notes;
+39 (2) Analyzing anonymized data to track client progress or identify trends, subject
+40 to review by a licensed professional; and
+Page 11 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 (3) Identifying and organizing external resources or referrals for client use.
+2 E. "Therapeutic communication" means any verbal, nonverbal or written interaction,
+3 conducted in a clinical or professional setting, that is intended to diagnose, treat or
+4 address an individual's mental, emotional or behavioral health concerns. "Therapeutic
+5 communication" includes, but is not limited to:
+6 (1) Direct interactions with individuals for the purpose of understanding their
+7 thoughts, emotions or experiences;
+8 (2) Providing guidance, therapeutic strategies or interventions designed to achieve
+9 mental health outcomes;
+10 (3) Offering emotional support, reassurance or empathy in response to
+11 psychological or emotional distress;
+12 (4) Collaborating with individuals to develop or modify therapeutic goals or
+13 treatment plans; and
+14 (5) Offering behavioral feedback intended to promote psychological growth or
+15 address mental health conditions.
+16 F. "Therapy or psychotherapy services" means services provided to diagnose, treat or
+17 address an individual's mental health or behavioral health through therapeutic
+18 communication.
+19 2. Permitted use of artificial intelligence. A person licensed or privileged to practice
+20 under this chapter, referred to in this section as "the licensee," may provide administrative
+21 support or supplementary support in the delivery of therapy or psychotherapy services
+22 through the use of artificial intelligence as long as the licensee acts within the scope of
+23 practice of the licensee's license, in accordance with any requirements and restrictions
+24 imposed by this chapter and in accordance with standards of practice, and only if:
+25 A. The licensee maintains full responsibility for all interactions, outputs and data use
+26 associated with the use of artificial intelligence; and
+27 B. For the use of artificial intelligence to assist in providing supplementary support,
+28 the licensee satisfies the requirements of subsection 3.
+29 3. Requirements of use; supplementary support. A licensee may use artificial
+30 intelligence to assist in providing supplementary support in therapy or psychotherapy
+31 services only when the client's therapeutic session is recorded or transcribed, and only if:
+32 A. The client or the client's legally authorized representative is informed in writing of
+33 the following:
+34 (1) That artificial intelligence will be used;
+35 (2) The specific purpose of the artificial intelligence tool or system that will be
+36 used; and
+37 (3) How session data collected by artificial intelligence will be stored, retained,
+38 used for training and deleted upon termination of therapy or psychotherapy
+39 services; and
+40 B. The client or the client's legally authorized representative provides consent to the
+41 use of artificial intelligence.
+Page 12 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 4. Prohibition of use. A licensee may use artificial intelligence to provide
+2 supplementary support only to the extent the use meets the requirements of subsection 3.
+3 A licensee may not allow artificial intelligence to:
+4 A. Make independent therapeutic decisions;
+5 B. Directly interact with clients in any form of therapeutic communication; or
+6 C. Generate therapeutic recommendations or treatment plans without review and
+7 approval by the licensee.
+8 5. Denial of treatment prohibited; failure to provide consent. A licensee may not
+9 deny, or refuse to provide, therapy or psychotherapy services to a client on the sole basis
+10 that the client has not provided consent to the use of artificial intelligence to assist in
+11 providing supplementary support in therapy or psychotherapy services.
+12 6. Confidentiality. When using artificial intelligence pursuant to this section, a
+13 licensee shall comply with all state and federal confidentiality and privacy laws and shall
+14 ensure that any artificial intelligence technology is compliant with all state and federal
+15 confidentiality and privacy laws.
+16 7. Professional responsibility. All laws and rules governing professional
+17 responsibility, unprofessional conduct and generally accepted standards of practice that
+18 apply to a licensee also apply to that licensee when using artificial intelligence pursuant to
+19 this section.
+20 8. Violation. A violation of this section is subject to disciplinary action by the board
+21 pursuant to Title 10, section 8003, subsection 5.
+22 9. Exception. This section does not apply to an artificial intelligence-based
+23 intervention that is used solely within a research project approved by an institutional review
+24 board, as defined in Title 22, section 1711-C, subsection 6, paragraph G, and conducted in
+25 compliance with all applicable federal protections for human subjects in research.
+26 10. Rules. The board shall adopt rules to implement the requirements of this section.
+27 Rules adopted pursuant to this subsection are major substantive rules as described in Title
+28 5, chapter 375, subchapter 2-A.
+29 11. Client waiver void and unenforceable. Any waiver by a client of the provisions
+30 of this section is contrary to public policy and is void and unenforceable.
+31 12. Right to civil action. This section may not be construed to prohibit a client or a
+32 client's authorized representative from:
+33 A. Maintaining an action for harm caused to a client that is attributable to the use of
+34 artificial intelligence to assist in providing administrative support or supplementary
+35 support in the delivery of therapy or psychotherapy services;
+36 B. Maintaining an action alleging professional negligence of a licensee; or
+37 C. Seeking any other remedies available under other provisions of law.
+38 Sec. 6. 32 MRSA §6207-D is enacted to read:
+39 §6207-D. Use of artificial intelligence to assist in providing administrative support
+40 and supplementary support in therapy or psychotherapy services
+Page 13 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 1. Definitions. As used in this section, unless the context otherwise indicates, the
+2 following terms have the following meanings.
+3 A. "Administrative support" means tasks performed to assist a licensed professional
+4 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+5 communication. "Administrative support" includes, but is not limited to:
+6 (1) Managing appointment scheduling and reminders;
+7 (2) Processing billing and insurance claims; and
+8 (3) Drafting general communications related to the logistics of delivering therapy
+9 or psychotherapy services that do not include therapeutic communication.
+10 B. "Artificial intelligence" means a machine-based system that, for explicit or implicit
+11 objectives, infers, from the input it receives, how to generate outputs, such as
+12 predictions, content, recommendations or decisions, that can influence physical or
+13 virtual environments.
+14 C. "Consent" means a clear, explicit and affirmative act by an individual that:
+15 unambiguously communicates the individual's express, informed, voluntary, specific
+16 and unambiguous written agreement, including a written agreement provided by
+17 electronic means or provided by initialing a specific section of an individual's general
+18 consent to treatment agreement; and is revocable by the individual.
+19 "Consent" does not include an agreement that is obtained by:
+20 (1) The acceptance of a general or broad terms-of-use agreement or a similar
+21 document that contains descriptions of artificial intelligence along with unrelated
+22 information;
+23 (2) An individual's hovering over, muting, pausing or closing a given piece of
+24 electronic content; or
+25 (3) An agreement obtained through the use of deceptive actions.
+26 D. "Supplementary support" means tasks performed to assist a licensed professional
+27 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+28 communication and that are not administrative support. "Supplementary support"
+29 includes, but is not limited to:
+30 (1) Preparing and maintaining client records, including therapy notes;
+31 (2) Analyzing anonymized data to track client progress or identify trends, subject
+32 to review by a licensed professional; and
+33 (3) Identifying and organizing external resources or referrals for client use.
+34 E. "Therapeutic communication" means any verbal, nonverbal or written interaction,
+35 conducted in a clinical or professional setting, that is intended to diagnose, treat or
+36 address an individual's mental, emotional or behavioral health concerns. "Therapeutic
+37 communication" includes, but is not limited to:
+38 (1) Direct interactions with individuals for the purpose of understanding their
+39 thoughts, emotions or experiences;
+40 (2) Providing guidance, therapeutic strategies or interventions designed to achieve
+41 mental health outcomes;
+Page 14 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 (3) Offering emotional support, reassurance or empathy in response to
+2 psychological or emotional distress;
+3 (4) Collaborating with individuals to develop or modify therapeutic goals or
+4 treatment plans; and
+5 (5) Offering behavioral feedback intended to promote psychological growth or
+6 address mental health conditions.
+7 F. "Therapy or psychotherapy services" means services provided to diagnose, treat or
+8 address an individual's mental health or behavioral health through therapeutic
+9 communication.
+10 2. Permitted use of artificial intelligence. A person licensed under this chapter,
+11 referred to in this section as "the licensee," may provide administrative support or
+12 supplementary support in the delivery of therapy or psychotherapy services through the use
+13 of artificial intelligence as long as the licensee acts within the scope of practice of the
+14 licensee's license, in accordance with any requirements and restrictions imposed by this
+15 chapter and in accordance with standards of practice, and only if:
+16 A. The licensee maintains full responsibility for all interactions, outputs and data use
+17 associated with the use of artificial intelligence; and
+18 B. For the use of artificial intelligence to assist in providing supplementary support,
+19 the licensee satisfies the requirements of subsection 3.
+20 3. Requirements of use; supplementary support. A licensee may use artificial
+21 intelligence to assist in providing supplementary support in therapy or psychotherapy
+22 services only when the client's therapeutic session is recorded or transcribed, and only if:
+23 A. The client or the client's legally authorized representative is informed in writing of
+24 the following:
+25 (1) That artificial intelligence will be used;
+26 (2) The specific purpose of the artificial intelligence tool or system that will be
+27 used; and
+28 (3) How session data collected by artificial intelligence will be stored, retained,
+29 used for training and deleted upon termination of therapy or psychotherapy
+30 services; and
+31 B. The client or the client's legally authorized representative provides consent to the
+32 use of artificial intelligence.
+33 4. Prohibition of use. A licensee may use artificial intelligence to provide
+34 supplementary support only to the extent the use meets the requirements of subsection 3.
+35 A licensee may not allow artificial intelligence to:
+36 A. Make independent therapeutic decisions;
+37 B. Directly interact with clients in any form of therapeutic communication; or
+38 C. Generate therapeutic recommendations or treatment plans without review and
+39 approval by the licensee.
+40 5. Denial of treatment prohibited; failure to provide consent. A licensee may not
+41 deny, or refuse to provide, therapy or psychotherapy services to a client on the sole basis
+Page 15 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+412 that the client has not provided consent to the use of artificial intelligence to assist in
+423 providing supplementary support in therapy or psychotherapy services.
+3 6. Confidentiality. When using artificial intelligence pursuant to this section, a
+4 licensee shall comply with all state and federal confidentiality and privacy laws and shall
+5 ensure that any artificial intelligence technology is compliant with all state and federal
+6 confidentiality and privacy laws.
+7 7. Professional responsibility. All laws and rules governing professional
+8 responsibility, unprofessional conduct and generally accepted standards of practice that
+9 apply to a licensee also apply to that licensee when using artificial intelligence pursuant to
+10 this section.
+11 8. Violation. A violation of this section is subject to disciplinary action by the board
+12 pursuant to Title 10, section 8003, subsection 5.
+13 9. Exception. This section does not apply to an artificial intelligence-based
+14 intervention that is used solely within a research project approved by an institutional review
+15 board, as defined in Title 22, section 1711-C, subsection 6, paragraph G, and conducted in
+16 compliance with all applicable federal protections for human subjects in research.
+17 10. Rules. The board shall adopt rules to implement the requirements of this section.
+18 Rules adopted pursuant to this subsection are major substantive rules as described in Title
+19 5, chapter 375, subchapter 2-A.
+20 11. Client waiver void and unenforceable. Any waiver by a client of the provisions
+21 of this section is contrary to public policy and is void and unenforceable.
+22 12. Right to civil action. This section may not be construed to prohibit a client or a
+23 client's authorized representative from:
+24 A. Maintaining an action for harm caused to a client that is attributable to the use of
+25 artificial intelligence to assist in providing administrative support or supplementary
+26 support in the delivery of therapy or psychotherapy services;
+27 B. Maintaining an action alleging professional negligence of a licensee; or
+28 C. Seeking any other remedies available under other provisions of law.
+29 Sec. 7. 32 MRSA §7009 is enacted to read:
+30 §7009. Use of artificial intelligence to assist in providing administrative support and
+31 supplementary support in therapy or psychotherapy services
+32 1. Definitions. As used in this section, unless the context otherwise indicates, the
+33 following terms have the following meanings.
+34 A. "Administrative support" means tasks performed to assist a licensed professional
+35 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+36 communication. "Administrative support" includes, but is not limited to:
+37 (1) Managing appointment scheduling and reminders;
+38 (2) Processing billing and insurance claims; and
+39 (3) Drafting general communications related to the logistics of delivering therapy
+40 or psychotherapy services that do not include therapeutic communication.
+Page 16 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 B. "Artificial intelligence" means a machine-based system that, for explicit or implicit
+2 objectives, infers, from the input it receives, how to generate outputs, such as
+3 predictions, content, recommendations or decisions, that can influence physical or
+4 virtual environments.
+5 C. "Consent" means a clear, explicit and affirmative act by an individual that:
+6 unambiguously communicates the individual's express, informed, voluntary, specific
+7 and unambiguous written agreement, including a written agreement provided by
+8 electronic means or provided by initialing a specific section of an individual's general
+9 consent to treatment agreement; and is revocable by the individual.
+10 "Consent" does not include an agreement that is obtained by:
+11 (1) The acceptance of a general or broad terms-of-use agreement or a similar
+12 document that contains descriptions of artificial intelligence along with unrelated
+13 information;
+14 (2) An individual's hovering over, muting, pausing or closing a given piece of
+15 electronic content; or
+16 (3) An agreement obtained through the use of deceptive actions.
+17 D. "Supplementary support" means tasks performed to assist a licensed professional
+18 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+19 communication and that are not administrative support. "Supplementary support"
+20 includes, but is not limited to:
+21 (1) Preparing and maintaining client records, including therapy notes;
+22 (2) Analyzing anonymized data to track client progress or identify trends, subject
+23 to review by a licensed professional; and
+24 (3) Identifying and organizing external resources or referrals for client use.
+25 E. "Therapeutic communication" means any verbal, nonverbal or written interaction,
+26 conducted in a clinical or professional setting, that is intended to diagnose, treat or
+27 address an individual's mental, emotional or behavioral health concerns. "Therapeutic
+28 communication" includes, but is not limited to:
+29 (1) Direct interactions with individuals for the purpose of understanding their
+30 thoughts, emotions or experiences;
+31 (2) Providing guidance, therapeutic strategies or interventions designed to achieve
+32 mental health outcomes;
+33 (3) Offering emotional support, reassurance or empathy in response to
+34 psychological or emotional distress;
+35 (4) Collaborating with individuals to develop or modify therapeutic goals or
+36 treatment plans; and
+37 (5) Offering behavioral feedback intended to promote psychological growth or
+38 address mental health conditions.
+39 F. "Therapy or psychotherapy services" means services provided to diagnose, treat or
+40 address an individual's mental health or behavioral health through therapeutic
+41 communication.
+Page 17 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 2. Permitted use of artificial intelligence. A person licensed under this chapter,
+2 referred to in this section as "the licensee," may provide administrative support or
+3 supplementary support in the delivery of therapy or psychotherapy services through the use
+4 of artificial intelligence as long as the licensee acts within the scope of practice of the
+5 licensee's license, in accordance with any requirements and restrictions imposed by this
+6 chapter and in accordance with standards of practice, and only if:
+7 A. The licensee maintains full responsibility for all interactions, outputs and data use
+8 associated with the use of artificial intelligence; and
+9 B. For the use of artificial intelligence to assist in providing supplementary support,
+10 the licensee satisfies the requirements of subsection 3.
+11 3. Requirements of use; supplementary support. A licensee may use artificial
+12 intelligence to assist in providing supplementary support in therapy or psychotherapy
+13 services only when the client's therapeutic session is recorded or transcribed, and only if:
+14 A. The client or the client's legally authorized representative is informed in writing of
+15 the following:
+16 (1) That artificial intelligence will be used;
+17 (2) The specific purpose of the artificial intelligence tool or system that will be
+18 used; and
+19 (3) How session data collected by artificial intelligence will be stored, retained,
+20 used for training and deleted upon termination of therapy or psychotherapy
+21 services; and
+22 B. The client or the client's legally authorized representative provides consent to the
+23 use of artificial intelligence.
+24 4. Prohibition of use. A licensee may use artificial intelligence to provide
+25 supplementary support only to the extent the use meets the requirements of subsection 3.
+26 A licensee may not allow artificial intelligence to:
+27 A. Make independent therapeutic decisions;
+28 B. Directly interact with clients in any form of therapeutic communication; or
+29 C. Generate therapeutic recommendations or treatment plans without review and
+30 approval by the licensee.
+31 5. Denial of treatment prohibited; failure to provide consent. A licensee may not
+32 deny, or refuse to provide, therapy or psychotherapy services to a client on the sole basis
+33 that the client has not provided consent to the use of artificial intelligence to assist in
+34 providing supplementary support in therapy or psychotherapy services.
+35 6. Confidentiality. When using artificial intelligence pursuant to this section, a
+36 licensee shall comply with all state and federal confidentiality and privacy laws and shall
+37 ensure that any artificial intelligence technology is compliant with all state and federal
+38 confidentiality and privacy laws.
+39 7. Professional responsibility. All laws and rules governing professional
+40 responsibility, unprofessional conduct and generally accepted standards of practice that
+41 apply to a licensee also apply to that licensee when using artificial intelligence pursuant to
+42 this section.
+Page 18 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 8. Violation. A violation of this section is subject to disciplinary action by the board
+2 pursuant to Title 10, section 8003, subsection 5.
+3 9. Exception. This section does not apply to an artificial intelligence-based
+4 intervention that is used solely within a research project approved by an institutional review
+5 board, as defined in Title 22, section 1711-C, subsection 6, paragraph G, and conducted in
+6 compliance with all applicable federal protections for human subjects in research.
+7 10. Rules. The board shall adopt rules to implement the requirements of this section.
+8 Rules adopted pursuant to this subsection are major substantive rules as described in Title
+9 5, chapter 375, subchapter 2-A.
+10 11. Client waiver void and unenforceable. Any waiver by a client of the provisions
+11 of this section is contrary to public policy and is void and unenforceable.
+12 12. Right to civil action. This section may not be construed to prohibit a client or a
+13 client's authorized representative from:
+14 A. Maintaining an action for harm caused to a client that is attributable to the use of
+15 artificial intelligence to assist in providing administrative support or supplementary
+16 support in the delivery of therapy or psychotherapy services;
+17 B. Maintaining an action alleging professional negligence of a licensee; or
+18 C. Seeking any other remedies available under other provisions of law.
+19 Sec. 8. 32 MRSA §13870 is enacted to read:
+20 §13870. Use of artificial intelligence to assist in providing administrative support and
+21 supplementary support in therapy or psychotherapy services
+22 1. Definitions. As used in this section, unless the context otherwise indicates, the
+23 following terms have the following meanings.
+24 A. "Administrative support" means tasks performed to assist a licensed professional
+25 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+26 communication. "Administrative support" includes, but is not limited to:
+27 (1) Managing appointment scheduling and reminders;
+28 (2) Processing billing and insurance claims; and
+29 (3) Drafting general communications related to the logistics of delivering therapy
+30 or psychotherapy services that do not include therapeutic communication.
+31 B. "Artificial intelligence" means a machine-based system that, for explicit or implicit
+32 objectives, infers, from the input it receives, how to generate outputs, such as
+33 predictions, content, recommendations or decisions, that can influence physical or
+34 virtual environments.
+35 C. "Consent" means a clear, explicit and affirmative act by an individual that:
+36 unambiguously communicates the individual's express, informed, voluntary, specific
+37 and unambiguous written agreement, including a written agreement provided by
+38 electronic means or provided by initialing a specific section of an individual's general
+39 consent to treatment agreement; and is revocable by the individual.
+40 "Consent" does not include an agreement that is obtained by:
+Page 19 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 (1) The acceptance of a general or broad terms-of-use agreement or a similar
+2 document that contains descriptions of artificial intelligence along with unrelated
+3 information;
+4 (2) An individual's hovering over, muting, pausing or closing a given piece of
+5 electronic content; or
+6 (3) An agreement obtained through the use of deceptive actions.
+7 D. "Supplementary support" means tasks performed to assist a licensed professional
+8 in the delivery of therapy or psychotherapy services that do not involve therapeutic
+9 communication and that are not administrative support. "Supplementary support"
+10 includes, but is not limited to:
+11 (1) Preparing and maintaining client records, including therapy notes;
+12 (2) Analyzing anonymized data to track client progress or identify trends, subject
+13 to review by a licensed professional; and
+14 (3) Identifying and organizing external resources or referrals for client use.
+15 E. "Therapeutic communication" means any verbal, nonverbal or written interaction,
+16 conducted in a clinical or professional setting, that is intended to diagnose, treat or
+17 address an individual's mental, emotional or behavioral health concerns. "Therapeutic
+18 communication" includes, but is not limited to:
+19 (1) Direct interactions with individuals for the purpose of understanding their
+20 thoughts, emotions or experiences;
+21 (2) Providing guidance, therapeutic strategies or interventions designed to achieve
+22 mental health outcomes;
+23 (3) Offering emotional support, reassurance or empathy in response to
+24 psychological or emotional distress;
+25 (4) Collaborating with individuals to develop or modify therapeutic goals or
+26 treatment plans; and
+27 (5) Offering behavioral feedback intended to promote psychological growth or
+28 address mental health conditions.
+29 F. "Therapy or psychotherapy services" means services provided to diagnose, treat or
+30 address an individual's mental health or behavioral health through therapeutic
+31 communication.
+32 2. Permitted use of artificial intelligence. A person licensed under this chapter,
+33 referred to in this section as "the licensee," may provide administrative support or
+34 supplementary support in the delivery of therapy or psychotherapy services through the use
+35 of artificial intelligence as long as the licensee acts within the scope of practice of the
+36 licensee's license, in accordance with any requirements and restrictions imposed by this
+37 chapter and in accordance with standards of practice, and only if:
+38 A. The licensee maintains full responsibility for all interactions, outputs and data use
+39 associated with the use of artificial intelligence; and
+40 B. For the use of artificial intelligence to assist in providing supplementary support,
+41 the licensee satisfies the requirements of subsection 3.
+Page 20 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 3. Requirements of use; supplementary support. A licensee may use artificial
+2 intelligence to assist in providing supplementary support in therapy or psychotherapy
+3 services only when the client's therapeutic session is recorded or transcribed, and only if:
+4 A. The client or the client's legally authorized representative is informed in writing of
+5 the following:
+6 (1) That artificial intelligence will be used;
+7 (2) The specific purpose of the artificial intelligence tool or system that will be
+8 used; and
+9 (3) How session data collected by artificial intelligence will be stored, retained,
+10 used for training and deleted upon termination of therapy or psychotherapy
+11 services; and
+12 B. The client or the client's legally authorized representative provides consent to the
+13 use of artificial intelligence.
+14 4. Prohibition of use. A licensee may use artificial intelligence to provide
+15 supplementary support only to the extent the use meets the requirements of subsection 3.
+16 A licensee may not allow artificial intelligence to:
+17 A. Make independent therapeutic decisions;
+18 B. Directly interact with clients in any form of therapeutic communication; or
+19 C. Generate therapeutic recommendations or treatment plans without review and
+20 approval by the licensee.
+21 5. Denial of treatment prohibited; failure to provide consent. A licensee may not
+22 deny, or refuse to provide, therapy or psychotherapy services to a client on the sole basis
+23 that the client has not provided consent to the use of artificial intelligence to assist in
+24 providing supplementary support in therapy or psychotherapy services.
+25 6. Confidentiality. When using artificial intelligence pursuant to this section, a
+26 licensee shall comply with all state and federal confidentiality and privacy laws and shall
+27 ensure that any artificial intelligence technology is compliant with all state and federal
+28 confidentiality and privacy laws.
+29 7. Professional responsibility. All laws and rules governing professional
+30 responsibility, unprofessional conduct and generally accepted standards of practice that
+31 apply to a licensee also apply to that licensee when using artificial intelligence pursuant to
+32 this section.
+33 8. Violation. A violation of this section is subject to disciplinary action by the board
+34 pursuant to Title 10, section 8003, subsection 5.
+35 9. Exception. This section does not apply to an artificial intelligence-based
+36 intervention that is used solely within a research project approved by an institutional review
+37 board, as defined in Title 22, section 1711-C, subsection 6, paragraph G, and conducted in
+38 compliance with all applicable federal protections for human subjects in research.
+39 10. Rules. The board shall adopt rules to implement the requirements of this section.
+40 Rules adopted pursuant to this subsection are major substantive rules as described in Title
+41 5, chapter 375, subchapter 2-A.
+Page 21 - 132LR2838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1397, L.D. 2082
+1 11. Client waiver void and unenforceable. Any waiver by a client of the provisions
+2 of this section is contrary to public policy and is void and unenforceable.
+3 12. Right to civil action. This section may not be construed to prohibit a client or a
+4 client's authorized representative from:
+5 A. Maintaining an action for harm caused to a client that is attributable to the use of
+6 artificial intelligence to assist in providing administrative support or supplementary
+7 support in the delivery of therapy or psychotherapy services;
+8 B. Maintaining an action alleging professional negligence of a licensee; or
+9 C. Seeking any other remedies available under other provisions of law.'
+10 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+11 number to read consecutively.
+12 SUMMARY
+1133 This amendment replaces the bill. The amendment prohibits any person from
+1144 providing, advertising or otherwise offering therapy or psychotherapy services, including
+1155 through the use of Internet-based artificial intelligence, to the public unless the therapy or
+1166 psychotherapy services are provided by a licensed professional. The amendment provides
+1177 an exception for an artificial intelligence-based intervention that is used solely within a
+1188 research project conducted in compliance with all applicable federal protections for human
+1199 subjects in research. A violation of the prohibition is a violation of the Maine Unfair Trade
+2200 Practices Act.
+21 The amendment authorizes certain licensed professionals who are able to provide
+22 therapy or psychotherapy services within the scope of their license to use artificial
+23 intelligence to assist in providing administrative support or supplementary support in
+24 therapy or psychotherapy services. The amendment provides requirements for the use of
+25 artificial intelligence as well as prohibitions on its use. The amendment establishes that
+26 any violation by a licensed professional is subject to disciplinary action by the relevant
+27 licensing board and clarifies that the statutory language may not be construed to prohibit a
+28 client or a client's authorized representative from maintaining an action for harm caused to
+29 a client that is attributable to the use of artificial intelligence to assist in providing
+30 administrative or supplementary support as part of therapy or psychotherapy services;
+31 maintaining an action alleging professional negligence by a licensee; or seeking any other
+32 remedies available under other provisions of law. The amendment also requires that each
+33 respective licensing board adopt rules to implement these requirements and designates
+34 those rules as major substantive subject to legislative review and approval.
+3355 FISCAL NOTE REQUIRED
+3366 (See attached)
+Page 22 - 132LR2838(02)
+COMMITTEE AMENDMENT

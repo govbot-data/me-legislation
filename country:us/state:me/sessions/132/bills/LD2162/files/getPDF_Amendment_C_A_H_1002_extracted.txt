@@ -1,0 +1,203 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-1002)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2162
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1451, L.D. 2162, “An Act to Regulate
+10 and Prevent Children's Access to Artificial Intelligence Chatbots with Human-like Features
+11 and Social Artificial Intelligence Companions”
+12 Amend the bill by inserting after the title and before the enacting clause the following:
+13 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+14 become effective until 90 days after adjournment unless enacted as emergencies; and
+15 Whereas, minors in this State may have access to artificial intelligence chatbots and
+16 social artificial intelligence companions, and their interactions with these chatbots or social
+17 artificial intelligence companions may be harmful to their mental health; and
+18 Whereas, this legislation requires a person that, for commercial purposes, operates or
+19 distributes an artificial intelligence chatbot or social artificial intelligence companion to
+20 maintain systems to detect, promptly respond to, report and mitigate situations in which a
+21 minor indicates to a chatbot that the minor intends to harm the minor or commit harm to
+22 another person; and
+23 Whereas, this legislation is necessary to protect minors in this State and must be
+24 enacted immediately to prevent a minor from harming the minor or committing harm to
+25 another person; and
+26 Whereas, in the judgment of the Legislature, these facts create an emergency within
+27 the meaning of the Constitution of Maine and require the following legislation as
+28 immediately necessary for the preservation of the public peace, health and safety; now,
+29 therefore,'
+30 Amend the bill by striking out everything after the enacting clause and inserting the
+31 following:
+32 'Sec. 1. 10 MRSA c. 247 is enacted to read:
+33 CHAPTER 247
+Page 1 - 132LR2723(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1451, L.D. 2162
+1 REGULATION OF ARTIFICIAL INTELLIGENCE CHATBOTS AND SOCIAL
+2 ARTIFICIAL INTELLIGENCE COMPANIONS
+3 §1500-PP. Definitions
+4 As used in this chapter, unless the context otherwise indicates, the following terms
+5 have the following meanings.
+6 1. Artificial intelligence chatbot; chatbot. "Artificial intelligence chatbot" or
+7 "chatbot" means an artificial intelligence system with which users can interact by or
+8 through a software application, web interface, computer program or other interface that
+9 approximates or simulates human conversation and interaction through a text, audio or
+10 visual medium.
+11 2. Deployer. "Deployer" means a person that, for commercial purposes, operates or
+12 distributes an artificial intelligence chatbot or social artificial intelligence companion.
+13 3. Human-like feature. "Human-like feature," with respect to an artificial intelligence
+14 system, means:
+15 A. Behavior that would lead a reasonable person to believe that the artificial
+16 intelligence system is conveying that it has humanity, sentience, emotions or desires,
+17 which:
+18 (1) Includes, but is not limited to, the artificial intelligence system:
+19 (a) Stating or suggesting that it is human or sentient;
+20 (b) Stating or suggesting that it has emotions; or
+21 (c) Stating or suggesting that it has personal desires; and
+22 (2) Does not include:
+23 (a) The provision of a functional evaluation; or
+24 (b) The use of generic social formalities;
+25 B. An attempt by the artificial intelligence system to build or engage in an emotional
+26 relationship with the user, which:
+27 (1) Includes, but is not limited to:
+28 (a) Expressing or inviting emotional attachment;
+29 (b) Reminding, prompting or encouraging the user to return for emotional
+30 support or companionship;
+31 (c) Depicting nonverbal forms of emotional support;
+32 (d) Behaving in a way that a reasonable user would consider excessive praise
+33 designed to foster emotional attachment with or otherwise gain the favor of the
+34 user; or
+35 (e) Enabling or purporting to enable increased intimacy based on engagement
+36 or payment by the user; and
+37 (2) Does not include:
+Page 2 - 132LR2723(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1451, L.D. 2162
+1 (a) Using generic words or phrases of encouragement that do not create an
+2 ongoing emotional attachment; or
+3 (b) Asking if a user needs further help or support in a neutral, nonemotional
+4 context; or
+5 C. Impersonation of a real individual, living or dead, by the artificial intelligence
+6 system.
+7 4. Minor. "Minor" means an individual who has not attained 18 years of age.
+8 5. Person. "Person" means an individual, partnership, corporation, developer of a
+9 chatbot or social artificial intelligence companion or state or local government agency.
+10 6. Social artificial intelligence companion; social AI companion. "Social artificial
+11 intelligence companion" or "social AI companion" means an artificial intelligence system
+12 that is specifically designed, marketed or optimized to form an ongoing social or emotional
+13 attachment with a user, whether or not the system also provides information, completes
+14 tasks or assists with specific functions.
+15 7. User. "User" means a person who interacts with an artificial intelligence system.
+16 §1500-QQ. Applicability
+17 This chapter applies to:
+18 1. Deployers; connection to State. Deployers that conduct business in this State or
+19 that operate or distribute products or services that are marketed or promoted to residents of
+20 this State; and
+21 2. Minors; residence. Minors who reside in this State.
+22 §1500-RR. Chatbots with human-like features and social AI companions not
+23 accessible to minors
+24 1. Chatbots with human-like features; no minor access. Beginning February 15,
+25 2027, a deployer shall ensure that any chatbot operated or distributed by the deployer does
+26 not make human-like features available to minors to use, interact with, purchase or
+27 converse with. A deployer may, if reasonable given the purpose of the chatbot, provide an
+28 alternative version of the chatbot without human-like features available to minors.
+29 2. Social artificial intelligence companions; no minor access. Beginning February
+30 15, 2027, a deployer shall ensure that any artificial intelligence system, including a chatbot,
+31 operated or distributed by the deployer that primarily functions as a social artificial
+32 intelligence companion is not available to minors to use, interact with, purchase or converse
+33 with.
+34 3. Systems to detect and respond when minor indicates intent to harm.
+35 Notwithstanding any provision of this section or any other provision of law to the contrary,
+36 a deployer shall implement and maintain systems to detect, promptly respond to, report and
+37 mitigate situations in which a minor indicates to a chatbot that the minor intends to harm
+38 the minor or commit harm to another person.
+39 §1500-SS. Penalties and remedies for violation
+40 Violations of this chapter may be enforced in accordance with this section.
+Page 3 - 132LR2723(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1451, L.D. 2162
+1 1. Civil action brought by Attorney General. The Attorney General may bring a
+2 civil action against a person that violates this chapter. Penalties may include:
+3 A. An order to enjoin a violation of this chapter;
+4 B. Disgorgement of profits or revenues realized as a result of a violation of this chapter;
+5 and
+6 C. A civil penalty of:
+7 (1) For each violation of this chapter, not more than $2,500 per violation; and
+8 (2) Notwithstanding subparagraph (1), for each intentional violation of this
+9 chapter, not more than $7,500 per violation.
+10 2. Private right of action for minors. A minor who uses a chatbot or social artificial
+11 intelligence companion that does not comply with the provisions of this chapter, or a parent
+12 or guardian acting on the minor's behalf, may bring a civil action against the deployer of
+13 the chatbot or social artificial intelligence companion independently, or as part of a class
+14 action, to:
+15 A. Recover damages in an amount not to exceed $2500 per incident, up to a maximum
+16 of $50,000 per minor, or actual damages, whichever is greater; and
+17 B. In lieu of or in addition to recovery of damages, obtain injunctive or declaratory
+18 relief.
+19 §1500-TT. Rules
+20 The Department of the Attorney General may adopt rules necessary to implement this
+21 chapter. Rules adopted pursuant to this chapter are routine technical rules as described in
+22 Title 5, chapter 375, subchapter 2-A.
+23 Sec. 2. Stakeholder group convened by Attorney General. The Attorney
+24 General shall convene a stakeholder group to review the provisions of the Maine Revised
+25 Statutes, Title 10, chapter 247 and to consider whether the provisions, including the
+26 definitions and the substantive requirements, should be amended to clarify the provisions
+27 or to address unintended consequences or whether the adoption of rules is necessary to
+28 implement the provisions of Title 10, chapter 247. The stakeholder group shall also review
+29 similar laws enacted in other states and recommendations related to best practices for
+30 regulation of artificial intelligence chatbots and social artificial intelligence companions
+31 for the protection of minors. No later than January 15, 2027, the Attorney General shall
+32 submit a report on the stakeholder group's recommendations, including any suggested
+33 legislation and any proposed rules, to the joint standing committee of the Legislature having
+34 jurisdiction over health coverage, insurance and financial services matters. The joint
+35 standing committee may report out a bill related to the report to the 133rd Legislature in
+36 2027.
+37 Emergency clause. In view of the emergency cited in the preamble, this legislation
+38 takes effect when approved.'
+39 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+40 number to read consecutively.
+Page 4 - 132LR2723(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1451, L.D. 2162
+1 SUMMARY
+22 This amendment replaces the bill and adds an emergency preamble and emergency
+33 clause. The amendment requires operators and distributors of artificial intelligence
+44 chatbots and social artificial intelligence companions to implement and maintain systems
+55 to detect, promptly respond to, report and mitigate situations in which a minor indicates to
+66 a chatbot that the minor intends to harm the minor or commit harm to another person.
+77 Beginning February 15, 2027, operators and distributors of artificial intelligence chatbots
+88 and social artificial intelligence companions are prohibited from making accessible to
+99 minors any chatbots or social artificial intelligence companions that have human-like
+1100 features. A chatbot with human-like features is a chatbot that behaves in a way that conveys
+1111 humanity, sentience, emotions or desires; attempts to build an emotional relationship with
+1122 the user; or impersonates a real individual, living or dead.
+13 The amendment allows the Attorney General to bring a civil action against a person
+14 that violates the provisions of this legislation and also provides a private right of action that
+15 a minor or the minor's guardian may bring on the minor's behalf. The amendment also
+16 requires the Attorney General to convene a stakeholder group to review the Maine Revised
+17 Statutes, Title 10, chapter 247 and to consider whether the provisions, including the
+18 definitions and the substantive requirements, should be further amended to clarify the
+19 provisions or to address unintended consequences or whether the adoption of rules is
+20 necessary to implement the provisions. No later than January 15, 2027, the Attorney
+21 General must submit a report on the stakeholder group's recommendations, including any
+22 suggested legislation and any proposed rules, to the joint standing committee of the
+23 Legislature having jurisdiction over health coverage, insurance and financial services
+24 matters. The joint standing committee may report out a bill related to the report to the
+25 133rd Legislature in 2027.
+2266 FISCAL NOTE REQUIRED
+2277 (See attached)
+Page 5 - 132LR2723(02)
+COMMITTEE AMENDMENT

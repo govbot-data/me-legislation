@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-807)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2072
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1385, L.D. 2072, “An Act to Make
+10 Changes to the Laws Governing Financial Institutions and to Eliminate Certain
+11 Administrative Fees Paid by Banks and Credit Unions Under the Maine Consumer Credit
+12 Code”
+13 Amend the bill in section 12 in subsection 1 in the 5th line (page 3, line 5 in L.D.) by
+14 striking out the following: "Notwithstanding section 855, participation" and inserting the
+15 following: 'Participation'
+16 Amend the bill by inserting after section 12 the following:
+17 'Sec. 13. 9-B MRSA §855, sub-§1, as repealed and replaced by PL 1985, c. 94, is
+18 amended to read:
+19 1. Limitations. A credit union may make loans to its members secured by a mortgage
+20 on real estate located within this State, subject to the following conditions and limitations.
+21 A. The total liability of any member upon loans within this section shall be is as
+22 established in section 854, subsection 1.
+23 B. No A loan made pursuant to this section may not exceed 90% of the appraised value
+24 of the property mortgage, as determined by the credit committee. Loans pursuant to
+25 this section may be made in an amount not exceeding 100% of the appraised value of
+26 the mortgage property if at least the top 20% of the loan is insured by a mortgage
+27 guarantee insurer licensed to do business in this State or if the loan is insured or
+28 guaranteed by the United States Department of Housing and Urban Development,
+29 Federal Housing Administration or any other state or federal agency.
+30 C. The note or other obligation evidencing a first mortgage loan shall must require
+31 monthly payment of the interest and principal thereon sufficient to repay the entire loan
+32 within a period not exceeding 30 years, except that this provision does not apply to real
+33 estate loans insured by the United States Department of Housing and Urban
+34 Development, Federal Housing Administration.
+Page 1 - 132LR2812(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1385, L.D. 2072
+1 D. The note or other obligation evidencing a loan other than a first mortgage loan shall
+2 must require monthly payment of the interest and principal thereon sufficient to repay
+3 the entire loan within a period not exceeding 15 years.'
+4 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+5 number to read consecutively.
+6 SUMMARY
+77 This amendment adds a provision to the bill that authorizes a state-chartered credit
+88 union to make loans to its members secured by real estate located in other states. Under
+99 existing law, loans must be secured by real estate located in Maine.
+1100 FISCAL NOTE REQUIRED
+1111 (See attached)
+Page 2 - 132LR2812(02)
+COMMITTEE AMENDMENT

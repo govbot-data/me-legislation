@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 772
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 772
+APRIL 25, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 874 - L.D. 2155
+An Act to Exempt, for Licenses Issued Prior to December 21, 2025, Persons
+Holding a Majority Ownership Interest from the Restriction on the Number
+of Manufacturing Facility Licenses and On-premises Retail Licenses
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 28-A MRSA §1355-A, sub-§2-C is enacted to read:
+2-C. Grandfathering of certain licenses issued prior to December 21, 2025. The
+bureau may not suspend, revoke or refuse to renew a license issued under this section or
+chapter 43 that was initially issued prior to December 21, 2025 solely on the basis that the
+person or persons holding a majority ownership interest in the licensed manufacturing
+facility were determined by the bureau after the license was initially issued to hold a
+majority ownership interest in more than the allowable number of on-premises retail
+licenses issued under chapter 43 if the on-premises retail licenses issued under chapter 43
+were also initially issued prior to December 21, 2025.
+A license grandfathered pursuant to this subsection may not be sold, transferred or
+otherwise conveyed.
+Page 1 - 132LR2942(08)

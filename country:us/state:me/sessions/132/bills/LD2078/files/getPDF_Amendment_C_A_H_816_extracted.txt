@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-816)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2078
+2 Date: (Filing No. H- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1393, L.D. 2078, “An Act to Establish
+10 the Electricity Cost Fairness Refundable Tax Credit”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Exempt from Sales Tax the Sale and Delivery of All Residential Electricity'
+13 Amend the bill by inserting after the title and before the enacting clause the following:
+14 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+15 become effective until 90 days after adjournment unless enacted as emergencies; and
+16 Whereas, current law provides a sales tax exemption for the sale and delivery of only
+17 some residential electricity, and this legislation expands that exemption to all residential
+18 electricity; and
+19 Whereas, immediate relief from the high cost of residential electricity is necessary
+20 for customers in Maine; and
+21 Whereas, to make the expanded exemption available for the sale and delivery of all
+22 residential electricity as early as possible in 2026, this legislation must take effect prior to
+23 the expiration of the 90-day period after adjournment; and
+24 Whereas, in the judgment of the Legislature, these facts create an emergency within
+25 the meaning of the Constitution of Maine and require the following legislation as
+26 immediately necessary for the preservation of the public peace, health and safety; now,
+27 therefore,'
+28 Amend the bill by striking out everything after the enacting clause and inserting the
+29 following:
+30 'Sec. 1. 36 MRSA §1760, sub-§9-B, as amended by PL 2021, c. 713, §§1 to 3 and
+31 affected by §4, is further amended to read:
+32 9-B. Residential electricity. Sale and delivery of residential electricity as follows:
+Page 1 - 132LR2852(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1393, L.D. 2078
+1 A. The Before July 1, 2026, the first 750 kilowatt hours of residential electricity per
+2 month;
+3 B. Off-peak Before July 1, 2026, off-peak residential electricity used for space heating
+4 or water heating by means of an electric thermal storage device. For the purpose of
+5 this paragraph, "off-peak residential electricity" means the off-peak delivery of
+6 residential electricity pursuant to tariffs on file with the Public Utilities Commission
+7 and the electricity supplied; and
+8 C. Residential Before July 1, 2026, residential electricity consumed by eligible
+9 customers enrolled in a low-income assistance program implemented pursuant to Title
+10 35‑A, section 3214, subsection 2 or an arrearage management program implemented
+11 pursuant to Title 35‑A, section 3214, subsection 2‑A.; and
+12 D. Beginning July 1, 2026, the sale and delivery of all residential electricity.
+13 For the purpose of this subsection, "residential electricity" means electricity furnished to
+14 buildings designed and used for both human habitation and sleeping, with the exception of
+15 hotels. When residential electricity is furnished through one meter to more than one
+16 residential unit and when the transmission and distribution utility applies its tariff on a per
+17 unit basis, the furnishing of electricity is considered a separate sale for each unit to which
+18 the tariff applies. For the purpose of this subsection, "delivery" means transmission and
+19 distribution.
+20 Emergency clause. In view of the emergency cited in the preamble, this legislation
+21 takes effect when approved.'
+22 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+23 number to read consecutively.
+24 SUMMARY
+2255 This amendment replaces the bill, changes the title and expands the sales tax exemption
+2266 for the sale and delivery of residential electricity to cover all sales of residential electricity
+2277 beginning July 1, 2026. This amendment adds an emergency preamble and emergency
+2288 clause to the bill to allow the expanded exemption to take effect prior to the expiration of
+2299 the 90-day period after adjournment.
+3300 FISCAL NOTE REQUIRED
+3311 (See attached)
+Page 2 - 132LR2852(02)
+COMMITTEE AMENDMENT

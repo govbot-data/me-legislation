@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-603)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2225
+2 Date: (Filing No. S- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 908, L.D. 2225, “An Act to Support
+10 Municipal Enforcement of Residential Construction Laws, Codes and Regulations”
+11 Amend the bill in section 3 in the first line (page 1, line 11 in L.D.) by striking out the
+12 following: "a" and inserting the following: 'as'
+13 Amend the bill in section 3 in subparagraph (10) in the first line (page 1, line 13 in
+14 L.D.) by striking out the following: "-2021"
+15 Amend the bill by striking out all of section 4.
+16 Amend the bill by inserting after section 6 the following:
+17 'Sec. 7. PL 2025, c. 388, Pt. D, §48, sub-§7 is enacted to read:
+18 7. Notwithstanding the Maine Revised Statutes, Title 5, section 17851, 17851-A,
+19 17851-B or 17851-C or any other provision of law to the contrary, a member whose
+20 position is transferred from the Department of Public Safety, Division of Building Codes
+21 and Standards program to the Maine Office of Community Affairs pursuant to this Part and
+22 who becomes subject to different service retirement benefits qualification requirements as
+23 a result of the transfer is eligible to receive service retirement benefits under the service
+24 retirement benefits qualification requirements and the associated benefit computation
+25 provisions in effect prior to the position being transferred pursuant to this Part.'
+26 Amend the bill by striking out all of section 9 and inserting the following:
+27 'Sec. 9. Appropriations and allocations. The following appropriations and
+28 allocations are made.
+29 MAINE OFFICE OF COMMUNITY AFFAIRS
+30 Division of Building Codes and Standards Z419
+31 Initiative: Establishes one Resource Management Coordinator position and provides All
+32 Other funding for associated position costs.
+33 GENERAL FUND 2025-26 2026-27
+Page 1 - 132LR3036(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 908, L.D. 2225
+1 POSITIONS - LEGISLATIVE COUNT 0.000 1.000
+2 Personal Services $0 $122,761
+3 All Other $0 $10,000
+4 __________ __________
+5 GENERAL FUND TOTAL $0 $132,761
+61 Division of Building Codes and Standards Z419
+7 Initiative: Establishes one Resource Management Coordinator position and provides
+8 funding for training and support for local code enforcement officers.
+9 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+10 POSITIONS - LEGISLATIVE COUNT 0.000 1.000
+11 Personal Services $0 $122,761
+12 All Other $0 $13,000
+13 __________ __________
+14 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $135,761
+159 Division of Building Codes and Standards Z419
+16 Initiative: Provides funding for the approved reclassification of one Public Safety Inspector
+17 III position to a Public Safety Inspector Supervisor position retroactive to August 21, 2024
+18 and transfers All Other to Personal Services on a one-time basis to fund the retroactive
+19 portion of the reclassification. This initiative also provides funding for authorized overtime.
+20 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+21 Personal Services $0 $94,594
+22 All Other $0 ($9,282)
+23 __________ __________
+24 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $85,312
+2250 Division of Building Codes and Standards Z419
+26 Initiative: Provides funding for the proposed reorganization of one Public Safety Inspector
+27 Supervisor position to a Public Service Manager II position.
+28 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+29 Personal Services $0 $16,340
+30 __________ __________
+31 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $16,340
+3228 Division of Building Codes and Standards Z419
+33 Initiative: Provides funding for changes in retirement plans.
+34 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+35 Personal Services $0 $2,137
+36 __________ __________
+37 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $2,137
+3384 Housing Opportunity Program Z418
+39 Initiative: Provides one-time funding for a 3-year pilot project to provide regionalized
+40 building code enforcement.
+41 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+42 All Other $0 $1,000,000
+Page 2 - 132LR3036(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 908, L.D. 2225
+1 __________ __________
+2 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $1,000,000
+31
+4 MAINE OFFICE OF COMMUNITY AFFAIRS
+5 DEPARTMENT TOTALS 2025-26 2026-27
+6
+7 GENERAL FUND $0 $132,761
+8 OTHER SPECIAL REVENUE FUNDS $0 $1,239,550
+9 __________ __________
+10 DEPARTMENT TOTAL - ALL FUNDS $0 $1,372,311
+114
+12 Sec. 10. Retroactivity. That section of this Act that enacts Public Law 2025, chapter
+13 388, Part D, section 48, subsection 7 applies retroactively to September 24, 2025.'
+14 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+15 number to read consecutively.
+16 SUMMARY
+1177 This amendment amends the bill by removing the edition year from the title of the
+1188 International Code Council and Modular Building Institute 1200 Standard for Off-site
+1199 Construction: Planning, Design, Fabrication and Assembly. The amendment also removes
+2200 the provision regulating when building codes and standards take effect and clarifies the
+2211 service retirement benefits qualification requirements for state employees whose position
+2222 was transferred from the Department of Public Safety, Division of Building Codes and
+2233 Standards program to the Maine Office of Community Affairs by Public Law 2025, chapter
+2244 388.
+2255 FISCAL NOTE REQUIRED
+2266 (See attached)
+Page 3 - 132LR3036(02)
+COMMITTEE AMENDMENT

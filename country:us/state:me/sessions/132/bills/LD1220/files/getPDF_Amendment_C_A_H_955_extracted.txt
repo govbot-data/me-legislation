@@ -1,0 +1,214 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-955)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1220
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 795, L.D. 1220, “An Act to Allow
+10 Chiropractors to Treat Dogs and Equids”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Allow Chiropractors to Perform Animal Chiropractic Care Under Certain
+13 Conditions'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 32 MRSA §456 is enacted to read:
+17 §456. Animal chiropractic care
+18 1. Definitions. For the purposes of this section, unless the context otherwise indicates,
+19 the following terms have the following meanings.
+20 A. "Animal" has the same meaning as in section 4853, subsection 1.
+21 B. "Animal chiropractic care" means the evaluation and treatment of an animal's
+22 vertebral or extremity joint dysfunction through manual spinal and joint manipulation
+23 of the musculoskeletal system. "Animal chiropractic care" does not include medical
+24 diagnosis; systemic disease treatment; the performing of surgery; the dispensing or
+25 administering of medications, drugs or biologics; or the performance of any traditional
+26 veterinary care and diagnosis unless the individual is a veterinarian licensed pursuant
+27 to chapter 71-A.
+28 C. "Evaluation" means a comprehensive clinical assessment and physical examination
+29 to assess the animal's musculoskeletal health, focusing on posture, gait and movement
+30 patterns.
+31 2. Authority to perform animal chiropractic care. A chiropractor licensed under
+32 this chapter may submit an application together with the fee established pursuant to section
+33 558 to the board for additional authority to perform animal chiropractic care in accordance
+34 with the following requirements.
+Page 1 - 132LR2375(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 795, L.D. 1220
+1 A. A licensee applying for the authority under this subsection shall provide:
+2 (1) Verification of having obtained initial certification from the Animal
+3 Chiropractic Certification Commission or its successor organization demonstrating
+4 successful completion of a basic chiropractic animal training program accredited
+5 by the American Veterinary Chiropractic Association or the International
+6 Veterinary Chiropractic Association or either of their successor organizations or
+7 another basic chiropractic animal training program approved by the board; and
+8 (2) Verification of having successfully passed any written and practical
+9 examinations approved by the American Veterinary Chiropractic Association, the
+10 International Veterinary Chiropractic Association or either of their successor
+11 organizations or other examinations approved by the board.
+12 B. After receiving the additional authority to perform animal chiropractic care from the
+13 board under paragraph A, the licensee must successfully complete at least 22 hours of
+14 continuing education prior to each renewal of the licensee's license under section 553-A
+15 that is specific to the evaluation and treatment of animals, including a 2-hour course on
+16 the animal welfare laws and a 2-hour course on contagious, infectious and zoonotic
+17 diseases in this State and other jurisdictions that might affect a licensee's animal
+18 patients. The continuing education required under this paragraph may not be construed
+19 to expand the scope of animal chiropractic care beyond the initial authority obtained
+20 by a licensee under paragraph A.
+21 3. Requirements to perform animal chiropractic care. A chiropractor licensed
+22 under this chapter who has been issued the additional authority by the board under
+23 subsection 2 may perform animal chiropractic care on a conscious animal in accordance
+24 with the requirements of this subsection.
+25 A. A licensee may perform animal chiropractic care on an animal to only those species
+26 of animals on which the licensee has received training and as long as the licensee:
+27 (1) Has obtained a referral from a veterinarian licensed under chapter 71-A to
+28 perform animal chiropractic care on that animal; or
+29 (2) After completing an initial evaluation of the animal, requests and receives
+30 medical clearance from a veterinarian licensed under chapter 71-A that animal
+31 chiropractic care for that animal is appropriate. A licensed veterinarian shall
+32 respond to a request from a licensee under this paragraph within 48 hours of
+33 receiving the request in accordance with joint rules adopted by the board and the
+34 State Board of Veterinary Medicine. A licensee shall maintain accurate and
+35 complete records of requests for medical clearance and documentation of requests
+36 granted under this subparagraph and such records must be made available to the
+37 board upon request. The board and the State Board of Veterinary Medicine shall
+38 jointly adopt rules to implement the process for obtaining a medical clearance and
+39 the responsibilities of licensees and licensed veterinarians under this subparagraph.
+40 Rules adopted under this subparagraph are routine technical rules as described in
+41 Title 5, chapter 375, subchapter 2-A.
+42 B. Prior to providing animal chiropractic care to an animal and after meeting the
+43 requirements of paragraph A, a licensee shall obtain a completed application-for-care
+44 form for each animal signed by the animal's owner, owner's agent or another individual
+Page 2 - 132LR2375(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 795, L.D. 1220
+415 responsible for the animal. At a minimum, the application-for-care form must include
+426 the following:
+3 (1) A statement that the licensee is not a licensed veterinarian and may not maintain
+4 primary responsibility for the animal's care;
+5 (2) A statement that animal chiropractic care is not intended to replace traditional
+6 veterinary care and is considered an alternative therapy to be used concurrently and
+7 in conjunction with traditional veterinary care by a licensed veterinarian;
+8 (3) A statement of whether the animal has had a veterinarian-client-patient
+9 relationship as described in section 4877 with a licensed veterinarian within the
+10 past 12 months;
+11 (4) A statement of whether a licensed veterinarian has provided a diagnosis of the
+12 medical condition of the animal for which animal chiropractic care is sought, and
+13 if so, a documentation of the specific diagnosis; and
+14 (5) A statement authorizing the licensee to provide animal chiropractic care to the
+15 animal.
+16 C. A licensee may not diagnose medical conditions of an animal for which animal
+17 chiropractic care is sought and shall refer an animal to a licensed veterinarian for
+18 imaging, laboratory work or other diagnostic testing if the licensee suspects that
+19 underlying conditions exist.
+20 D. If a licensee suspects that the animal has a contagious disease required to be reported
+21 under state law, the licensee shall notify the animal's veterinarian and the Department
+22 of Agriculture, Conservation and Forestry, division of animal and plant health.
+23 E. If a licensee suspects that the animal is the subject of cruelty or neglect in violation
+24 of Title 7, chapter 739 or of Title 17, chapter 42, the licensee shall report the suspected
+25 violation pursuant to Title 7, section 4018.
+26 F. If a licensee has reasonable knowledge that an animal receiving animal chiropractic
+27 care from the licensee has died or has received emergency care or transport to a
+28 veterinarian within 48 hours of receiving care from the licensee, the licensee shall
+29 report that information to the board, including the date and time of the treatment
+30 provided by the licensee, the name of the animal's owner and a description of any
+31 treatment provided to the animal by the licensee.
+32 G. A licensee shall maintain for at least 7 years a medical record for each animal
+33 provided with animal chiropractic care, including a copy of the signed application-for-
+34 care form under paragraph B for each animal. Upon request, the licensee shall provide
+35 the medical record to the board and to the animal's veterinarian within 2 business days.
+36 4. Use of title. A chiropractor licensed under this chapter may not use the title "animal
+37 chiropractor" or purport to be an animal chiropractor unless the licensee has been issued
+38 the additional authority by the board under subsection 2 to perform animal chiropractic care
+39 under this section.
+40 5. Malpractice insurance. A chiropractor licensed under this chapter who has been
+41 issued the additional authority by the board under subsection 2 to perform animal
+42 chiropractic care shall at all times maintain malpractice insurance specific to animal
+43 chiropractic care.
+Page 3 - 132LR2375(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 795, L.D. 1220
+1 6. List of licensees authorized to provide animal chiropractic care. The board shall
+2 make available on its publicly accessible website a list of all licensees with authority to
+3 provide animal chiropractic care under this section. The board shall update the list as
+4 necessary, but not less frequently than quarterly.
+5 7. Practice of veterinary medicine; liability. This section does not restrict a licensed
+6 veterinarian from engaging in the practice of veterinary medicine pursuant to chapter 71-A.
+7 A veterinarian who has an established veterinarian-client-patient relationship with an
+8 animal as described in section 4877 is not liable for any acts or omissions of a licensed
+9 chiropractor with authority under this section to provide animal chiropractic care.
+10 8. Rules. Except as provided in subsection 3, paragraph A, subparagraph (2), the board
+11 may adopt rules to implement this section as necessary and prior to adopting any rules, the
+12 board shall consult with the State Board of Veterinary Medicine. Rules adopted pursuant
+13 to this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter
+14 2-A.
+15 Sec. 2. 32 MRSA §503-B, sub-§4, as enacted by PL 2007, c. 402, Pt. H, §7, is
+16 amended to read:
+17 4. Nonchiropractic practice. Offering health services outside the field of
+18 chiropractic; or
+19 Sec. 3. 32 MRSA §503-B, sub-§5, as enacted by PL 2007, c. 402, Pt. H, §7, is
+20 amended to read:
+21 5. Fee-splitting. Splitting or dividing a fee with an individual who is not an associate
+22 licensed as a chiropractor.; or
+23 Sec. 4. 32 MRSA §503-B, sub-§6 is enacted to read:
+24 6. Animal chiropractic care. Violating this chapter or rules adopted by the board
+25 when providing animal chiropractic care.
+26 Sec. 5. 32 MRSA §4859-B is enacted to read:
+27 §4859-B. Joint rules; animal chiropractic care
+28 Pursuant to section 456, subsection 3, paragraph A, subparagraph (2), the board shall
+29 jointly adopt rules with the Board of Chiropractic Licensure to implement the process for
+30 obtaining a medical clearance from a licensed veterinarian authorizing animal chiropractic
+31 care and the responsibilities under that subparagraph of licensed veterinarians and licensed
+32 chiropractors with authority to provide animal chiropractic care. Rules adopted under this
+33 paragraph are routine technical rules as described in Title 5, chapter 375, subchapter 2-A.
+34 Sec. 6. 32 MRSA §4860, sub-§13 is enacted to read:
+35 13. Licensed chiropractor authorized to perform animal chiropractic care. A
+36 chiropractor licensed under chapter 9 performing animal chiropractic care in accordance
+37 with the requirements of section 456.'
+38 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+39 number to read consecutively.
+Page 4 - 132LR2375(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 795, L.D. 1220
+1 SUMMARY
+22 This amendment, which is the majority report of the committee, replaces the bill and
+33 changes the title. The amendment authorizes a chiropractor licensed in this State to apply
+44 for additional authority from the Board of Chiropractic Licensure to provide animal
+55 chiropractic care to animals as long as the licensed chiropractor obtains training and
+66 successfully passes any written and practical examinations approved by the licensing
+77 board. After receiving initial authority, a licensed chiropractor must complete at least 22
+88 hours of continuing education prior to each renewal of the licensee's chiropractic license
+99 that is specific to the evaluation and treatment of animals, including a 2-hour course on the
+1100 animal welfare laws and a 2-hour course on contagious, infectious and zoonotic diseases
+1111 in this State.
+12 The amendment authorizes a licensed chiropractor with this additional authority to
+13 perform animal chiropractic care to only those species of animals on which the licensee has
+14 received training and as long as the licensee has obtained a referral from a licensed
+15 veterinarian to perform animal chiropractic care on that animal or, after completing an
+16 initial evaluation of the animal, has received medical clearance from a licensed veterinarian
+17 that animal chiropractic care for that animal is appropriate. A licensed veterinarian must
+18 respond to a request for medical clearance within 48 hours of receiving the request. The
+19 amendment requires the Board of Chiropractic Licensure and the State Board of Veterinary
+20 Medicine to jointly adopt rules to implement the process for obtaining a medical clearance
+21 and the responsibilities of licensees and licensed veterinarians.
+22 The amendment requires a licensed chiropractor with this additional authority to notify
+23 the animal's veterinarian and the Department of Agriculture, Conservation and Forestry,
+24 division of animal and plant health of suspected contagious disease and to report suspected
+25 animal abuse or neglect. The amendment also requires a licensee to maintain malpractice
+26 insurance specific to animal chiropractic care.
+2277 FISCAL NOTE REQUIRED
+2288 (See attached)
+Page 5 - 132LR2375(02)
+COMMITTEE AMENDMENT

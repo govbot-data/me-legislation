@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-551)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2129
+2 Date: (Filing No. S- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 818, L.D. 2129, “An Act to Prohibit
+10 Liens on Principal Residences and Wage Garnishments for Medical Debt”
+11 Amend the bill in section 5 in paragraph F in the first line (page 1, line 22 in L.D.) by
+12 striking out the following: "A" and inserting the following: 'Notwithstanding paragraphs A
+13 and B, a'
+14 Amend the bill by inserting after section 5 the following:
+15 'Sec. 6. 14 MRSA §4655 is amended by enacting at the end a new paragraph to read:
+16 Notwithstanding this section and any other provision of law to the contrary, interest
+17 may not be collected upon execution of a judgment related to any disposition of property
+18 subject to any lien or attachment of a judgment debtor's principal place of residence based
+19 on medical debt as defined in Title 32, section 11002, subsection 7-A for the amount of
+20 interest that has accumulated on the medical debt subject to that lien on or after the date on
+21 which section 4422, subsection 1, paragraph F takes effect.'
+22 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+23 number to read consecutively.
+24 SUMMARY
+2255 This amendment makes a technical change to the bill. The amendment also requires a
+2266 court, in any action to execute a judgment involving the attachment of a consumer's
+2277 principal place of residence based on medical debt, to exclude any interest on medical debt
+2288 that has accumulated on or after the effective date of this legislation.
+2299 FISCAL NOTE REQUIRED
+3300 (See attached)
+Page 1 - 132LR2603(02)
+COMMITTEE AMENDMENT

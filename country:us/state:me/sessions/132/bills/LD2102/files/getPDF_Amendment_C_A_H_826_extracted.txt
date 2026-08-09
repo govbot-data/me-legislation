@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-826)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2102
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1417, L.D. 2102, “An Act to Clarify and
+10 Strengthen the Government Shutdown Loan Guarantee Program”
+11 Amend the bill by striking out all of section 2 and inserting the following:
+12 'Sec. 2. 10 MRSA §1100-JJ, sub-§2, as enacted by PL 2025, c. 494, §2, is amended
+13 to read:
+14 2. Determination of loan amount. The Unless an origination fee is included by an
+15 eligible financial institution and added to the loan amount in accordance with subsection 4,
+16 paragraph D, the maximum amount of a loan is the lesser of $6,000 and the affected
+17 employee's most recent monthly after-tax pay, offset by any unemployment benefits, as
+18 determined pursuant to this subsection.
+19 A. Offsetting unemployment benefits are determined by multiplying by 4 the greater
+20 of the amount per week of unemployment benefits pursuant to Title 26, chapter 13, as
+21 reported pursuant to subsection 1, paragraph B, subparagraph (4):
+22 (1) Actually received by the affected employee during the shutdown; and
+23 (2) The affected employee is eligible to receive during the shutdown.
+24 B. The amount of offsetting unemployment benefits, if any, as determined pursuant to
+25 paragraph A is subtracted from the lesser of $6,000 and the affected employee's most
+26 recent monthly after-tax pay.
+27 C. The amount of the loan is the lesser of $6,000 and the amount determined following
+28 the calculation in paragraph B.
+29 Sec. 3. 10 MRSA §1100-JJ, sub-§4, ¶D is enacted to read:
+30 D. A loan agreement may contain an origination fee not to exceed the lesser of $60
+31 and 1% of the loan amount and, if an origination fee is included, the eligible financial
+32 institution shall add the origination fee to the loan amount.
+33 Sec. 4. 10 MRSA §1100-LL, sub-§3, as enacted by PL 2025, c. 494, §2, is
+34 amended to read:
+Page 1 - 132LR2952(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1417, L.D. 2102
+1 3. Termination of loan recovery guarantee based on excess claims. If the amount
+2 expended for loan guarantee payments under section 1100‑KK equals or exceeds 10% 50%
+3 of the total of all loans issued, the authority shall immediately cease to approve claims and
+4 shall notify the Treasurer of State and each eligible financial institution of the total amount
+5 of loan guarantee payments made and that the authority has ceased honoring loan claims.
+6 Sec. 5. 10 MRSA §1100-LL, sub-§5 is enacted to read:
+7 5. Notification of funding needs. If the total amount of funds expended for loan
+8 guarantee payments under section 1100‑KK equals or exceeds $200,000, the authority shall
+9 immediately notify the Treasurer of State, the joint standing committee of the Legislature
+10 having jurisdiction over appropriations and financial affairs and the joint standing
+11 committee of the Legislature having jurisdiction over financial services matters.
+12 Sec. 6. 10 MRSA §1100-NN, first ¶, as enacted by PL 2025, c. 494, §2, is amended
+13 to read:
+14 The joint standing committee of the Legislature having jurisdiction over appropriations
+15 and financial affairs, in consultation with the joint standing committee of the Legislature
+16 having jurisdiction over financial services matters, may shall report out legislation to
+17 address any funding needs of the program after receipt of notification from the authority
+18 pursuant to section 1100-LL, subsection 5.'
+19 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+20 number to read consecutively.
+21 SUMMARY
+2222 This amendment, which is the majority report of the committee, makes the following
+2233 changes to the bill.
+24 1. It authorizes an eligible financial institution to charge an origination fee that is the
+25 lesser of $60 and 1% of the total loan amount and requires the financial institution to add
+26 the origination fee to the total amount of the loan.
+27 2. Instead of removing language that provides that if the amount expended for loan
+28 guarantee payments equals or exceeds 10% of the total of all loans issued, the Finance
+29 Authority of Maine must stop approving claims, it changes the amount that must be
+30 expended before the authority stops approving claims from 10% of the total of all loans
+31 issued to 50% of the total of all loans issued.
+32 3. If the total amount of funds expended for loan guarantee payments under the
+33 Government Shutdown Loan Guarantee Program equals or exceeds $200,000, it requires
+34 the authority to immediately notify the Treasurer of State, the joint standing committee of
+35 the Legislature having jurisdiction over appropriations and financial affairs and the joint
+36 standing committee of the Legislature having jurisdiction over financial services matters
+37 and requires the reporting out of legislation to address the funding needs of the program
+38 after that notification is received.
+3399 FISCAL NOTE REQUIRED
+4400 (See attached)
+Page 2 - 132LR2952(02)
+COMMITTEE AMENDMENT

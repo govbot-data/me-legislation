@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-956)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2071
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1384, L.D. 2071, “An Act to Expand
+10 Access to Vaccines Approved by the United States Food and Drug Administration by
+11 Allowing Pharmacists to Prescribe, Dispense and Administer Vaccines and Require
+12 Insurance Coverage”
+13 Amend the bill by striking out everything after the enacting clause and before the
+14 emergency clause and inserting the following:
+15 'Sec. 1. 24-A MRSA §4320-A, sub-§1, ¶B, as enacted by PL 2017, c. 343, §1 and
+16 affected by §2, is amended to read:
+17 B. With respect to the individual insured, immunizations that have a recommendation
+18 from the federal Department of Health and Human Services, Centers for Disease
+19 Control and Prevention, Advisory Committee on Immunization Practices or have been
+20 licensed by the federal Food and Drug Administration and that are consistent with the
+21 recommendations of the American Academy of Pediatrics, the American Academy of
+22 Family Physicians or the American College of Obstetricians and Gynecologists or a
+23 successor organization;
+24 Sec. 2. 32 MRSA §13831, sub-§1, as amended by PL 2023, c. 170, §1, is further
+25 amended to read:
+26 1. Administration of influenza vaccines. A pharmacist licensed in this State who
+27 meets the qualifications and requirements of section 13832 and rules adopted by the board
+28 may prescribe, dispense or administer topically or by injection or by inhalation all forms
+29 of influenza vaccines, including intranasal influenza vaccines, to a person 3 years 6 months
+30 of age or older without a prescription.
+31 Sec. 3. 32 MRSA §13831, sub-§2, as corrected by RR 2023, c. 2, Pt. A, §49, is
+32 amended to read:
+33 2. Administration of other vaccines. A pharmacist licensed in this State who meets
+34 the qualifications and requirements of section 13832 and rules adopted by the board, in
+35 addition to influenza vaccines under subsection 1, may prescribe, dispense or administer
+Page 1 - 132LR2608(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1384, L.D. 2071
+316 vaccines licensed by the United States Food and Drug Administration that are
+327 recommended by the United States Centers for Disease Control and Prevention Advisory
+338 Committee on Immunization Practices or consistent with recommendations of the
+349 American Academy of Pediatrics, the American Academy of Family Physicians or the
+450 American College of Obstetricians and Gynecologists, or a successor organization, for
+461 administration to a person 18 years of age or older. A pharmacist may administer vaccines
+472 licensed by the United States Food and Drug Administration that are recommended by the
+483 United States Centers for Disease Control and Prevention Advisory Committee on
+494 Immunization Practices or consistent with the recommendations of the American Academy
+1405 of Pediatrics, the American Academy of Family Physicians or the American College of
+1416 Obstetricians and Gynecologists, or a successor organization, for administration to a person
+1427 3 years of age or older and under 18 years of age according to a valid prescription from a
+1438 prescriber licensed under chapter 31, 36 or 48. A pharmacist may administer vaccines
+1449 licensed by the United States Food and Drug Administration that are outside the guidelines
+1550 recommended by the United States Centers for Disease Control and Prevention Advisory
+1561 Committee on Immunization Practices, or successor organization, for administration to a
+1572 person 18 years of age or older according to a valid prescription if the prescription
+1583 specifically states that the vaccine is medically necessary.
+19 Sec. 4. 32 MRSA §13831, sub-§2-A, as enacted by PL 2021, c. 28, Pt. B, §2, is
+20 amended to read:
+21 2-A. Administration of COVID-19 vaccines. A pharmacist licensed in this State
+22 who meets the qualifications and requirements of section 13832 and rules adopted by the
+23 board may prescribe, dispense, administer and order COVID-19 vaccines licensed or
+24 authorized under an emergency use authorization by the United States Food and Drug
+25 Administration that are recommended by the United States Centers for Disease Control and
+26 Prevention Advisory Committee on Immunization Practices, or successor organization, to
+27 a person 3 years 6 months of age or older. For the purposes of this subsection, "COVID-
+28 19" has the same meaning as in Title 24‑A, section 4320‑P, subsection 1, paragraph A.
+29 Sec. 5. 32 MRSA §13831, sub-§7, as enacted by PL 2023, c. 170, §3 and
+30 reallocated by RR 2023, c. 1, Pt. A, §28, is amended to read:
+31 7. Notification of vaccines administration. A pharmacist licensed in this State who
+32 meets the qualifications and requirements of section 13832 and rules adopted by the board
+33 shall provide a written immunization record to the person, or the person's representative,
+34 receiving a vaccine administered under this section. Within 72 hours of administering a
+35 vaccine, a pharmacist shall notify the person's primary care provider, if any, of
+36 administration of the vaccine. Beginning August 1, 2023, a pharmacist shall report the
+37 administration of the vaccine to the appropriate state immunization information reporting
+38 system within 72 hours of administering the vaccine.
+39 Sec. 6. 32 MRSA §13834, sub-§1, as amended by PL 2023, c. 245, §3, is further
+40 amended to read:
+41 1. Delegate authority. A pharmacist may not delegate the pharmacist's authority to
+42 administer drugs or vaccines; except that a pharmacist licensed under this chapter who has
+43 obtained a certificate of administration pursuant to section 13832 may delegate the
+44 authority to administer vaccines to a pharmacy technician who is under that pharmacist's
+45 direct supervision and has met the requirements of section 13831, subsection 6 or may
+Page 2 - 132LR2608(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1384, L.D. 2071
+416 delegate the authority to administer drugs and vaccines to a pharmacy intern who is under
+427 that pharmacist's direct supervision and who has obtained drug administration training
+438 pursuant to section 13832, subsection 3. A pharmacy intern may administer drugs and
+449 vaccines only to a person 18 years of age or older.'
+5 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+6 number to read consecutively.
+7 SUMMARY
+88 This amendment, which is the majority report of the committee, replaces the
+99 substantive provisions of the bill but retains the emergency clause and emergency
+1100 preamble. The amendment allows pharmacists to prescribe, dispense or administer
+1111 vaccines to a person 18 years of age or older, or a person over 6 months of age specifically
+1122 for influenza and COVID-19 vaccines, and to dispense or administer other vaccines with a
+1133 prescription to a person 3 years of age or older. Vaccines must be licensed by the federal
+1144 Food and Drug Administration and may be recommended by the United States Centers for
+1155 Disease Control and Prevention Advisory Committee on Immunization Practices or be
+1166 consistent with recommendations of the American Academy of Pediatrics, the American
+1177 Academy of Family Physicians or the American College of Obstetricians and
+1188 Gynecologists. It removes the prohibition on pharmacy interns administering drugs and
+1199 vaccines to a person under 18 years of age, which will allow pharmacy interns with
+2200 appropriate training to administer a drug or vaccine under a pharmacist’s direct supervision.
+2211 It removes the requirement that a pharmacist notify the person’s primary care provider
+2222 within 72 hours of administering a vaccine, as this information is required to be reported
+2233 in the state immunization information reporting system.
+24 The amendment also clarifies that insurance carriers are authorized to provide coverage
+25 for vaccines without any deductible, copayment, coinsurance or other cost-sharing
+26 reimbursement that have been licensed by the federal Food and Drug Administration and
+27 that are consistent with the recommendations of the American Academy of Pediatrics, the
+28 American Academy of Family Physicians or the American College of Obstetricians and
+29 Gynecologists.
+3300 FISCAL NOTE REQUIRED
+3311 (See attached)
+Page 3 - 132LR2608(02)
+COMMITTEE AMENDMENT

@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 587
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 23, 2026 587
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 674 - L.D. 1728
+An Act to Improve Affordability, Stability and Access in the Maine Child
+Care Affordability Program
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA §3731-A, sub-§3 is enacted to read:
+3. Copayments limited. The department shall limit the amount of copayments
+required to be paid by families receiving subsidies under the Maine Child Care
+Affordability Program in accordance with this subsection.
+A. A family earning up to 85% of the median family income in the State for a family
+of the same size may not be required to contribute more than 7% of the family’s
+household income as a copayment.
+B. Copayments may be further reduced or waived, as determined by the department,
+for additional populations, including, but not limited to:
+(1) Families earning up to 30% of the median family income in the State for a
+family of the same size;
+(2) Children who are in foster care or kinship care;
+(3) Families experiencing homelessness; and
+(4) Families with a child with a disability.
+Sec. 2. 22 MRSA §3731-B is enacted to read:
+§3731-B. Copayment schedule
+The department shall post on its publicly accessible website information about
+copayments, as determined by the department pursuant to section 3731-A, subsection 3,
+that must be paid by families receiving subsidies under the Maine Child Care Affordability
+Program established in section 3731-A. The information posted must include, but is not
+limited to, the sliding fee scales used to determine family copayments, estimated amounts
+of copayments for families based on income and family size and policies related to reduced
+or waived copayments. The website must use plain language and must be updated when
+copayment schedules and amounts change.
+Page 1 - 132LR2324(03)
+
+Sec. 3. 22 MRSA §3737, sub-§7 is enacted to read:
+7. Reimbursements for subsidies. The department shall reimburse a provider of child
+care services provided under this chapter for subsidies provided under the Maine Child
+Care Affordability Program established in section 3731-A administered by the department
+pursuant to rules adopted by the department. To the extent allowable under federal law,
+reimbursement under the program to a child care provider must be based on generally
+accepted payment practices for private-pay families for child care, including enrollment-
+based rather than attendance-based practices. Reimbursement based on generally accepted
+payment practices must support child care provider stability and encourage more child care
+providers to serve children receiving child care services under the program. In developing
+the program, the department shall identify the practices common for child care providers
+serving private-pay families and determine which practices are most important to meet the
+goals of ensuring that high-quality child care providers participate in the program. The
+department shall make a plan to align requirements for providers accepting children
+receiving federal Child Care and Development Fund child care assistance to the practices
+of child care providers serving private-pay families. The department shall examine
+generally accepted payment practices regarding paying prospectively based on enrollment
+and practices related to separating provider closure limits for holidays or vacations or to
+compensate for inclement weather from child absence allowances. The department shall
+adopt rules to implement this subsection. Rules adopted pursuant to this subsection are
+routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+For the purposes of this subsection, "generally accepted payment practices" are practices
+that align with the private-pay child care market in order to encourage providers to accept
+children receiving federal Child Care and Development Fund child care assistance and
+enable families to retain child care services.
+Sec. 4. 22 MRSA §3737, sub-§8 is enacted to read:
+8. Subsidy above equivalent private rate. To the extent allowable by federal law,
+the department may reimburse a provider of child care services for subsidies provided
+under the Maine Child Care Affordability Program established in section 3731-A at the
+market rate established pursuant to subsection 4 to better reflect the cost of providing care
+even if that rate is higher than the rate charged by a provider of child care for a child in a
+family that is not receiving a subsidy under this chapter.
+Page 2 - 132LR2324(03)

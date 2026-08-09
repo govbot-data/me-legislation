@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-495)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1936
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 754, L.D. 1936, “An Act to Provide
+10 Greater Equity in and Reduce Costs Related to the State's Net Energy Billing Program”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act Regarding the Allocation of Net Energy Billing Costs and Long-term
+13 Contract Costs and Benefits'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 35-A MRSA §3209, sub-§5, ¶B, as enacted by PL 2025, c. 391, §2, is
+17 amended to read:
+18 B. Notwithstanding section 3209‑C, subsection 2, paragraph B and section 3210‑F,
+19 subsection 3, allocates Allocates the combined post-restructuring stranded costs, as
+20 determined by the commission, for investor-owned transmission and distribution
+21 utilities in the State to each customer class group described in paragraph A, based on
+22 each group's pro rata share of statewide post-restructuring stranded costs based on total
+23 retail kilowatt-hour energy sales to those customers;
+24 Sec. 2. 35-A MRSA §3209, sub-§6, as enacted by PL 2025, c. 391, §3, is amended
+25 to read:
+26 6. Post-restructuring stranded cost allocation; rate design. For post-restructuring
+27 stranded cost allocations and rate designs applicable on or after July 1, 2028, the
+28 commission shall by order establish such cost allocations and rate designs applicable for
+29 the following 3-year period in accordance with section 3209-C, subsection 2, paragraph C
+30 and section 3209-F, subsection 3, subject to annual and other necessary reconciliations, and
+31 ensure the promotion of beneficial electrification in every customer class consistent with
+32 section 3804.
+33 Sec. 3. 35-A MRSA §3209-C, sub-§2, ¶B, as enacted by PL 2023, c. 411, §5, is
+34 amended to read:
+Page 1 - 132LR2381(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 754, L.D. 1936
+1 B. The commission shall allocate to each investor-owned transmission and distribution
+2 utility its pro rata share of net energy billing costs. If the commission finds that a benefit
+3 of distributed generation under net energy billing provides a monetized net financial
+4 benefit to an investor-owned transmission and distribution utility that the commission
+5 does not otherwise account for when setting rates for the utility, the net financial benefit
+6 must be applied to offset the net energy billing costs allocated under this paragraph
+7 subsection. The allocation must be based on each utility's total retail kilowatt-hour
+8 energy sales to ratepayers that pay net energy billing costs. The commission may
+9 determine the means to be used for the allocation required under this subsection, and
+10 those means may include the direct transfer of funds between transmission and
+11 distribution utilities.
+12 Sec. 4. 35-A MRSA §3209-C, sub-§2, ¶C is enacted to read:
+13 C. For post-restructuring stranded cost allocations and rate designs applicable on or
+14 after July 1, 2028, the commission shall allocate net energy billing costs by aggregating
+15 similar classes of customers as determined by the commission across investor-owned
+16 transmission and distribution utilities and ensure that costs and benefits are equitably
+17 distributed.
+18 Sec. 5. 35-A MRSA §3210-F, as enacted by PL 2013, c. 454, §2, is amended to
+19 read:
+20 §3210-F. Allocation of costs and benefits of long-term energy contracts
+21 The commission shall ensure that all eligible costs and benefits associated with a long-
+22 term energy contract are allocated to ratepayers in accordance with this section.
+23 1. Definitions. As used in this section, unless the context otherwise indicates, the
+24 following terms have the following meanings.
+25 A. "Eligible costs and benefits" means the net amount of all costs and direct financial
+26 benefits associated with long-term energy contracts entered into by investor-owned
+27 transmission and distribution utilities, including but not limited to any effects on a
+28 utility's cost of capital as a result of these contracts.
+29 B. "Long-term energy contract" means a contract with an investor-owned transmission
+30 and distribution utility entered into under section 3210‑C or, section 3604 or section
+31 10313, subsection 7.
+32 2. Eligible costs and benefits. The commission shall determine the eligible costs and
+33 benefits of a long-term energy contract annually.
+34 3. Allocation of eligible costs and benefits. The commission shall annually allocate
+35 to each investor-owned transmission and distribution utility its pro rata share of eligible
+36 costs and benefits as determined under subsection 2. The allocation must be based on each
+37 utility's total retail kilowatt-hour energy sales to ratepayers that receive the benefits and
+38 pay the costs of long-term energy contracts. The commission may determine the means to
+39 be used for the allocation required under this section, which may include the direct transfer
+40 of funds between investor-owned transmission and distribution utilities. For post-
+41 restructuring stranded cost allocations and rate designs applicable on or after July 1, 2028,
+42 the commission shall allocate eligible costs and benefits by aggregating similar classes of
+Page 2 - 132LR2381(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 754, L.D. 1936
+413 customers as determined by the commission across investor-owned transmission and
+424 distribution utilities and ensure that costs and benefits are distributed equitably.
+3 4. Rules. The commission may adopt rules to implement this section. Rules adopted
+4 pursuant to this subsection are routine technical rules as defined by Title 5, chapter 375,
+5 subchapter 2‑A.
+6 Sec. 6. 35-A MRSA §3483, sub-§3, as enacted by PL 2019, c. 478, Pt. B, §1, is
+7 amended to read:
+8 3. Standard buyer cost allocation. The commission and each standard buyer
+9 designated pursuant to subsection 1 shall implement a transparent mechanism to track and
+10 recover or distribute the eligible costs and benefits under this subsection incurred by
+11 procuring distributed generation resources pursuant to this chapter. These eligible costs
+12 and benefits must be reviewed by the commission annually and allocated to and recovered
+13 from customers of the investor‑owned transmission and distribution utility in whose
+14 territory the distributed generation resource is located through a process established by rule
+15 of the commission. The process established by the commission must be similar to the
+16 allocation of costs and benefits of long‑term energy contracts in section 3210‑F. Eligible
+17 costs and benefits include:
+18 A. Incremental costs of serving as the standard buyer;
+19 B. All payments or bill credits to customers, subscribers and project sponsors under
+20 each procurement pursuant to sections 3485 and 3486; and
+21 C. All revenue from sale of the output of distributed generation resources procured
+22 pursuant to this chapter.'
+23 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+24 number to read consecutively.
+25 SUMMARY
+2266 This amendment replaces the bill and changes the title. It removes the requirement that
+2277 the Public Utilities Commission allocate to each investor-owned transmission and
+2288 distribution utility its pro rata share of certain costs and instead requires the commission,
+2299 for post-restructuring stranded cost allocations and rate designs applicable on or after July
+3300 1, 2028, to allocate net energy billing costs and eligible costs and benefits associated with
+3311 long-term contracts by aggregating similar classes of customers across investor-owned
+3322 transmission and distribution utilities and ensuring that costs and benefits are distributed
+3333 equitably. The amendment adds a cross-reference regarding beneficial electrification, and
+3344 it also amends the provision of law governing long-term contract costs to include costs
+3355 associated with contracts entered into as a result of procurements by the Department of
+3366 Energy Resources.
+3377 FISCAL NOTE REQUIRED
+3388 (See attached)
+Page 3 - 132LR2381(02)
+COMMITTEE AMENDMENT

@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 533
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 533
+JANUARY 11, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+H.P. 544 - L.D. 858
+An Act to Ensure Behavioral and Mental Health Services Are Available to
+Students by Providing Grants to Schools That Contract for Those Services
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 20-A MRSA c. 223, sub-c. 10, headnote is amended to read:
+SUBCHAPTER 10
+YOUTH BEHAVIORAL AND MENTAL HEALTH FIRST AID TRAINING
+Sec. 2. 20-A MRSA §6672 is enacted to read:
+§6672. Behavioral and mental health grant program
+1. Grant program. The department shall establish and administer a grant program to
+provide grants to school administrative units that contract for behavioral and mental health
+services provided by licensed behavioral and mental health service providers.
+2. Limitation on use of funds. Funds provided under the grant program under this
+section may be used only for behavioral and mental health services that are not otherwise
+covered or reimbursable through the MaineCare program. Funds must be used in a manner
+that ensures that contracted behavioral and mental health service providers do not supplant
+qualified and available school administrative unit behavioral and mental health staff.
+3. Grant program funding based on population. In administering the grant program
+under this section, the department shall provide grant funds according to the population of
+a school administrative unit as follows:
+A. Two hundred fifty or fewer students, $3,000;
+B. Two hundred fifty-one students to 500 students, $6,000; and
+C. More than 500 students, $9,000.
+Sec. 3. Appropriations and allocations. The following appropriations and
+allocations are made.
+Page 1 - 132LR1832(06)
+
+EDUCATION, DEPARTMENT OF
+School and Student Supports Z270
+Initiative: Provides one-time funds in fiscal year 2025-26 and fiscal year 2026-27 only for
+grants to school administrative units for contracted behavioral and mental health services
+for students. The grants are based on the population of each school administrative unit.
+GENERAL FUND 2025-26 2026-27
+All Other $100,000 $100,000
+__________ __________
+GENERAL FUND TOTAL $100,000 $100,000
+Page 2 - 132LR1832(06)

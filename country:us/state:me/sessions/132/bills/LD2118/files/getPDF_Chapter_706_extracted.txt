@@ -1,0 +1,845 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 706
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 15, 2026 706
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1433 - L.D. 2118
+An Act to Eliminate the Natural Areas Program and Reassign Certain
+Responsibilities Under the Program to the Department of Inland Fisheries
+and Wildlife and to Amend the Law Governing Administration of the
+Department of Inland Fisheries and Wildlife, Bureau of Resource
+Management
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 12 MRSA §541-A, as amended by PL 2021, c. 398, Pt. YYY, §1, is further
+amended to read:
+§541-A. Division of Geology, Natural Areas and Coastal Resources
+The Division of Geology, Natural Areas and Coastal Resources is established within
+the Department of Agriculture, Conservation and Forestry and is administered by the
+commissioner. The division consists of the Maine Geological Survey, referred to in this
+chapter as "the "survey,." and the Natural Areas Program.
+Sec. 2. 12 MRSA §544, as amended by PL 2011, c. 655, Pt. II, §3 and affected by
+§11 and amended by c. 657, Pt. W, §§5 and 6, is repealed.
+Sec. 3. 12 MRSA §544-B, as amended by PL 2007, c. 395, §§10 and 11, is repealed.
+Sec. 4. 12 MRSA §544-C, as enacted by PL 1999, c. 556, §13, is repealed.
+Sec. 5. 12 MRSA §10001, sub-§19, as enacted by PL 2003, c. 414, Pt. A, §2 and
+affected by c. 614, §9, is amended to read:
+19. Endangered fish or wildlife species. "Endangered fish or wildlife species" means
+a species of fish or wildlife that has been determined by the commissioner to be in danger
+of extinction throughout all or a significant portion of its range and that is listed as a state
+endangered species under section 12803, subsection 3.
+Sec. 6. 12 MRSA §10001, sub-§35-A is enacted to read:
+35-A. Invasive species. "Invasive species" means a nonnative fish, wildlife or plant
+species that causes economic or environmental harm by developing self-sustaining
+populations that become dominant or disruptive to native species or natural habitats.
+Page 1 - 132LR2633(03)
+
+Sec. 7. 12 MRSA §10001, sub-§42-D is enacted to read:
+42-D. Natural area. "Natural area" means an area of land or water, or both land and
+water, whether publicly or privately owned, that retains or has reestablished its natural
+character, though it need not be completely natural and undisturbed, and that supports,
+harbors or otherwise contains endangered, threatened or rare plants, animals and
+ecosystems or associated habitats of scientific and ecological value.
+Sec. 8. 12 MRSA §10001, sub-§52-A is enacted to read:
+52-A. Rare plant. "Rare plant" means a species of native plant listed as endangered,
+threatened or considered vulnerable in the State due to factors such as endemism, scarcity,
+special habitat, range limits or population decline.
+Sec. 9. 12 MRSA §10001, sub-§58-A, as enacted by PL 2021, c. 65, §1, is
+amended to read:
+58-A. Species of special concern. "Species of special concern" means a species of
+fish or wildlife that is not an endangered fish or wildlife species or a threatened fish or
+wildlife species but meets criteria for being of special concern as established by the
+commissioner by rule under section 10105, subsection 19.
+Sec. 10. 12 MRSA §10001, sub-§62, as enacted by PL 2003, c. 414, Pt. A, §2 and
+affected by c. 614, §9, is amended to read:
+62. Threatened fish or wildlife species. "Threatened fish or wildlife species" means
+a species of fish or wildlife that has been determined by the commissioner as likely to
+become an endangered fish or wildlife species within the foreseeable future throughout all
+or a significant portion of its range and that is listed as a state threatened species under
+section 12803, subsection 3.
+Sec. 11. 12 MRSA §10053, as amended by PL 2017, c. 205, §§2 to 4, is further
+amended to read:
+§10053. Bureau of Resource Management
+The Bureau of Resource Management is established within the Department of Inland
+Fisheries and Wildlife. The bureau is equal in organizational level and status with other
+major organizational units within the department or its successors. The bureau is
+administered by a director of wildlife and a director of fisheries and hatcheries who is are
+immediately responsible to the deputy commissioner. The director possesses directors
+possess full authority and responsibility for administering all the powers and duties of the
+bureau within their respective divisions, subject to the direction of the commissioner and
+except as otherwise provided by statute. The responsibilities of the bureau include, but are
+not limited to:
+1. Wildlife conservation and management. The conservation and management of
+the wildlife resources in the State for their preservation, protection, enhancement and use;
+2. Fisheries conservation and management. The conservation and management of
+the inland fisheries resources in the public waters of the State for their preservation,
+protection, enhancement and use;
+3. Propagation of fish. The propagation of fish for the effective conservation and
+management of inland fisheries resources in public waters of the State;
+Page 2 - 132LR2633(03)
+
+4. Habitat conservation and management. The conservation and management of
+habitat for the protection, preservation, enhancement and use of inland fisheries and
+wildlife resources, plants and natural areas;
+5. Wildlife sanctuaries; wildlife management areas. The management of wildlife
+sanctuaries and wildlife management areas for the State as designated in chapter 925;
+6. Data collection. The collection of data for the effective conservation and
+management of inland fisheries and wildlife resources, plants and natural areas;
+7. Research and monitoring. Research and monitoring activities for the effective
+conservation and management of inland fisheries and wildlife resources, plants and natural
+areas;
+8. Animal damage control. The coordination of animal damage control functions
+throughout the State, including supplemental assistance for the control of coyotes and other
+nuisance wildlife that exceeds normal funding and staffing levels within the department;
+9. Rules. The development of rules governing the effective conservation and
+management of the inland fisheries and wildlife resources of the State;
+10. Land acquisition. The acquisition and development of land for the protection,
+preservation and enhancement of inland fisheries and wildlife resources, plants and natural
+areas; and
+11. Resource planning. The coordination with other resource management staff to
+develop both short-term and long-term plans for the preservation, protection, enhancement
+and use of inland fisheries and wildlife resources, plants and natural areas. The bureau shall
+undertake activities as directed by the commissioner.; and
+12. Invasive species management. The management of invasive species for the
+protection of inland fisheries and wildlife resources, plants and natural areas.
+Sec. 12. 12 MRSA §10105, sub-§19, as enacted by PL 2021, c. 65, §2, is amended
+to read:
+19. Species Fish or wildlife species of special concern. The commissioner by rule
+shall establish criteria for determining when a species of fish or wildlife that is not an
+endangered fish or wildlife species or a threatened fish or wildlife species is of special
+concern. The rules may include different criteria for categories of species of special
+concern, including a category for species that are rare. The rules must list the species that
+meet the criteria established in rule. The commissioner shall use the list in administering
+section 12152 and may also use the list in administering any other laws or programs or
+when providing advisory recommendations to other entities or agencies on fish and wildlife
+matters in accordance with applicable laws or rules.
+Rules adopted under this subsection are routine technical rules as defined in Title 5, chapter
+375, subchapter 2‑A.
+Sec. 13. 12 MRSA §10108, sub-§11, ¶B, as enacted by PL 2003, c. 655, Pt. B,
+§30 and affected by §422, is amended by amending subparagraph (1) to read:
+(1) An agent may use snares only for animal damage control purposes to help meet
+management goals established by the commissioner for deer, threatened fish or
+Page 3 - 132LR2633(03)
+
+wildlife species or endangered fish or wildlife species or other wildlife species or
+to benefit agricultural interests as described in paragraph C.
+Sec. 14. 12 MRSA §10108, sub-§11, ¶B, as enacted by PL 2003, c. 655, Pt. B,
+§30 and affected by §422, is amended by amending the 2nd blocked paragraph to read:
+The commissioner shall adopt policies and procedures on the use of snares as necessary
+to minimize the potential for taking nontarget species and to adequately protect
+threatened fish or wildlife species and endangered fish or wildlife species.
+Sec. 15. 12 MRSA §10269 is enacted to read:
+§10269. Natural Areas Conservation Fund
+1. Fund established. The Natural Areas Conservation Fund, referred to in this section
+as "the fund," is established as a nonlapsing separate account to be administered by the
+commissioner to fund investigation, conservation and management of native plants and
+natural areas as described in this chapter and for administrative and personnel costs for the
+purposes of this section.
+2. Funding. Income from gifts, bequests, devises, grants, fees and other sources may
+be deposited in the fund.
+3. Use of fund. The commissioner may make grants from the fund to any person,
+organization, state agency or other entity to undertake inventory of and research about
+native plants and natural areas.
+Funds in the fund, including earnings, may not be deposited in the General Fund or any
+other fund except as provided by law.
+Sec. 16. 12 MRSA §10301, sub-§3, as enacted by PL 2003, c. 414, Pt. A, §2 and
+affected by c. 614, §9 and amended by PL 2011, c. 657, Pt. W, §6, is repealed.
+Sec. 17. 12 MRSA §10307, sub-§3, as enacted by PL 2003, c. 414, Pt. A, §2 and
+affected by c. 614, §9, is amended to read:
+3. Endangered fish or wildlife species and threatened fish or wildlife species.
+Fifteen percent of the money in the fund for endangered fish or wildlife species and
+threatened fish or wildlife species conservation projects; and
+Sec. 18. 12 MRSA §10308, sub-§1, as enacted by PL 2003, c. 414, Pt. A, §2 and
+affected by c. 614, §9 and amended by PL 2011, c. 657, Pt. W, §6, is further amended to
+read:
+1. Members. The board consists of 7 members. The commissioner, the Commissioner
+of Agriculture, Conservation and Forestry and the Coordinator of the Natural Areas
+Program Commissioner of Marine Resources are permanent members and their designees
+may represent them at board meetings. The Governor shall appoint the remaining 4 citizen
+members subject to the review of the joint standing committee of the Legislature having
+jurisdiction over natural resources matters and confirmation by the Senate. One of these
+members must be a representative of a state sportsmen's organization of persons who hunt,
+fish or trap, one must be a representative of a state wildlife conservation organization and
+one must work in a field related to natural resources.
+Page 4 - 132LR2633(03)
+
+Sec. 19. 12 MRSA §10309, sub-§2, ¶C, as enacted by PL 2003, c. 414, Pt. A, §2
+and affected by c. 614, §9, is amended to read:
+C. Habitat of a threatened fish or wildlife species or endangered fish or wildlife species
+listed under state or federal law;
+Sec. 20. 12 MRSA §10309, sub-§2, ¶D, as enacted by PL 2003, c. 414, Pt. A, §2
+and affected by c. 614, §9, is amended to read:
+D. Rare or exemplary natural communities or ecosystems as determined by the State's
+Natural Areas Program database department;
+Sec. 21. 12 MRSA §10309, sub-§3, as enacted by PL 2003, c. 414, Pt. A, §2 and
+affected by c. 614, §9, is amended to read:
+3. Conservation of endangered fish or wildlife species and threatened fish or
+wildlife species and their habitats. For the category of conservation of endangered fish
+or wildlife species and threatened fish or wildlife species and their habitats:
+A. A species or species group listed as endangered or threatened under state or federal
+law;
+B. The habitat of one or more species or groups under paragraph A;
+C. A species or species group not listed as threatened or endangered but, based on the
+best available scientific information, potentially warranting listing in the near future;
+D. A species, group of species, natural community or ecosystem that has been
+documented as being in decline or recognized as being at risk of extirpation from the
+State;
+E. Any species, group of species, natural community or ecosystem thought in the best
+professional judgment of biologists to be in decline or in danger of extirpation from the
+State but whose status is undetermined; and
+F. Available matching funds; and
+Sec. 22. 12 MRSA c. 925, headnote is amended to read:
+CHAPTER 925
+FISH AND, WILDLIFE AND NATURAL AREAS MANAGEMENT AND
+RESEARCH
+Sec. 23. 12 MRSA c. 925, sub-c. 3, headnote is amended to read:
+SUBCHAPTER 3
+ENDANGERED FISH AND WILDLIFE SPECIES; MANAGEMENT AND
+RESEARCH
+Sec. 24. 12 MRSA §12803, as amended by PL 2023, c. 60, §§1 to 19, is further
+amended to read:
+Page 5 - 132LR2633(03)
+
+§12803. Designation of endangered fish or wildlife species
+1. Standards. The commissioner shall recommend a species of fish or wildlife to be
+listed as endangered or threatened whenever the commissioner finds one of the following
+to exist:
+A. The present or threatened destruction, modification or curtailment of its habitat or
+range;
+B. Overutilization for commercial, sporting, scientific, educational or other purposes;
+C. Disease or predation;
+D. Inadequacy of existing regulatory mechanisms; or
+E. Other natural or human-made factors affecting its continued existence within the
+State.
+2. Commissioner's duties. In recommending a species of fish or wildlife to be listed
+as endangered or threatened, the commissioner shall:
+A. Make use of the best scientific, commercial and other data available;
+B. Consult, as appropriate, with federal agencies, other interested state agencies, other
+states having a common interest in the species of fish or wildlife and interested persons
+and organizations;
+C. Maintain a list of all species of fish or wildlife that the Legislature has designated
+to be endangered or threatened, naming each species by both its scientific and common
+name, if any, and specifying over what portion of its range each species so designated
+is endangered or threatened; and
+D. Report to the joint standing committee of the Legislature having jurisdiction over
+inland fisheries and wildlife matters no less frequently than every 4 years on any
+recommendations, status updates or changes to the list of fish or wildlife species
+designated as endangered or threatened.
+3. Legislative authority. The Legislature, as sole authority, shall designate a species
+of fish or wildlife as a state endangered or state threatened species. The list of state
+endangered or state threatened species of fish or wildlife by common name, scientific name
+and status is as follows:
+A. Least tern, Sterna antillarum, endangered;
+B. Golden eagle, Aquila chrysaetos, endangered;
+C. Piping plover, Charadrius melodus, endangered;
+D. Sedge wren, Cistothorus stellaris, endangered;
+E. Grasshopper sparrow, Ammodramus savannarum, endangered;
+G. Black racer, Coluber constrictor, endangered;
+H. Roseate tern, Sterna dougallii, endangered;
+I. Northern bog lemming, Synaptomys borealis, threatened;
+J. Blanding's turtle, Emydoidea blandingii, endangered;
+K. Black tern, Chlidonias niger, endangered;
+Page 6 - 132LR2633(03)
+
+L. American pipit, Anthus rubescens (breeding population only), endangered;
+M. Peregrine falcon, Falco peregrinus (breeding population only), endangered;
+N. Roaring Brook mayfly, Epeorus frisoni, threatened;
+O. Ringed boghaunter, Williamsonia lintneri, threatened;
+P. Clayton's copper, Tharsalea dorcas claytoni, threatened;
+Q. Edwards' hairstreak, Satyrium edwardsii, endangered;
+R. Hessel's hairstreak, Callophrys hesseli, endangered;
+S. Katahdin arctic, Oeneis polixenes katahdin, endangered;
+T. Spotted turtle, Clemmys guttata, threatened;
+V. Razorbill, Alca torda, threatened;
+W. Atlantic puffin, Fratercula arctica, threatened;
+X. Harlequin duck, Histrionicus histrionicus, threatened;
+Y. Arctic tern, Sterna paradisaea, threatened;
+Z. Upland sandpiper, Bartramia longicauda, threatened;
+AA. Swamp darter, Etheostoma fusiforme, threatened;
+BB. Tidewater mucket, Atlanticoncha ochracea, threatened;
+CC. Yellow lampmussel, Lampsilis cariosa, threatened;
+DD. Tomah mayfly, Siphlonisca aerodromia, threatened;
+FF. Twilight moth, Lycia rachelae, threatened;
+GG. Pine barrens zanclognatha, Zanclognatha martha, threatened;
+HH. Redfin pickerel, Esox americanus americanus, endangered;
+II. Juniper hairstreak, Callophrys gryneus, endangered;
+KK. New England cottontail, Sylvilagus transitionalis, endangered;
+LL. Black-crowned night heron, Nycticorax nycticorax, endangered;
+MM. Common gallinule, Gallinula galeata, threatened;
+NN. Great cormorant, Phalacrocorax carbo (breeding population only), threatened;
+OO. Short-eared owl, Asio flammeus (breeding population only), threatened;
+PP. Arctic fritillary, Boloria chariclea grandis, threatened;
+QQ. Sleepy duskywing, Erynnis brizo, threatened;
+RR. Boreal snaketail, Ophiogomphus colubrinus, threatened;
+SS. Brook floater, Alasmidonta varicosa, threatened;
+TT. Barrow's goldeneye, Bucephala islandica, threatened;
+UU. Least bittern, Ixobrychus exilis, endangered;
+VV. Cobblestone tiger beetle, Cicindela marginipennis, endangered;
+Page 7 - 132LR2633(03)
+
+WW. Frigga fritillary, Boloria frigga saga, endangered;
+XX. Little brown bat, Myotis lucifugus, endangered;
+YY. Northern long-eared bat, Myotis septentrionalis, endangered;
+ZZ. Eastern small-footed bat, Myotis leibii, threatened;
+AAA. Six-whorl vertigo, Vertigo morsei, endangered;
+BBB. Ashton's cuckoo bumble bee, Bombus ashtoni, endangered;
+CCC. Bank swallow, Riparia riparia, threatened;
+DDD. Bicknell's thrush, Catharus bicknelli, threatened;
+EEE. Blackpoll warbler, Setophaga striata, threatened;
+FFF. Cliff swallow, Petrochelidon pyrrhonota, threatened;
+GGG. Margined tiger beetle, Ellipsoptera marginata, threatened;
+HHH. Saltmarsh sparrow, Ammodramus caudacutus, endangered; and
+III. Tricolored bat, Perimyotis subflavus, threatened.
+4. Process for recommendation; notice and hearings. Prior to recommending an
+addition, deletion or other change to the endangered and threatened species listed in
+subsection 3, the commissioner shall provide for public notice and at least one public
+hearing on that proposed recommendation in accordance with the provisions of Title 5,
+chapter 375, subchapter 2.
+5. Designation by Legislature. The Legislature may not amend the list of endangered
+or threatened species in subsection 3 except upon the recommendation of the
+commissioner.
+Sec. 25. 12 MRSA §12804, as amended by PL 2025, c. 333, §14, is further amended
+to read:
+§12804. Conservation of threatened fish or wildlife species and endangered fish or
+wildlife species
+1. Conservation of threatened fish or wildlife species and endangered fish or
+wildlife species. The commissioner may establish such programs as are necessary to bring
+any endangered fish or wildlife species or threatened fish or wildlife species to the point
+where it is no longer endangered or threatened, including:
+A. Acquisition of land or aquatic habitat or interests in land or aquatic habitat;
+B. Propagation;
+C. Live trapping;
+D. Transplantation. Prior to the transplantation, introduction or reintroduction of an
+endangered fish or wildlife species or threatened fish or wildlife species in the State,
+the commissioner shall, in conjunction with the Department of Marine Resources,
+when appropriate, develop a recovery plan for that species, conduct a public hearing
+on that recovery plan pursuant to Title 5, Part 18 and submit that plan to the joint
+standing committee of the Legislature having jurisdiction over inland fisheries and
+wildlife matters. The introduction or reintroduction of that species must be conducted
+Page 8 - 132LR2633(03)
+
+in accordance with the recovery plan developed under this paragraph and may not begin
+sooner than 90 days after all conditions of this paragraph have been met; and
+E. In the extraordinary case where population pressures for a given species cannot be
+otherwise relieved, regulated taking.
+2. Habitat. For species of fish or wildlife designated as endangered or threatened
+under this subchapter the commissioner may by rule identify areas currently or historically
+providing physical or biological features essential to the conservation of the species and
+that may require special management considerations. Rules adopted pursuant to this
+subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+3. Protection guidelines. The commissioner may by rule develop guidelines for the
+protection of species of fish or wildlife designated as endangered or threatened under this
+subchapter. Rules adopted pursuant to this subsection are routine technical rules as defined
+in Title 5, chapter 375, subchapter 2‑A.
+5. Confidential information. Specific information concerning the location of a
+threatened or fish or wildlife species, endangered fish or wildlife species or species of
+special concern is confidential if, in the judgment of the commissioner, disclosure of that
+information would threaten the continued existence of the threatened or fish or wildlife
+species, endangered fish or wildlife species or species of special concern. If the
+commissioner determines that information is confidential under this subsection, the
+commissioner may not disclose the information except to the landowner whose property is
+the location of the threatened or fish or wildlife species, endangered fish or wildlife species
+or species of special concern.
+Sec. 26. 12 MRSA §12805, as enacted by PL 2003, c. 414, Pt. A, §2 and affected
+by Pt. D, §7 and c. 614, §9, is amended to read:
+§12805. Cooperative agreements
+The commissioner may enter into agreements with federal agencies, other states,
+political subdivisions of this State or private persons for the establishment and maintenance
+of programs for the conservation of endangered fish or wildlife species or threatened fish
+or wildlife species and may receive all federal funds allocated for obligations to the State
+pursuant to these agreements.
+Sec. 27. 12 MRSA §12806, sub-§1, ¶A, as enacted by PL 2003, c. 414, Pt. A, §2
+and affected by c. 614, §9, is amended to read:
+A. Significantly alter the habitat identified under section 12804, subsection 2 of any
+species of fish or wildlife designated as threatened or endangered under this
+subchapter; or
+Sec. 28. 12 MRSA §12806, sub-§2, ¶A, as enacted by PL 2003, c. 414, Pt. A, §2
+and affected by c. 614, §9, is amended to read:
+A. The commissioner certifies that the proposed action would not pose a significant
+risk to any population of endangered fish or wildlife species or threatened fish or
+wildlife species within the State; and
+Sec. 29. 12 MRSA §12808, as amended by PL 2019, c. 267, §§1 and 2 and corrected
+by RR 2019, c. 1, Pt. A, §§11 and 12, is further amended to read:
+Page 9 - 132LR2633(03)
+
+§12808. Unauthorized activities regarding endangered fish or wildlife species or
+threatened fish or wildlife species
+For the purposes of this section and section 12808‑A, "to take," "take" and "taking"
+mean the act or omission that results in the death of any endangered fish or wildlife species
+or threatened fish or wildlife species.
+1. Prohibited acts regarding endangered fish or wildlife species or threatened fish
+or wildlife species; negligence. Except as provided in section 12808‑A, a person may not
+negligently:
+A. Import into the State or export out of the State any endangered fish or wildlife
+species or threatened fish or wildlife species. A person who violates this paragraph
+commits a Class E crime, for which a fine of $1,000 must be adjudged, none of which
+may be suspended;
+B. Hunt, take, trap, harass or possess any endangered fish or wildlife species or
+threatened fish or wildlife species within the State. A person who violates this
+paragraph commits a Class E crime, for which a fine of $1,000 must be adjudged, none
+of which may be suspended;
+C. Possess, process, sell, offer for sale, deliver, carry, transport or ship, by any means
+whatsoever, any endangered fish or wildlife species or threatened fish or wildlife
+species or any part of an endangered fish or wildlife species or threatened fish or
+wildlife species. A person who violates this paragraph commits a Class E crime, for
+which a fine of $1,000 must be adjudged, none of which may be suspended; or
+D. Feed or set bait for any endangered fish or wildlife species or threatened fish or
+wildlife species. A person who violates this paragraph commits a Class E crime for
+which a fine of $1,000 must be adjudged, none of which may be suspended.
+1-A. Prohibited acts regarding endangered fish or wildlife species or threatened
+fish or wildlife species; intentional. Except as provided in section 12808‑A, a person may
+not intentionally:
+A. Import into the State or export out of the State any endangered fish or wildlife
+species or threatened fish or wildlife species. A person who violates this paragraph
+commits a Class D crime, for which a fine of $2,000 must be adjudged, none of which
+may be suspended;
+B. Hunt, take, trap, harass or possess any endangered fish or wildlife species or
+threatened fish or wildlife species within the State. A person who violates this
+paragraph commits a Class D crime, for which a fine of $2,000 must be adjudged, none
+of which may be suspended;
+C. Possess, process, sell, offer for sale, deliver, carry, transport or ship, by any means
+whatsoever, any endangered fish or wildlife species or threatened fish or wildlife
+species or any part of an endangered fish or wildlife species or threatened fish or
+wildlife species. A person who violates this paragraph commits a Class D crime, for
+which a fine of $2,000 must be adjudged, none of which may be suspended; or
+D. Feed or set bait for any endangered fish or wildlife species or threatened fish or
+wildlife species. A person who violates this paragraph commits a Class D crime, for
+which a fine of $2,000 must be adjudged, none of which may be suspended.
+Page 10 - 132LR2633(03)
+
+Sec. 30. 12 MRSA §12808-A, as enacted by PL 2015, c. 423, §2, is amended to
+read:
+§12808-A. Authorized activities regarding endangered fish or wildlife species or
+threatened fish or wildlife species
+Notwithstanding section 12808 and notwithstanding section 10650 as it applies to rules
+adopted in accordance with this subchapter, the commissioner may authorize certain
+activities regarding endangered fish or wildlife species or threatened fish or wildlife species
+in accordance with the following.
+1. Education, research, conservation and transportation. Under such terms and
+conditions as the commissioner prescribes, the commissioner may:
+A. Authorize an act prohibited by section 12808 or by rule for educational or scientific
+purposes or to enhance the recovery or survival of an endangered fish or wildlife
+species or threatened fish or wildlife species; and
+B. Authorize a person to transport without restriction but in accordance with the terms
+of any federal or state permit an endangered fish or wildlife species or threatened fish
+or wildlife species into, within or out of the State.
+2. Specific activity; incidental take plan. Under such terms and conditions as the
+commissioner prescribes, the commissioner may authorize a person to take an endangered
+fish or wildlife species or threatened fish or wildlife species pursuant to an incidental take
+plan if:
+A. The taking is incidental to, and not the purpose of, carrying out an otherwise lawful
+activity;
+B. The taking will not impair the recovery of any endangered fish or wildlife species
+or threatened fish or wildlife species; and
+C. The person develops and implements an incidental take plan in accordance with
+subsection 5 and that plan is approved by the commissioner. The commissioner may
+modify or waive the requirement under this paragraph if the commissioner determines
+the criteria in subsection 5 are substantially addressed in another permit, license or
+agreement.
+The commissioner shall seek input from knowledgeable individuals or groups on each
+proposed incidental take plan developed under this subsection.
+If the person violates any of the terms or conditions of an authorization granted pursuant to
+this subsection, the authorization must be immediately suspended or revoked and the
+person is subject to the prohibitions and penalties in section 12808 for that violation.
+3. Widespread activity; incidental take plan. Under such terms and conditions as
+the commissioner prescribes, the commissioner may authorize the taking of an endangered
+fish or wildlife species or threatened fish or wildlife species pursuant to a widespread
+activity incidental take plan developed by the commissioner in accordance with subsection
+5 if:
+A. The taking is incidental to, and not the purpose of, carrying out an otherwise lawful
+activity;
+Page 11 - 132LR2633(03)
+
+B. The taking will not impair the recovery of any endangered fish or wildlife species
+or threatened fish or wildlife species; and
+C. The commissioner determines that the activity is widespread, is conducted by a
+reasonably identifiable group of participants and poses a manageable risk of taking an
+endangered fish or wildlife species or threatened fish or wildlife species.
+The commissioner shall hold at least one public hearing and seek input from knowledgeable
+individuals or groups on each proposed incidental take plan developed under this
+subsection.
+If a person violates any of the terms or conditions of an authorization granted pursuant to
+this subsection, the authorization must be immediately suspended or revoked for that
+person and that person is subject to the prohibitions and penalties in section 12808 for that
+violation.
+4. Broad activity exemption. The commissioner may adopt rules to provide an
+exemption, under such terms and conditions as the commissioner determines necessary, for
+a specific activity otherwise prohibited by section 12808, if the commissioner determines
+the exemption:
+A. Addresses a specific activity that is widespread in its occurrence but may not have
+a reasonably identifiable group of participants;
+B. Poses little or no risk of taking an endangered fish or wildlife species or threatened
+fish or wildlife species; and
+C. Will not individually or cumulatively impair the recovery of any endangered fish
+or wildlife species or threatened fish or wildlife species.
+The commissioner shall hold at least one public hearing and seek input from knowledgeable
+individuals or groups on each proposed rule to provide a broad activity exemption.
+Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5,
+chapter 375, subchapter 2‑A.
+5. Incidental take plan criteria. The commissioner may approve or adopt an
+incidental take plan developed pursuant to subsection 2 or 3 that minimizes the incidental
+taking of an endangered fish or wildlife species or threatened fish or wildlife species and
+that provides the following:
+A. A description of the specific activities sought to be authorized by the incidental
+take plan and an analysis of potential alternatives;
+B. The individual and cumulative effects that may reasonably be anticipated to result
+from the proposed actions covered by the incidental take plan;
+C. The recovery measures the applicant will implement to prevent, minimize and
+mitigate the individual and cumulative effects and any provisions that are necessary to
+prevent, minimize and mitigate circumstances that are likely to impair the recovery of
+any endangered fish or wildlife species or threatened fish or wildlife species covered
+by the incidental take plan;
+D. The procedures for monitoring the effectiveness of the recovery measures in the
+incidental take plan;
+Page 12 - 132LR2633(03)
+
+E. The anticipated costs of implementing the incidental take plan and the availability
+of necessary funding for the applicant to implement the plan; and
+F. Other modifications to the incidental take plan or additional measures, if any, that
+the commissioner may require and such other matters as the commissioner determines
+to be necessary for the recovery of species of fish or wildlife consistent with this
+section.
+Sec. 31. 12 MRSA §12810, as amended by PL 2019, c. 267, §3, is further amended
+to read:
+§12810. Delisted fish or wildlife species
+1. Definition. For purposes of this section, "delisted fish or wildlife species" means a
+fish or wildlife species that was listed as a state endangered or threatened species under
+section 12803 and after 2007 was removed from that list by the Legislature. The following
+is a delisted fish or wildlife species:
+A. Bald eagle, Haliaeetus leucocephalus.
+2. Prohibited acts regarding delisted fish or wildlife species. Except as otherwise
+authorized by the commissioner pursuant to this Part, a person may not intentionally:
+A. Import into the State or export out of the State a delisted fish or wildlife species. A
+person who violates this paragraph commits a Class D crime, for which a fine of $2,000
+must be adjudged, none of which may be suspended;
+B. Hunt, trap, harass or possess a delisted fish or wildlife species within the State. A
+person who violates this paragraph commits a Class D crime, for which a fine of $2,000
+must be adjudged, none of which may be suspended; or
+C. Process, sell, offer for sale, deliver, carry, transport or ship, by any means
+whatsoever, a delisted fish or wildlife species or any part of a delisted fish or wildlife
+species. A person who violates this paragraph commits a Class D crime, for which a
+fine of $2,000 must be adjudged, none of which may be suspended.
+Sec. 32. 12 MRSA c. 925, sub-c. 4 is enacted to read:
+SUBCHAPTER 4
+NATURAL AREAS, RESEARCH AND MANAGEMENT
+§12821. Definitions
+As used in this subchapter, unless the context otherwise indicates, the following terms
+have the following meanings.
+1. Endangered plant species. "Endangered plant species" means a native plant
+species that is in danger of extinction throughout all or a significant portion of its range
+within the State.
+2. Threatened plant species. "Threatened plant species" means a species of native
+plant likely to become an endangered plant species within the foreseeable future throughout
+all or a significant portion of its range in the State.
+Page 13 - 132LR2633(03)
+
+§12822. Commissioner's authority regarding conservation of natural areas
+1. Inventory of natural areas. The commissioner shall conduct an ongoing statewide
+inventory of the State's natural areas, including, but not limited to, rare plants, animals,
+natural communities and ecosystems or associated habitats and may conduct investigations
+related to the population, habitat needs, limiting factors and other biological and ecological
+data to support the mandates of the department or other cooperating agencies.
+2. Natural heritage database. The commissioner shall maintain a natural heritage
+database that must contain data from inventories and other data sources and other relevant
+biological, ecological or other information about natural areas described in subsection 1
+and about ecologically significant sites that harbor or otherwise contain these features.
+Information contained in the natural heritage database may be made available as necessary
+or appropriate for conservation and land use planning, environmental review, scientific
+research and inquiry, education or other appropriate use. For the purposes of this
+subsection, "appropriate use" means a use that will not jeopardize endangered plant species
+or habitats.
+3. Ecological reserves database. The commissioner shall maintain a database of areas
+designated as ecological reserves as defined in section 1801, subsection 4-A and other
+public lands designated and managed for equivalent purposes and shall provide scientific
+review of areas on state land proposed as ecological reserves.
+4. Promotion of conservation of natural areas. The commissioner shall promote
+the conservation of natural areas by:
+A. Making available current and accurate information to all appropriate entities to
+interpret, educate or otherwise inform so as to support planning and conservation
+activities in this State;
+B. Promoting voluntary action to conserve and protect natural areas in this State;
+C. Entering into agreements with landowners of natural areas to promote appropriate
+and effective management of these areas in order to maintain and enhance the natural
+value of these areas. The commissioner shall notify landowners of natural areas of the
+natural value of their land and the implications of voluntary conservation; and
+D. Developing and disseminating educational or technical materials for the purpose of
+informing the general public and other interested persons or institutions about natural
+areas and the value of these areas.
+§12823. Endangered plant species and threatened plant species
+The commissioner has the following responsibilities related to endangered plant
+species and threatened plant species.
+1. Official list of endangered plant species and threatened plant species. The
+commissioner shall establish and maintain an official list of endangered plant species and
+threatened plant species of the State. The purpose of the list is informational and may be
+provided on an informational basis to public agencies, private institutions or individuals
+for environmental assessment, land management or educational purposes.
+2. Identification procedures. The commissioner may establish procedures to
+substantiate the identification of endangered plant species and threatened plant species. In
+determining and revising the official list under subsection 1, the commissioner shall use
+Page 14 - 132LR2633(03)
+
+the department's rare plant database and the knowledge of botanists in the State. In addition,
+the commissioner shall consult with federal agencies, interested state agencies, other states
+or provinces having a common interest and other interested persons and organizations. The
+commissioner shall determine criteria for each category. When establishing the list, the
+commissioner shall consider aspects of plant biology that contribute to a species' rarity,
+such as:
+A. Endemism. A plant species or subspecies may be geographically restricted to the
+State or areas immediately adjacent to the State;
+B. Scarcity. A plant species or subspecies may be scarce throughout its distribution in
+North America and occur in only a few locations in the State;
+C. Special habitat. A plant species or subspecies may require habitat that is scarce in
+the State;
+D. Limit of range. A plant species or subspecies in the State may be at the edge of its
+distribution or disjunct from its main distribution; and
+E. Population decline or vulnerability. A plant species or subspecies may be threatened
+or seriously declining due to habitat modification or destruction or from overcollection
+for commercial, recreational or educational purposes.
+3. Public hearing. The commissioner shall conduct at least one public hearing to
+allow for public comment before establishing or revising the official list under subsection
+1.
+4. Review of inventory. The commissioner shall review the official list under
+subsection 1 biennially and add or delete a plant species or subspecies based on new
+botanical inventory data, taxonomic or other scientific studies or other documentation.
+§12824. Sensitive information
+The commissioner may withhold specific information on the location of a plant species,
+subspecies or natural area and its component features if, in the judgment of the
+commissioner, disclosure of this information would threaten the existence of that species
+or subspecies or natural area. The commissioner may not deny a landowner or landowner's
+designee information about species, subspecies or natural areas occurring on the
+landowner's property or withhold this information from usual environmental review
+procedures of local, state or federal regulatory agencies.
+§12825. Rulemaking
+The commissioner may not adopt rules to protect plants and plant communities under
+this subchapter except when required for the conservation of rare fish or wildlife species,
+threatened fish or wildlife species or endangered fish or wildlife species.
+This section is repealed September 30, 2029.
+Sec. 33. 36 MRSA §1109, sub-§3, ¶M, as amended by PL 2007, c. 627, §29, is
+further amended to read:
+M. The identification of the land or of outstanding natural resources on the land by a
+legislatively mandated program, on the state, local or federal level, as particular areas,
+parcels, land types or natural resources for protection, including, but not limited to, the
+register database of critical areas under identified pursuant to Title 12, section 544‑B
+Page 15 - 132LR2633(03)
+
+10053; the laws governing wildlife sanctuaries and management areas under Title 12,
+section 10109, subsection 1 and Title 12, sections 12706 and 12708; the laws governing
+the State's rivers under Title 12, chapter 200; the natural resource protection laws under
+Title 38, chapter 3, subchapter 1, article 5‑A; and the Maine Coastal Barrier Resources
+Systems under Title 38, chapter 21;
+Sec. 34. 38 MRSA §480-B, sub-§1-C is enacted to read:
+1-C. Critically imperiled. "Critically imperiled" means a natural community,
+ecosystem or species of fish, wildlife or plant that is at very high risk of extirpation in this
+State due to very restricted range, very few populations or occurrences, very steep declines,
+severe threats or other factors and that is ranked as critically imperiled in the state ranking
+scale applied to a natural community, ecosystem or species of fish, wildlife or plant as
+determined by the Department of Inland Fisheries and Wildlife.
+Sec. 35. 38 MRSA §480-B, sub-§5-D is enacted to read:
+5-D. Imperiled. "Imperiled" means a natural community, ecosystem or species of
+fish, wildlife or plant that is at high risk of extirpation in this State due to restricted range,
+few populations or occurrences, steep declines, severe threats or other factors and that is
+ranked as imperiled in the state ranking scale applied to a natural community, ecosystem
+or species of fish, wildlife or plant as determined by the Department of Inland Fisheries
+and Wildlife.
+Sec. 36. 38 MRSA §480-B, sub-§10, ¶B, as amended by PL 2023, c. 156, §2, is
+further amended by amending subparagraph (4) to read:
+(4) Habitat for state endangered and state threatened species of fish or wildlife
+listed under Title 12, section 12803, subsection 3 that is within another protected
+natural resource area or that is located wholly or partly within the boundaries of a
+proposed project site that requires approval from:
+(a) The department pursuant to this article or article 6, 7 or 8‑A, except for
+activity or development on a residential lot that is not part of a proposed multi
+lot housing development; or
+(b) The Maine Land Use Planning Commission pursuant to this article as
+provided in section 480‑E‑1 or, for subdivisions and nonresidential uses only,
+pursuant to Title 12, chapter 206‑A.
+Sec. 37. 38 MRSA §480-U, sub-§2, ¶A, as amended by PL 2009, c. 561, §38, is
+further amended by amending subparagraph (3) to read:
+(3) Contains endangered plant species or threatened plant species as defined in
+determined pursuant to Title 12, section 544 12823;
+Sec. 38. 38 MRSA §480-X, sub-§5, as amended by PL 1999, c. 556, §32, is further
+amended to read:
+5. Additional projects not eligible for Tier 2 review. An activity in freshwater
+wetlands containing a natural community that is imperiled (S2) or critically imperiled (S1),
+as defined determined by the Natural Areas Program pursuant to Title 12, section 544
+Commissioner of Inland Fisheries and Wildlife is not eligible for Tier 2 review unless the
+Page 16 - 132LR2633(03)
+
+department determines that the activity will not negatively affect the freshwater wetlands
+and other protected natural resources present.
+Sec. 39. 38 MRSA §480-Y, sub-§2, ¶C, as amended by PL 1999, c. 556, §33, is
+further amended to read:
+C. The pond may not be located in a wetland containing endangered or threatened
+plant species as determined pursuant to Title 12, section 544‑B, subsection 3 12823 or
+containing a natural community that is imperiled (S2) or critically imperiled (S1) as
+defined determined by the Natural Areas Program pursuant to Title 12, section 544
+Commissioner of Inland Fisheries and Wildlife.
+Sec. 40. 38 MRSA §480-BB, first ¶, as amended by PL 2023, c. 156, §3, is further
+amended to read:
+The Department of Inland Fisheries and Wildlife shall adopt rules that define
+"significant vernal pool habitat," "high and moderate value waterfowl and wading bird
+habitat," "shorebird nesting, feeding and staging areas" and "habitat for state endangered
+and state threatened species of fish or wildlife listed under Title 12, section 12803,
+subsection 3" under section 480‑B, subsection 10, paragraph B. The Department of
+Environmental Protection shall adopt rules regarding the criteria used to determine whether
+an area is significant vernal pool habitat, high and moderate value waterfowl and wading
+bird habitat, shorebird nesting, feeding and staging areas or habitat for state endangered
+and state threatened species of fish or wildlife listed under Title 12, section 12803,
+subsection 3 under section 480‑B, subsection 10, paragraph B. The rules, as applicable,
+must:
+Sec. 41. 38 MRSA §490-D, sub-§1, as amended by PL 2009, c. 293, §5, is further
+amended to read:
+1. Significant wildlife habitat and other protected areas. Affected land may not be
+located in, on or over a significant wildlife habitat or other type of protected natural
+resource, as defined in section 480‑B, or in an area listed pursuant to the Natural Areas
+Program, Title 12, section 544 12822. The department may allow excavation to occur
+under this section as long as a permit is obtained pursuant to article 5‑A. Permit
+requirements for certain excavations in, on or over high and moderate value inland
+waterfowl and wading bird habitat are also governed by section 480‑GG.
+Sec. 42. 38 MRSA §490-Z, sub-§1, as amended by PL 2009, c. 293, §6, is further
+amended to read:
+1. Significant wildlife habitat and other protected areas. Affected land may not be
+located in, on or over a significant wildlife habitat or other type of protected natural
+resource, as defined in section 480‑B, or in an area listed pursuant to the Natural Areas
+Program, Title 12, section 544 12822. The department may allow excavation to occur
+under this section as long as a permit is obtained pursuant to article 5‑A. Permit
+requirements for certain excavations in, on or over high and moderate value inland
+waterfowl and wading bird habitat are also governed by section 480‑GG.
+Sec. 43. Department of Inland Fisheries and Wildlife report. No later than
+November 4, 2026, the Department of Inland Fisheries and Wildlife shall provide a report,
+including any findings and recommendations, to the joint standing committees of the
+Legislature having jurisdiction over inland fisheries and wildlife matters and agriculture,
+Page 17 - 132LR2633(03)
+
+conservation and forestry matters on the reassignment of duties under the Natural Areas
+Program from the Department of Agriculture, Conservation and Forestry to the Department
+of Inland Fisheries and Wildlife. Each committee may submit legislation related to the
+subject matter of the report to the 133rd Legislature in 2027.
+Sec. 44. Report regarding rulemaking. No later than February 15, 2029, the
+Department of Inland Fisheries and Wildlife shall provide a report, including any findings
+and recommendations, to the joint standing committees of the Legislature having
+jurisdiction over inland fisheries and wildlife matters and agriculture, conservation and
+forestry matters regarding the effect of the prohibition established in the Maine Revised
+Statutes, Title 12, section 12825, which provides that the Commissioner of Inland Fisheries
+and Wildlife may not adopt rules to protect plants and plant communities under Title 12,
+chapter 925, subchapter 4 except when required for the conservation of rare fish or wildlife
+species, threatened fish or wildlife species or endangered fish or wildlife species. Each
+committee may submit legislation related to the subject matter of the report to the 134th
+Legislature in 2029.
+Sec. 45. Transfer of Personal Services balances to All Other; Department
+of Inland Fisheries and Wildlife, Resource Management Services - Inland
+Fisheries and Wildlife. Notwithstanding any provision of law to the contrary, for fiscal
+year 2026-27, the Department of Inland Fisheries and Wildlife is authorized to transfer up
+to $150,000 of available balances of Personal Services appropriations, after all salary,
+benefit and other obligations are met, to the All Other line category of the Resource
+Management Services - Inland and Fisheries Wildlife program, General Fund account for
+the purpose of funding early detection and rapid response efforts to eradicate invasive stilt
+grass. These amounts may be transferred by financial order upon the recommendation of
+the State Budget Officer and approval of the Governor. These transfers are not considered
+adjustments to appropriations.
+Sec. 46. Transfer of Personal Services balances to All Other; Department
+of Inland Fisheries and Wildlife, Resource Management Services - Inland
+Fisheries and Wildlife. Notwithstanding any provision of law to the contrary, for fiscal
+year 2026-27, the Department of Inland Fisheries and Wildlife is authorized to transfer up
+to $25,000 of available balances of Personal Services appropriations, after all salary,
+benefit and other obligations are met, to the All Other line category of the Resource
+Management Services - Inland Fisheries and Wildlife program, General Fund account for
+the purpose of funding an update to the State's official list of threatened and endangered
+plants. These amounts may be transferred by financial order upon the recommendation of
+the State Budget Officer and approval of the Governor. These transfers are not considered
+adjustments to appropriations.
+Sec. 47. Appropriations and allocations. The following appropriations and
+allocations are made.
+AGRICULTURE, CONSERVATION AND FORESTRY, DEPARTMENT OF
+Natural Areas Program Z821
+Initiative: Transfers one Public Service Manager II position, one Resource Management
+Coordinator position and 5 Biologist II positions from the Natural Areas Program within
+the Department of Agriculture, Conservation and Forestry to the Resource Management
+Page 18 - 132LR2633(03)
+
+Services - Inland Fisheries and Wildlife program within the Department of Inland Fisheries
+and Wildlife. This initiative also transfers All Other funds from the Natural Areas Program
+within the Department of Agriculture, Conservation and Forestry to the Resource
+Management Services - Inland Fisheries and Wildlife program within the Department of
+Inland Fisheries and Wildlife.
+GENERAL FUND 2025-26 2026-27
+Personal Services $0 ($418,180)
+All Other $0 ($66,242)
+__________ __________
+GENERAL FUND TOTAL $0 ($484,422)
+FEDERAL EXPENDITURES FUND 2025-26 2026-27
+Personal Services $0 ($179,238)
+All Other $0 ($133,082)
+__________ __________
+FEDERAL EXPENDITURES FUND TOTAL $0 ($312,320)
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+Personal Services $0 ($302,202)
+All Other $0 ($605,699)
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 ($907,901)
+AGRICULTURE, CONSERVATION AND
+FORESTRY, DEPARTMENT OF
+DEPARTMENT TOTALS 2025-26 2026-27
+GENERAL FUND $0 ($484,422)
+FEDERAL EXPENDITURES FUND $0 ($312,320)
+OTHER SPECIAL REVENUE FUNDS $0 ($907,901)
+__________ __________
+DEPARTMENT TOTAL - ALL FUNDS $0 ($1,704,643)
+INLAND FISHERIES AND WILDLIFE, DEPARTMENT OF
+Natural Areas Conservation Fund N548
+Initiative: Provides baseline allocation to establish the account.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+All Other $0 $500
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $500
+Resource Management Services - Inland Fisheries and Wildlife 0534
+Initiative: Transfers one Public Service Manager II position, one Resource Management
+Coordinator position and 5 Biologist II positions from the Natural Areas Program within
+Page 19 - 132LR2633(03)
+
+the Department of Agriculture, Conservation and Forestry to the Resource Management
+Services - Inland Fisheries and Wildlife program within the Department of Inland Fisheries
+and Wildlife. This initiative also transfers All Other funds from the Natural Areas Program
+within the Department of Agriculture, Conservation and Forestry to the Resource
+Management Services - Inland Fisheries and Wildlife program within the Department of
+Inland Fisheries and Wildlife.
+GENERAL FUND 2025-26 2026-27
+Personal Services $0 $418,180
+All Other $0 $66,242
+__________ __________
+GENERAL FUND TOTAL $0 $484,422
+FEDERAL EXPENDITURES FUND 2025-26 2026-27
+Personal Services $0 $179,238
+All Other $0 $133,082
+__________ __________
+FEDERAL EXPENDITURES FUND TOTAL $0 $312,320
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+Personal Services $0 $302,202
+All Other $0 $605,699
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $907,901
+INLAND FISHERIES AND WILDLIFE,
+DEPARTMENT OF
+DEPARTMENT TOTALS 2025-26 2026-27
+GENERAL FUND $0 $484,422
+FEDERAL EXPENDITURES FUND $0 $312,320
+OTHER SPECIAL REVENUE FUNDS $0 $908,401
+__________ __________
+DEPARTMENT TOTAL - ALL FUNDS $0 $1,705,143
+SECTION TOTALS 2025-26 2026-27
+GENERAL FUND $0 $0
+FEDERAL EXPENDITURES FUND $0 $0
+OTHER SPECIAL REVENUE FUNDS $0 $500
+__________ __________
+SECTION TOTAL - ALL FUNDS $0 $500
+Page 20 - 132LR2633(03)

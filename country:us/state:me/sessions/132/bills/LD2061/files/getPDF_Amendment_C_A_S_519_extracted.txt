@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-519)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2061
+2 Date: (Filing No. S- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 847, L.D. 2061, “An Act to Clarify the
+10 Prohibition on Paper Billing Statement Fees”
+11 Amend the bill by inserting after the title and before the enacting clause the following:
+12 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+13 become effective until 90 days after adjournment unless enacted as emergencies; and
+14 Whereas, the current law regarding electronic records of transactions, as amended by
+15 Public Law 2025, chapter 35, prohibits a customer from being penalized or charged a fee
+16 for opting out of receiving a billing statement by electronic record rather than in paper
+17 form; and
+18 Whereas, this legislation clarifies that law and allows a customer to be charged a
+19 reasonable fee for providing a replacement statement, a statement covering a custom date
+20 range or a statement requested for financial or legal purposes or for fulfilling any other
+21 labor-intensive or nonroutine request to provide copies of statements, as long as the fee is
+22 fully disclosed to and authorized by the customer prior to the copies of statements being
+23 provided; and
+24 Whereas, this legislation must take effect immediately for the protection of
+25 customers; and
+26 Whereas, in the judgment of the Legislature, these facts create an emergency within
+27 the meaning of the Constitution of Maine and require the following legislation as
+28 immediately necessary for the preservation of the public peace, health and safety; now,
+29 therefore,'
+30 Amend the bill by striking out everything after the enacting clause and inserting the
+31 following:
+32 'Sec. 1. 10 MRSA §9420, sub-§1, as enacted by PL 2011, c. 226, §1, is amended
+33 by enacting a new first blocked paragraph to read:
+Page 1 - 132LR2743(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 847, L.D. 2061
+1 For purposes of this subsection, "billing statement" means a monthly or periodic account
+2 statement that a person is required to provide to a customer under federal or state law,
+3 regulation or rule. This subsection does not prohibit a person from charging a reasonable
+4 fee for providing a replacement statement, a statement covering a custom date range or a
+5 statement requested for financial or legal purposes or for fulfilling any other labor-intensive
+6 or nonroutine request to provide copies of statements, as long as the fee is fully disclosed
+7 to and authorized by the customer prior to the copies being provided.
+8 Emergency clause. In view of the emergency cited in the preamble, this legislation
+9 takes effect when approved.'
+10 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+11 number to read consecutively.
+12 SUMMARY
+1133 This amendment clarifies the bill to provide that a billing statement also includes a
+1144 periodic account statement and an account statement required to be provided under state
+1155 law or rule. The amendment also adds that, if a person charges a fee for providing a
+1166 replacement statement, a statement covering a custom date range or a statement requested
+1177 for financial or legal purposes or for fulfilling any other labor-intensive or nonroutine
+1188 request to provide copies of statements, the fee must be reasonable and disclosed to and
+1199 authorized by a customer prior to providing the copies.
+20 The amendment adds an emergency preamble and emergency clause to the bill.
+Page 2 - 132LR2743(02)
+COMMITTEE AMENDMENT
