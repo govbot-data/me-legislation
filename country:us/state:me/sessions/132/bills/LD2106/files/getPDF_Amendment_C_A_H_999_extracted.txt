@@ -1,0 +1,324 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-999)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2106
+2 Date: (Filing No. H- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1421, L.D. 2106, “An Act to Prohibit
+10 the Disclosure of Nonpublic Records Without Proper Judicial Review”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Limit Consent for Entry into Nonpublic Areas of and to Limit Access to
+13 Protected Records Maintained by Certain Public Entities'
+14 Amend the bill by striking out all of the emergency preamble.
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 5 MRSA §200-O is enacted to read:
+18 §200-O. Model policies and guidance for limiting authority to consent for entry or
+19 records review
+20 1. Model policies and guidance. No later than 60 days after the effective date of this
+21 section, the Attorney General shall publish model policies and guidance for ensuring that
+22 facilities providing services to members of the public remain safe and accessible to all state
+23 residents regardless of immigration status by limiting, to the fullest extent possible
+24 consistent with state and federal law, voluntary consent for entry into nonpublic areas of
+25 the facility by law enforcement officers for immigration enforcement purposes and
+26 disclosure of protected records held by the facility to law enforcement officers for
+27 immigration enforcement purposes. The Attorney General shall review and may amend the
+28 published model policies and guidance on a biennial basis.
+29 2. Mandatory adoption of model policies and guidance. The following facilities
+30 shall adopt the model policies and guidance published by the Attorney General under
+31 subsection 1, or establish equivalent policies and guidance, within 3 months of the date that
+32 the Attorney General publishes the model policies and guidance applicable to the facility
+33 and within 3 months of the date that the Attorney General publishes any amended model
+34 policies and guidance applicable to the facility:
+Page 1 - 132LR2939(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1421, L.D. 2106
+1 A. Public schools and postsecondary educational institutions as provided in Title 20-A,
+2 section 14;
+3 B. State institutions as provided in Title 22, section 1730-B; and
+4 C. State libraries as provided in Title 27, section 109-A.
+5 3. Optional adoption of model policies and guidance. The following facilities may,
+6 but are not required to, adopt the model policies and guidance or an amendment to the
+7 model policies and guidance published by the Attorney General under subsection 1:
+8 A. A private preschool, private elementary school, private secondary school or private
+9 postsecondary educational institution that is not subject to Title 20-A, section 14,
+10 subsection 5;
+11 B. A health care facility that is not subject to Title 22, section 1730-B, subsection 5.
+12 For purposes of this paragraph, "health care facility" has the same meaning as in section
+13 19201, subsection 2-B;
+14 C. A facility that provides residential or community supports for adults or children or
+15 a facility or program that provides health care, assisted living services, behavioral
+16 health services, services to persons with intellectual disabilities, autism spectrum
+17 disorder or acquired brain injuries or similar services that is not subject to Title 22,
+18 section 1730-B, subsection 5;
+19 D. A child care facility or family child care provider licensed under Title 22, section
+20 8301-A;
+21 E. A public library that is not subject to Title 27, section 109-A, subsection 5. For
+22 purposes of this paragraph, "public library" has the same meaning as in Title 27, section
+23 110, subsection 10; and
+24 F. A house of worship or other place where religious services are conducted.
+25 Sec. 2. 20-A MRSA §14 is enacted to read:
+26 §14. Limited authority of public schools and postsecondary educational institutions
+27 to consent for entry into nonpublic areas and to access records
+28 1. Definitions. As used in this section, unless the context otherwise indicates, the
+29 following terms have the following meanings.
+30 A. "Education record" has the same meaning as in the federal Family Educational
+31 Rights and Privacy Act of 1974, 20 United States Code, Section 1232g(a)(4), and its
+32 implementing regulations.
+33 B. "Law enforcement officer" has the same meaning as defined in Title 16, section
+34 638, subsection 2 and includes a "federal officer" as defined in Title 25, section
+35 1502-A, subsection 1.
+36 C. "Nonpublic area" means an area of a building or facility that the public is not free
+37 to enter or access and includes a restricted access area within a building or facility that
+38 is otherwise predominately open to the public. "Nonpublic area" also includes all areas
+39 within a building or facility during any time that the building or facility is closed for
+40 operation.
+Page 2 - 132LR2939(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1421, L.D. 2106
+1 D. "Public school" means a "public preschool program" as defined in section 1,
+2 subsection 23-A; a "publicly supported secondary school" as defined in section 1,
+3 subsection 23-B; and a "public school" as defined in section 1, subsection 24.
+4 E. "State postsecondary educational institution" means a university within the
+5 University of Maine System; a college within the Maine Community College System;
+6 and the Maine Maritime Academy.
+7 2. Voluntary consent for entry into nonpublic areas prohibited. A person acting
+8 on behalf of a public school or state postsecondary educational institution may not provide
+9 voluntary consent permitting a law enforcement officer to enter a nonpublic area of the
+10 public school or state postsecondary educational institution for immigration enforcement
+11 purposes.
+12 3. Voluntary consent to access education records prohibited. A person acting on
+13 behalf of a public school or state postsecondary educational institution may not provide
+14 voluntary consent permitting a law enforcement officer to access education records for
+15 immigration enforcement purposes. This subsection may not be construed to prevent a
+16 person acting on behalf of a public school or state postsecondary educational institution
+17 from disclosing education records in response to a request from a law enforcement officer
+18 to the extent that the disclosure is required by a court order or by state or federal law.
+19 4. Mandatory compliance activities. Notwithstanding subsections 2 and 3, if a public
+20 school or state postsecondary educational institution is required by federal law to permit a
+21 law enforcement officer to inspect specific records or to conduct interviews regarding the
+22 eligibility of noncitizens to work in the United States or to attend school in the United
+23 States:
+24 A. The public school or state postsecondary educational institution shall designate a
+25 nonpublic area within the public school or state postsecondary educational institution
+26 where federal immigration officials may conduct these inspections and interviews; and
+27 B. The public school or state postsecondary educational institution may permit law
+28 enforcement officers to access a specific location to verify eligibility for employment
+29 or school attendance, if federal law requires that law enforcement officers be provided
+30 access to that specific location within the public school or state postsecondary
+31 educational institution when conducting these inspections and interviews.
+32 5. Required policy and guidance. Each public school and state postsecondary
+33 educational institution in the State shall adopt the model policies and guidance published
+34 by the Attorney General under Title 5, section 200-O or establish equivalent policies and
+35 guidance as required by Title 5, section 200-O, subsection 2.
+36 6. Violation; exemption. Prior to the date that a public school or state postsecondary
+37 educational institution adopts, or is required to adopt, whichever is earlier, a policy and
+38 guidance pursuant to Title 5, section 200-O, subsection 2, a person acting on behalf of the
+39 public school or state postsecondary educational institution does not violate subsection 2
+40 or subsection 3 if the person provides voluntary consent permitting a law enforcement
+41 officer to enter a nonpublic area of a public school or state postsecondary educational
+42 institution or to access education records and if the person is acting in good faith.
+43 7. Other educational facilities. A private preschool, private elementary school,
+44 private secondary school or private postsecondary educational institution that is not subject
+Page 3 - 132LR2939(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1421, L.D. 2106
+415 to subsection 5 may, but is not required to, adopt the model policies and guidance or an
+426 amendment to the model policies and guidance published by the Attorney General pursuant
+437 to Title 5, section 200-O, subsection 1.
+4 Sec. 3. 22 MRSA §1730-B is enacted to read:
+5 §1730-B. Limited authority of certain health care facilities to consent for entry into
+6 nonpublic areas and to access records
+7 1. Definitions. As used in this section, unless the context otherwise indicates, the
+8 following terms have the following meanings.
+9 A. "Health care facility" has the same meaning as in Title 5, section 19201, subsection
+10 2-B.
+11 B. "Law enforcement officer" has the same meaning as defined in Title 16, section
+12 638, subsection 2 and includes a "federal officer" as defined in Title 25, section
+13 1502-A, subsection 1.
+14 C. "Nonpublic area" means an area of a building or facility that the public is not free
+15 to enter or access and includes a restricted access area within a building or facility that
+16 is otherwise predominately open to the public. "Nonpublic area" also includes all areas
+17 within a building or facility during any time that the building or facility is closed for
+18 operation.
+19 D. "Protected health care information" has the same meaning as "health care
+20 information" as defined in section 1711-C, subsection 1, paragraph E and includes
+21 individually identifiable health care information, the disclosure of which is restricted
+22 by the federal Health Insurance Portability and Accountability Act of 1996, Public Law
+23 104-191 and its implementing regulations.
+24 E. "State institution" has the same meaning as in Title 34-B, section 1001, subsection
+25 8.
+26 2. Voluntary consent for entry into nonpublic areas prohibited. A person acting
+27 on behalf of a state institution may not provide voluntary consent permitting a law
+28 enforcement officer to enter a nonpublic area of the state institution for immigration
+29 enforcement purposes.
+30 3. Voluntary consent to access protected health care information prohibited. A
+31 person acting on behalf of a state institution may not provide voluntary consent permitting
+32 a law enforcement officer to access protected health care information for immigration
+33 enforcement purposes. This subsection may not be construed to prevent a person acting on
+34 behalf of a state institution from disclosing protected health care information in response
+35 to a request from a law enforcement officer to the extent that the disclosure is required by
+36 a court order or by state or federal law.
+37 4. Mandatory compliance activities. Notwithstanding subsection 2, if a state
+38 institution is required by federal law to permit a law enforcement officer to inspect specific
+39 records that do not contain protected health care information or to conduct interviews
+40 regarding the eligibility of noncitizens to work in the United States:
+41 A. The state institution shall designate a nonpublic area within the state institution
+42 where federal immigration officials may conduct these inspections and interviews; and
+Page 4 - 132LR2939(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1421, L.D. 2106
+1 B. The state institution may permit law enforcement officers to access a specific
+2 location to verify eligibility for employment, if federal law requires that law
+3 enforcement officers be provided access to that specific location within the state
+4 institution when conducting these inspections and interviews.
+5 5. Required policy and guidance; licensure. Each state institution shall adopt the
+6 model policies and guidance published by the Attorney General under Title 5, section
+7 200-O or establish equivalent policies and guidance as required by Title 5, section 200-O,
+8 subsection 2. Beginning January 1, 2027, the department may verify compliance with this
+9 requirement as part of any applicable initial licensure or license renewal process under this
+10 Title.
+11 6. Violation; exemptions. The following provisions govern violations of this section.
+12 A. Violations of this section are not subject to section 47, subsections 3 and 4.
+13 B. Prior to the date that a state institution adopts, or is required to adopt, whichever is
+14 earlier, a policy and guidance pursuant to Title 5, section 200-O, subsection 2, a person
+15 acting on behalf of the state institution does not violate subsection 2 or subsection 3 if
+16 the person provides voluntary consent permitting a law enforcement officer to enter a
+17 nonpublic area of a state institution or to access protected health care information for
+18 immigration purposes and if the person is acting in good faith.
+19 7. Other facilities. A health care facility or a facility providing residential or
+20 community supports for adults or children or a facility or program that provides health care,
+21 assisted living services, behavioral health services, services to persons with intellectual
+22 disabilities, autism spectrum disorder or acquired brain injuries or similar services that is
+23 not subject to subsection 5 may, but is not required to, adopt the model policies and
+24 guidance or an amendment to the model policies and guidance published by the Attorney
+25 General pursuant to Title 5, section 200-O, subsection 1.
+26 Sec. 5. 27 MRSA §109-A is enacted to read:
+27 §109-A. Limited authority of certain libraries to consent for entry into nonpublic
+28 areas and to access records
+29 1. Definitions. As used in this section, unless the context otherwise indicates, the
+30 following terms have the following meanings.
+31 A. "Law enforcement officer" has the same meaning as defined in Title 16, section
+32 638, subsection 2 and includes a "federal officer" as defined in Title 25, section 1502-
+33 A, subsection 1.
+34 B. "Nonpublic area" means an area of a building or facility that the public is not free
+35 to enter or access and includes a restricted access area within a building or facility that
+36 is otherwise predominately open to the public. "Nonpublic area" also includes all
+37 otherwise public areas within a building or facility during any time that the building or
+38 facility is closed for operation.
+39 C. "Protected patron record" means a record maintained by a state library or public
+40 library that is confidential pursuant to section 121, subsection 1.
+41 D. "Public library" has the same meaning as in section 110, subsection 10.
+Page 5 - 132LR2939(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1421, L.D. 2106
+1 E. "State library" means the Maine State Library; the Law and Legislative Reference
+2 Library; and a library of the University of Maine System, the Maine Community
+3 College System and the Maine Maritime Academy.
+4 2. Voluntary consent for entry into nonpublic areas prohibited. A person acting
+5 on behalf of a state library may not provide voluntary consent permitting a law enforcement
+6 officer to enter a nonpublic area of the state library for immigration enforcement purposes.
+7 3. Voluntary consent to access protected patron records prohibited. A person
+8 acting on behalf of a state library may not provide voluntary consent permitting a law
+9 enforcement officer to access protected patron records for immigration enforcement
+10 purposes. This subsection may not be construed to prevent a person acting on behalf of a
+11 state library from disclosing protected patron records in response to a request from a law
+12 enforcement officer to the extent that the disclosure is required by a court order or by state
+13 or federal law.
+14 4. Mandatory compliance activities. Notwithstanding subsection 2, if a state library
+15 is required by federal law to permit a law enforcement officer to inspect specific records
+16 other than protected patron records or to conduct interviews regarding the eligibility of
+17 noncitizens to work in the United States:
+18 A. The state library shall designate a nonpublic area within the state library where law
+19 enforcement officers may conduct these inspections and interviews; and
+20 B. The state library may permit law enforcement officers to access a specific location
+21 to verify eligibility for employment if federal law requires that law enforcement
+22 officers be provided access to that specific location within the state library when
+23 conducting these inspections and interviews.
+24 5. Required policy and guidance. Each state library shall adopt the model policies
+25 and guidance published by the Attorney General under Title 5, section 200-O or establish
+26 equivalent policies and guidance as required by Title 5, section 200-O, subsection 2.
+27 6. Violation; exceptions. Prior to the date that a state library adopts, or is required to
+28 adopt, whichever is earlier, a policy and guidance pursuant to Title 5, section 200-O,
+29 subsection 2, a person acting on behalf of the state library does not violate subsection 2 or
+30 subsection 3 if the person provides voluntary consent permitting a law enforcement officer
+31 to enter a nonpublic area of a state library or to access protected patron records for
+32 immigration purposes and if the person is acting in good faith.
+33 7. Other public libraries. A public library that is not subject to subsection 5 may, but
+34 is not required to, adopt the model policies and guidance or an amendment to the model
+35 policies and guidance published by the Attorney General pursuant to Title 5, section 200-O,
+36 subsection 1.'
+37 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+38 number to read consecutively.
+39 SUMMARY
+4400 This amendment, which is the majority report of the committee, replaces the bill and
+4411 changes the title. The amendment directs the Attorney General to publish model policies
+4422 and guidance for ensuring that public schools and postsecondary educational institutions,
+4433 state health institutions and certain public libraries remain safe and accessible to all state
+Page 6 - 132LR2939(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1421, L.D. 2106
+414 residents regardless of immigration status by limiting each of these covered facilities'
+425 authority to voluntarily consent for law enforcement entry into nonpublic areas of the
+436 facility or law enforcement access to the facility's records for immigration enforcement
+447 purposes to the fullest extent possible consistent with state and federal law. Within 3
+458 months of the date that the applicable model policy and guidance is published, each covered
+469 facility must adopt the published policy and guidance or establish an equivalent policy and
+570 guidance. The amendment also authorizes, but does not require, adoption of the model
+581 policy and guidance by private educational facilities; health care facilities that are not state
+592 institutions; facilities providing residential or community supports for adults or children;
+1503 programs that provide health care, assisted living services, behavioral health services,
+1514 services to persons with intellectual disabilities, autism spectrum disorder or acquired brain
+1525 injuries or similar services; other public libraries; child care facilities and family child care
+1536 providers; and houses of worship and other places where religious services are conducted.
+1547 The affected facilities may, but are not required to, adopt these model policies and
+1558 guidance.
+16 The amendment also directs that a person acting on behalf of a public school or state
+17 postsecondary educational institution, a state health institution or certain public libraries
+18 may not provide voluntary consent permitting a law enforcement officer to enter a
+19 nonpublic area of the public school or state postsecondary educational institution, state
+20 health institution or public library for immigration enforcement purposes. A person acting
+21 on behalf of a public school or state postsecondary educational institution, a state health
+22 institution or certain public libraries also may not provide voluntary consent permitting a
+23 law enforcement officer to access education records, protected health care information or
+24 protected patron records unless disclosure of the information is required by a court order
+25 or by state or federal law. Before the date that the covered facility adopts, or is required to
+26 adopt, whichever is earlier, the model policy and guidance published by the Attorney
+27 General, a person acting on behalf of the covered facility does not violate the prohibitions
+28 in the amendment if the person is acting in good faith.
+29 The amendment further directs that if federal law requires a public school or state
+30 postsecondary educational institution, a state health institution or certain public libraries to
+31 permit a law enforcement officer to inspect specific records or to conduct interviews
+32 regarding the eligibility of noncitizens to work in the United States, or if federal law
+33 requires a public school or state postsecondary educational institution to permit a law
+34 enforcement officer to inspect specific records or conduct interviews regarding the
+35 eligibility of noncitizens to attend school in the United States, the affected facility must
+36 designate a nonpublic area within the facility where federal immigration officials may
+37 conduct these inspections and interviews. If federal law requires that law enforcement
+38 officers be provided access to specific locations when conducting these inspections and
+39 interviews, the facility may permit law enforcement officers to access those specific
+40 locations.
+41 Finally, the amendment provides that, as part of any applicable initial licensure or
+42 license renewal process, the Department of Health and Human Services may verify a state
+43 institution's compliance with the requirement to either adopt the model policy and guidance
+44 published by the Attorney General or to establish an equivalent policy and guidance.
+4455 FISCAL NOTE REQUIRED
+4466 (See attached)
+Page 7 - 132LR2939(02)
+COMMITTEE AMENDMENT

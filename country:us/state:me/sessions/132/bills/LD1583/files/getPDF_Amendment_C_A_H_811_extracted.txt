@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-811)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1583
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1041, L.D. 1583, “An Act Regarding
+10 Home Health Care and Hospice Services Ordered by a Health Care Provider Outside of
+11 Maine”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act Regarding Home Health Care Services Ordered by a Physician Licensed
+14 Outside of Maine'
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 22 MRSA §2145-A is enacted to read:
+18 §2145-A. Home health care services ordered by physician licensed in another state
+19 1. Requirements; home health care provider. A home health care provider that is
+20 licensed pursuant to this chapter and certified by the United States Department of Health
+21 and Human Services, Centers for Medicare and Medicaid Services as a home health agency
+22 may provide home health care services for up to 90 days to a patient who resides in this
+23 State based on an order from a physician who is licensed in another state as long as the
+24 following requirements are met:
+25 A. The physician holds a license in good standing conferred by the appropriate medical
+26 board in the physician’s jurisdiction of practice. The home health care provider must
+27 verify that the physician’s license is in good standing, and the verification must be
+28 maintained on file for review by the department;
+29 B. The physician issued the order pursuant to an in-person physical examination of the
+30 patient performed in the state where the physician is licensed. Home health care
+31 services ordered by the physician are limited to the medical purpose and clinical scope
+32 from the results of the in-person physical examination; and
+33 C. The physician and home health care provider comply with standards established in
+34 rules adopted by the department pursuant to subsection 5 and comply with regulations
+35 adopted by the United States Department of Health and Human Services, Centers for
+Page 1 - 132LR0566(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1041, L.D. 1583
+316 Medicare and Medicaid Services under conditions of participation for home health
+327 agencies pursuant to 42 Code of Federal Regulations, Part 484.
+3 2. Exemption from medical license in this State. A physician who is licensed in
+4 another state and who issues an order for home health care services in accordance with this
+5 section is exempt from the requirement of licensure by the Board of Licensure in Medicine
+6 in Title 32, chapter 48 or the Board of Osteopathic Licensure in Title 32, chapter 36 solely
+7 for the purpose of ordering home health care services for a patient, as long as the following
+8 requirements are met:
+9 A. The order for the provision of home health care services is for up to 90 days;
+10 B. The physician provides telehealth services only to the patient for which the order
+11 has been issued;
+12 C. The physician orders home health care services from a home health care provider
+13 that is certified by the United States Department of Health and Human Services,
+14 Centers for Medicare and Medicaid Services as a home health agency; and
+15 D. The physician only orders home health care services while the patient is receiving
+16 home health care services.
+17 3. Violation. If, during the department’s home health care services licensing process
+18 or during the United States Department of Health and Human Services, Centers for
+19 Medicare and Medicaid Services survey and certification process, a physician is found to
+20 be acting in violation of this section, the department shall, in consultation with the Board
+21 of Licensure in Medicine under Title 32, chapter 48 or the Board of Osteopathic Licensure
+22 under Title 32, chapter 36, determine if the physician may no longer be exempt from
+23 licensure in this State under subsection 2.
+24 4. Limitation on physician providing telehealth services or in-person medical
+25 care. A physician acting under subsection 2 is not authorized to provide telehealth services
+26 or in-person medical care to any patient in this State except as expressly outlined in this
+27 section.
+28 5. Rulemaking. The department may adopt rules to implement this section. Rules
+29 adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter
+30 375, subchapter 2-A.'
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+33 SUMMARY
+3344 This amendment changes the title of and replaces the bill.
+35 1. It removes hospice services from the bill. Physicians who are licensed out of state
+36 issuing orders in this State are limited to home health care services.
+37 2. It provides that home health care providers who provide services to patients that
+38 have orders from a physician licensed in another state must be certified by the United States
+39 Department of Health and Human Services, Centers for Medicare and Medicaid Services,
+40 in addition to being licensed by the Department of Health and Human Services.
+Page 2 - 132LR0566(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1041, L.D. 1583
+1 3. It removes the requirement from the bill that, for a patient in this State that has a
+2 primary care provider, the physician licensed in another state must contact that primary
+3 care provider.
+4 4. It provides that an order for home health care services from a physician licensed in
+5 another state is limited to 90 days.
+6 5. It clarifies that the physician licensed in another state may provide telehealth
+7 services only to the patient for which the order has been issued.
+8 6. It clarifies that the physician licensed in another state may order services only from
+9 a home health care provider that is certified by the Centers for Medicare and Medicaid
+10 Services and may only order services while the patient is receiving those services from
+11 such a provider.
+12 7. It clarifies that a physician licensed in another state is exempt from licensure by the
+13 Maine Board of Licensure in Medicine or the Maine Board of Osteopathic Licensure for
+14 this limited purpose. A physician who violates this limited exemption may lose the
+15 exemption.
+Page 3 - 132LR0566(02)
+COMMITTEE AMENDMENT

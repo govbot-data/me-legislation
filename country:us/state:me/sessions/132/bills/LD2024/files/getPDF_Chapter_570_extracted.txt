@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 570
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 19, 2026 570
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1354 - L.D. 2024
+An Act to Make Changes to Certain Licensing Laws Governing For-hire
+Charter Boat Operators, Lobster and Crab Fishing and Elver Dealers
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 12 MRSA §6313, sub-§4, ¶A, as enacted by PL 2025, c. 155, §5 and
+affected by §6, is repealed.
+Sec. 2. 12 MRSA §6313, sub-§4, ¶A-1 is enacted to read:
+A-1. Possesses a valid United States Merchant Mariner Credential issued by the United
+States Coast Guard indicating an endorsement authorizing the individual to carry
+passengers for hire; or
+Sec. 3. 12 MRSA §6431-A, sub-§1, as amended by PL 2007, c. 201, §12, is further
+amended to read:
+1. Limit. Before March 1, 2000, the holder of a Class I, Class II or Class III license
+issued under section 6421 may not submerge more than 1,000 traps. After February 29,
+2000, the The holder of a Class I, Class II or Class III license or a nonresident lobster and
+crab landing permit issued under section 6421 may not submerge more than 800 traps. If
+a lower trap limit is adopted by rule for a zone pursuant to section 6446, a license holder
+who fishes in that zone may not submerge a number of traps that exceeds the lower limit.
+The number of traps fished from a vessel may not exceed the applicable trap limit
+established in this subsection, regardless of the number of license holders fishing from that
+vessel.
+Sec. 4. 12 MRSA §6431-A, sub-§4, as enacted by PL 2001, c. 421, Pt. B, §22 and
+affected by Pt. C, §1, is repealed.
+Sec. 5. 12 MRSA §6864, sub-§1-B, as enacted by PL 2025, c. 370, §3, is repealed.
+Page 1 - 132LR2626(03)

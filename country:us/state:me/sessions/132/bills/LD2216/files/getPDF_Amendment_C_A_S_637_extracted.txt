@@ -1,0 +1,285 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-637)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2216
+2 Date: (Filing No. S- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 903, L.D. 2216, “An Act to Establish the
+10 Maine Blue Economy Center”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 5 MRSA §15303, sub-§7, ¶D, as enacted by PL 2017, c. 109, §4, is
+14 amended to read:
+15 D. A program, in collaboration with the Maine Innovation Economy Advisory Board
+16 under Title 10, section 949, to support the technology transfer activities of the
+17 University of Maine System, other postsecondary educational institutions in the State
+18 and nonprofit research institutes eligible for funding under an asset technology fund
+19 established and administered by the institute, to increase the level of patenting at the
+20 University of Maine System, other postsecondary institutions in the State and nonprofit
+21 research institutes and to promote the licensing of the patents, especially to new and
+22 existing companies with operations in the State. Support under this paragraph may
+23 include expenses associated with patenting and licensing. The administrative costs of
+24 a program under this paragraph are not management and related operating costs of the
+25 institute under section 15305; and
+26 Sec. 2. 5 MRSA §15303, sub-§7, ¶E, as enacted by PL 2017, c. 109, §4, is
+27 amended to read:
+28 E. A program in collaboration with the University of Maine School of Law to support
+29 the commercialization and manufacturing of innovations in the State by providing
+30 education and assistance with the patent process of the United States Patent and
+31 Trademark Office to companies, inventors and entrepreneurs in the State. The
+32 administrative costs of a program under this paragraph are not management and related
+33 operating costs of the institute under section 15305.; and
+34 Sec. 3. 5 MRSA §15303, sub-§7, ¶F is enacted to read:
+35 F. The Maine Blue Economy Center pursuant to section 15331, subsection 2.
+Page 1 - 132LR3009(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 903, L.D. 2216
+1 Sec. 4. 5 MRSA c. 407, sub-c. 4 is enacted to read:
+2 SUBCHAPTER 4
+3 MAINE BLUE ECONOMY CENTER
+4 §15331. Maine Blue Economy Center
+5 1. Definitions. As used in this subchapter, unless the context otherwise indicates, the
+6 following terms have the following meanings.
+7 A. "Blue economy" means the aggregate of persons engaged in any economic activity
+8 that depends upon the sustainable use of ocean, coastal or marine resources that
+9 optimizes innovation to retain and expand economic opportunities in the State while
+10 maintaining or improving the long-term health of marine ecosystems, including, but
+11 not limited to, business, manufacturing, research and education relating to commercial
+12 fishing, sustainable aquaculture and marine vegetation cultivation, marine
+13 biotechnology, ocean data and marine research, marine and coastal environmental
+14 science, resilient coastal infrastructure, working waterfront access and infrastructure,
+15 coastal ecosystem restoration and stewardship, marine recreation and tourism and
+16 sustainable boat building or marine propulsion or other industries grounded in the
+17 State's marine heritage, research expertise, location or traditional activities.
+18 B. "Board" means the board of directors for the center established in subsection 3.
+19 C. "Center" means the Maine Blue Economy Center established in subsection 2.
+20 D. "Commercial fishing" means the harvesting or processing, or both, of wild marine
+21 organisms from natural habitats with the intent of disposing of them for profit or trade
+22 in commercial channels.
+23 2. Establishment; purpose. The Maine Blue Economy Center is established within
+24 the Maine Technology Institute to serve as the State's central coordinating entity for blue
+25 economy sector initiatives and to work in collaboration with governmental entities, trade
+26 associations, institutions of higher education, research institutions, nonprofit organizations,
+27 businesses and other entities to provide for the growth of the blue economy sector. The
+28 center shall support the sustainable development of ocean-based industries while
+29 recognizing the importance of the Gulf of Maine ecosystem and the marine resources upon
+30 which coastal communities and traditional marine industries depend. The center is
+31 established to serve the following purposes:
+32 A. To expand the State's blue economy by supporting collaborative research, workforce
+33 training, entrepreneurial ventures, private sector investment and commercialization of
+34 ocean-based innovations;
+35 B. To gather and analyze data that inform decisions, measure progress, identify new
+36 opportunities for the blue economy and monitor the health of ocean resources on which
+37 the blue economy depends, including through the development of a blue economy
+38 database and accessible public tools, such as an online portal and other public resources
+39 that improve understanding of the State's blue economy;
+Page 2 - 132LR3009(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 903, L.D. 2216
+1 C. To communicate ongoing and emerging trends and performance metrics for
+2 economic activity and the health of ocean resources on which the blue economy
+3 depends through a regular public report on the state of the State's blue economy;
+4 D. To serve as a statewide navigator and coordinating organization for the State's blue
+5 economy by connecting partners, aligning initiatives, strengthening communication
+6 and reducing unnecessary duplication across public, private and nonprofit efforts;
+7 E. To coordinate with public and private partners, educational and research institutions,
+8 nonprofit organizations and business stakeholders to strengthen the State's blue
+9 economy and support collaboration across ocean industries;
+10 F. To ensure that the traditional marine industries of this State, including commercial
+11 fishing and working waterfront activities, remain central to the State's blue economy
+12 and are fully considered in the center's planning, partnerships and recommendations;
+13 G. To facilitate the creation of a highly skilled workforce and support attraction and
+14 retention of workers in the blue economy sector, including by promoting internships,
+15 apprenticeships and other work-based learning opportunities;
+16 H. To conduct targeted workforce analyses, including assessments of workforce
+17 barriers, participation, outcomes and future workforce needs in the blue economy
+18 sector;
+19 I. To support efforts to strengthen awareness about blue economy careers and education
+20 pathways in kindergarten to grade 12 and higher education;
+21 J. To investigate opportunities for grants, loans and other resources to support blue
+22 economy entities and initiatives;
+23 K. To develop strategies to attract federal, philanthropic and private investment and to
+24 position this State competitively for external funding;
+25 L. To identify policy, programmatic and partnership opportunities that can support
+26 sustainable growth across the blue economy sector;
+27 M. To advise the president of the Maine Technology Institute designated under section
+28 15302 on matters related to the blue economy; and
+29 N. To report regularly to the Legislature regarding its operations, activities, outcomes
+30 and recommendations.
+31 3. Board of directors. The work of the center must be overseen by a board of directors
+32 composed of 17 members, of whom 4 members are ex officio, nonvoting members as
+33 specified in paragraph A and 13 members are appointed as specified in paragraph B. A
+34 member appointed pursuant to paragraph B is entitled to one vote.
+35 A. Ex officio members of the board are:
+36 (1) The Commissioner of Economic and Community Development or the
+37 commissioner's designee;
+38 (2) The president of the Maine Technology Institute designated under section
+39 15302 or the president's designee;
+40 (3) The Chancellor of the University of Maine System or the chancellor's designee;
+41 and
+Page 3 - 132LR3009(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 903, L.D. 2216
+1 (4) The Commissioner of Marine Resources or the commissioner's designee.
+2 B. The members of the board who are not ex officio members are appointed by the
+3 Governor and are subject to confirmation by the Senate and must be individuals or
+4 representatives of organizations that are in a position to advance the purposes and goals
+5 of the center and are able to have a significant effect on improving the State's blue
+6 economy sector. When making appointments under this paragraph, the Governor shall
+7 consider the multidisciplinary nature of the State's blue economy sector and the
+8 importance of diverse representation from coastal and rural communities and from
+9 businesses and shall consult with the board of directors of the Maine Technology
+10 Institute and the board of directors of the Finance Authority of Maine to ensure the
+11 alignment of those appointments with the State's economic development strategies.
+12 Membership under this paragraph must include:
+13 (1) A representative of a business in the State with fewer than 25 employees that
+14 is involved in the blue economy sector;
+15 (2) A representative of a business in the State with 25 or more employees that is
+16 involved in the blue economy sector;
+17 (3) A representative of a nonprofit marine or ocean science research institution
+18 based in the State that is involved in research and development in the blue economy
+19 sector;
+20 (4) A representative of a university, community college or trade school in the State
+21 that is involved in the blue economy sector, including marine or coastal
+22 environmental research in the Gulf of Maine;
+23 (5) A representative recommended by a federally recognized Indian tribe in the
+24 State;
+25 (6) Two representatives of trade associations or nonprofit organizations that
+26 support the blue economy sector, at least one of which collaborates directly with
+27 private sector marine industries;
+28 (7) A representative of business investors or the banking or finance sectors;
+29 (8) A representative of a privately owned commercial fishing or working
+30 waterfront business in the State;
+31 (9) A municipal official of a coastal community in the State;
+32 (10) A representative from the private sector with experience in sustainable
+33 aquaculture or marine vegetation cultivation in the State;
+34 (11) A representative with expertise in emerging ocean industries; and
+35 (12) A representative of a privately owned marine recreational tourism business or
+36 trade association.
+37 Members of the board who are not ex officio members serve 3-year terms and may be
+38 reappointed.
+39 C. The Governor shall designate a chair from among the board's members who shall
+40 preside at, set the agenda for and schedule meetings of the board.
+Page 4 - 132LR3009(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 903, L.D. 2216
+1 D. Board members shall disclose any direct or indirect pecuniary interest in any matter
+2 brought to the center and recuse themselves from any participation in the consideration
+3 of such matters.
+4 E. The board shall meet as often as it considers necessary to perform its work and, to
+5 the extent practicable, the board shall conduct its work in a manner that is open and
+6 accessible to the public. The board may conduct its work through subcommittees.
+7 4. Operations of the center. The following provisions govern the operations of the
+8 center.
+9 A. The center shall coordinate its activities with relevant state agencies, marine
+10 industry organizations, research institutions and regional economic development
+11 organizations in order to strengthen collaboration and avoid duplication of effort across
+12 the State's blue economy initiatives.
+13 B. The center shall coordinate its activities with the other programs under the
+14 jurisdiction of the Maine Technology Institute, including any programs that promote
+15 life sciences and innovation in the State.
+16 C. The center shall develop and implement a database composed of data that monitors
+17 the economic performance, workforce composition and environmental and resource
+18 trends in the Gulf of Maine that are relevant to the blue economy sector. The center
+19 shall assess economic performance by evaluating employment data of businesses
+20 within the blue economy sector, including wages paid to employees, the number of
+21 businesses operating within the blue economy sector and the revenue generated by
+22 those businesses.
+23 D. To support its activities under this section, the center may seek outside funds,
+24 through direct solicitation or other fundraising methods, alone or with other groups,
+25 and may accept gifts, grants and bequests from individuals, corporations, foundations,
+26 governmental agencies and public and private organizations and may expend those
+27 funds for purposes consistent with this section.
+28 5. Staff and administrative support. The Maine Technology Institute shall provide
+29 staff as may be necessary to fulfill the center's mission and may seek assistance from other
+30 state agencies and private entities to accomplish the goals and work of the center.
+31 6. Annual report. The center shall submit annually to the Governor, the Executive
+32 Director of the Legislative Council and the joint standing committee of the Legislature
+33 having jurisdiction over economic development matters, no later than 120 days after the
+34 close of the center's fiscal year, a complete report on the activities of the center. The report
+35 must also be made available to the public. The report must include the following for that
+36 fiscal year:
+37 A. A description of the center's operations and an assessment of trends and performance
+38 in the State's blue economy sector, including details on the methods used to assess and
+39 measure the center's economic development impacts on the blue economy sector;
+40 B. An accounting of the center's receipts and expenditures, assets and liabilities at the
+41 end of its fiscal year;
+42 C. A listing of all investments, grants, loans and incentives provided by the center
+43 during its fiscal year;
+Page 5 - 132LR3009(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 903, L.D. 2216
+1 D. A statement of the center's proposed and projected activities for its ensuing fiscal
+2 year;
+3 E. An analysis of workforce trends, investment activity and emerging opportunities in
+4 the State's blue economy sector;
+5 F. The most recent data available on the size, composition and growth trends in the
+6 State's marine economy and environment that is compiled in the center's database
+7 pursuant to subsection 4, paragraph C; and
+8 G. Recommendations regarding further actions that may be suitable for achieving the
+9 purposes of this subchapter.
+10 After reviewing the report under this subsection, the joint standing committee of the
+11 Legislature having jurisdiction over economic development matters may report out
+12 legislation relating to the report.
+13 Sec. 5. Maine Blue Economy Center; interim report. The Maine Blue
+14 Economy Center, established pursuant to the Maine Revised Statutes, Title 5, section
+15 15331, shall submit an interim report to the joint standing committee of the Legislature
+16 having jurisdiction over economic development matters no later than 60 days after all
+17 members of the board of directors of the center have been appointed pursuant to Title 5,
+18 15331, subsection 3. The interim report must include, but is not limited to, the following:
+19 1. A strategic plan, including proposed measures of success, for the center covering the
+20 subsequent 5-year period;
+21 2. An operational plan identifying anticipated staff and partnership resources, proposed
+22 tasks and expected accomplishments; and
+23 3. A finance plan identifying general operating expenditures, anticipated task-related
+24 and project-related expenditures and funding.
+25 After reviewing the report under this section, the joint standing committee may report
+26 out legislation relating to the report.
+27 Sec. 6. Staggered terms. Notwithstanding the Maine Revised Statutes, Title 5,
+28 section 15331, subsection 3, paragraph B, with regard to the initial appointments of the
+29 members of the board of directors of the Maine Blue Economy Center, the Governor shall
+30 appoint 4 members to a one-year term, 5 members to a 2-year term and 4 members to a 3-
+31 year term.
+32 Sec. 7. Appropriations and allocations. The following appropriations and
+33 allocations are made.
+34 ECONOMIC AND COMMUNITY DEVELOPMENT, DEPARTMENT OF
+35 Maine Blue Economy Center N569
+36 Initiative: Provides one-time funding to support the operations of the Maine Blue Economy
+37 Center.
+38 GENERAL FUND 2025-26 2026-27
+39 All Other $0 $500,000
+40 __________ __________
+41 GENERAL FUND TOTAL $0 $500,000
+Page 6 - 132LR3009(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 903, L.D. 2216
+11 '
+2 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+3 number to read consecutively.
+4 SUMMARY
+55 This amendment, which is the majority report of the committee, replaces the bill. The
+66 amendment establishes the Maine Blue Economy Center within the Maine Technology
+77 Institute. The amendment directs the center to submit an interim report within 60 days after
+88 all members have been appointed to its board of directors to the joint standing committee
+99 of the Legislature having jurisdiction over economic development matters and provides a
+1100 $500,000 allocation for start-up operation costs of the center.
+1111 FISCAL NOTE REQUIRED
+1122 (See attached)
+Page 7 - 132LR3009(02)
+COMMITTEE AMENDMENT

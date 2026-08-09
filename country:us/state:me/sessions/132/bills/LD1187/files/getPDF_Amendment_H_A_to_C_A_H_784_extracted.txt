@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-A to C-A (H-784)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1187
+2 Date: (Filing No. H- )
+3 Reproduced and distributed under the direction of the Clerk of the House.
+4 STATE OF MAINE
+5 HOUSE OF REPRESENTATIVES
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 792,
+9 L.D. 1187, “An Act to Require Certain Mental Health Data to Be Included in Uniform
+10 Crime Reports”
+11 Amend the amendment by striking out the substitute title and substituting the
+12 following:
+13 'An Act to Include Certain Mental Health Assessment Data in Firearm Fatalities and
+14 Hospitalizations Reports'
+15 Amend the amendment in section 1 in the c. 256-A headnote in the last line (page 1,
+16 line 19 in amendment) by striking out the following: "REFERRALS" and inserting the
+17 following: 'ASSESSMENT DATA'
+18 Amend the amendment in section 2 in §1425 in the last line (page 1, line 23 in
+19 amendment) by striking out the following: "referrals" and inserting the following:
+20 'assessment data'
+21 Amend the amendment by striking out all of sections 5 and 6 and inserting the
+22 following:
+23 'Sec. 5. 22 MRSA §1425, sub-§3 is enacted to read:
+24 3. Risk assessments. The number of assessments by a medical practitioner performed
+25 pursuant to Title 34-B, section 3862-A, the number of individuals assessed who received a
+26 referral for mental health treatment and services and any aggregate demographic
+27 information about the individuals assessed that can be released without risking individual
+28 identification.'
+29 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+30 section number to read consecutively.
+31 SUMMARY
+3322 This amendment replaces the requirement in Committee Amendment "A" that the
+3333 annual report on firearm fatalities and hospitalizations include mental health referrals with
+3344 a requirement that the annual report include the number of assessments performed, the
+3355 number of individuals who received a referral for mental health treatment and services and
+3366 any aggregate demographic information about those individuals that can be released
+Page 1 - 132LR1802(08)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 792, L.D. 1187
+317 without risking individual identification. The amendment also strikes the appropriations
+328 and allocations section to incorporate the substance of Senate Amendment "A."
+339 SPONSORED BY: ___________________________________
+440 (Representative GRAMLICH, L.)
+451 TOWN: Old Orchard Beach
+Page 2 - 132LR1802(08)
+HOUSE AMENDMENT

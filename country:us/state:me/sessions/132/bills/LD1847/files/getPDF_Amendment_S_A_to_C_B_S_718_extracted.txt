@@ -1,0 +1,331 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-A to C-B (S-718)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1847
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1231,
+9 L.D. 1847, “An Act to Institute Testing and Tracking of Medical Use Cannabis and
+10 Cannabis Products Similar to Adult Use Cannabis and Cannabis Products, Dedicate a
+11 Portion of the Adult Use Cannabis Sales and Excise Tax to Medical Use Cannabis
+12 Programs and Create a Study Group”
+13 Amend the amendment by striking out the substitute title and substituting the
+14 following:
+15 'An Act to Establish Testing and Tracking of Medical Use Cannabis and to Make
+16 Other Changes to the Medical Use and Adult Use Cannabis Programs'
+17 Amend the amendment in Part A by inserting after section 13 the following:
+18 'Sec. A-14. 22 MRSA §2423-F, sub-§8, ¶A, as repealed and replaced by PL 2019,
+19 c. 331, §17 and amended by PL 2021, c. 669, §5, is further amended by enacting a new
+20 first blocked paragraph to read:
+21 The department may deny registration to an applicant if, during an inspection of that
+22 applicant pursuant to section 2430-K, the department finds evidence of a violation of
+23 this chapter or rules adopted pursuant to this chapter.'
+24 Amend the amendment in Part A by striking out all of sections 15 and 16 and inserting
+25 the following:
+26 'Sec. A-15. 22 MRSA §2423-G is enacted to read:
+27 §2423-G. Cannabis testing facilities; requirements
+28 1. Facility requirements. The following requirements are applicable to the operation
+29 of a cannabis testing facility registered in accordance with this chapter regarding mandatory
+30 testing and other testing of harvested cannabis.
+31 A. A testing facility that is licensed pursuant to Title 28-B, chapter 1 to test cannabis
+32 and cannabis products for harmful contaminants and cannabinoid profiles may be
+33 issued a registration certificate to operate a cannabis testing facility under this chapter,
+34 as long as the licensed testing facility is in good standing with the office and the request
+35 for a registration certificate is submitted on forms provided by the office. There is no
+36 fee for a registration certificate issued to a testing facility licensed under Title 28-B,
+Page 1 - 132LR0854(09)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1231, L.D. 1847
+317 chapter 1. All employees of the cannabis testing facility that conduct mandatory and
+328 other testing on harvested cannabis shall obtain from the office a registry identification
+339 card in accordance with section 2425-A.
+4 B. A person that is not licensed under Title 28-B, chapter 1 to operate a testing facility
+5 may apply for a registration certificate to operate a cannabis testing facility under this
+6 chapter in accordance with the requirements of section 2425-A. The office may not
+7 issue a registration certificate to a person pursuant to this paragraph and section 2425-A
+8 unless the applicant also demonstrates that:
+9 (1) The applicant has obtained accreditation pursuant to standard ISO/IEC 17025
+10 of the International Organization for Standardization by a 3rd-party accrediting
+11 body for all fields of mandatory testing, in all matrices, required under this chapter;
+12 (2) The applicant has obtained certification by the Maine Center for Disease
+13 Control and Prevention in accordance with section 569 for all fields of mandatory
+14 testing, in all matrices, required under this chapter;
+15 (3) The applicant and, if the applicant is a business entity, anyone with a financial
+16 or other interest in the applicant is not a caregiver, a registered caregiver or an
+17 officer or director of a registered dispensary or manufacturing facility; and
+18 (4) The applicant has obtained local authorization in accordance with section
+19 2429-D from the municipality where the cannabis testing facility will be located.
+20 C. For the purposes of administering tests pursuant to this chapter, a registered
+21 cannabis testing facility is authorized to:
+22 (1) Accept and possess samples of harvested cannabis for mandatory testing from
+23 registrants;
+24 (2) Accept and possess samples of harvested cannabis for other testing from
+25 registrants, qualifying patients and members of the public;
+26 (3) Test samples of harvested cannabis for mandatory and other testing and report
+27 the results of such testing to the registrant, qualifying patient or member of the
+28 public that submitted the samples for testing;
+29 (4) Report the results of any mandatory and other testing conducted pursuant to
+30 this chapter to the office;
+31 (5) Test samples of harvested cannabis that are submitted for retesting after a failed
+32 mandatory test and report the results of retesting to the registrant, qualifying patient
+33 or member of the public that submitted the samples for retesting and to the office;
+34 and
+35 (6) Hire any number of cardholders necessary to conduct analyses in accordance
+36 with this chapter.
+37 D. The office may deny a registration certificate to an applicant if, during an inspection
+38 of that applicant pursuant to section 2430-K, the office finds evidence of a violation of
+39 this chapter or rules adopted pursuant to this chapter.
+40 2. Rules. The office may adopt rules regarding the registration, certification,
+41 accreditation and operation of cannabis testing facilities authorized under this chapter,
+42 including, but not limited to, rules establishing acceptable testing practices for cannabis
+Page 2 - 132LR0854(09)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1231, L.D. 1847
+413 testing facilities, including, but not limited to, provisions relating to testing practices,
+424 methods and standards; remediation and retesting procedures; quality control analysis;
+435 equipment certification and calibration; chemical identification; cannabis testing facility
+446 record-keeping, documentation and business practices; disposal of used, unused and waste
+457 harvested cannabis; and reporting of test results. Rules adopted pursuant to this subsection
+468 are major substantive rules as defined in Title 5, chapter 375, subchapter 2-A.'
+7 Amend the amendment in Part A in section 17 in the indented paragraph in the last line
+8 (page 5, line 21 in amendment) by striking out the following: "2423-H" and inserting the
+9 following: '2423-G'
+10 Amend the amendment in Part A by inserting after section 18 the following:
+11 'Sec. A-19. 22 MRSA §2425-A, sub-§4, ¶B, as enacted by PL 2017, c. 452, §12,
+12 is amended to read:
+13 B. The department may deny an application for a card or for renewal of a card only if:
+14 (1) The applicant did not provide the information required pursuant to subsection
+15 3;
+16 (2) The department determines that the applicant does not qualify; or
+17 (3) The department determines that the information provided by the applicant was
+18 falsified.; or
+19 (4) In the case of an applicant applying to be a registered caregiver or registered
+20 dispensary, the office finds evidence of a violation of this chapter or rules adopted
+21 pursuant to this chapter during an inspection conducted pursuant to section
+22 2430-K.'
+23 Amend the amendment in Part A in section 19 in subsection 6 in paragraph E in the
+24 last line (page 6, line 7 in amendment) by striking out the following: "2423-H" and inserting
+25 the following: '2423-G'
+26 Amend the amendment in Part A in section 21 in subsection 3 in the last line (page 6,
+27 line 20 in amendment) by striking out the following: "2423-H" and inserting the following:
+28 '2423-G'
+29 Amend the amendment in Part A in section 22 in subsection 1-A in the last 4 lines
+30 (page 6, lines 24 to 27 in amendment) by striking out the following: ". In the calculation
+31 of the amount or potency of cannabinoids allowed under this subsection, the allowable
+32 variance rate may be in addition to the allowable variance rate applicable to a cannabis
+33 testing facility pursuant to section 2430-P, subsection 6"
+34 Amend the amendment in Part A by striking out all of sections 24 to 26.
+35 Amend the amendment in Part A by inserting after section 27 the following:
+36 'Sec. A-28. 22 MRSA §2430-K, as enacted by PL 2023, c. 365, §22, is amended to
+37 read:
+38 §2430-K. Inspections; limitation
+39 The office shall conduct inspections of initial applicants to be registered caregivers,
+40 registered dispensaries, cannabis testing facilities and manufacturing facilities in
+41 accordance with this section and rules adopted pursuant to this chapter. The office shall
+Page 3 - 132LR0854(09)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1231, L.D. 1847
+412 conduct annual inspections of registered caregivers, registered dispensaries, cannabis
+423 testing facilities and manufacturing facilities in accordance with this section and rules
+434 adopted pursuant to this chapter. The department office may conduct inspections of
+445 registered caregivers, registered dispensaries, cannabis testing facilities and manufacturing
+456 facilities in accordance with this section and rules adopted pursuant to this chapter. The
+467 department office may not conduct an inspection of a qualifying patient or caregiver
+478 operating under section 2423‑A, subsection 3, paragraph C.
+8 1. Criteria. The department office shall maintain a publicly accessible electronic
+9 version of the criteria for inspection of registered caregivers, registered dispensaries,
+10 cannabis testing facilities and manufacturing facilities and for inspection of initial
+11 applicants to be registered caregivers, registered dispensaries, cannabis testing facilities
+12 and manufacturing facilities.
+13 2. Access to premises. Notwithstanding any provision of law to the contrary, to ensure
+14 compliance with this chapter or in response to a complaint, the department office may
+15 inspect the premises where a registered caregiver, registered dispensary, cannabis testing
+16 facility or manufacturing facility conducts activity authorized under this chapter, without
+17 notice during regular business hours or during hours of apparent activity, except that the
+18 department office may not enter the dwelling unit of a registered caregiver if the registered
+19 caregiver is not present and may inspect the area of a dwelling unit only where activity
+20 authorized under this chapter occurs.
+21 3. Complaints. If the department office conducts an inspection in response to a
+22 complaint, the department office shall provide the registered caregiver, registered
+23 dispensary, cannabis testing facility or manufacturing facility subject to the inspection a
+24 written statement of the substance of the complaint at the time of the inspection.
+25 4. Contamination prevention. The department office shall develop and post on the
+26 department's office's publicly accessible website guidance on how a person conducting
+27 inspections under this section can prevent contaminating the premises being inspected.
+28 5. Notification of unauthorized conduct. If during an inspection the department
+29 office finds evidence of a violation of this chapter or rules adopted pursuant to this chapter,
+30 the department office shall, within one business day of the completion of the inspection,
+31 provide written notification of the identified violation to the applicant or registered
+32 caregiver, registered dispensary, cannabis testing facility or manufacturing facility. Notice
+33 under this subsection does not constitute final agency action.
+34 6. Penalty. In addition to any other penalty authorized under this chapter, the registry
+35 identification card or registration certificate of a registered caregiver, registered dispensary,
+36 cannabis testing facility or manufacturing facility that refuses or willfully avoids 2 or more
+37 inspections under this section may be suspended or revoked pursuant to section 2430‑I or
+38 the department office may refuse to renew the registry identification card or registration
+39 certificate. Notwithstanding any provision of law to the contrary, the office may deny
+40 registration to an applicant if, during an inspection of that applicant, the office finds
+41 evidence of a violation of this chapter or rules adopted pursuant to this chapter.'
+42 Amend the amendment in Part A by striking out all of sections 29 to 32 and inserting
+43 the following:
+44 'Sec. A-29. 22 MRSA §2430-P is enacted to read:
+Page 4 - 132LR0854(09)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1231, L.D. 1847
+1 §2430-P. Annual inspections; mandatory sample testing
+2 The office shall conduct testing of samples collected by the office during the annual
+3 inspection required under section 2430-K for registered caregivers, registered dispensaries
+4 and manufacturing facilities in accordance with this section. This section may not be
+5 construed to limit the authority of the office to take samples of harvested cannabis pursuant
+6 to an investigation by the office into the conduct of a registrant or a registrant agent.
+7 1. Mandatory testing; costs. The office shall test a sample of harvested cannabis
+8 collected under this section for:
+9 A. Residual solvents;
+10 B. Metals; and
+11 C. Pesticides.
+12 The costs associated with conducting tests under this subsection must be paid for by the
+13 registered caregiver, registered dispensary and manufacturing facility from which the
+14 sample was collected.
+15 2. Other testing; costs. The office may conduct other tests on a sample of harvested
+16 cannabis collected under this section for the purpose of research and data collection. Any
+17 test conducted under this subsection must be paid for by the office.
+18 3. Notification of results; records. The office shall notify a registered caregiver,
+19 registered dispensary and manufacturing facility within one business day of the office
+20 receiving the results of any test conducted under this section. The office shall provide a
+21 written copy of any test results with the notification. A registered caregiver, registered
+22 dispensary and manufacturing facility shall keep a record of all test results under this
+23 section for a period of 4 years in the same manner as other records required to be kept under
+24 this chapter.
+25 4. Results exceed maximum allowable contamination level; additional testing. If
+26 a test conducted under this section for residual solvents or pesticides indicates that the
+27 sample of harvested cannabis exceeds the maximum level of allowable contamination for
+28 residual solvents or pesticides, as determined by the office pursuant to rules adopted
+29 pursuant to this section, which are major substantive rules pursuant to Title 5, chapter 375,
+30 subchapter 2-A, the office shall:
+31 A. Provide notification as required under subsection 3 and, if applicable, provide
+32 notice to any registered caregiver, registered dispensary or manufacturing facility from
+33 which the harvested cannabis sample originated;
+34 B. Collect up to 3 additional samples of harvested cannabis from the registrant whose
+35 sample exceeded the maximum level of allowable contamination for residual solvents
+36 or pesticides and from any registrant from which the harvested cannabis sample
+37 originated from any location where a registered caregiver, registered dispensary or
+38 manufacturing facility conducts activity authorized under this chapter;
+39 C. Restrict the transfer or sale of the batch of harvested cannabis that exceeded the
+40 maximum level of allowable contamination for residual solvents or pesticides under
+41 this subsection and may initiate a recall of any harvested cannabis from the batch that
+42 may have already been sold or transferred; and
+Page 5 - 132LR0854(09)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1231, L.D. 1847
+1 D. Conduct testing for residual solvents and pesticides on the additional samples
+2 collected under paragraph B at the expense of the registrant.
+3 If additional testing conducted under paragraph D indicates that any of the samples
+4 collected under paragraph B exceed the maximum level of allowable contamination for
+5 residual solvents or pesticides, the office shall restrict the transfer or sale of all batches of
+6 harvested cannabis in the possession of the registrant, initiate a recall of any harvested
+7 cannabis sold or transferred by the registrant from the batch or batches of harvested
+8 cannabis tested and shall open an investigation into the conduct of the registrant.
+9 5. Results exceed maximum allowable contamination level; administrative
+10 penalty; violation types. The following administrative penalties may apply:
+11 A. A registered caregiver, registered dispensary or manufacturing facility whose initial
+12 test under this section indicates that the sample of harvested cannabis exceeds the
+13 maximum level of allowable contamination for residual solvents or pesticides may be
+14 subject to an administrative penalty for a minor registration violation under section
+15 2430-I, subsection 1-A, paragraph C; and
+16 B. A registered caregiver, registered dispensary or manufacturing facility that has a
+17 sample collected under subsection 4, paragraph B that exceeds the maximum level of
+18 allowable contamination for residual solvents or pesticides may be subject to an
+19 administrative penalty for a major registration violation under section 2430-I,
+20 subsection 1-A, paragraph B.
+21 6. Sample collection, testing processes, protocols and standards. The office may
+22 establish by rule processes, protocols and standards for the collection of samples for annual
+23 testing and for other testing of harvested cannabis that conform with the best practices
+24 generally used to sample the applicable matrices and test for the presence or absence of the
+25 contaminants identified in this section based upon the matrix of the harvested cannabis
+26 tested. Rules adopted pursuant to this subsection are major substantive rules as defined in
+27 Title 5, chapter 375, subchapter 2-A.
+28 If the office opens an investigation into the conduct of a registered caregiver, registered
+29 dispensary or manufacturing facility under this section, evidence of a violation of this
+30 chapter or rules adopted pursuant to this chapter must be handled pursuant to section
+31 2430-I.'
+32 Amend the amendment in Part B in section 4 in the indented paragraph in the 9th to
+33 12th lines (page 15, lines 41 and 42 and page 16, lines 1 and 2 in amendment) by striking
+34 out the following: "All cannabis concentrates used to manufacture cannabis products in
+35 accordance with this chapter must be tested in accordance with subsections 1-C and 1-D
+36 prior to being used to manufacture a cannabis product or a cannabis pre-roll infused with
+37 cannabis concentrate."
+38 Amend the amendment in Part B by striking out all of sections 5 to 10.
+39 Amend the amendment by striking out all of Part C.
+40 Amend the amendment in Part D by striking out all of section 1.
+41 Amend the amendment in Part D in section 2 by inserting at the end the following:
+42 'The term of an initial contract with a vendor may not exceed 3 years. The total cost of
+43 the initial contract with a vendor may not exceed $250,000 for 3 years. Notwithstanding
+Page 6 - 132LR0854(09)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1231, L.D. 1847
+414 Title 22, section 2430-O or any other provision of law to the contrary, including Title 5,
+425 section 1825-B, the office may not accept a bid, proposal or application or award a contract
+436 for the development, implementation, maintenance, administration or operation of the
+447 electronic inventory tracking system required pursuant to Title 22, section 2430-O from or
+458 to any person or entity that:
+6 1. Holds a contract with the State for the provision or operation of a cannabis industry
+7 tracking system required under Title 28-B, section 105; or
+8 2. Is involved with; is an affiliate, subsidiary, parent company, officer, director or
+9 principal of; or has a direct financial interest in an entity that holds a contract described in
+10 subsection 1.
+11 For the purposes of this section, "involved with" includes any direct or indirect
+12 ownership, control or participation that could reasonably be construed as creating a conflict
+13 of interest.'
+14 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+15 section number to read consecutively.
+16 SUMMARY
+1177 This amendment amends Committee Amendment "B" to require the Department of
+1188 Administrative and Financial Services, Office of Cannabis Policy to conduct inspections
+1199 of initial applicants to be registered caregivers, registered dispensaries, cannabis testing
+2200 facilities and manufacturing facilities in accordance with the laws and rules governing the
+2211 medical use of cannabis. It also requires the office to conduct annual inspections of
+2222 registered caregivers, registered dispensaries, cannabis testing facilities and manufacturing
+2233 facilities. The amendment provides that the office may deny registration to an applicant to
+2244 be a registered caregiver, registered dispensary, cannabis testing facility or manufacturing
+2255 facility if during an inspection of that applicant the office finds evidence of a violation of
+2266 the laws or rules governing the medical use of cannabis.
+27 The amendment removes the testing provisions of Committee Amendment "B" and
+28 replaces them with the testing provisions of Committee Amendment "C," which require the
+29 Office of Cannabis Policy to conduct testing of samples collected by the office during
+30 required annual inspections for registered caregivers, registered dispensaries and
+31 manufacturing facilities.
+32 The amendment removes the provisions regarding the excise tax on cannabis pre-roll.
+33 The amendment provides that the term of the initial contract with a vendor for the
+34 electronic inventory tracking system may not exceed 3 years. It also provides that the total
+35 cost of the initial contract may not exceed $250,000 for 3 years. The amendment provides
+36 that the office may not accept a bid, proposal or application or award a contract for the
+37 development, implementation, maintenance, administration or operation of the electronic
+38 inventory tracking system from or to any person or entity that holds a contract with the
+39 State for the provision or operation of a cannabis industry tracking system required under
+40 the Maine Revised Statutes, Title 28-B, section 105 or is involved with; is an affiliate,
+Page 7 - 132LR0854(09)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1231, L.D. 1847
+411 subsidiary, parent company, officer, director or principal of; or has a direct financial interest
+422 in an entity that holds such a contract.
+433 SPONSORED BY: ___________________________________
+444 (Senator HICKMAN, C.)
+455 COUNTY: Kennebec
+Page 8 - 132LR0854(09)
+SENATE AMENDMENT

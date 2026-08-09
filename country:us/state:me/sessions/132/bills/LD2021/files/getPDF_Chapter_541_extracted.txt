@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 541
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+FEBRUARY 26, 2026 541
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1351 - L.D. 2021
+An Act to Add an Online Option for Reporting of Suspected Abuse, Neglect
+and Exploitation of Adults
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA §3477, sub-§2, as amended by PL 2003, c. 653, §10, is further
+amended to read:
+2. Reports. Reports regarding abuse, neglect or exploitation must be made
+immediately by telephone to the department either by telephone or by an online portal
+designated by the department and must be followed by a written report within 48 hours if
+requested by the department. The reports must contain the name and address of the
+involved adult; information regarding the nature and extent of the abuse, neglect or
+exploitation; the source of the report; and the name of the person making the report;, that
+person's occupation; and where that person can be contacted. The report may contain any
+other information that the reporter believes may be helpful.
+Page 1 - 132LR2797(02)

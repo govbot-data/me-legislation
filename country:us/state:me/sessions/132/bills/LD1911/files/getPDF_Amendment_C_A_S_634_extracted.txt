@@ -1,0 +1,367 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-634)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1911
+2 Date: (Filing No. S- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 752, L.D. 1911, “An Act to
+10 Automatically Seal Criminal History Record Information for Certain Crimes”
+11 Amend the bill by striking out all of section 4 and inserting the following:
+12 'Sec. 4. 15 MRSA §2265, first ¶, as enacted by PL 2021, c. 674, §1, is amended to
+13 read:
+14 Notwithstanding Title 16, section 704, the criminal history record information relating
+15 to a criminal conviction sealed under section 2264, 2403 or 2404 is confidential, must be
+16 treated as confidential criminal history record information for the purposes of
+17 dissemination to the public under Title 16, section 705 and may not be disseminated by a
+18 criminal justice agency, whether directly or through any intermediary, except as provided
+19 in Title 16, section 705 and as set out in this section. In addition to the dissemination
+20 authorized by Title 16, section 705, a criminal justice agency may disseminate the sealed
+21 criminal history record information to:
+22 Sec. 5. 15 MRSA §2265, sub-§5, as enacted by PL 2021, c. 674, §1, is amended to
+23 read:
+24 5. Financial services regulatory agencies. The Department of Professional and
+25 Financial Regulation, Bureau of Insurance, Bureau of Consumer Credit Protection, Bureau
+26 of Financial Institutions and Office of Securities to ensure compliance with Titles 9‑A, 9‑B,
+27 10, 24, 24‑A and 32, as applicable, and any state or federal requirement to perform criminal
+28 background checks by those agencies. Except as provided in subsection 8, this subsection
+29 is otherwise effective notwithstanding any provision of law to the contrary;
+30 Sec. 6. 15 MRSA §2265, sub-§6, as enacted by PL 2021, c. 674, §1, is repealed
+31 and the following enacted in its place:
+32 6. Occupational and professional licensing boards and agencies. Occupational and
+33 professional licensing boards established in Title 5, section 12004-A; any regulatory
+34 functions within the Office of Professional and Occupational Regulation as described in
+35 Title 10, section 8001; any regulatory functions of a board affiliated with the Department
+Page 1 - 132LR2382(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 752, L.D. 1911
+316 of Professional and Financial Regulation pursuant to Title 10, section 8001-A; the State
+327 Harness Racing Commission as established in Title 5, section 12004-G, subsection 32; and
+338 the Maine Criminal Justice Academy under Title 25, chapter 341. Except as provided in
+349 subsection 8, this subsection is otherwise effective notwithstanding any provision of law to
+450 the contrary;
+6 Sec. 7. 15 MRSA §2265, sub-§8, as enacted by PL 2021, c. 674, §1, is amended to
+7 read:
+8 8. Subject to fingerprinting. An entity that is required by federal or state law to
+9 conduct a fingerprint-based criminal history record check pursuant to Title 25, section
+10 1542‑A. To the extent that a board or agency authorized to receive sealed records under
+11 subsection 5 or 6 is required by federal or state law to conduct a fingerprint-based criminal
+12 history record check pursuant to Title 25, section 1542-A, the dissemination of criminal
+13 history record information sealed under section 2264, 2403 or 2404 to the board or agency
+14 is exclusively governed by this subsection.
+15 Disseminations authorized in this subsection, subsection 5 and subsection 6 apply to all
+16 criminal history record information and any sealed record, including convictions and
+17 nonconvictions. An entity receiving such information under this subsection, subsection 5
+18 or subsection 6 may further disseminate such information to the Office of the Attorney
+19 General. An entity receiving such information may use the disseminated record and
+20 information contained in such record as may be reasonably necessary to conduct public
+21 administrative proceedings to allow an applicant or licensee to demonstrate rehabilitation
+22 under Title 5, chapter 341. An entity receiving such information may use the disseminated
+23 record and information contained in such record in any other adjudicatory proceeding, as
+24 long as the disseminated information remains confidential but subject to disclosure as
+25 provided in Title 5, section 9057, subsection 6, paragraph B. Title 16, section 708,
+26 subsections 4 and 5 apply to any administrative proceeding addressed in this subsection.
+27 Sec. 8. 15 MRSA c. 313 is enacted to read:
+28 CHAPTER 313
+29 AUTOMATIC SEALING OF CERTAIN CRIMINAL HISTORY RECORD
+30 INFORMATION
+31 §2401. Definitions
+32 As used in this chapter, unless the context otherwise indicates, the following terms
+33 have the following meanings.
+34 1. Bureau. "Bureau" means the Department of Public Safety, Bureau of State Police,
+35 State Bureau of Identification.
+36 2. Criminal history record information. "Criminal history record information" has
+37 the same meaning as in Title 16, section 703, subsection 3.
+38 3. Criminal justice agency. "Criminal justice agency" has the same meaning as in
+39 Title 16, section 703, subsection 4.
+Page 2 - 132LR2382(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 752, L.D. 1911
+1 4. Dissemination. "Dissemination" has the same meaning as in Title 16, section 703,
+2 subsection 6.
+3 5. Eligible criminal conviction. "Eligible criminal conviction" means:
+4 A. A conviction for a current or former Class E crime, except:
+5 (1) A conviction for a current or former Class E crime under Title 17-A, chapter
+6 11; or
+7 (2) A conviction for a current or former Class E crime of violation of a condition
+8 of release under section 1092 while the defendant was on preconviction or post-
+9 conviction bail; or
+10 B. A conviction for a current or former Class D crime, except:
+11 (1) A conviction for a current or former Class D crime under Title 17-A, chapter
+12 11, 12 or 23;
+13 (2) A conviction for a current or former Class D crime under Title 17-A, section
+14 852, 853 or 855;
+15 (3) A conviction for assault under Title 17-A, section 207;
+16 (4) A conviction for stalking under Title 17-A, section 210-A or domestic violence
+17 stalking under Title 17-A, section 210-C;
+18 (5) A violation of a protective order, as specified in section 321, subsection 6; Title
+19 5, section 4659, subsection 1; Title 17-A, section 506-B; Title 19-A, former section
+20 4011, subsection 3; Title 19-A, former section 4012, subsection 5; or Title 19-A,
+21 section 4113, subsection 1;
+22 (6) A conviction for cruelty to animals under Title 17, section 1031;
+23 (7) A conviction for criminal OUI under Title 29-A, section 2411 or a conviction
+24 for operating a watercraft, snowmobile or ATV under the influence under Title 12,
+25 section 10701;
+26 (8) A conviction for terrorizing under Title 17-A, section 210 or domestic violence
+27 terrorizing under Title 17-A, section 210-B;
+28 (9) A conviction for criminal threatening under Title 17-A, section 209 or domestic
+29 violence criminal threatening under Title 17-A, section 209-A;
+30 (10) A conviction for criminal restraint under Title 17-A, section 302; or
+31 (11) A conviction for reckless conduct under Title 17-A, section 211 or domestic
+32 violence reckless conduct under Title 17-A, section 211-A.
+33 6. Eligible nonconviction. "Eligible nonconviction" means a criminal charge that did
+34 not result in a conviction.
+35 7. Sealed record or sealed electronic record. "Sealed record" or "sealed electronic
+36 record" means the criminal history record information relating to a specific eligible
+37 criminal conviction or eligible nonconviction that is sealed under section 2403 or section
+38 2404.
+39 §2402. Prerequisites for automatic sealing of criminal history record information
+Page 3 - 132LR2382(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 752, L.D. 1911
+1 1. Eligible criminal conviction. Except as provided in subsection 3, criminal history
+2 record information relating to one or more eligible criminal convictions may be sealed
+3 under this chapter only if:
+4 A. The criminal conviction is an eligible criminal conviction that is a Class D or Class
+5 E crime and 5 years have passed since the date of conviction;
+6 B. The person who is the subject of the criminal history record information has not
+7 been convicted of a crime in this State and has not had a criminal charge dismissed as
+8 a result of a deferred disposition pursuant to Title 17-A, former chapter 54-F or Title
+9 17-A, chapter 67, subchapter 4 since the time of the person's most recent eligible
+10 criminal conviction up until the time the sealing order is issued under section 2264,
+11 2403 or 2404;
+12 C. The person who is the subject of the criminal history record information does not
+13 have any pending criminal charges in this State; and
+14 D. The eligible criminal conviction does not contain a court order of restitution.
+15 2. Eligible nonconviction. Except as provided in subsection 3, criminal history record
+16 information relating to one or more eligible nonconvictions may be sealed under this
+17 chapter only if the eligible nonconviction did not result in a conviction and the case has
+18 been closed for at least 6 months. Criminal history record information that may be sealed
+19 includes, but is not limited to, criminal history record information related to:
+20 A. A charge that was dismissed by the court, a charge that was subject to a deferred
+21 disposition and was dismissed following successful completion of the deferral
+22 agreement or a charge that was subject to a filing agreement and was dismissed
+23 following successful completion of the filing agreement;
+24 B. A charge that resulted in an acquittal; or
+25 C. A charge that was not formally charged by the prosecuting authority or was declined
+26 for prosecution.
+27 3. Ineligibility based on other conviction in same court proceeding. Criminal
+28 history record information relating to one or more eligible criminal convictions or to one
+29 or more eligible nonconvictions may not be sealed if the person was convicted, as part of
+30 the same criminal case, of an offense that is not eligible for sealing under this chapter.
+31 §2403. Automatic sealing of criminal history record information
+32 Criminal history record information for an eligible nonconviction or eligible criminal
+33 conviction must be sealed in accordance with this section if the requirements of section
+34 2402 have been met.
+35 1. Monthly examination of records. Beginning January 1, 2028, the judicial branch
+36 shall examine electronic case records at least once per month and electronically compile a
+37 list of criminal history record information that meets the requirements of section 2402.
+38 Criminal history record information that meets the requirements of section 2402 must be
+39 included in the monthly list compiled by the judicial branch no later than 90 days after that
+40 criminal history record information first meets those requirements.
+Page 4 - 132LR2382(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 752, L.D. 1911
+1 2. Court records sealed. The judicial branch shall seal all electronic case records
+2 containing eligible nonconvictions or eligible criminal convictions identified in subsection
+3 1, subject to court rules pertaining to electronic court records access.
+4 3. Notice to bureau. Upon sealing of electronic case records under subsection 2, the
+5 court shall issue a sealing order and shall electronically transmit notice of the order to the
+6 bureau and the Maine State Archives. Within 14 days of receipt, the bureau shall update
+7 its records to reflect that the criminal history record information related to the eligible
+8 criminal conviction or eligible nonconviction is sealed and that its dissemination is
+9 governed by section 2265.
+10 4. Cooperation. The Department of Public Safety, Bureau of State Police; the
+11 Department of Corrections; the Maine State Archives; and criminal justice agencies that
+12 collect, maintain or disseminate criminal history record information shall cooperate with
+13 the judicial branch and assist it with carrying out the purposes and duties of this section.
+14 5. Electronic methods. When practicable, the judicial branch; the Department of
+15 Public Safety, Bureau of State Police; the Department of Corrections; criminal justice
+16 agencies that collect, maintain or disseminate criminal history record information; and the
+17 courts shall use automated and computerized processes to effectuate the purposes of this
+18 section.
+19 §2404. Phased sealing of historic criminal history record information
+20 1. Records for cases closed on or after January 1, 2020 but before January 1,
+21 2028. The judicial branch shall review and process criminal history record information of
+22 cases closed on or after January 1, 2020 and before January 1, 2028 in accordance with the
+23 eligibility requirements of section 2402 and the sealing procedure in section 2403. Once a
+24 list of eligible records has been determined, the judicial branch or the bureau shall act as
+25 follows.
+26 A. The judicial branch shall seal electronic case records containing eligible
+27 nonconvictions or eligible criminal convictions, subject to court rules of electronic
+28 court records access.
+29 B. Upon sealing electronic case records under paragraph A, the court shall issue a
+30 sealing order and shall electronically transmit notice of the order to the bureau and the
+31 Maine State Archives.
+32 C. The judicial branch and the bureau shall, by July 31, 2029, update their records by
+33 removing public access to eligible criminal history record information stored in
+34 electronic databases used for background checks. Updated records must reflect that the
+35 criminal history record information is sealed and that its dissemination is governed by
+36 section 2265.
+37 Corresponding physical records must be handled on a case-by-case basis, with
+38 verification that each record corresponds to a sealed electronic record before any
+39 information is released.
+40 2. Records for cases closed on or after January 1, 2010 but before January 1,
+41 2020. The judicial branch shall review and process criminal history record information of
+42 cases closed on or after January 1, 2010 and before January 1, 2020 in accordance with the
+43 eligibility requirements of section 2402 and the sealing procedure in section 2403. Once a
+Page 5 - 132LR2382(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 752, L.D. 1911
+414 list of eligible records has been determined, the judicial branch or the bureau shall act as
+425 follows.
+3 A. The judicial branch shall seal electronic case records containing eligible
+4 nonconvictions or eligible criminal convictions, subject to court rules of electronic
+5 court records access.
+6 B. Upon sealing electronic case records under paragraph A, the court shall issue a
+7 sealing order and shall electronically transmit notice of the order to the bureau and the
+8 Maine State Archives.
+9 C. The judicial branch and the bureau shall, by July 31, 2030, update their records by
+10 removing public access to eligible criminal history record information stored in
+11 electronic databases used for background checks. Updated records must reflect that the
+12 criminal history record information is sealed and that its dissemination is governed by
+13 section 2265.
+14 Corresponding physical records must be handled on a case-by-case basis, with
+15 verification that each record corresponds to a sealed electronic record before any
+16 information is released.
+17 3. Records for cases closed on or after January 1, 2005 but before January 1,
+18 2010. The judicial branch shall review and process criminal history record information of
+19 cases closed on or after January 1, 2005 and before January 1, 2010 in accordance with the
+20 eligibility requirements of section 2402 and the sealing procedure in section 2403. Once a
+21 list of eligible records has been determined, the judicial branch or the bureau shall act as
+22 follows.
+23 A. The judicial branch shall seal electronic case records containing eligible
+24 nonconvictions or eligible criminal convictions, subject to court rules of electronic
+25 court records access.
+26 B. Upon sealing electronic case records under paragraph A, the court shall issue a
+27 sealing order and shall electronically transmit notice of the order to the bureau and the
+28 Maine State Archives.
+29 C. The judicial branch and the bureau shall, by July 31, 2031, update their records by
+30 removing public access to eligible criminal history record information stored in
+31 electronic databases used for background checks. Updated records must reflect that the
+32 criminal history record information is sealed and that its dissemination is governed by
+33 section 2265.
+34 Corresponding physical records must be handled on a case-by-case basis, with
+35 verification that each record corresponds to a sealed electronic record before any
+36 information is released.
+37 The Department of Public Safety, Bureau of State Police, the Department of
+38 Corrections and all criminal justice agencies that collect, maintain or disseminate criminal
+39 history record information shall cooperate with the judicial branch and assist it in carrying
+40 out the purposes and duties of this section.
+41 §2405. Limited disclosure of sealed eligible criminal convictions and eligible
+42 nonconvictions
+Page 6 - 132LR2382(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 752, L.D. 1911
+1 1. No duty to disclose; exception. A person whose criminal history record
+2 information is the subject of a sealing order under section 2403 or section 2404 may
+3 respond to inquiries from persons other than criminal justice agencies and other entities
+4 that are authorized to obtain the sealed record information under section 2265 by not
+5 disclosing the existence of the sealed record without being subject to any sanctions under
+6 the laws of this State. Other than when responding to criminal justice agencies or other
+7 entities that are authorized to obtain the sealed record information under section 2265 or
+8 when under oath while being prosecuted for a subsequent crime, a person whose criminal
+9 history record information is the subject of a sealing order does not violate Title 17-A,
+10 section 451, 452 or 453 by failing to disclose the sealed record.
+11 2. Disclosure required. Notwithstanding any provision of law to the contrary, a
+12 person must disclose all criminal history record information that is the subject of a sealing
+13 order, regardless of the existence of a sealing order under section 2403 or 2404, when such
+14 disclosure is requested as part of an application to any entity identified in section 2265,
+15 subsection 5 or 6 or when disclosure to any such entity is otherwise required by law. A
+16 person's failure to make such required disclosure may result in any such entity withholding,
+17 denying or revoking the license or other benefit for which the person applied or received
+18 or in such other administrative action as may be authorized by law.
+19 §2406. Motion to seal criminal history record information
+20 This chapter may not be construed to prevent a person from filing a written motion
+21 seeking a court order to seal the person's criminal history record information relating to a
+22 specific criminal conviction in accordance with section 2263.
+23 Sec. 9. Appropriations and allocations. The following appropriations and
+24 allocations are made.
+25 JUDICIAL DEPARTMENT
+26 Courts - Supreme, Superior and District 0063
+27 Initiative: Establishes 3 Data Quality Specialist positions, 2 Assistant Clerk positions, one
+28 District Court Judge position and one Superior Court Judge position and provides funding
+29 for related All Other costs.
+30 GENERAL FUND 2025-26 2026-27
+31 POSITIONS - LEGISLATIVE COUNT 0.000 7.000
+32 Personal Services $0 $560,426
+33 All Other $0 $55,830
+34 __________ __________
+35 GENERAL FUND TOTAL $0 $616,256
+3360
+37 JUDICIAL DEPARTMENT
+38 DEPARTMENT TOTALS 2025-26 2026-27
+39
+40 GENERAL FUND $0 $616,256
+41 __________ __________
+42 DEPARTMENT TOTAL - ALL FUNDS $0 $616,256
+4337 PUBLIC SAFETY, DEPARTMENT OF
+Page 7 - 132LR2382(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 752, L.D. 1911
+1 State Police 0291
+2 Initiative: Provides one-time funding for computer programming to be able to administer
+3 and process automatic sealing of criminal history record information for certain crimes.
+4 GENERAL FUND 2025-26 2026-27
+5 All Other $0 $32,500
+6 __________ __________
+7 GENERAL FUND TOTAL $0 $32,500
+84
+9 HIGHWAY FUND 2025-26 2026-27
+10 All Other $0 $17,500
+11 __________ __________
+12 HIGHWAY FUND TOTAL $0 $17,500
+139
+14 PUBLIC SAFETY, DEPARTMENT OF
+15 DEPARTMENT TOTALS 2025-26 2026-27
+16
+17 GENERAL FUND $0 $32,500
+18 HIGHWAY FUND $0 $17,500
+19 __________ __________
+20 DEPARTMENT TOTAL - ALL FUNDS $0 $50,000
+2114
+22 SECTION TOTALS 2025-26 2026-27
+23
+24 GENERAL FUND $0 $648,756
+25 HIGHWAY FUND $0 $17,500
+26 __________ __________
+27 SECTION TOTAL - ALL FUNDS $0 $666,256
+2282 '
+29 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+30 number to read consecutively.
+31 SUMMARY
+3322 This amendment replaces the bill. It adds various crimes to the list of crimes that are
+3333 ineligible for sealing under this legislation. The amendment adds a process for sealing
+3344 eligible nonconviction record information. The amendment creates a delayed
+3355 implementation for sealing of historical criminal history record information. The
+3366 amendment authorizes occupational and professional licensing agencies to obtain sealed
+3377 criminal history record information.
+3388 The amendment provides funding to the Judicial Department to establish 3 Data
+3399 Quality Specialist positions, 2 Assistant Clerk positions, one District Court Judge position
+4400 and one Superior Court Judge position. The amendment also provides one-time funding to
+Page 8 - 132LR2382(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 752, L.D. 1911
+411 the Department of Public Safety for computer programming to administer and process the
+422 automatic sealing of criminal history record information.
+433 FISCAL NOTE REQUIRED
+444 (See attached)
+Page 9 - 132LR2382(02)
+COMMITTEE AMENDMENT

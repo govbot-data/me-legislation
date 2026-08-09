@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-571)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 897
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 386, L.D. 897, “An Act Regarding the
+10 Calculation of Electric Rate Contracting Costs”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act Regarding the Nonwires Alternative Process and Required Negative Pricing
+13 Provisions in Contracts for Energy Resulting from Competitive Solicitations
+14 Conducted by the Public Utilities Commission'
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 35-A MRSA §3132-B, sub-§1, as enacted by PL 2019, c. 298, §13, is
+18 amended to read:
+19 1. Planning study. Each investor-owned transmission and distribution utility in this
+20 State shall annually complete and submit to the commission and to the Office of the Public
+21 Advocate, for review by the nonwires alternative coordinator, a planning study for small
+22 transmission projects and distribution projects. In completing the planning study, an
+23 investor-owned transmission and distribution utility shall develop and use system planning
+24 models. The study must:
+25 A. Analyze system needs for the next 5 years and provide a schedule of proposed
+26 projects and associated costs;
+27 B. Describe system capacity and load by substation and circuit; and
+28 C. Identify corresponding planned and anticipated growth-related investments.
+29 After review of a planning study submitted under this subsection, the nonwires alternative
+30 coordinator may provide comments or recommendations, which may include
+31 recommendations to achieve the policy goals established in section 3143. An investor-
+32 owned transmission and distribution utility may, at its discretion, incorporate
+33 recommendations on a planning study made by the nonwires alternative coordinator.
+34 Failure to incorporate recommendations made by the nonwires alternative coordinator may
+35 not result in a presumption of imprudence.
+Page 1 - 132LR1576(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 386, L.D. 897
+1 Sec. 2. 35-A MRSA §3132-C, sub-§4, as enacted by PL 2019, c. 298, §14, is
+2 amended to read:
+3 4. Recommendations. On the basis of the investigation under subsection 1, the
+4 nonwires alternative coordinator shall develop and provide to the commission or to an
+5 investor-owned transmission and distribution utility, as appropriate, recommendations
+6 regarding cost-effective nonwires alternatives to the wires project, including a proposed
+7 plan for procurement of the recommended nonwires alternatives. The proposed
+8 procurement plan must be that identifies components that are behind the meter or on the
+9 grid side of the meter and is consistent with the provisions of section 3132‑D.
+10 Sec. 3. 35-A MRSA §3132-C, sub-§5 is enacted to read:
+11 5. Rules. The commission may adopt rules to implement this section. Rules adopted
+12 pursuant to this subsection are routine technical rules as defined by Title 5, chapter 375,
+13 subchapter 2-A.
+14 Sec. 4. 35-A MRSA §3149, first ¶, as enacted by PL 2025, c. 392, §1, is amended
+15 to read:
+16 The commission may not approve a contract for energy resulting from a competitive
+17 solicitation conducted by the commission under this Title unless the contract includes a
+18 provision that requires the reduction of payments to the bidder under the contract by the
+19 stranded costs arising from energy produced absolute value of the applicable negative price
+20 multiplied by the energy produced and delivered under the contract during negative price
+21 intervals. The commission may grant an exception from the inclusion of such a negative
+22 price provision if the bidder demonstrates good cause for the exception and the commission
+23 finds that the contract is cost-effective, includes other price protections for ratepayers and
+24 will avoid to the maximum extent possible the curtailment of existing renewable resource
+25 generators.'
+26 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+27 number to read consecutively.
+28 SUMMARY
+2299 This amendment replaces the bill, which is a concept draft, and changes the title. It
+3300 requires an investor-owned transmission and distribution utility to submit a planning study
+3311 for small transmission projects and distribution projects to the Public Utilities Commission
+3322 in addition to the Office of the Public Advocate. It also requires the nonwires alternative
+3333 coordinator to identify in a proposed plan for procurement of the recommended nonwires
+3344 alternatives, whether the components are behind the meter or on the grid side of the meter,
+3355 and allows the commission to adopt rules relating to the nonwires alternatives investigation
+3366 and recommendations.
+37 The amendment also changes the requirement for contract provisions governing
+38 negative pricing in contracts for energy resulting from competitive solicitations conducted
+39 by the commission by requiring the contract to include a provision that requires the
+Page 2 - 132LR1576(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 386, L.D. 897
+410 reduction of payments under the contract by the absolute value of the applicable negative
+421 price multiplied by the energy produced and delivered under the contract.
+432 FISCAL NOTE REQUIRED
+443 (See attached)
+Page 3 - 132LR1576(02)
+COMMITTEE AMENDMENT

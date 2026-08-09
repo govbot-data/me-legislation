@@ -1,0 +1,195 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-A to C-A (S-652)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2192
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to S.P. 893,
+9 L.D. 2192, “An Act to Protect Students by Ensuring Schools Have Complete Information
+10 About School Employees and Applicants for Employment”
+11 Amend the amendment by striking out all of sections 1, 2, 3 and 4.
+12 Amend the amendment by inserting after section 4 the following:
+13 'Sec. 5. 20-A MRSA §13025, as amended by PL 2023, c. 643, Pt. Z, §2, is further
+14 amended to read:
+15 §13025. Investigations
+16 1. Definitions. As used in this section, unless the context otherwise indicates, the
+17 following terms have the following meanings.
+18 B. "Covered investigation" means an investigation by a school entity into the conduct
+19 of a holder of a credential school employee that a school entity has a reasonable
+20 expectation would affect the credential holder's school employee's employment or
+21 contracted service because the alleged conduct involves alcohol,; illegal drugs,;
+22 physical abuse,; emotional abuse,; inappropriate contact between a credential holder
+23 school employee and a student, or a school employee and another school employee;
+24 harassment as described in Title 5, chapter 337-A; sexual assault as described in Title
+25 17-A, chapter 11; stalking as described in Title 17-A, section 210-A; sexual
+26 exploitation of a minor as described in Title 17-A, chapter 12; or similar behavior that
+27 endangers the health, safety or welfare of a student or another school employee.
+28 B-1. "School employee" means any person employed by a school, including, but not
+29 limited to, a credential holder, who is subject to the requirements of section 6103.
+30 C. "School entity" means an approved private school, school administrative unit,
+31 public charter school, education service center, school in the unorganized territory or
+32 school operated by the State.
+33 2. Subpoenas. When conducting an investigation relating to the credentialing of
+34 personnel under chapter 501 and this chapter and rules of the state board, the commissioner
+35 may issue subpoenas for education records relevant to that investigation.
+36 2-A. Duties of superintendents. Upon receipt of a complaint related to alleged
+37 misconduct by a school employee, a superintendent of a school entity shall conduct a
+Page 1 - 132LR2853(05)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to S.P. 893, L.D. 2192
+318 covered investigation. The superintendent shall notify the department immediately upon
+329 initiating a covered investigation. For the purposes of this subsection, misconduct means
+430 any conduct described in subsection 1, paragraph B.
+4 3. Duties of school entities. A school entity shall immediately place on paid leave a
+5 school employee who is the subject of a covered investigation. A school entity shall notify
+6 the department immediately if a credential holder school employee who is the subject of a
+7 covered investigation leaves the school entity's employment for any reason prior to the
+8 conclusion of the covered investigation. A school entity shall complete a covered
+9 investigation, even if the subject of the investigation resigns, is terminated or otherwise
+10 leaves employment with the school entity prior to the conclusion of the investigation. A
+11 school entity shall notify the department immediately of the findings and final outcome of
+12 any covered investigation, including, but not limited to, if the school entity determines that
+13 the allegations of misconduct were false or unsubstantiated or if a credential holder school
+14 employee is disciplined, suspended or terminated as a result of a covered investigation in
+15 which the school entity determined that a student's or another school employee's health,
+16 safety or welfare was endangered. The school entity shall provide to the department any
+17 final report produced in support of the school entity's decision to discipline, suspend or
+18 terminate the credential holder school employee. The credential holder school employee
+19 who is the subject of the report may submit to the department a written rebuttal to the report.
+20 The written rebuttal must be placed in the department's investigative file.
+21 Prior to offering employment to an applicant, a school entity shall review the applicant's
+22 educator credentialing records or other school employee records maintained by the
+23 department to determine whether the applicant holds a valid and active certification
+24 appropriate for the position or is otherwise eligible for employment and whether any
+25 notation has been entered on the applicant's records pursuant to subsection 4, paragraphs D
+26 and E, and, if so, the current status of that notation.
+27 4. Duties of department. The department shall act in accordance with this subsection.
+28 A. The department shall notify the superintendent or chief administrative officer of a
+29 school entity within 15 business days of the department's initiating an investigation into
+30 a holder of a credential school employee who works for the school entity and shall
+31 notify the school entity immediately if the department takes action on that credential
+32 against the school employee. Within 5 business days after completion of an
+33 investigation, the department shall notify each school entity for which the credential
+34 holder school employee works of the final outcome of the investigation, including, but
+35 not limited to, any actions taken, and shall provide to the school entity any final written
+36 decision.
+37 B. Immediately upon receipt from a school entity of notification pursuant to subsection
+38 3 of the discipline, suspension or termination of a credential holder school employee,
+39 or the leaving of employment by a credential holder school employee prior to the
+40 completion of a covered investigation of that credential holder school employee, the
+41 department shall notify the superintendent or chief administrative officer of all other
+42 school entities for which the credential holder school employee works, as reported to
+43 the department under section 13026, that the credential holder school employee was
+44 disciplined, suspended or terminated as a result of a covered investigation, or that the
+45 credential holder school employee left employment prior to completion of a covered
+46 investigation. If a credential holder provides consent as part of that credential holder's
+Page 2 - 132LR2853(05)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to S.P. 893, L.D. 2192
+417 application for employment with a school entity, the department shall notify the
+428 superintendent or the chief administrative officer of that school entity if that credential
+439 holder left employment with a school entity prior to the completion of a covered
+540 investigation of that credential holder.
+5 C. The department shall destroy copies of all records and reports related to a finding
+6 resulting in discipline, suspension or termination of a credential holder school
+7 employee if the finding resulting in that discipline, suspension or termination is
+8 reversed upon appeal at the school entity level.
+9 D. Upon receipt of notification from a school entity pursuant to subsection 3 of the
+10 initiation of a covered investigation, the department shall enter a notation on the
+11 educator credentialing records or other school employee records maintained by the
+12 department for that school employee indicating that a covered investigation is pending.
+13 The notation must be visible to superintendents and other authorized school
+14 administrators reviewing school employee records maintained by the department. For
+15 the purposes of this paragraph, "authorized school administrator" means a
+16 superintendent or any individual the superintendent designates to have superintendent-
+17 level capabilities in the department's online credentialing system.
+18 E. Upon receipt from a school entity of the outcome of a covered investigation, the
+19 department shall:
+20 (1) If the investigation concludes with a finding that by a preponderance of the
+21 evidence the school employee committed misconduct, update the notation entered
+22 pursuant to paragraph D to reflect that finding; or
+23 (2) If the investigation concludes, after all appeal rights are exhausted, with a
+24 finding that the school employee did not commit misconduct, remove the notation
+25 entered pursuant to paragraph D.
+26 5. Confidentiality. The department may share information that is confidential
+27 pursuant to section 6101 or 13004 with a school entity in accordance with subsection 4. A
+28 school entity that receives confidential information shall maintain the confidentiality of that
+29 information.
+30 7. Certification hearing officers; immunity. The commissioner shall appoint a
+31 certification hearing officer for covered investigations. For the purposes of this section,
+32 while carrying out their official duties, certification hearing officers appointed pursuant to
+33 this subsection are considered state employees and are entitled to the immunity provided
+34 state employees under the Maine Tort Claims Act.
+35 8. Required disclosure of substantiated investigation regardless of agreement.
+36 Notwithstanding any confidentiality clause or any agreement between the school entity and
+37 a school employee, if, by a preponderance of the evidence, a school entity determines
+38 through its covered investigation pursuant to subsection 3 that a school employee
+39 committed misconduct, the information pertaining to that covered investigation and
+40 findings of misconduct must be disclosed to the department and to any school entity that
+41 requests that information.'
+42 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+43 section number to read consecutively.
+Page 3 - 132LR2853(05)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to S.P. 893, L.D. 2192
+1 SUMMARY
+22 This amendment amends Committee Amendment "A" as follows.
+3 1. It expands the definition of "covered investigation" of a school employee to include
+4 misconduct that is harassment as described in the Maine Revised Statutes, Title 5, chapter
+5 337-A; sexual assault as described in Title 17-A, chapter 11; stalking as described in Title
+6 17-A, section 210-A; sexual exploitation of a minor as described in Title 17-A, chapter 12;
+7 or similar behavior that endangers the health, safety or welfare of a student or another
+8 school employee. This definition captures misconduct of all school employees and captures
+9 misconduct of a school employee against another school employee, as well as misconduct
+10 against students.
+11 2. Upon receipt of a complaint of alleged misconduct, it requires a superintendent of
+12 a school entity to conduct a covered investigation, instead of a preliminary investigation,
+13 as required under Committee Amendment "A." The amendment retains the provisions of
+14 Committee Amendment "A" that provide that school entities must put anyone who is the
+15 subject of a covered investigation on paid leave, must complete covered investigations once
+16 they've begun, and superintendents must notify the Department of Education immediately
+17 of the outcome of a covered investigation.
+18 3. Upon receipt of notification from a school entity of the initiation of a covered
+19 investigation of a school employee, it requires the Department of Education to enter a
+20 notation on a school employee's educator credentialing records or other school employee
+21 records maintained by the department for that school employee indicating that a covered
+22 investigation is pending. The notation must be visible to superintendents and other school
+23 administrators authorized to review educator credentialing records and school employee
+24 records maintained by the department. Upon receipt from a school entity of the outcome of
+25 a covered investigation, the department shall update the notation on the school employee's
+26 file. If the school employee is found to have committed the misconduct, the department
+27 must update the notation to reflect that finding; if the school employee is found to have not
+28 committed the misconduct, the department must remove the notation from the file.
+29 4. It requires that prior to offering employment to an applicant, a school entity must
+30 review the applicant's educator credentialing records or other school employee records
+31 maintained by the department to determine whether the applicant holds a valid and active
+32 certification appropriate for the position or is otherwise eligible for employment and
+33 whether any notation regarding a covered investigation has been entered on the applicant's
+34 records, and, if so, the current status of that notation.
+35 5. It requires that, notwithstanding any confidentiality clause or any agreement
+36 between the school entity and a school employee, if, by a preponderance of the evidence,
+37 a school entity determines through its covered investigation that the school employee
+38 committed misconduct, the information pertaining to that covered investigation and
+Page 4 - 132LR2853(05)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to S.P. 893, L.D. 2192
+319 findings of misconduct must be disclosed to the department and to any school entity that
+420 requests that information.
+431 SPONSORED BY: ___________________________________
+442 (Senator RAFFERTY, J.)
+453 COUNTY: York
+Page 5 - 132LR2853(05)
+SENATE AMENDMENT

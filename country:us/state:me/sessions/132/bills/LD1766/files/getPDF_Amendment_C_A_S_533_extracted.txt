@@ -1,0 +1,628 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-533)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1766
+2 Date: (Filing No. S- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766, “An Act to Incorporate
+10 Probate Judges into the Maine Judicial Branch”
+11 Amend the bill in Part A by inserting after section 1 the following:
+12 'Sec. A-2. Transition. The Supreme Judicial Court and the Chief Justice of the
+13 Supreme Judicial Court shall oversee the process described in this Act for transitioning
+14 from a system of elected county Probate Court Judges to a system of appointed state
+15 Probate Court Judges, including by issuing any necessary administrative orders or adopting
+16 or amending any applicable procedural or ethical rules.
+17 Sec. A-3. Report. By January 15, 2028, the Supreme Judicial Court shall submit a
+18 report to the joint standing committee of the Legislature having jurisdiction over judiciary
+19 matters containing:
+20 1. Information on progress made in planning for the establishment of a Probate Court
+21 with full-time state judges on January 1, 2029, including but not limited to plans for
+22 integration of the new judicial positions in the judicial branch, proposed use of existing
+23 state or county facilities for probate proceedings and proposed amendments to applicable
+24 procedural or ethical rules governing Probate Court proceedings and Probate Court Judges;
+25 and
+26 2. An evaluation of the advisability and feasibility of transferring the functions and
+27 staff of the county registries of probate into the judicial branch in a manner that preserves
+28 the efficient administration of justice and the ability of members of the public to pursue
+29 informal probate proceedings without an attorney, including by preserving public access to
+30 registry staff on a regular basis within each of the 16 counties of the State; preserving the
+31 ability of registry staff to assist members of the public in drafting applications, petitions or
+32 sworn statements in informal probate proceedings as described in the Maine Revised
+33 Statutes, Title 18-C, section 1-510, subsection 2; and preserving the quasi-judicial authority
+34 of registry staff in informal probate proceedings pursuant to the Maine Uniform Probate
+35 Code.'
+Page 1 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+1 Amend the bill in Part B by striking out all of sections 11 and 12 and inserting the
+2 following:
+3 'Sec. B-11. 4 MRSA §201-A is enacted to read:
+4 §201-A. Establishment; court of record; seal; process; contempt power
+5 1. Definition. As used in this Title, unless the context otherwise indicates, "Probate
+6 Court" includes:
+7 A. Prior to January 1, 2031, each county Probate Court for which the term of the
+8 county's Probate Court Judge elected or appointed under the Constitution of Maine,
+9 former Article VI, Section 6 or elected under section 301-A, subsection 1 has not yet
+10 expired. This paragraph does not include any county Probate Court in which a vacancy
+11 occurs after January 1, 2029 due to the death, resignation, removal from the county or
+12 permanent incapacity as defined in Title 30-A, section 1, subsection 2-A of a county
+13 Probate Court Judge elected under section 301-A, subsection 1, paragraph C; and
+14 B. Beginning January 1, 2029, the Probate Court established under subsection 2,
+15 paragraph B that serves:
+16 (1) York, Kennebec, Somerset and Aroostook counties; and
+17 (2) Each county in which a vacancy occurs after January 1, 2029 due to the death,
+18 resignation, removal from the county or permanent incapacity as defined in Title
+19 30-A, section 1, subsection 2-A of the county Probate Court Judge elected under
+20 section 301-A, subsection 1, paragraph C.
+21 2. Establishment; court of record; seal. The provisions of this section govern the
+22 Probate Court.
+23 A. Each county Probate Court described in subsection 1, paragraph A, as heretofore
+24 established, is a court of record. The Register of Probate shall maintain custody of the
+25 official seal of the county Probate Court.
+26 B. A Probate Court for the State is established on January 1, 2029 as a court of record
+27 in the counties described in subsection 1, paragraph B. The Chief Judge of the Probate
+28 Court shall establish the official seal of the court and provide the official seal to the
+29 Register of Probate in each county described in subsection 1, paragraph B.
+30 3. Process; contempt power. The Probate Court may issue any process necessary for
+31 the discharge of official duties and may punish for contempt of the court's authority.
+32 Sec. B-12. 4 MRSA §202, as amended by PL 2025, c. 168, §1, is further amended
+33 to read:
+34 §202. Oaths and acknowledgments
+35 All oaths required to be taken by personal representatives, trustees, guardians, or
+36 conservators, or of any other persons in relation to any proceeding in the probate court
+37 Probate Court, or to perpetuate the evidence of the publication of any order of notice, may
+38 be administered by the judge Probate Court Judge or register of probate Register of Probate
+39 or any notary public. A certificate thereof, when taken out of court, must be returned into
+40 the registry of probate and there filed. When any person of whom such oath is required,
+41 excluding any parent executing a surrender and release or a consent under Title 18‑C,
+42 section 9‑202, resides temporarily or permanently outside the State, the oath or
+Page 2 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+413 acknowledgment may be taken before and be certified by a notary public outside the State
+424 in another state, a commissioner for the State of Maine or a United States Consul.'
+3 Amend the bill in Part B by striking out all of section 19 and inserting the following:
+4 'Sec. B-19. 4 MRSA §301-A is enacted to read:
+5 §301-A. Judges; election or appointment; term; qualifications; salary; expenses; full-
+6 time duties
+7 1. Election; term. Probate Court Judges are elected to the county Probate Courts
+8 described in section 201-A, subsection 2, paragraph A as follows.
+9 A. A county Probate Court Judge elected or appointed under the Constitution of Maine,
+10 former Article VI, Section 6 may serve until the expiration of that judge's term of office.
+11 (1) A vacancy occurring during the term of a county Probate Court Judge elected
+12 on November 8, 2022 due to the death, resignation, removal from the county or
+13 permanent incapacity as defined in Title 30-A, section 1, subsection 2-A of the
+14 judge may be filled by the Governor by appointment. In the case of a vacancy in
+15 the term of a county Probate Court Judge who was nominated by primary election
+16 before the general election, the individual appointed by the Governor to fill the
+17 vacancy must be enrolled in the same political party as the judge whose term is
+18 vacant. In making the appointment, the Governor shall choose from any
+19 recommendations submitted to the Governor by the county committee of the
+20 political party from which the appointment is to be made. The term of the
+21 successor judge appointed by the Governor under this subparagraph ends on
+22 December 31, 2026.
+23 (2) A vacancy occurring during the term of a county Probate Court Judge elected
+24 on November 5, 2024 due to the death, resignation, removal from the county or
+25 permanent incapacity as defined in Title 30-A, section 1, subsection 2-A of the
+26 judge must be filled by the Governor by appointment. In the case of a vacancy in
+27 the term of a county Probate Court Judge who was nominated by primary election
+28 before the general election, the individual appointed by the Governor to fill the
+29 vacancy must be enrolled in the same political party as the judge whose term is
+30 vacant. In making the appointment, the Governor shall choose from any
+31 recommendations submitted to the Governor by the county committee of the
+32 political party from which the appointment is to be made. The term of the
+33 successor judge appointed by the Governor under this subparagraph ends on
+34 December 31, 2028.
+35 B. A county Probate Court Judge must be elected in Cumberland, Androscoggin,
+36 Franklin, Penobscot, Knox, Hancock and Washington counties by a plurality of the
+37 votes cast in the respective county at an election on the Tuesday following the first
+38 Monday of November in 2026, for a term of office of 4 years, commencing January 1,
+39 2027. Vacancies occurring in offices governed by this paragraph due to the death,
+40 resignation, removal from the county or permanent incapacity as defined in Title 30-A,
+41 section 1, subsection 2-A of the county Probate Court Judge may be filled by special
+42 election as provided in Title 21-A, section 366; in the meantime, the Governor may fill
+43 such a vacancy by appointment. In the case of a vacancy in the term of a county Probate
+44 Court Judge who was nominated by primary election before the general election, the
+Page 3 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+415 individual appointed by the Governor to fill the vacancy must be enrolled in the same
+426 political party as the judge whose term is vacant. In making the appointment, the
+437 Governor shall choose from any recommendations submitted to the Governor by the
+448 county committee of the political party from which the appointment is to be made. The
+459 term of the successor elected at a special election or appointed by the Governor under
+560 this paragraph ends on December 31, 2030.
+7 C. A county Probate Court Judge must be elected in Lincoln, Oxford, Piscataquis,
+8 Sagadahoc and Waldo counties by a plurality of the votes cast in the respective county
+9 at an election on the Tuesday following the first Monday of November in 2028 for a
+10 term of office of 2 years, commencing January 1, 2029. Vacancies occurring in offices
+11 governed by this paragraph due to the death, resignation, removal from the county or
+12 permanent incapacity as defined in Title 30-A, section 1, subsection 2-A of the county
+13 Probate Court Judge may not be filled.
+14 2. Appointment; term. Probate Court Judges are appointed to the state Probate Court
+15 established in section 201-A, subsection 2, paragraph B as follows.
+16 A. The Governor, subject to review by the joint standing committee of the Legislature
+17 having jurisdiction over judiciary matters and to confirmation by the Legislature, shall
+18 appoint 4 judges for terms that commence no earlier than January 1, 2029. Each Probate
+19 Court Judge appointed under this paragraph has a term of office of 7 years.
+20 B. Beginning January 1, 2029, if the Chief Justice of the Supreme Judicial Court
+21 determines that the number of Probate Court Judges appointed under paragraph A is
+22 insufficient to provide for the efficient administration of justice in the Probate Court
+23 established in section 201-A, subsection 2, paragraph B, the Chief Justice may request
+24 that the Governor appoint an additional judge. Upon receipt of a request from the Chief
+25 Justice under this paragraph, the Governor, subject to review by the joint standing
+26 committee of the Legislature having jurisdiction over judiciary matters and to
+27 confirmation by the Legislature, may appoint an additional judge to the Probate Court
+28 established in section 201-A, subsection 2, paragraph B. In no event may more than 9
+29 Probate Court Judges be appointed to the Probate Court established in section 201-A,
+30 subsection 2, paragraph B. Each Probate Court Judge appointed under this paragraph
+31 has a term of office of 7 years.
+32 3. Qualifications. To be eligible for election or appointment as a Probate Court Judge,
+33 an individual must be a member of the bar of the State.
+34 4. Salary; expenses. Each Probate Court Judge elected under subsection 1 or elected
+35 or appointed under the Constitution of Maine, former Article VI, Section 6 is entitled to
+36 receive an annual salary as established by the judge's county pursuant to Title 30-A, chapter
+37 3 and the fees provided in section 304. Beginning January 1, 2029 and except as provided
+38 in subsection 5 for the Chief Judge of the Probate Court, each Probate Court Judge
+39 appointed under subsection 2 is entitled to receive a salary equivalent to the salary of an
+40 Associate Judge of the District Court under section 157, subsections 4 and 4-A and to
+41 reimbursement by the State for expenses to the same extent that a District Court Judge is
+42 entitled to reimbursement by the State for expenses under section 157, subsection 5.
+43 5. Designation of Chief Judge; salary; expenses. Beginning January 1, 2029, the
+44 Chief Justice of the Supreme Judicial Court shall designate one Probate Court Judge
+45 appointed under subsection 2 as the Chief Judge of the Probate Court. The Chief Judge is
+Page 4 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+416 entitled to receive a salary equivalent to the salary of the Chief Judge of the District Court
+427 under section 157, subsection 2 and to reimbursement by the State for expenses to the same
+438 extent that a District Court Judge is entitled to reimbursement by the State for expenses
+449 under section 157, subsection 5.
+5 6. Full-time duties. Beginning January 1, 2029, a Probate Court Judge appointed
+6 under subsection 2 shall devote full time to that Probate Court Judge's judicial duties.
+7 During that Probate Court Judge's term of office, that judge may not practice law or be the
+8 partner or associate of any person in the practice of law.
+9 7. Exception. Subsection 6 does not apply to a county Probate Court Judge elected
+10 under subsection 1 or elected or appointed under the Constitution of Maine, former Article
+11 VI, Section 6.'
+12 Amend the bill in Part B in section 38 in §757 by striking out all of subsection 2 (page
+13 14, line 10 in L.D.) and inserting the following:
+14 '2. Repeal. This subchapter is repealed January 1, 2031.'
+15 Amend the bill in Part B by striking out all of section 39 and inserting the following:
+16 'Sec. B-39. 18-C MRSA §1-201, sub-§8, as enacted by PL 2017, c. 402, Pt. A, §2
+17 and affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+18 8. Court. "Court" Prior to January 1, 2031, "court" means any one of the several
+19 courts of probate of this State established as provided in Title 4, sections 201 and 202
+20 section 201-A, subsection 2.
+21 This subsection is repealed January 1, 2031.'
+22 Amend the bill in Part B in section 41 in §1-309 by striking out all of the 2nd indented
+23 paragraph (page 14, line 39 in L.D.) and inserting the following:
+24 'This section is repealed January 1, 2031.'
+25 Amend the bill in Part B by striking out all of section 44 and inserting the following:
+26 'Sec. B-44. 18-C MRSA §1-510, sub-§1, ¶B, as enacted by PL 2017, c. 402, Pt.
+27 A, §2 and affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+28 B. Be an administrator, guardian, commissioner of insolvency, appraiser or divider of
+29 an estate, in a case within the jurisdiction of the court of located in the county in which
+30 the register is register, except as provided in Title 4, section 307, or be in any manner
+31 interested in the fees and emoluments arising from such an estate in that capacity; or.
+32 This paragraph is repealed January 1, 2031; or'
+33 Amend the bill in Part C in section 16 in subsection 12 by striking out all of the first
+34 blocked paragraph (page 21, line 27 in L.D.) and inserting the following:
+35 'This subsection is repealed January 1, 2031.'
+36 Amend the bill in Part C by striking out all of sections 20 to 25 and inserting the
+37 following:
+38 'Sec. C-20. 4 MRSA §1802, sub-§4, ¶B, as amended by PL 2025, c. 511, §1, is
+39 further amended to read:
+Page 5 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+1 B. Legal representation provided to an indigent party in a civil case in which the United
+2 States Constitution or the Constitution of Maine or federal or state law, except any
+3 provision of Title 18-C, requires that the State provide representation;
+4 Sec. C-21. 4 MRSA §1802, sub-§4, ¶B-1 is enacted to read:
+5 B-1. Legal representation provided under the Maine Uniform Probate Code in the
+6 following circumstances:
+7 (1) In a guardianship, conservatorship or other protective arrangement proceeding,
+8 legal representation provided to an indigent adult or minor respondent for whom
+9 counsel was appointed by the court;
+10 (2) In a guardianship, conservatorship or other protective arrangement proceeding
+11 involving a minor respondent, legal representation provided to an indigent parent,
+12 guardian or petitioner for whom counsel was appointed by the court; and
+13 (3) Legal representation provided to an indigent parent in an adoption proceeding
+14 for whom counsel was appointed by the court or to an indigent party or minor
+15 adoptee in a proceeding for annulment of an adoption decree for whom counsel
+16 was appointed by the court;
+17 Sec. C-22. 4 MRSA §1802, sub-§4, ¶D, as amended by PL 2025, c. 511, §1, is
+18 further amended to read:
+19 D. Legal representation provided to an indigent defendant or party or a juvenile for the
+20 purpose of filing, on behalf of that indigent defendant or party or juvenile, a petition
+21 for certiorari to the Supreme Court of the United States from an adverse decision of the
+22 Law Court on a case for which services were previously provided to that defendant or
+23 party or juvenile pursuant to paragraph A, B, B-1 or C; and
+24 Sec. C-23. 4 MRSA §1802, sub-§6 is enacted to read:
+25 6. Register. "Register" has the same meaning as in Title 18-C, section 1-201,
+26 subsection 48.'
+27 Amend the bill in Part C in section 28 in c. 41 in §2001 by striking out all of subsection
+28 1 (page 24, lines 5 to 7 in L.D.) and inserting the following:
+29 '1. Court. Prior to January 1, 2031, "court" means the state Probate Court established
+30 in section 201-A, subsection 2, paragraph B. Beginning January 1, 2031, "court" means
+31 the Probate Court established in section 407, subsection 1.'
+32 Amend the bill in Part C in section 30 in §1-112 in subsection 1 in paragraph A by
+33 striking out all of the first blocked paragraph (page 26, line 31 in L.D.) and inserting the
+34 following:
+35 'This paragraph is repealed January 1, 2031.'
+36 Amend the bill in Part C in section 30 in §1-112 in subsection 1 by striking out all of
+37 paragraph B (page 26, lines 32 and 33 in L.D.) and inserting the following:
+38 'B. Beginning January 1, 2031, the judicial branch shall pay the public expense portion
+39 of the fees.'
+40 Amend the bill in Part C by inserting after section 30 the following:
+Page 6 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+1 'Sec. C-31. 18-C MRSA §1-305, as enacted by PL 2017, c. 402, Pt. A, §2 and
+2 affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+3 §1-305. Records and certified copies; judicial supervision
+4 The register shall maintain records and files and provide copies of documents as
+5 provided in sections 1‑501 to 1‑511 and further records and copies as the Supreme Judicial
+6 Court may by rule provide. The register is subject to the supervision and authority of the
+7 judge of the court elected Probate Court Judge in the county or, if there is no elected Probate
+8 Court Judge, a state Probate Court Judge appointed under Title 4, section 301-A, subsection
+9 2 who has been assigned by the Chief Judge of the Probate Court to preside over probate
+10 proceedings in the county in which the register serves.
+11 This section is repealed January 1, 2031.
+12 Sec. C-32. 18-C MRSA §1-506, as enacted by PL 2017, c. 402, Pt. A, §2 and
+13 affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+14 §1-506. Deputy register of probate
+15 A register may appoint a deputy register for the county, subject to the requirements of
+16 Title 30‑A, section 501. The deputy register may perform any of the duties prescribed by
+17 law to be performed by the register. The signature of the deputy register has the same force
+18 and effect as the signature of the register. The deputy register shall give bond to the county
+19 for the faithful discharge of the deputy register's duties in the same sum and in the same
+20 manner as the register. The deputy register shall act as register in the event of a vacancy
+21 or absence of the register, until the register resumes the register's duties or another person
+22 is qualified as register. The deputy register is entitled to receive an annual salary
+23 established by the register and approved by the county commissioners.
+24 In the case of an absence of the register in a county where a deputy register has not
+25 been appointed or in the case of a vacancy in the office of register due to death, resignation
+26 or any other cause, the judge elected Probate Court Judge in the county or, if there is no
+27 elected Probate Court Judge, a state Probate Court Judge appointed under Title 4, section
+28 301-A, subsection 2 who has been assigned by the Chief Judge of the Probate Court to
+29 preside over probate proceedings in the county shall appoint a suitable person to act as
+30 register pro tempore until the register resumes the duties of office or another person is
+31 qualified as register. A register pro tempore must be sworn and, if the judge requires it,
+32 shall give bond as in the case of the register.
+33 This section is repealed January 1, 2031.
+34 Sec. C-33. 18-C MRSA §1-507, as enacted by PL 2017, c. 402, Pt. A, §2 and
+35 affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+36 §1-507. Inspection of register's conduct of office
+37 A judge The elected Probate Court Judge in the county or, if there is no elected Probate
+38 Court Judge, a state Probate Court Judge appointed under Title 4, section 301-A, subsection
+39 2 who has been assigned by the Chief Judge of the Probate Court to preside over probate
+40 proceedings in the county shall constantly inspect the conduct of the register with respect
+41 to the register's records and duties and give information in writing of any breach of the
+42 register's bond to the treasurer of the county, who shall bring a civil action. Any funds
+43 recovered in the civil action must be applied toward the expenses of completing the records
+Page 7 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+414 of the register under the direction of the judge and the surplus, if any, must inure to the
+425 county. If the funds are insufficient, the treasurer may recover the deficiency from the
+436 register in a civil action.
+4 This section is repealed January 1, 2031.
+5 Sec. C-34. 18-C MRSA §1-508, as enacted by PL 2017, c. 402, Pt. A, §2 and
+6 affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+7 §1-508. Register incapable or neglects duties
+8 When a register is unable to perform or neglects the duties of the office, the judge shall
+9 certify the register's inability or neglect to the county treasurer, the time of the
+10 commencement and termination of the inability or neglect and the name of the person who
+11 has performed the duties for that time period. The treasurer shall pay the person named by
+12 the judge a salary in proportion to the time that the person has performed the duties of the
+13 register and the amount must be deducted from the register's salary. For purposes of this
+14 section, "judge" means the elected Probate Court Judge in the county or, if there is no
+15 elected Probate Court Judge, a state Probate Court Judge appointed under Title 4, section
+16 301-A, subsection 2 who has been assigned by the Chief Judge of the Probate Court to
+17 preside over probate proceedings in the county.
+18 This section is repealed January 1, 2031.'
+19 Amend the bill in Part C in section 31 in §1-605 in subsection 2 in paragraph A by
+20 striking out all of the first blocked paragraph (page 27, line 9 in L.D.) and inserting the
+21 following:
+22 'This paragraph is repealed January 1, 2031.'
+23 Amend the bill in Part C in section 31 in §1-605 in subsection 2 by striking out all of
+24 paragraph B (page 27, line 10 in L.D.) and inserting the following:
+25 'B. Beginning January 1, 2031, the State shall pay the cost of the transcript.'
+26 Amend the bill in Part C in section 31 in §1-605 in subsection 3 in paragraph A by
+27 striking out all of the first blocked paragraph (page 27, line 21 in L.D.) and inserting the
+28 following:
+29 'This paragraph is repealed January 1, 2031.'
+30 Amend the bill in Part C in section 31 in §1-605 in subsection 3 by striking out all of
+31 paragraph B (page 27, lines 22 and 23 in L.D.) and inserting the following:
+32 'B. Beginning January 1, 2031, the court may order the State to pay all or part of the
+33 reporter's fees.'
+34 Amend the bill in Part C by striking out all of sections 32 to 42 and inserting the
+35 following:
+36 'Sec. C-32. 18-C MRSA §5-119, sub-§1, as amended by PL 2025, c. 511, §3, is
+37 further amended to read:
+38 1. Attorney for respondent. Unless the court has made a finding that the respondent
+39 is indigent and has appointed an attorney for the respondent on that basis, an attorney for a
+40 respondent in a proceeding under this Act is entitled to reasonable compensation and
+41 reimbursement of reasonable expenses from the property of the respondent. If the court
+Page 8 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+412 has made a finding that the respondent is indigent and has appointed an attorney for the
+423 respondent on that basis, the court shall provide reasonable compensation to and reimburse
+434 the reasonable expenses of the attorney the attorney's fees must be paid by the Maine
+445 Commission on Public Defense Services pursuant to Title 4, chapter 37.
+5 Sec. C-33. 18-C MRSA §5-205, sub-§4, as amended by PL 2025, c. 511, §4, is
+6 further amended to read:
+7 4. Appointment of counsel. A nonconsenting parent whose parental rights have not
+8 been terminated is entitled to court-appointed legal counsel if indigent. In a contested
+9 action, the court may also appoint counsel for any indigent guardian or petitioner when a
+10 parent or legal custodian has counsel. The court Pursuant to Title 4, chapter 37, the Maine
+11 Commission on Public Defense Services shall provide reasonable compensation to and
+12 reimburse the reasonable expenses of an attorney appointed to represent an indigent party
+13 under this subsection.
+14 Sec. C-34. 18-C MRSA §5-205, sub-§5, as amended by PL 2025, c. 511, §5, is
+15 further amended to read:
+16 5. Attorney for a minor; notice to minor. If the court determines at any stage of the
+17 proceeding, before or after appointment, that the interests of the minor are or may be
+18 inadequately represented, the court may appoint an attorney to represent the minor, giving
+19 consideration to the choice of the minor if the minor has attained 14 years of age. The court
+20 shall provide reasonable compensation to and reimburse the reasonable expenses of an
+21 attorney appointed for the minor under this subsection. If the court finds that the minor is
+22 indigent, the fees of an attorney appointed under this subsection must be paid by the Maine
+23 Commission on Public Defense Services pursuant to Title 4, chapter 37. A minor may
+24 appear with or through counsel, but the court is not restricted from requiring the minor to
+25 be present for some or all of a hearing or other proceeding. A minor 14 years of age or
+26 older must receive notice of any proceeding subsequent to the appointment of a guardian
+27 through the same means as required for any other party, and the minor may consent, object
+28 or otherwise participate in the proceeding.
+29 Sec. C-35. 18-C MRSA §5-210, sub-§1, as amended by PL 2025, c. 511, §6, is
+30 further amended to read:
+31 1. Modification of guardianship order. A guardian of a minor, a parent of a minor,
+32 a person interested in the welfare of a minor or the minor, if 14 years of age or older, may
+33 file a motion asking the court to modify the terms of an order appointing a guardian or to
+34 take other action in the best interest of the minor as circumstances require. The motion
+35 must be filed with the court and served on all parties entitled to notice. In a contested
+36 action, the court may appoint counsel for the minor or for any indigent guardian or parent.
+37 If the court appoints counsel for a minor or an indigent guardian or parent under this
+38 subsection, the court Maine Commission on Public Defense Services shall provide
+39 reasonable compensation to and reimburse the reasonable expenses of the attorney pursuant
+40 to Title 4, chapter 37. Unless the motion specifies that it is filed with the consent of all
+41 parties entitled to notice, the matter must be set for hearing to determine whether there has
+42 been a substantial change in circumstances necessitating modification of the order and how
+43 the court should modify the order in furtherance of the best interest of the minor and the
+44 parent's rights. The court may identify certain requirements that must be met before
+45 specific provisions of the order are modified. A court may modify a term of a guardianship
+Page 9 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+416 order as needed to grant relief to a party to address contempt or other failure to follow the
+427 order.
+3 Sec. C-36. 18-C MRSA §5-210, sub-§7, as amended by PL 2025, c. 511, §7, is
+4 further amended to read:
+5 7. Parent's petition to terminate guardianship; burden of proof. A parent may
+6 bring a petition to terminate the guardianship of a minor. A parent's notification to the
+7 court of the revocation of prior consent for a guardianship must be considered a petition to
+8 terminate the guardianship. Before the court may apply the termination requirements in
+9 subsection 6, a party opposing a parent's petition to terminate a guardianship bears the
+10 burden of proving by clear and convincing evidence that the parent seeking to terminate
+11 the guardianship is currently unfit to regain custody of the minor, in accordance with the
+12 standard set forth in section 5‑204, subsection 2, paragraph C. If the party opposing
+13 termination of the guardianship fails to meet its burden of proof on the question of the
+14 parent's fitness to regain custody, the court shall terminate the guardianship and make any
+15 further order that may be appropriate. In a contested action, the court may appoint counsel
+16 for the minor or for any indigent guardian or parent. If the court appoints counsel for a
+17 minor or an indigent guardian or parent under this subsection, the court shall provide
+18 reasonable compensation to and reimburse the reasonable expenses of the attorney. If the
+19 court finds that the minor, guardian or parent for whom an attorney appointed under this
+20 subsection is indigent, the appointed attorney’s fees must be paid by the Maine
+21 Commission on Public Defense Services pursuant to Title 4, chapter 37. In ruling on a
+22 petition to terminate a guardianship, the court may modify the terms of the guardianship or
+23 order transitional arrangements pursuant to section 5‑211.
+24 Sec. C-37. 18-C MRSA §5-305, sub-§3 is enacted to read:
+25 3. Payment. Section 5-119, subsection 1 governs payment of an attorney appointed
+26 by the court to represent a respondent under this section.
+27 Sec. C-38. 18-C MRSA §5-406, sub-§3, as amended by PL 2025, c. 511, §9, is
+28 further amended by amending the first blocked paragraph to read:
+29 If the court appoints counsel for a parent under this subsection and makes a finding that the
+30 parent is indigent, the court shall provide reasonable compensation to and reimburse the
+31 reasonable expenses of the attorney appointed attorney’s fees must be paid by the Maine
+32 Commission on Public Defense Services pursuant to Title 4, chapter 37.
+33 Sec. C-39. 18-C MRSA §5-507, sub-§3, as amended by PL 2025, c. 511, §11, is
+34 further amended by amending the first blocked paragraph to read:
+35 If the court appoints counsel for a parent under this subsection and makes a finding that the
+36 parent is indigent, the court shall provide reasonable compensation to and reimburse the
+37 reasonable expenses of the attorney appointed attorney’s fees must be paid by the Maine
+38 Commission on Public Defense Services pursuant to Title 4, chapter 37.
+39 Sec. C-40. 18-C MRSA §9-106, as amended by PL 2025, c. 511, §§12 and 13, is
+40 further amended to read:
+41 §9-106. Legal representation
+42 1. Attorney for parents. The parents are entitled to an attorney for any hearing held
+43 pursuant to this Article. If a parent or putative parent wants an attorney but is unable to
+Page 10 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+414 afford one, the parent or the putative parent may request the court to appoint an attorney.
+425 If the court finds the requesting party indigent, the court shall appoint and provide
+436 reasonable compensation to and reimburse the reasonable expenses of the attorney of the
+447 indigent party an attorney and the attorney's fees must be paid by the Maine Commission
+458 on Public Defense Services pursuant to Title 4, chapter 37. The attorney may not be the
+469 attorney for the adoptive parents.
+7 2. Attorney for minor indigent parent. When the adoptee is unrelated to the
+8 petitioner, the court shall appoint an attorney who is not the attorney for the adoptive
+9 parents to represent a minor indigent parent at every stage of the proceedings unless the
+10 minor indigent parent refuses representation or the court determines that representation is
+11 unnecessary. If the court appoints counsel for a minor indigent parent under this
+12 subsection, the court shall provide reasonable compensation to and reimburse the
+13 reasonable expenses of the attorney. The fees of an attorney appointed for a minor indigent
+14 parent under this subsection must be paid by the Maine Commission on Public Defense
+15 Services pursuant to Title 4, chapter 37.
+16 Sec. C-41. 18-C MRSA §9-315, sub-§1, ¶A, as amended by PL 2025, c. 511,
+17 §14, is further amended to read:
+18 A. If the adoptee is a minor, the court shall appoint a guardian ad litem on behalf of
+19 the minor adoptee and shall consider the best interest of the child, taking into account
+20 the factors set forth in Title 19‑A, section 1653, subsection 3. The court shall sustain
+21 the decree unless there is clear and convincing evidence of one or more bases for
+22 annulment and that the decree is not in the best interest of the child. The court may
+23 allocate the costs of the guardian ad litem to one or more of the parties or, if the parties
+24 are indigent, the court shall pay the reasonable costs and expenses of the guardian ad
+25 litem.
+26 The court may allocate the costs of the guardian ad litem to one or more of the parties
+27 and may appoint counsel for a minor adoptee or a party to the annulment proceedings.
+28 If the court appoints counsel for a minor or an indigent party under this paragraph, the
+29 court shall provide reasonable compensation to and reimburse the reasonable expenses
+30 of the attorney finds that the minor adoptee or the party for whom counsel is appointed
+31 under this paragraph is indigent, the appointed attorney’s fees must be paid by the
+32 Maine Commission on Public Defense Services pursuant to Title 4, chapter 37. A minor
+33 adoptee may appear and be represented by counsel.'
+34 Amend the bill in Part C in section 43 in the first line (page 30, line 7 in L.D.) by
+35 striking out the following: "2027" and inserting the following: '2029'
+36 Amend the bill in Part D in section 2 in c. 7-A in §420 by striking out all of subsection
+37 4 (page 37, lines 40 and 41 and page 38, lines 1 to 5 in L.D.) and inserting the following:
+38 '4. Appointments; convening of commission. All appointments must be made no
+39 later than January 1, 2033. The appointing authorities shall notify the Executive Director
+40 of the Legislative Council once all appointments have been completed. After appointment
+41 of all members, the chairs shall call and convene the first meeting of the commission. If
+42 30 days or more after January 1, 2033 a majority of but not all appointments have been
+43 made, the chairs may request authority and the Legislative Council may grant authority for
+44 the commission to meet and conduct its business.'
+Page 11 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+1 Amend the bill in Part D in section 2 in c. 7-A in §420 by striking out all of subsection
+2 9 (page 38, lines 42 to 44 and page 39, lines 1 and 2 in L.D.) and inserting the following:
+3 '9. Report. No later than December 31, 2033, the commission shall submit a report
+4 that includes its findings and recommendations, which may include suggested legislation,
+5 for presentation to the joint standing committee of the Legislature having jurisdiction over
+6 judiciary matters. The joint standing committee may report out legislation related to the
+7 report to the Second Regular Session of the 136th Legislature.'
+8 Amend the bill in Part D in section 2 in c. 7-A in §420 by striking out all of subsection
+9 10 (page 39, line 3 in L.D.) and inserting the following:
+10 '10. Repeal. This section is repealed June 1, 2034.'
+11 Amend the bill in Part D by striking out all of section 5 and inserting the following:
+12 'Sec. D-5. 18-C MRSA §1-305-A is enacted to read:
+13 §1-305-A. Records and certified copies; judicial supervision
+14 The register shall maintain records and files and provide copies of documents as
+15 provided in sections 1-501 to 1-511 and further records and copies as the Supreme Judicial
+16 Court may by rule provide. The register is subject to the supervision and authority of the
+17 judge assigned by the Chief Judge of the Probate Court under Title 4, section 413,
+18 subsection 2 as the primary Probate Court Judge in the region in which the register serves.'
+19 Amend the bill in Part D by striking out all of sections 7 and 8 and inserting the
+20 following:
+21 'Sec. D-7. 18-C MRSA §1-506-A is enacted to read:
+22 §1-506-A. Deputy register of probate
+23 A register may appoint a deputy register for the county, subject to the requirements of
+24 Title 30-A, section 501. The deputy register may perform any of the duties prescribed by
+25 law to be performed by the register. The signature of the deputy register has the same effect
+26 as the signature of the register. The deputy register shall give bond to the county for the
+27 faithful discharge of the deputy register's duties in the same sum and in the same manner
+28 as the register. The deputy register shall act as register in the event of a vacancy or absence
+29 of the register, until the register resumes the register's duties or another person is qualified
+30 as register. The deputy register is entitled to receive an annual salary established by the
+31 register and approved by the county commissioners.
+32 In the case of an absence of the register in a county where a deputy register has not
+33 been appointed or in the case of a vacancy in the office of register due to death, resignation
+34 or any other cause, the judge assigned by the Chief Judge of the Probate Court under Title
+35 4, section 413, subsection 2 as the primary Probate Court Judge in the region shall appoint
+36 a suitable person to act as register pro tempore until the register resumes the duties of office
+37 or another person is qualified as register. A register pro tempore must be sworn and, if the
+38 judge requires it, shall give bond as in the case of the register.
+39 Sec. D-8. 18-C MRSA §1-507-A is enacted to read:
+40 §1-507-A. Inspection of register's conduct of office
+Page 12 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+1 The judge assigned by the Chief Judge of the Probate Court under Title 4, section 413,
+2 subsection 2 as the primary Probate Court Judge in the region shall constantly inspect the
+3 conduct of the register with respect to the register's records and duties and give information
+4 in writing of any breach of the register's bond to the treasurer of the county, who shall bring
+5 a civil action. Any funds recovered in the civil action must be applied toward the expenses
+6 of completing the records of the register under the direction of the judge, and the surplus,
+7 if any, must inure to the county. If the funds are insufficient, the treasurer may recover the
+8 deficiency from the register in a civil action.
+9 Sec. D-9. 18-C MRSA §1-508-A is enacted to read:
+10 §1-508-A. Register incapable or neglects duties
+11 When a register is unable to perform or neglects the duties of the office, the judge shall
+12 certify the register's inability or neglect to the county treasurer, the time of the
+13 commencement and termination of the inability or neglect and the name of the person who
+14 has performed the duties for that time period. The treasurer shall pay the person named by
+15 the judge a salary in proportion to the time that the person has performed the duties of the
+16 register and the amount must be deducted from the register's salary. For purposes of this
+17 section, “judge” means the judge assigned by the Chief Judge of the Probate Court under
+18 Title 4, section 413, subsection 2 as the primary Probate Court Judge in the region.'
+19 Amend the bill in Part D in section 12 in the 3rd line (page 40, line 25 in L.D.) by
+20 striking out the following: "2029" and inserting the following: '2031'
+21 Amend the bill in Part D in section 13 in the first line (page 40, line 28 in L.D.) by
+22 striking out the following: "2029" and inserting the following: '2031'
+23 Amend the bill by inserting after Part D the following:
+24 'PART E
+25 Sec. E-1. Appropriations and allocations. The following appropriations and
+26 allocations are made.
+27 JUDICIAL DEPARTMENT
+28 Courts - Supreme, Superior and District 0063
+29 Initiative: Establishes one Process Specialist position and one Project Manager position
+30 and provides funding for related All Other costs.
+31 GENERAL FUND 2025-26 2026-27
+32 POSITIONS - LEGISLATIVE COUNT 0.000 2.000
+33 Personal Services $0 $405,174
+34 All Other $0 $16,720
+35 __________ __________
+36 GENERAL FUND TOTAL $0 $421,894
+3371 '
+38 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+39 number to read consecutively.
+Page 13 - 132LR1103(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 684, L.D. 1766
+1 SUMMARY
+22 This amendment, which is the majority report of the committee, delays by 2 years the
+33 proposed transition from part-time, elected county Probate Judges to full-time, appointed
+44 state Probate Judges. Under the amendment, on January 1, 2029, the first cohort of 4 full-
+55 time state Probate Judges appointed by the Governor and confirmed by the Legislature will
+66 begin presiding over probate proceedings in York, Kennebec, Somerset and Aroostook
+77 counties. On January 1, 2031, the state Probate Court will operate statewide, presided over
+88 by 9 full-time state Probate Judges appointed by the Governor and confirmed by the
+99 Legislature, one of whom will be assigned by the Chief Judge of the Probate Court to serve
+1100 as the primary judge in each court region of the State. The amendment also recognizes the
+1111 authority of the Supreme Judicial Court and the Chief Justice of the Supreme Judicial Court
+1122 to oversee the transition from part-time, elected county Probate Judges to full-time,
+1133 appointed state Probate Judges, including by issuing any necessary administrative orders
+1144 or adopting or amending any applicable procedural or ethical rules.
+15 The amendment clarifies that during the transition period, in the counties no longer
+16 served by an elected county Probate Judge, the statutory supervisory duties of the county
+17 Probate Judge must be assumed by a state Probate Judge assigned by the Chief Judge of
+18 the Probate Court to preside over probate proceedings in that county. Beginning January
+19 1, 2031, these statutory supervisory duties will be assumed in each county by the Probate
+20 Judge assigned by the Chief Judge of the Probate Court to serve as the primary judge in
+21 that region of the State.
+22 The amendment also incorporates an appropriations and allocations section and makes
+23 technical changes to the provisions of the bill affected by the enactment of Public Law
+24 2025, chapter 511.
+2255 FISCAL NOTE REQUIRED
+2266 (See attached)
+Page 14 - 132LR1103(02)
+COMMITTEE AMENDMENT

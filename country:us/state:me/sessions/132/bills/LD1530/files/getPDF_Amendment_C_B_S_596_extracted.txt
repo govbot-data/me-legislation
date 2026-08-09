@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-B (S-596)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1530
+2 Date: (Filing No. S- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 614, L.D. 1530, “An Act to Improve the
+10 Sustainability of Emergency Medical Services in Maine”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 24-A MRSA §4303-F, as amended by PL 2025, c. 34, §1 and affected by
+14 §2, is further amended by amending the section headnote to read:
+15 §4303-F. Reimbursement for ambulance services and nontransporting emergency
+16 medical services; participation of ambulance and nontransporting emergency
+17 medical service providers in carrier networks
+18 Sec. 2. 24-A MRSA §4303-F, sub-§1, as amended by PL 2025, c. 34, §1 and
+19 affected by §2, is further amended to read:
+20 1. Reimbursement for ambulance and nontransporting emergency medical
+21 services. With respect to a bill for covered services rendered by an ambulance service or
+22 nontransporting emergency medical service provider, a carrier shall reimburse the
+23 ambulance service or nontransporting emergency medical service provider or enrollee, as
+24 applicable, as follows.
+25 A. If the ambulance service or nontransporting emergency medical service provider
+26 participates in the carrier's network, the carrier shall reimburse at the ambulance service
+27 provider's or nontransporting emergency medical service provider's rate or 200% 300%
+28 of the Medicare rate for that service, whichever is less, plus any adjustment required
+29 by paragraph C.
+30 B. If the ambulance service or nontransporting emergency medical service provider is
+31 an out-of-network provider, the carrier shall reimburse at the ambulance service
+32 provider's or nontransporting emergency medical service provider's rate or 180% 280%
+33 of the Medicare rate for that service, whichever is less, plus any adjustment required
+34 by paragraph C.
+Page 1 - 132LR1615(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 614, L.D. 1530
+1 C. If the ambulance service or nontransporting emergency medical service provider is
+2 located in a rural or super rural area as designated by the federal Department of Health
+3 and Human Services, Centers for Medicare and Medicaid Services and eligible for
+4 additional Medicare reimbursement for services that were provided to a Medicare
+5 enrollee, the carrier shall increase the reimbursement to that ambulance service
+6 provider or nontransporting emergency medical service provider in the same amount
+7 as the additional Medicare reimbursement.
+8 D. If, on the effective date of this subsection in the case of an ambulance service
+9 provider or, on or after January 1, 2027 in the case of a nontransporting emergency
+10 medical service provider, an ambulance service provider's or a nontransporting
+11 emergency medical service provider's charge for ambulance services is below 200%
+12 300% of the Medicare rate for that service, the ambulance service provider or
+13 nontransporting emergency medical service provider may not increase the charge for
+14 that service by more than 5% annually.
+15 E. A carrier may not require a ground ambulance service provider to obtain prior
+16 authorization before transporting an enrollee to a hospital, between hospitals or from a
+17 hospital to a nursing home, hospice care facility or other health care facility, as defined
+18 in Title 22, section 328, subsection 8. A carrier may not require an air ambulance
+19 service provider that is a nonprofit organization to obtain prior authorization before
+20 transporting an enrollee to a hospital or between hospitals for urgent care.
+21 F. Notwithstanding this subsection, a carrier shall reimburse an ambulance service
+22 provider or nontransporting emergency medical service provider for the administration
+23 and dispensing of naloxone hydrochloride or another opioid overdose-reversing
+24 medication as authorized under Title 32, section 86, subsection 4.
+25 G. A carrier may not be required to reimburse twice for covered services when both
+26 an ambulance service provider and a nontransporting emergency medical service
+27 provider respond to the same request for emergency services.
+28 Notwithstanding this subsection, a carrier is not required to reimburse an ambulance service
+29 provider at the reimbursement rates required in this subsection for covered services
+30 delivered through community paramedicine in accordance with Title 32, section 84,
+31 subsection 4 and a carrier may require an ambulance service provider to obtain prior
+32 authorization before providing services through community paramedicine.
+33 As used in this subsection, "nontransporting emergency medical service" has the same
+34 meaning as in Title 32, section 83, subsection 14.
+35 Sec. 3. Application. This Act applies to all policies, contracts and certificates
+36 executed, delivered, issued for delivery, continued or renewed in this State on or after
+37 January 1, 2027. For purposes of this Act, all contracts are deemed to be renewed no later
+38 than the next yearly anniversary of the contract date.'
+39 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+40 number to read consecutively.
+41 SUMMARY
+4422 This amendment replaces the bill. The amendment provides that care that is provided
+4433 at the scene of an emergency medical services event by an ambulance service or
+Page 2 - 132LR1615(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 614, L.D. 1530
+414 nontransporting emergency medical service is reimbursable care regardless of whether a
+425 patient is transported to another facility, including the administration of overdose-reversing
+436 medications that do not result in patient transport to a facility. The amendment specifies
+447 that a carrier is not required to reimburse twice for the same request for emergency services.
+5 The amendment also increases the reimbursement rate paid to ambulance service
+6 providers and nontransporting emergency medical service providers from 200% of the
+7 Medicare rate to 300% of the Medicare rate for covered services.
+8 The amendment applies to health plans issued on or after January 1, 2027.
+99 FISCAL NOTE REQUIRED
+1100 (See attached)
+Page 3 - 132LR1615(03)
+COMMITTEE AMENDMENT

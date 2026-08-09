@@ -1,0 +1,214 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-967)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1892
+2 Date: (Filing No. H- )
+3 EDUCATION AND CULTURAL AFFAIRS
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1263, L.D. 1892, “An Act to Establish
+10 Procedures for School Construction Projects”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act Regarding Funding for School Construction'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 20-A MRSA §15905, sub-§1, ¶A, as amended by PL 2023, c. 462, §1, is
+16 further amended to read:
+17 A. The state board may approve projects as long as no project approval will cause debt
+18 service costs, as defined in section 15672, subsection 2‑A, paragraph A and pursuant
+19 to rules adopted in accordance with Resolve 2007, chapter 223, section 4, to exceed
+20 the maximum limits specified in Table 1 and Table 2 in subsequent fiscal years.
+21 Table 1
+22 Major Capital Integrated, Consolidated
+23 Secondary and Postsecondary
+24 Project
+25 Fiscal year Maximum Debt Service Limit Maximum Debt Service Limit
+26 1990 $ 48,000,000
+27 1991 $ 57,000,000
+28 1992 $ 65,000,000
+29 1993 $ 67,000,000
+30 1994 $ 67,000,000
+31 1995 $ 67,000,000
+32 1996 $ 67,000,000
+33 1997 $ 67,000,000
+34 1998 $ 67,000,000
+35 1999 $ 69,000,000
+36 2000 $ 72,000,000
+Page 1 - 132LR0903(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1263, L.D. 1892
+1 2001 $ 74,000,000
+2 2002 $ 74,000,000
+3 2003 $ 80,000,000
+4 2004 $ 80,000,000
+5 2005 $ 84,000,000
+6 2006 $ 90,000,000
+7 2007 $ 96,000,000
+8 2008 $100,000,000
+9 2009 $104,000,000
+10 2010 $108,000,000
+11 2011 $126,000,000
+12 2012 $116,000,000
+13 2013 $116,000,000
+14 2014 $126,000,000 $10,000,000
+15 2015 $126,000,000 $10,000,000
+16 2016 $126,000,000 $10,000,000
+17 2017 $126,000,000 $10,000,000
+18 2018 $126,000,000 $10,000,000
+19 2019 $126,000,000 $10,000,000
+20 2020 $126,000,000 $20,000,000
+21 2021 $126,000,000 $20,000,000
+22 2022 $126,000,000 $20,000,000
+23 2023 $126,000,000 $20,000,000
+24
+25 Table 2
+26 Fiscal year Maximum Debt Service Limit
+27 2024 $150,000,000
+28 2025 $150,000,000
+29 2026 $150,000,000
+30 2027 $150,000,000
+31 2028 $188,779,298
+32 2029 $194,442,677
+33 2030 $200,275,957
+34 2031 $206,284,236
+351 Sec. 2. 20-A MRSA §15905, sub-§1, ¶C is enacted to read:
+36 C. Beginning in fiscal year 2027-28 and in each subsequent fiscal year, debt service
+37 costs paid by the department above the fiscal year 2027-28 maximum debt service limit
+38 established in paragraph A may not be included in the total cost of education calculated
+39 pursuant to chapter 606-B. For the purposes of this paragraph, "debt service costs" has
+40 the same meaning as in section 15672, subsection 2-A and includes principal and
+41 interest costs for approved major capital projects, excluding payments made with funds
+42 from state and local government accounts established under the federal Internal
+43 Revenue Code of 1986 and regulations for disposition of excess, unneeded proceeds of
+44 bonds issued for a school project and excluding any principal and interest costs
+45 attributable to a school closed for lack of need pursuant to chapter 202.
+46 Sec. 3. 20-A MRSA §15919 is enacted to read:
+Page 2 - 132LR0903(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1263, L.D. 1892
+1 §15919. School Construction Accelerator Fund
+2 1. Fund established. The School Construction Accelerator Fund, referred to in this
+3 section as "the fund," is established as a nonlapsing fund within the department and
+4 operated in conjunction with the state board for the purpose of awarding funding to school
+5 administrative units for immediate heating, ventilation or air-conditioning system repair
+6 needs or roof repair needs in schools.
+7 2. Rulemaking. The state board, in consultation with the department, shall adopt rules
+8 for the awarding of funds to school administrative units from the fund, which must include
+9 award eligibility guidelines. Rules adopted under this subsection are routine technical rules
+10 as defined in Title 5, chapter 375, subchapter 2‑A.
+11 3. Funding. Beginning in fiscal year 2027-28 and in each subsequent fiscal year, the
+12 State Controller shall transfer to the fund 50% of the unobligated balances from amounts
+13 appropriated for general purpose aid for local schools that would otherwise be carried
+14 forward.
+15 Sec. 4. 30-A MRSA §6006-F, sub-§2, ¶A, as enacted by PL 1997, c. 787, §13, is
+16 amended to read:
+17 A. Sums that may be appropriated by the Legislature or transferred to the fund by the
+18 Treasurer of State and funds that may be provided pursuant to subsection 2-A;
+19 Sec. 5. 30-A MRSA §6006-F, sub-§2-A is enacted to read:
+20 2-A. Funding. At the end of fiscal year 2026-27 and the close of each fiscal year
+21 thereafter, the State Controller shall transfer to the fund up to $50,000,000 from the
+22 unbudgeted lapsed General Fund balances at the close of each fiscal year and the remaining
+23 balance for a total of $50,000,000 from the unbudgeted surplus of the General Fund.
+24 Sec. 6. Cost-sharing formula; rulemaking. No later than July 1, 2027, the State
+25 Board of Education shall, in consultation with the Department of Education, adopt rules
+26 establishing a cost-sharing formula for funding major school construction projects. The
+27 formula must take into account a municipality's ability to pay and a school administrative
+28 unit's consolidation policies and include a timeline for implementation. The rules must
+29 apply only to projects submitted to the state board for approval on or after July 1, 2027.
+30 Rules adopted under this section are major substantive rules as defined in the Maine
+31 Revised Statutes, Title 5, chapter 375, subchapter 2-A.
+32 Sec. 7. Department of Education and Maine Municipal Bond Bank to
+33 adopt rules; School Revolving Renovation Fund. The Department of Education and
+34 the Maine Municipal Bond Bank shall adopt rules to increase to $8,000,000 the limit on
+35 the maximum loan amount from the School Revolving Renovation Fund, established in the
+36 Maine Revised Statutes, Title 30-A, section 6006-F, to address each priority in a school
+37 building within a 5-year period. Notwithstanding Title 30-A, section 6006-F, subsection
+38 8, rules adopted pursuant to this section are routine technical rules as defined in Title 5,
+39 chapter 375, subchapter 2-A.
+40 Sec. 8. Department of Education to convene working group; report. The
+41 Department of Education shall convene a working group to make recommendations related
+42 to school construction. The membership of the working group must include the following:
+43 1. The Commissioner of Education or the commissioner's designee;
+Page 3 - 132LR0903(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1263, L.D. 1892
+1 2. The Commissioner of Administrative and Financial Services or the commissioner's
+2 designee;
+3 3. One member representing the Maine Health and Higher Educational Facilities
+4 Authority;
+5 4. The chair of the State Board of Education;
+6 5. One superintendent at a public school in the State;
+7 6. One member representing the Maine Municipal Association; and
+8 7. One member who served on the Governor's Commission on School Construction,
+9 established by Executive Order 1 FY 24/25.
+10 The working group shall make recommendations related to any objectives, strategies
+11 and actions identified by the Governor's Commission on School Construction in a report
+12 issued by the commission February 10, 2026. The working group shall additionally make
+13 recommendations related to administrative and financial changes, including any suggested
+14 legislation, necessary to increase school construction in the State. The Department of
+15 Education shall submit a report related to the findings and recommendations of the working
+16 group to the joint standing committee of the Legislature having jurisdiction over education
+17 matters, to the joint standing committee of the Legislature having jurisdiction over
+18 appropriations and financial affairs and to the Governor by January 15, 2027. The joint
+19 standing committee having jurisdiction over education matters may report out a bill related
+20 to the report to the 133rd Legislature in 2027.
+21 Sec. 9. Appropriations and allocations. The following appropriations and
+22 allocations are made.
+23 EDUCATION, DEPARTMENT OF
+24 School Construction Accelerator Fund N579
+25 Initiative: Provides a baseline allocation for the purpose of awarding funding to school
+26 administrative units for immediate heating, ventilation or air conditioning system repair
+27 needs or roof repair needs in schools.
+28 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+29 All Other $0 $500
+30 __________ __________
+31 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $500
+3228 '
+33 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+34 number to read consecutively.
+35 SUMMARY
+3366 This amendment, which is the majority report of the committee, replaces the bill and
+3377 changes the title. It makes the following changes to the laws regarding school construction.
+38 1. It provides that the maximum debt service limit for approved school construction
+39 projects is increased to $188,779,298 in fiscal year 2028; $194,442,677 in fiscal year 2029;
+40 $200,275,957 in fiscal year 2030; and $206,284,236 in fiscal year 2031.
+Page 4 - 132LR0903(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1263, L.D. 1892
+1 2. It provides that, beginning in fiscal year 2027-28, debt service costs that exceed the
+2 fiscal year 2027-28 maximum debt service limit may not be included in the total cost of
+3 education calculated under the Maine Revised Statutes, Title 20-A, chapter 606-B.
+4 3. It directs the State Board of Education, in consultation with the Department of
+5 Education, to adopt rules establishing a cost-sharing formula for funding major school
+6 construction projects.
+7 4. It establishes the School Construction Accelerator Fund within the department for
+8 the purposes of awarding funds to school administrative units for immediate heating,
+9 ventilation or air-conditioning system repair needs or roof repair needs in schools.
+10 5. It directs the State Controller to, at the end of fiscal year 2026-27 and at the close of
+11 each fiscal year thereafter, transfer $50,000,000 from the lapsed funds or unappropriated
+12 surplus of the General Fund to the School Revolving Renovation Fund.
+13 6. It directs the Maine Municipal Bond Bank and the department to adopt rules to
+14 increase to $8,000,000 the limit on the maximum loan amount from the School Revolving
+15 Renovation Fund to address each priority in a school building within a 5-year period.
+16 7. It directs the department to convene a working group to make recommendations
+17 related to any objectives, strategies and actions identified by the Governor's Commission
+18 on School Construction in a report issued by the commission in 2026 and submit a report
+19 to the joint standing committee of the Legislature having jurisdiction over education
+20 matters, the joint standing committee of the Legislature having jurisdiction over
+21 appropriations and financial affairs and to the Governor by January 15, 2027.
+2222 FISCAL NOTE REQUIRED
+2233 (See attached)
+Page 5 - 132LR0903(02)
+COMMITTEE AMENDMENT

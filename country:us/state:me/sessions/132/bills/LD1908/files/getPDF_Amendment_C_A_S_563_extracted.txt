@@ -1,0 +1,308 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-563)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1908
+2 Date: (Filing No. S- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 749, L.D. 1908, “An Act to Require the
+10 Cooperation of Original Manufacturers of Electronic Devices to Facilitate the Repair of
+11 Those Devices by Device Owners and Independent Repair Providers”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 10 MRSA c. 247 is enacted to read:
+15 CHAPTER 247
+16 RIGHT TO REPAIR ELECTRONIC EQUIPMENT
+17 §1500-PP. Definitions
+18 As used in this chapter, unless the context otherwise indicates, the following terms
+19 have the following meanings.
+20 1. Authorized repair provider. "Authorized repair provider" means:
+21 A. An original equipment manufacturer that offers the services of diagnosis,
+22 maintenance or repair of the digital electronic equipment it manufactures; or
+23 B. A person that is unaffiliated with an original equipment manufacturer and that has
+24 an arrangement with the original equipment manufacturer under which the original
+25 equipment manufacturer grants to the person a license to use a trade name, service mark
+26 or related characteristics for the purposes of offering the services of diagnosis,
+27 maintenance or repair of digital electronic equipment under the name of or on behalf
+28 of the original equipment manufacturer. For the purposes of this paragraph, "service
+29 mark" has the same meaning as in section 1521, subsection 6.
+30 2. Authorized 3rd-party provider. "Authorized 3rd-party provider" means a person
+31 that is unaffiliated with an original equipment manufacturer and that has an arrangement
+32 with the original equipment manufacturer under which the original equipment
+Page 1 - 132LR1519(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 749, L.D. 1908
+313 manufacturer grants to the person a license to use a trade name to distribute parts, tools or
+324 documentation under the name of or on behalf of the original equipment manufacturer.
+3 3. Diagnosis. "Diagnosis" means the process of identifying the issue or issues causing
+4 digital electronic equipment to not be in full working order.
+5 4. Digital electronic equipment; equipment. "Digital electronic equipment" or
+6 "equipment" means a hardware product that has a wholesale price to a retailer, or to others
+7 outside of direct retail sale, of not less than $50 and that depends in whole or in part on
+8 digital electronics embedded in or attached to the product for the product to function.
+9 "Digital electronic equipment" does not include:
+10 A. A motor vehicle that is designed to transport individuals or property on a street or
+11 highway and is certified by a motor vehicle manufacturer under all requirements for
+12 the distribution and sale of motor vehicles in the United States;
+13 B. A medical device or a digital electronic product intended primarily for use in a
+14 medical setting including diagnostic, monitoring or control equipment or any product
+15 or service offered through such a device or product;
+16 C. Off-road or nonroad equipment, including, but not limited to, farm and utility
+17 tractors; farm implements; farm machinery; forestry equipment; industrial equipment;
+18 utility equipment; construction equipment; compact construction equipment; mining
+19 equipment; turf, yard and garden equipment; outdoor power equipment, including
+20 portable generators; aviation, marine, all-terrain sports and recreational vehicles,
+21 including racing vehicles; stand-alone or integrated stationary or mobile internal
+22 combustion engines; other power sources, including, but not limited to, generator sets,
+23 electric or battery and fuel cell power; power tools; and any tools, technology,
+24 attachments, accessories, components or repair parts for any such equipment;
+25 D. Commercial and industrial electrical switchgear equipment, including power
+26 distribution equipment; commercial visual display equipment; medium-voltage or low-
+27 voltage switchgear and transformers; power control equipment such as medium-
+28 voltage or low-voltage motor control and drives; remote power panels; power
+29 distribution units and static or transfer switches; and any tools, technology,
+30 attachments, accessories, components or repair parts for any such equipment;
+31 E. Safety communications equipment intended to be used for emergency response or
+32 prevention purposes by a law enforcement, fire or medical and emergency rescue
+33 services agency or other emergency service organization;
+34 F. Security or life safety systems or alarm systems, including any related software or
+35 components, that have a digital electronic product embedded within them;
+36 G. A video game console, including, but not limited to, a video game console machine,
+37 a handheld video game console device or other similar device or system, including any
+38 associated components or peripherals; or
+39 H. A product developed or manufactured for the purpose of public health,
+40 environmental testing or water quality testing.
+41 5. Documentation. "Documentation" means, with respect to digital electronic
+42 equipment, a manual, diagram, reporting output, service code description, circuit schematic
+43 or similar kind of information required for effecting the services of diagnosis, maintenance
+Page 2 - 132LR1519(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 749, L.D. 1908
+414 or repair of equipment manufactured or sold by an original equipment manufacturer to
+425 facilitate the diagnosis, maintenance or repair of the equipment.
+3 6. Independent repair provider. "Independent repair provider" means an individual
+4 or business operating in the State that is not an authorized repair provider and that is not
+5 affiliated with an authorized repair provider and that is engaged in diagnosing, maintaining
+6 and repairing digital electronic equipment.
+7 7. Maintenance. "Maintenance" means, with respect to digital electronic equipment,
+8 any action necessary to keep currently working digital electronic equipment in full working
+9 order.
+10 8. Medical device. "Medical device" means an instrument, apparatus, implement,
+11 machine, contrivance, implant or other similar or related article, including a component,
+12 part or accessory, as described in 21 United States Code, Section 321(h) that is intended
+13 for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment
+14 or prevention of disease in humans or animals.
+15 9. Modification; modify. "Modification" or "modify" means, with respect to digital
+16 electronic equipment, any alteration to the equipment that is not maintenance and not
+17 repair.
+18 10. Motor vehicle. "Motor vehicle" has the same meaning as in section 1171,
+19 subsection 11 and includes any component or part of the motor vehicle.
+20 11. Motor vehicle manufacturer. "Motor vehicle manufacturer" means a business
+21 engaged in the manufacturing or assembling of motor vehicles.
+22 12. On fair and reasonable terms. "On fair and reasonable terms" means, with
+23 respect to documentation, parts and tools required for the diagnosis, maintenance and repair
+24 of digital electronic equipment, that such documentation, parts and tools are made available
+25 by the original equipment manufacturer at costs and on terms that are at least as favorable
+26 as the most favorable costs and terms under which the manufacturer offers the
+27 documentation, parts and tools to an authorized repair provider, accounting for any
+28 discount, rebate or financial incentive offered to the authorized repair provider by the
+29 manufacturer, and that:
+30 A. With respect to documentation required for repair, such documentation is made
+31 available by the original equipment manufacturer:
+32 (1) On terms that do not require the recipient of the documentation to be or to
+33 become an authorized repair provider; and
+34 (2) At no charge, except that, when the documentation is requested in physical
+35 printed form, the manufacturer may require payment for the reasonable actual costs
+36 of preparing and sending the printed documentation;
+37 B. With respect to tools required for repair, such tools are made available by the
+38 original equipment manufacturer:
+39 (1) On terms that do not require the recipient of the tool to be or to become an
+40 authorized repair provider;
+41 (2) Without any impediments to use; and
+Page 3 - 132LR1519(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 749, L.D. 1908
+1 (3) At no charge for use or operation of the tool, except that when the tool is
+2 requested in physical form, the manufacturer may require payment for the
+3 reasonable, actual costs of procuring, preparing and sending the tool; and
+4 C. With respect to parts required for repair, such parts are made available by the
+5 original equipment manufacturer either directly or through an authorized 3rd-party
+6 provider, distributor or authorized repair provider on terms that do not require the
+7 recipient of the part to be or to become an authorized repair provider.
+8 13. Original equipment manufacturer; manufacturer. "Original equipment
+9 manufacturer" or "manufacturer" means a business engaged in the selling or leasing of or
+10 in otherwise supplying new digital electronic equipment manufactured by or on behalf of
+11 the business.
+12 14. Owner. "Owner" means an individual or business that owns digital electronic
+13 equipment purchased or used in the State.
+14 15. Part. "Part" means, with respect to digital electronic equipment, any replacement
+15 part or assembly of parts, either new or used, or their equivalents, for maintaining or
+16 repairing digital electronic equipment manufactured or sold by the manufacturer.
+17 16. Parts pairing. "Parts pairing" means a manufacturer's practice of using software
+18 to identify component parts through a unique identifier.
+19 17. Print imaging device. "Print imaging device" means a component, device or
+20 system for transferring an image to a printable medium, including, but not limited to, a
+21 printer, copier, multifunction device, duplicator, mailing machine or professional imaging
+22 product.
+23 18. Repair. "Repair" means, with respect to digital electronic equipment, any action
+24 necessary to restore the equipment to full working order. "Repair" does not include post-
+25 sale modifications that alter the originally intended functioning of the digital electronic
+26 equipment.
+27 19. Tool. "Tool" means, with respect to digital electronic equipment, a software
+28 program, hardware implement or other apparatus, including any updates, or its equivalent,
+29 used for diagnosing, maintaining or repairing digital electronic equipment manufactured or
+30 sold by the manufacturer, including software or other mechanisms that provide a new part,
+31 program a new part, pair a new part, calibrate functionality or perform any other function
+32 required to repair the original part.
+33 20. Trade name. "Trade name" has the same meaning as in section 1521, subsection
+34 7.
+35 21. Trade secret. "Trade secret" means anything tangible or intangible or
+36 electronically stored or kept that constitutes, represents, evidences or records intellectual
+37 property, including secret or confidentially held designs, processes, procedures, formulas,
+38 inventions or improvements or secret or confidentially held scientific, technical,
+39 merchandising, production, financial, business or management information, or other
+40 intellectual property that falls within the meaning of a trade secret under 18 United States
+41 Code, Section 1839.
+42 §1500-QQ. Right to repair
+Page 4 - 132LR1519(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 749, L.D. 1908
+1 The following provisions govern the diagnosis, maintenance and repair of digital
+2 electronic equipment sold or in use in this State.
+3 1. Original equipment manufacturers; requirement. Beginning January 1, 2028,
+4 and except as otherwise provided in this section, an original equipment manufacturer of
+5 digital electronic equipment sold or in use in the State on or after July 1, 2021 shall make
+6 available on fair and reasonable terms to any independent repair provider or owner of the
+7 equipment any documentation, parts or tools, or their equivalents, required for the
+8 diagnosis, maintenance or repair of the equipment.
+9 An original equipment manufacturer that does not have access to documentation, parts or
+10 tools and does not offer services of diagnosis, maintenance or repair of particular digital
+11 electronic equipment is not required to produce documentation, parts or tools for that
+12 particular equipment.
+13 2. Prohibited uses of parts pairing. For consumer electronic equipment that is
+14 manufactured for the first time, and first sold or used in this State, after January 1, 2028,
+15 an original equipment manufacturer may not use parts pairing to:
+16 A. Prevent or inhibit an independent repair provider or an owner from installing or
+17 enabling the function of an otherwise functional replacement part or a component of
+18 consumer electronic equipment, including a replacement part or a component that the
+19 original equipment manufacturer has not approved;
+20 B. Intentionally reduce the functionality or performance of consumer electronic
+21 equipment; or
+22 C. Cause consumer electronic equipment to display misleading alerts or warnings,
+23 which the owner cannot immediately dismiss, about unidentified parts.
+24 This subsection may not be construed to prohibit parts pairing of print imaging devices.
+25 3. Additional limitations and exclusions. Notwithstanding any provision of this
+26 section to the contrary:
+27 A. An original equipment manufacturer is not required to:
+28 (1) Provide or make available to an independent repair provider or owner
+29 documentation, parts or tools if:
+30 (a) The part or tool is no longer available to the original equipment
+31 manufacturer;
+32 (b) The tool is used by the original equipment manufacturer only to perform
+33 no-cost diagnostic services virtually through telephone, Internet, chat function,
+34 e-mail or similar means that do not involve the manufacturer's physically
+35 handling the owner's equipment, unless the manufacturer also makes that
+36 documentation or tool available to persons unaffiliated with the manufacturer;
+37 or
+38 (c) The original equipment manufacturer provides to an independent repair
+39 provider or owner, at no additional charge, a readily available equivalent or
+40 newer replacement of the digital electronic equipment for which the
+41 documentation, parts or tools are requested;
+Page 5 - 132LR1519(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 749, L.D. 1908
+1 (2) Divulge any trade secret except as necessary to perform diagnosis,
+2 maintenance or repair on fair and reasonable terms;
+3 (3) Make available to an independent repair provider or owner documentation,
+4 parts or tools that would disable, reset or override electronic privacy or security
+5 locks or security-related measures or functions, or disable or override antitheft
+6 security or privacy measures set by the owner of the equipment without the owner's
+7 authorization. This subparagraph may not be construed to relieve the original
+8 equipment manufacturer's obligation to make available to an independent repair
+9 provider or owner such documentation, parts or tools if the owner provides
+10 authorization;
+11 (4) Provide documentation, parts or tools for any digital electronic equipment if
+12 reconditioning or repair of the equipment is prohibited by law;
+13 (5) Provide documentation or tools used exclusively by the original equipment
+14 manufacturer for diagnosis, maintenance or repairs completed by machines that
+15 operate on several digital electronic equipment products simultaneously or
+16 otherwise for purposes of large-scale efficiency as long as the manufacturer makes
+17 available to independent repair providers and owners sufficient alternative
+18 documentation and tools to diagnose, maintain or repair the equipment; or
+19 (6) Cover any repairs provided by independent repair providers or owners under a
+20 warranty;
+21 B. An original equipment manufacturer and an authorized repair provider are not
+22 required by this section to:
+23 (1) Provide an independent repair provider or owner any information, other than
+24 documentation, that is provided by the original equipment manufacturer to an
+25 authorized repair provider;
+26 (2) Make available any documentation, parts or tools for the purposes of modifying
+27 or making modifications to any digital electronic equipment; or
+28 (3) Make available any documentation, parts or tools in a manner that is
+29 inconsistent with or in violation of applicable federal or state law;
+30 C. In complying with the requirements of this section, an original equipment
+31 manufacturer may make available documentation, parts or tools to an independent
+32 repair provider or owner directly or through an authorized repair provider or an
+33 authorized 3rd-party provider.
+34 An authorized repair provider may make documentation, parts or tools available to an
+35 independent repair provider or owner as long as the authorized repair provider is
+36 contractually permitted by the original equipment manufacturer to provide and is not
+37 otherwise prohibited from providing the documentation, parts or tools.
+38 This paragraph may not be construed to require an authorized repair provider or
+39 authorized 3rd-party provider to provide such documentation, parts or tools to an
+40 independent repair provider or owner or to relieve an original equipment manufacturer
+41 of its obligations to make available documentation, parts or tools to an independent
+42 repair provider or owner; and
+Page 6 - 132LR1519(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 749, L.D. 1908
+1 D. An original equipment manufacturer is not liable under this section for damages
+2 resulting from improper use of personal data or any data privacy or security breach in
+3 connection with repair, diagnosis, maintenance or modification of digital electronic
+4 equipment by an independent repair provider or owner.
+5 This section may not be construed to abrogate, interfere with, contradict or alter the terms
+6 of any agreement between an original equipment manufacturer and an authorized repair
+7 provider, including, but not limited to, the performance or provision of warranty or recall
+8 repair work by an authorized repair provider on behalf of an original equipment
+9 manufacturer pursuant to such an authorized repair agreement, except that any provision in
+10 such an authorized repair agreement that purports to waive, avoid, restrict or limit an
+11 original equipment manufacturer's compliance with this section is void and unenforceable.
+12 4. Written notice required. Before repairing digital electronic equipment subject to
+13 the requirements of this section, an independent repair provider shall provide to a customer
+14 a written notice that contains the following information:
+15 A. That the independent repair provider is not an authorized repair provider for the
+16 digital electronic equipment; and
+17 B. Whether the independent repair provider, in repairing digital electronic equipment,
+18 uses any used replacement parts or replacement parts provided by a supplier other than
+19 the original equipment manufacturer of the digital electronic equipment.
+20 5. Violations. A violation of this section is a violation of the Maine Unfair Trade
+21 Practices Act.'
+22 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+23 number to read consecutively.
+24 SUMMARY
+2255 This amendment replaces the bill. The amendment exempts from the bill's definition
+2266 of "digital electronic equipment" a product developed or manufactured for the purposes of
+2277 public health, environmental testing or water quality testing. The amendment provides that
+2288 an original equipment manufacturer is not required to make available documentation, parts
+2299 or tools if the original equipment manufacturer provides at no additional cost an equivalent
+3300 or newer replacement of the digital electronic equipment. The amendment also clarifies
+3311 that the bill's provision prohibiting parts pairing does not apply to print imaging devices.
+3322 FISCAL NOTE REQUIRED
+3333 (See attached)
+Page 7 - 132LR1519(02)
+COMMITTEE AMENDMENT

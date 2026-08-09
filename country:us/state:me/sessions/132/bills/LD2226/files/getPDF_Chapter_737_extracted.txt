@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 737
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 16, 2026 737
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1503 - L.D. 2226
+An Act to Amend the Essential Programs and Services School Funding
+Formula
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 20-A MRSA §15676, sub-§1, as amended by PL 2017, c. 284, Pt. C, §31,
+is further amended to read:
+1. Teaching staff costs. Beginning July 1, 2017, the salary and benefit costs for school
+level teaching staff that are necessary to carry out this Act, calculated in accordance with
+section 15678 and adjusted by the regional adjustment under section 15682 prior to fiscal
+year 2027-28 or under section 15682-A beginning in fiscal year 2027-28;
+Sec. 2. 20-A MRSA §15676, sub-§2, as amended by PL 2017, c. 284, Pt. C, §31,
+is further amended to read:
+2. Other staff costs. Beginning July 1, 2017, the salary and benefit costs for school-
+level staff who are not teachers, but including substitute teachers, that are necessary to carry
+out this Act, calculated in accordance with section 15679 and adjusted by the regional
+adjustment under section 15682 prior to fiscal year 2027-28 or under section 15682-A
+beginning in fiscal year 2027-28; and
+Sec. 3. 20-A MRSA §15682, as amended by PL 2011, c. 419, §2, is further amended
+to read:
+§15682. Regional adjustment prior to fiscal year 2027-28
+The commissioner shall make a regional adjustment in the total operating allocation
+for each school administrative unit determined pursuant to section 15683. The regional
+adjustment must be based on the regional differences in teacher salary costs, for labor
+market areas in which the school administrative unit is located, as computed by a statewide
+education policy research institute, and must be applied only to appropriate teacher salary
+and benefits costs as calculated under section 15678 and salary and benefit costs of other
+school-level staff who are not teachers as calculated under section 15679. Beginning in
+fiscal year 2012-13, and for each subsequent fiscal year in each fiscal year prior to fiscal
+year 2027-28, the commissioner shall make a regional adjustment in the total operating
+allocation for each school administrative unit determined pursuant to section 15683. The
+Page 1 - 132LR3057(03)
+
+regional adjustment must be based on the regional differences in teacher salary costs, for
+labor market areas in which the school administrative unit is located, as computed by a
+statewide education policy research institute, and must be applied only to appropriate
+teacher salary costs as calculated under section 15678 and salary costs of other school-level
+staff who are not teachers as calculated under section 15679.
+Sec. 4. 20-A MRSA §15682-A is enacted to read:
+§15682-A. Regional adjustment beginning in fiscal year 2027-28
+Beginning in fiscal year 2027-28, and for each subsequent fiscal year, the
+commissioner shall make a regional adjustment in the total operating allocation for each
+school administrative unit determined pursuant to section 15683. The regional adjustment
+must be based on the regional differences in the cost of living, as computed by a statewide
+education policy research institute using a nationwide index or combination of nationwide
+indices. The regional adjustment must align with the salary matrix described in section
+15677 so that the minimum index value is sufficient to pay the minimum teacher salary
+established under chapter 505. The regional adjustment must be applied only to appropriate
+teacher salary and benefit costs as calculated under section 15678 and salary costs of other
+school-level staff who are not teachers as calculated under section 15679.
+Sec. 5. 20-A MRSA §15688, sub-§3-A, ¶A, as enacted by PL 2005, c. 2, Pt. D,
+§56 and affected by §§72 and 74 and c. 12, Pt. WW, §18, is amended by amending
+subparagraph (2) to read:
+(2) The total of the full-value education mill rate calculated in section 15671‑A,
+subsection 2 multiplied by the property fiscal capacity of the municipality and,
+beginning in fiscal year 2027-28, adjusted by 10% for relative income level using
+an index calculated by a statewide education policy research institute. The index
+must be based on the percentage of resident pupils that are identified as
+economically disadvantaged under section 15675, subsection 2.
+Sec. 6. 20-A MRSA §15688, sub-§3-A, ¶B, as amended by PL 2015, c. 494, Pt.
+A, §13, is further amended by amending subparagraph (2) to read:
+(2) The total of the full-value education mill rate calculated in section 15671‑A,
+subsection 2 multiplied by the property fiscal capacity of the municipality and,
+beginning in fiscal year 2027-28, adjusted by 10% for relative income level using
+an index calculated by a statewide education policy research institute. The index
+must be based on the percentage of resident pupils that are identified as
+economically disadvantaged under section 15675, subsection 2.
+Sec. 7. 20-A MRSA §15699 is enacted to read:
+§15699. State subsidy transition period
+Beginning in fiscal year 2027-28 and until fiscal year 2030-31, the State may not reduce
+from the previous fiscal year the amount of a school administrative unit's state subsidy
+attributable to the combination of the regional adjustment calculated pursuant to section
+15682-A and the local contribution calculated pursuant to section 15688, subsection 3-A.
+Beginning in fiscal year 2030-31, the following provisions apply.
+1. Fiscal year 2030-31. In fiscal year 2030-31, the amount of a school administrative
+unit's state subsidy attributable to the combination of the regional adjustment calculated
+Page 2 - 132LR3057(03)
+
+pursuant to section 15682-A and the local contribution calculated pursuant to section
+15688, subsection 3-A may not be reduced by the State by more than 25% from the
+previous fiscal year.
+2. Fiscal year 2031-32. In fiscal year 2031-32, the amount of a school administrative
+unit's state subsidy attributable to the combination of the regional adjustment calculated
+pursuant to section 15682-A and the local contribution calculated pursuant to section
+15688, subsection 3-A may not be reduced by the State by more than 50% from the
+previous fiscal year.
+3. Fiscal year 2032-33 and subsequent fiscal years. In fiscal year 2032-33 and in
+each subsequent fiscal year, the state subsidy for all school administrative units is adjusted
+by the regional adjustment calculated pursuant to section 15682-A and the local
+contribution calculated pursuant to section 15688, subsection 3-A.
+Sec. 8. Maine Education Policy Research Institute; further study. The
+Maine Education Policy Research Institute shall study the components of the essential
+programs and services school funding formula established in the Maine Revised Statutes,
+Title 20-A, chapter 606-B. The institute shall submit a report no later than January 15,
+2027 to the joint standing committee of the Legislature having jurisdiction over education
+matters. The report must include, but is not limited to, the following:
+1. An analysis of the impact of inflation on the essential programs and services school
+funding formula since fiscal year 2019-20 and recommendations on how to mitigate its
+effects or account for its impact on the formula;
+2. Recommendations related to a poverty indicator that reflects overall community
+income rather than only the income of families with school-aged children;
+3. Modeling one or more scenarios using a 5-year average for pupil counts and property
+valuation; and
+4. Recommendations on which components of the funding formula are considered
+essential and whether the funding formula accounts for the true costs of those components
+and provides adequate funding to school administrative units.
+The joint standing committee is authorized to report out a bill related to the report to
+the 133rd Legislature in 2027.
+Page 3 - 132LR3057(03)

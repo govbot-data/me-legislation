@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-805)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2115
+2 Date: (Filing No. H- )
+3 ENVIRONMENT AND NATURAL RESOURCES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1430, L.D. 2115, “An Act to Protect
+10 Private Wells from Hazardous Substances”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 38 MRSA §424-D is enacted to read:
+14 §424-D. Well Contamination Response Fund
+15 1. Definitions. As used in this section, unless the context otherwise indicates, the
+16 following terms have the following meanings.
+17 A. "Fund" means the Well Contamination Response Fund established in subsection 2.
+18 B. "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" has the same meaning
+19 as in section 1614, subsection 1, paragraph F.
+20 C. "Private drinking water well" has the same meaning as in section 1392, subsection
+21 8.
+22 2. Well Contamination Response Fund established. The Well Contamination
+23 Response Fund is established within the department as a nonlapsing, revolving fund for the
+24 purposes described in subsection 3. The fund may accept revenue from any source, public
+25 or private, that may be available for carrying out the purposes of the fund. The department
+26 shall deposit with the Treasurer of State to the credit of the fund money in the fund not
+27 currently needed by the department to carry out the purposes of the fund, which may be
+28 invested as provided by law. Interest earned on investment of money under this subsection
+29 must be credited to the fund.
+30 3. Uses of fund. Money within the fund may be used by the department:
+31 A. To investigate, sample or monitor PFAS contamination in soil and groundwater,
+32 including in private drinking water wells, at locations associated with a source or
+33 suspected source of PFAS contamination, as determined by the department.
+Page 1 - 132LR2820(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1430, L.D. 2115
+1 (1) Sampling conducted through the fund may include, but is not limited to,
+2 sampling of private drinking water wells for potability as part of an initial
+3 investigation of PFAS contamination.
+4 (2) As used in this paragraph, "location associated with a source or suspected
+5 source of PFAS contamination" means a location with a high assurance of PFAS
+6 contamination impacts, as determined by the department, including a licensed or
+7 previously licensed sludge or septage land application site or a location subject to
+8 remediation activities for PFAS contamination, but does not include a location
+9 where the source or suspected source of PFAS contamination, as determined by
+10 the department, is a homeowner's private septic system or other private household
+11 activities;
+12 B. To abate, remediate or mitigate identified PFAS contamination in soil or
+13 groundwater, including in private drinking water wells, to ensure access to safe
+14 drinking water through the installation and maintenance of filter treatment systems,
+15 connection to local water district networks, temporary provision of bottled drinking
+16 water or other appropriate actions as determined by the department.
+17 (1) Except as provided in subparagraph (2), use of money within the fund for the
+18 abatement, remediation or mitigation of PFAS contamination in private drinking
+19 water wells, including for the payment or reimbursement of the costs of private
+20 drinking water well testing for PFAS contamination, is limited to private drinking
+21 water wells in which testing demonstrates a level of PFAS contamination in excess
+22 of 20 parts per trillion for the sum of the following 6 perfluoroalkyl and
+23 polyfluoroalkyl substances: perfluorooctanoic acid, perfluorooctane sulfonic acid,
+24 perfluorohexane sulfonic acid, perfluorononanoic acid, perfluoroheptanoic acid
+25 and perfluorodecanoic acid.
+26 (2) If the department determines that additional money within the fund is available
+27 for the abatement, remediation or mitigation of identified PFAS contamination in
+28 private drinking water wells in which testing demonstrates a level of PFAS
+29 contamination of 20 parts per trillion or less for the sum of the 6 perfluoroalkyl and
+30 polyfluoroalkyl substances identified in subparagraph (1), the department may use
+31 that additional money to support abatement, remediation or mitigation activities
+32 for those private drinking water wells; and
+33 C. To cover the department's costs incurred in administering the fund, including, but
+34 not limited to, staffing costs.
+35 4. Report. Beginning January 15, 2027, and every 2 years thereafter, the department
+36 shall submit a report to the joint standing committee of the Legislature having jurisdiction
+37 over environment and natural resources matters regarding the uses of the fund and any
+38 proposed changes to the limitations in the uses of the fund and a summary of PFAS
+39 contamination identified as a result of activities undertaken through the fund. After
+40 reviewing the report, the joint standing committee may report out legislation related to the
+41 report. The report under this subsection may be included in the report required pursuant to
+42 section 1310-B-1, subsection 2, paragraph C.
+43 5. Rules. The department may adopt rules necessary for the administration of the fund
+44 and for any underlying program or purpose under or funded by the fund. Rules adopted
+Page 2 - 132LR2820(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1430, L.D. 2115
+415 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+426 subchapter 2-A.
+3 Sec. 2. Appropriations and allocations. The following appropriations and
+4 allocations are made.
+5 ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+6 Well Contamination Response Fund N560
+7 Initiative: Provides ongoing funding for the investigation, sampling, monitoring,
+8 abatement, remediation or mitigation of perfluoroalkyl and polyfluoroalkyl substances
+9 contamination in soil and groundwater, including in private drinking water wells.
+10 GENERAL FUND 2025-26 2026-27
+11 All Other $0 $1,000,000
+12 __________ __________
+13 GENERAL FUND TOTAL $0 $1,000,000
+1140 '
+15 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+16 number to read consecutively.
+17 SUMMARY
+1188 This amendment, which is the majority report of the committee, replaces the bill. It
+1199 establishes the Well Contamination Response Fund within the Department of
+2200 Environmental Protection and capitalizes that fund with an ongoing General Fund
+2211 appropriation of $1,000,000 beginning in fiscal year 2026-27. Money in that fund may be
+2222 used by the department for the investigation, sampling, monitoring, abatement, remediation
+2233 or mitigation of perfluoroalkyl and polyfluoroalkyl substances, or PFAS, contamination in
+2244 soil and groundwater, including in private drinking water wells and prioritized for those
+2255 wells in which testing demonstrates a level of PFAS contamination in excess of 20 parts
+2266 per trillion for the sum of 6 PFAS contaminants.
+2277 FISCAL NOTE REQUIRED
+2288 (See attached)
+Page 3 - 132LR2820(02)
+COMMITTEE AMENDMENT

@@ -1,0 +1,400 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 653
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 653
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1272 - L.D. 1901
+An Act to Regulate Shared Appreciation Agreements Relating to Residential
+Property
+Emergency preamble. Whereas, acts and resolves of the Legislature do not
+become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, shared appreciation mortgage loans are a new form of equity-based
+financing; and
+Whereas, this legislation enacts statutory provisions to regulate shared appreciation
+mortgage loans as mortgage loans and directs the Department of Professional and Financial
+Regulation, Bureau of Consumer Credit Protection to enforce those provisions; and
+Whereas, immediate enactment of this legislation is necessary for the protection of
+consumers; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within
+the meaning of the Constitution of Maine and require the following legislation as
+immediately necessary for the preservation of the public peace, health and safety; now,
+therefore,
+Be it enacted by the People of the State of Maine as follows:
+PART A
+Sec. A-1. 9-A MRSA §1-110, sub-§3, as enacted by PL 1981, c. 218, is amended
+to read:
+3. First lien mortgages Mortgages on real estate granted by a creditor subject to
+licensing by the administrator as set out in section 2‑301.
+Sec. A-2. 9-A MRSA §1-301, sub-§14, ¶D is enacted to read:
+D. "Consumer loan" includes a shared appreciation mortgage loan.
+Sec. A-3. 9-A MRSA §1-301, sub-§17, as amended by PL 2021, c. 245, Pt. A, §2,
+is further amended by amending the 5th blocked paragraph to read:
+Page 1 - 132LR1685(04)
+
+"Creditor" includes a mortgage loan servicer and a shared appreciation mortgage loan
+lender.
+Sec. A-4. 9-A MRSA §1-301, sub-§19, ¶A, as amended by PL 2011, c. 427, Pt.
+D, §6, is further amended by amending subparagraph (7) to read:
+(7) Premiums or other charges for credit life, accident, health or loss-of-income
+insurance or insurance against loss of or damage to property or against liability
+arising out of the ownership or use of property, written in connection with a credit
+transaction, unless the applicable requirements of section 2‑501 and Article 8‑A
+are met; and
+Sec. A-5. 9-A MRSA §1-301, sub-§19, ¶A, as amended by PL 2011, c. 427, Pt.
+D, §6, is further amended by amending subparagraph (8) to read:
+(8) Discounts for the purpose of inducing payment by a means other than the use
+of credit.; and
+Sec. A-6. 9-A MRSA §1-301, sub-§19, ¶A, as amended by PL 2011, c. 427, Pt.
+D, §6, is further amended by enacting a new subparagraph (9) to read:
+(9) Equity share payment amount as defined in section 8-506, subsection 1,
+paragraph F-1.
+Sec. A-7. 9-A MRSA §1-301, sub-§37-A is enacted to read:
+37-A. Shared appreciation mortgage loan. "Shared appreciation mortgage loan"
+means a writing evidencing a transaction or any option, any future or any other derivative
+between a person and a consumer according to which the consumer receives money or any
+other item of value in exchange for an interest or future interest in a dwelling or residential
+real estate or a future obligation to pay an amount based on the value of the dwelling or
+residential real estate that is secured by a mortgage, a deed of trust or an equivalent
+consensual security interest in the dwelling or residential real estate on the occurrence of
+an event, such as the transfer of ownership; a maturity date; the death of the consumer; or
+any other event contemplated by the writing. "Shared appreciation mortgage loan" does
+not include any shared appreciation mortgage loan extended through a federal or state
+government agency, a government-sponsored enterprise or a municipal agency or
+enterprise of the State.
+Sec. A-8. 9-A MRSA §1-301, sub-§37-B is enacted to read:
+37-B. Shared appreciation mortgage loan lender. "Shared appreciation mortgage
+loan lender" means a person that extends a shared appreciation mortgage loan secured by
+a dwelling or residential real estate.
+Sec. A-9. 9-A MRSA §8-504, sub-§2, as amended by PL 2013, c. 464, §4, is
+further amended to read:
+2. Rule-making authority. Consistent with the purposes of Title X and Title XIV of
+the federal Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-
+203 and with the purposes set forth in sections 1‑102 and 8‑502 and notwithstanding other
+law, the administrator may adopt rules substantially similar to or that afford more protection
+for consumers than those codified in 12 Code of Federal Regulations, Part 1026 and 12
+Code of Federal Regulations, Part 1013. Rules adopted pursuant to this subsection are
+Page 2 - 132LR1685(04)
+
+routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A. In adopting rules
+pursuant to this subsection, the administrator shall specifically consider whether there is a
+substantial an impact on consumer protection before adopting rules affecting the following
+provisions of section 8‑506:
+A. The rate thresholds pertaining to high-cost mortgage loans in section 8‑506,
+subsection 1, paragraph H;
+B. The prepayment penalties for high-cost mortgage loans in section 8‑506, subsection
+2, paragraph D;
+C. The assignee liability for high-cost mortgage loans in section 8‑506, subsection 3;
+D. The ability to repay in section 8‑506, subsection 4;
+E. The prohibition against flipping and the principles of tangible net benefit in section
+8‑506, subsection 5; and
+F. The enhanced penalties for violations in section 8‑506, subsection 6.;
+G. The method to calculate the annualized cost of a shared appreciation mortgage loan
+under section 8-506, subsection 1, paragraph A-1;
+H. The maximum allowable shared appreciation mortgage loan equity share
+percentage to payment amount percentage ratios, as those terms are defined in section
+8-506, subsection 1, paragraphs F-2 and J-2;
+I. Restrictions on shared appreciation mortgage loans in section 8-506, subsection 5-A;
+J. The standards for automated valuation models used by shared appreciation mortgage
+lenders pursuant to section 8-506, subsection 5-C, paragraph B;
+K. The standards for shared appreciation mortgage loan borrower and homeowner
+counseling in section 8-506, subsection 5-D; and
+L. The preliminary and closing borrower disclosures for shared appreciation mortgage
+loans required in section 8-506, subsection 5-F.
+The rules may contain classifications, differentiations or other provisions and may provide
+for adjustments and exceptions for any class of transactions subject to this Title that in the
+judgment of the administrator are necessary or proper to effectuate the purposes of this
+Title, or to prevent circumvention or evasion of or to facilitate compliance with, the
+provisions of this Title.
+Sec. A-10. 9-A MRSA §8-506, sub-§1, ¶A-1 is enacted to read:
+A-1. "Annualized cost" means the annualized cost of a shared appreciation mortgage
+loan, expressed as a percentage and calculated as follows: (((settlement
+payment/payment amount)^(365/term days))-1), otherwise expressed as
+(cid:3119)(cid:3122)(cid:3121)
+(cid:4672) (cid:4673)
+(cid:4678)(cid:4672) (cid:3046)(cid:3032)(cid:3047)(cid:3047)(cid:3039)(cid:3032)(cid:3040)(cid:3032)(cid:3041)(cid:3047) (cid:3043)(cid:3028)(cid:3052)(cid:3040)(cid:3032)(cid:3041)(cid:3047) (cid:4673) (cid:3295)(cid:3280)(cid:3293)(cid:3288) (cid:3279)(cid:3276)(cid:3300)(cid:3294) (cid:3398)1(cid:4679), or as established by rule adopted by the
+(cid:3043)(cid:3028)(cid:3052)(cid:3040)(cid:3032)(cid:3041)(cid:3047) (cid:3028)(cid:3040)(cid:3042)(cid:3048)(cid:3041)(cid:3047)
+administrator pursuant to section 8-504, subsection 2.
+Sec. A-11. 9-A MRSA §8-506, sub-§1, ¶F-1 is enacted to read:
+F-1. "Equity share payment amount" means the settlement payment minus the payment
+amount.
+Page 3 - 132LR1685(04)
+
+Sec. A-12. 9-A MRSA §8-506, sub-§1, ¶F-2 is enacted to read:
+F-2. "Equity share percentage" means the percentage portion of the value of the
+dwelling or residential real estate pledged by the borrower by agreement to the creditor
+at the time of consummation of a shared appreciation mortgage loan or later.
+Sec. A-13. 9-A MRSA §8-506, sub-§1, ¶H, as amended by PL 2013, c. 464, §8,
+is further amended to read:
+H. "High-cost mortgage loan" means a residential mortgage loan in which the terms
+of the loan meet or exceed one or more of the following thresholds or a shared
+appreciation mortgage loan in which the terms of the loan meet or exceed the total
+points and fees threshold established in subparagraph (2):
+(1) Rate threshold, which, for a residential mortgage loan, is the point at which the
+annual percentage rate equals or exceeds the rate set forth in 12 Code of Federal
+Regulations, Section 1026.32(a)(1)(i) without regard to whether the residential
+mortgage loan may be considered a "residential mortgage transaction" or an
+extension of "open-end credit" as those terms are set forth in 12 Code of Federal
+Regulations, Section 1026.2; and
+(2) The total points and fees threshold, which is:
+(a) For loans in which the total loan amount is $40,000 or more, the point at
+which the total points and fees payable in connection with the residential
+mortgage loan less any excluded points and fees exceed 5% of the total loan
+amount; and
+(b) For loans in which the total loan amount is less than $40,000, the point at
+which the total points and fees payable in connection with the residential
+mortgage loan less any excluded points and fees exceed 6% of the total loan
+amount.
+Sec. A-14. 9-A MRSA §8-506, sub-§1, ¶I, as amended by PL 2013, c. 464, §8, is
+further amended to read:
+I. "Higher-priced mortgage loan" has the same meaning as set forth in the Federal
+Truth in Lending Act and its implementing regulation, Regulation Z, 12 Code of
+Federal Regulations, Section 1026.35(a). "Higher-priced mortgage loan" also includes
+a residential mortgage loan, except for a shared appreciation mortgage loan, that is a
+nontraditional mortgage as described in the "Interagency Guidance on Nontraditional
+Mortgage Product Risks" issued September 29, 2006 and published in 71 Federal
+Register, 58609 on October 4, 2006 and as updated from time to time, except that
+"higher-priced mortgage loan" does not include a mortgage that does not allow a
+borrower to defer repayment of principal or interest.
+Sec. A-15. 9-A MRSA §8-506, sub-§1, ¶J-1 is enacted to read:
+J-1. "Payment amount" means the proceeds of a shared appreciation mortgage loan
+that are disbursed to a borrower by a creditor or disbursed by a creditor to 3rd parties
+on the borrower's behalf. "Payment amount" includes the dollar value of the payments
+or other consideration made to a borrower by a creditor at the time of consummation
+of a shared appreciation mortgage loan or later.
+Page 4 - 132LR1685(04)
+
+Sec. A-16. 9-A MRSA §8-506, sub-§1, ¶J-2 is enacted to read:
+J-2. "Payment amount percentage" means the percentage portion of the value of the
+dwelling or residential real estate disbursed to the borrower by agreement by the
+creditor at the time of consummation of a shared appreciation mortgage loan or later.
+Sec. A-17. 9-A MRSA §8-506, sub-§1, ¶L, as amended by PL 2013, c. 464, §8,
+is further amended by enacting at the end a new blocked paragraph to read:
+"Residential mortgage loan" includes a shared appreciation mortgage loan.
+Sec. A-18. 9-A MRSA §8-506, sub-§1, ¶M-1 is enacted to read:
+M-1. "Settlement payment" means the dollar amount that a borrower is expected to
+pay to a creditor to settle or pay off a shared appreciation mortgage loan, exclusive of
+any money advanced by the creditor on behalf of the borrower, subsequent to the
+consummation of the loan, for certain homeownership costs including, but not limited
+to, property taxes, insurance, owner association fees and utilities, payable by the
+borrower to the creditor under the terms of the shared appreciation mortgage loan.
+Sec. A-19. 9-A MRSA §8-506, sub-§1, ¶M-2 is enacted to read:
+M-2. "Term days" means the exact number of days between the settlement date of a
+shared appreciation mortgage loan and the settlement payment date of a shared
+appreciation mortgage loan or as established by rule adopted by the administrator
+pursuant to section 8-504, subsection 2.
+Sec. A-20. 9-A MRSA §8-506, sub-§5-A is enacted to read:
+5-A. Shared appreciation mortgage loans; restrictions. A shared appreciation
+mortgage loan is subject to the following restrictions and any rules related to these
+restrictions adopted by the administrator pursuant to section 8-504, subsection 2.
+A. A shared appreciation mortgage loan may not contain a provision that prevents the
+borrower from renting the property to another, except that, if the rental otherwise
+complies with applicable federal or state law, regulation and rule, this paragraph does
+not prohibit:
+(1) A creditor from charging fees or premiums associated with originating a shared
+appreciation mortgage loan secured by a non-owner-occupied property;
+(2) A creditor from requiring the borrower to obtain usual and customary insurance
+coverage associated with such rental; or
+(3) A creditor from prohibiting the borrower from entering into a rental or lease
+agreement that would extend beyond the maturity date of the shared appreciation
+mortgage loan.
+B. A shared appreciation mortgage loan may not contain a provision that prevents the
+borrower or the homeowner from refinancing an existing senior mortgage or lien
+through a conventional or agency so-called rate-and-term refinancing as long as the
+principal balance on the new mortgage loan does not exceed the unpaid principal
+balance of the mortgage loan being refinanced plus customary and reasonable
+transaction costs. The creditor shall agree to subordinate its interest in connection with
+the rate-and-term refinancing as set forth in this paragraph.
+Page 5 - 132LR1685(04)
+
+C. A shared appreciation mortgage loan may not apply a settlement payment formula
+that differs from the formula originally agreed upon or impose any penalties if the
+borrower elects to settle or otherwise terminate the shared appreciation mortgage loan
+before its scheduled maturity date or termination date.
+D. A shared appreciation mortgage loan may not contain mandatory arbitration clauses
+and waivers of certain consumer rights in accordance with the prohibition found in 12
+Code of Federal Regulations, Section 1026.36(h).
+E. A shared appreciation mortgage loan may not include a confidentiality provision
+regarding the terms of the shared appreciation mortgage loan.
+F. A shared appreciation mortgage loan may not contain a provision permitting the
+creditor to extend the term of the shared appreciation mortgage loan unless the
+provision requires the express written consent of the borrower to the extension, except
+that, and subject to the applicable statute of limitations, this paragraph may not be
+construed to limit or otherwise reduce the period of time in which the creditor may
+pursue legal action related to a borrower's failure to settle the shared appreciation
+mortgage loan upon the expiration of the then-current term of the shared appreciation
+mortgage. A creditor may unilaterally extend the term of the shared appreciation
+mortgage loan:
+(1) For 30 days if:
+(a) The extension occurs at the end of the term; and
+(b) The extension is related to a settlement or other termination that is in
+progress but will not occur prior to the termination of the shared appreciation
+mortgage loan or the borrower has requested an extension but will not
+complete the written consent prior to the termination of the option period; or
+(2) For one year if:
+(a) The extension occurs at the end of the term;
+(b) The creditor has sent the borrower at least 3 notices regarding the end of
+the term; and
+(c) The borrower has not responded or indicated an intent to settle or otherwise
+terminate the shared appreciation mortgage loan.
+G. A prepayment fee or penalty may not be charged under the terms of or included in
+the loan documents of a shared appreciation mortgage loan.
+H. A shared appreciation mortgage loan may not include a demand feature that permits
+the creditor to accelerate the indebtedness by terminating the shared appreciation
+mortgage loan in advance of the original maturity date and to demand repayment of the
+entire outstanding balance, except in the following circumstances:
+(1) There is fraud or material misrepresentation by the borrower in connection with
+the loan or open-end credit agreement;
+(2) The borrower fails to meet the payment terms of the agreement for any
+outstanding balance that results in a default in payment under the loan; or
+(3) There is an action or inaction by the borrower that adversely affects the
+creditor's security for the loan or any right of the creditor in the security.
+Page 6 - 132LR1685(04)
+
+I. A person who purchases or is otherwise assigned a shared appreciation mortgage
+loan is subject to all affirmative claims and any defenses with respect to the loan that
+the borrower may assert against a creditor of the loan.
+J. A creditor may receive the settlement payment amount based only on the appraisal
+at settlement of the loan and may not charge additional amounts based on the condition
+of the property.
+K. In addition to applicable requirements under federal and state law, the creditor shall
+disclose prior to consummation of the loan the annualized cost, equity share payment
+amount, settlement payment amount and annual percentage rate for each year of the
+term of the loan based on a real estate appreciation index prescribed by the
+administrator by rule.
+Sec. A-21. 9-A MRSA §8-506, sub-§5-B is enacted to read:
+5-B. Shared appreciation mortgage loans; requirements for contents of shared
+appreciation mortgage loans. A shared appreciation mortgage loan is subject to the
+following requirements.
+A. A shared appreciation mortgage loan must contain a provision requiring the creditor
+to provide to the borrower at least 90 days' advance written notice of any action
+required by the borrower under the terms of the shared appreciation mortgage loan that,
+if not timely taken by the borrower, will affect the rights or interests of the borrower,
+except that this paragraph does not apply to:
+(1) Actions required of the borrower arising from a directive or mandate by a
+governmental authority related to noncompliance with applicable law that requires
+action in fewer than 90 days; or
+(2) Matters that cause an imminent threat to the condition of the dwelling, property
+or health or safety of the public that are known to the creditor and verified by
+internal or external assessment.
+B. A shared appreciation mortgage loan must provide for a periodic statement in
+accordance with rules adopted by the administrator.
+C. A shared appreciation mortgage loan must contain a provision that, within 7
+business days of a request from the borrower for information regarding the process for
+a final termination or settlement of the shared appreciation mortgage loan, the creditor
+shall provide a detailed and accurate written statement of the payoff or settlement
+process. If determining a settlement amount requires obtaining a 3rd-party valuation,
+a creditor is deemed to have complied with this paragraph by providing a written notice
+of an estimated total amount required to pay the shared appreciation mortgage loan in
+full, as of a specified date, and advising the borrower of the process and estimated cost
+for obtaining such 3rd-party valuation. The valuation appraisal under this paragraph
+must conform to the requirements of subsection 5-C, paragraph A. The written notice
+of an estimated written amount must itemize and explain all known charges included
+in the total figure stated and estimate all charges that are subject to change.
+D. Upon a consumer's default involving a real estate tax or insurance premium
+delinquency, if the shared appreciation mortgage loan lender elects to advance funds
+to cure the delinquency, the lender shall, at the consumer's request, defer repayment of
+the amount of the advance until settlement of the loan without the accrual of interest.
+Page 7 - 132LR1685(04)
+
+Sec. A-22. 9-A MRSA §8-506, sub-§5-C is enacted to read:
+5-C. Shared appreciation mortgage loans; requirements for property valuation.
+The following requirements apply with respect to property valuation.
+A. A creditor shall conduct shared appreciation mortgage loan valuation appraisals in
+a manner substantially similar to the appraisal valuation independence standards set
+forth in 12 Code of Federal Regulations, Section 1026.42.
+B. Shared appreciation mortgage loan transaction automated valuation models are
+subject to substantially similar and applicable quality control standards for automated
+valuation models issued by the federal Consumer Financial Protection Bureau and
+published as 89 Federal Register, 64538, effective October 1, 2025, or by rule adopted
+by the administrator pursuant to section 8-504, subsection 2.
+Sec. A-23. 9-A MRSA §8-506, sub-§5-D is enacted to read:
+5-D. Shared appreciation mortgage loans; requirements for counseling. A
+creditor may not make a shared appreciation mortgage loan without first receiving
+certification from a counselor with a 3rd-party organization approved by the United States
+Department of Housing and Urban Development, a housing financing agency of this State
+or the Department of Professional and Financial Regulation, Bureau of Consumer Credit
+Protection that the borrower or the homeowner has received counseling that includes a
+review of the borrower's or homeowner's needs and circumstances; homeowner and
+property eligibility; shared appreciation mortgage loan features and costs; issues and
+obligations after closing; and financial alternatives to the shared appreciation mortgage
+loan.
+Sec. A-24. 9-A MRSA §8-506, sub-§5-E is enacted to read:
+5-E. Shared appreciation mortgage loans; requirement for 3-day right of
+rescission. A creditor shall offer each shared appreciation mortgage loan borrower a 3-day
+right of rescission period in a manner substantially similar to the requirements in 12 Code
+of Federal Regulations, Section 1026.23.
+Sec. A-25. 9-A MRSA §8-506, sub-§5-F is enacted to read:
+5-F. Shared appreciation mortgage loans; required disclosures. Before a shared
+appreciation mortgage loan agreement is entered into, a shared appreciation mortgage loan
+lender shall provide the disclosures established by rule adopted by the administrator under
+section 8-504, subsection 2.
+Sec. A-26. 9-A MRSA §8-506, sub-§5-G is enacted to read:
+5-G. Shared appreciation mortgage loans; consequence of no advice of counsel to
+borrower. The following provisions apply regarding the lack of representation by
+independent counsel of a borrower.
+A. A shared appreciation mortgage loan is presumed to be unconscionable or the result
+of an unfair or deceptive trade practice unless the borrower was represented by
+independent counsel in connection with all aspects of the origination of the shared
+appreciation mortgage loan and in the granting and execution of the mortgage. When
+the borrower or the borrower's legal counsel successfully raises the presumption that
+the shared appreciation mortgage loan was unconscionable, or was the result of an
+Page 8 - 132LR1685(04)
+
+unfair or deceptive trade practice, by a preponderance of the evidence that the borrower
+did not have independent legal advice in connection with the transaction, and when the
+shared appreciation mortgage loan lender that benefits from the execution of the
+mortgage fails to rebut the presumption, the borrower or the borrower's legal counsel
+or personal representative is entitled to avoid the transfer or execution or the mortgage
+and entitled to the relief in paragraph C.
+B. A civil action may be brought to obtain relief under this subsection by the borrower
+or the borrower's legal representative or personal representative.
+C. When a court finds that a shared appreciation mortgage loan was unconscionable
+or the result of an unfair or deceptive trade practice under paragraph A, the court shall
+grant appropriate relief enabling the borrower to avoid the execution of the mortgage
+securing the transaction, including the rescission of the mortgage, and such other relief
+as the court considers proper. The court shall award reasonable attorney's fees and
+costs to be paid by the shared appreciation mortgage loan lender, or by any assignee of
+the mortgage, as found by the court. When the court finds that the shared appreciation
+mortgage loan's being unconscionable or the result of an unfair or deceptive trade
+practice in connection with the transaction is a good and valid defense to any suit to
+enforce the terms of the shared appreciation mortgage loan, the court shall refuse to
+enforce the terms of the shared appreciation mortgage loan.
+Sec. A-27. 9-A MRSA §8-506, sub-§6, ¶K is enacted to read:
+K. A violation of this section constitutes a per se violation of Title 5, section 207 and
+of Title 14, section 6113.
+Sec. A-28. Report. No later than February 1, 2029, the Superintendent of Consumer
+Credit Protection within the Department of Professional and Financial Regulation shall
+submit a report to the joint standing committee of the Legislature having jurisdiction over
+health coverage, insurance and financial services matters that includes findings and
+recommendations regarding the regulation of shared appreciation mortgage loans pursuant
+to the Maine Revised Statutes, Title 9-A, including, but not limited to, suggested statutory
+changes. The committee may submit legislation related to the report to the 134th
+Legislature in 2029.
+PART B
+Sec. B-1. Shared appreciation mortgage products subject to Maine
+Consumer Credit Code. The Legislature adopts the ruling of the Department of
+Professional and Financial Regulation, Bureau of Consumer Credit Protection, which took
+effect October 29, 2025, that a shared appreciation mortgage product is a consumer credit
+transaction subject to the provisions of the Maine Revised Statutes, Title 9-A applicable to
+mortgage loans and that providers of these products are supervised lenders under that Title.
+Any shared appreciation mortgage product entered into with a consumer that is secured by
+a dwelling or residential real estate in this State between October 29, 2025 and the effective
+date of this Act that does not comply with the provisions of that ruling is void and
+unenforceable.
+Sec. B-2. Retroactivity. This Part applies retroactively to October 29, 2025.
+Page 9 - 132LR1685(04)
+
+Emergency clause. In view of the emergency cited in the preamble, this legislation
+takes effect when approved.
+Page 10 - 132LR1685(04)

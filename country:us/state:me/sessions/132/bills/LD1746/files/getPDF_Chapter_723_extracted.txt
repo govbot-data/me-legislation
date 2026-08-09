@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 723
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 16, 2026 723
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1164 - L.D. 1746
+An Act to Reduce Dental Disease and Ensure Access to Essential Preventive
+Dental Care Among Maine Children
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA §3174-S, sub-§2-A, as enacted by PL 2021, c. 635, Pt. AAA,
+§1, is amended to read:
+2-A. School-based preventive oral health services. By January 1, 2025 2027, the
+department shall provide preventive oral health services through the Maine Center for
+Disease Control and Prevention in all public schools in the State. The department shall
+establish public-private partnerships between state agencies or public schools and private
+corporations, individuals or organizations to allow mobile dental services providers to offer
+additional preventive oral health and disease intervention services in public schools.
+Sec. 2. Mobile dental services providers in public health districts. The
+Department of Health and Human Services shall establish a model to provide for a mobile
+dental services provider in each public health district as described in the Maine Revised
+Statutes, Title 22, section 411, subsection 5, based on the Cumberland County School Oral
+Health Project. For the purposes of this section, "mobile dental services" means dental
+services provided at a setting other than a permanent dental clinic. The department shall
+establish public-private partnerships between the department or school districts and private
+corporations, individuals or organizations to initially set up mobile dental services
+providers with equipment, supplies, logistics and methods of operation.
+Sec. 3. Department of Health and Human Services to provide training and
+education to primary care providers. The oral health program within the Department
+of Health and Human Services shall provide training and education to primary care
+providers on minimally invasive dental disease treatment for infants and small children.
+The department shall ensure that all training and education is provided by licensed dental
+health professionals. The department shall use guidance from the From the First Tooth
+program or its successor program and the American Academy of Pediatrics to encourage
+the use of silver diamine fluoride by pediatricians in primary care settings to reduce dental
+disease and prevent cavities.
+Page 1 - 132LR1212(05)
+
+Sec. 4. Appropriations and allocations. The following appropriations and
+allocations are made.
+HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+Maine Center for Disease Control and Prevention 0143
+Initiative: Provides funding to contract with mobile dental services providers to deliver
+services in public schools and provides funding for ongoing training and education for
+primary care providers on minimally invasive dental disease treatment.
+GENERAL FUND 2025-26 2026-27
+All Other $0 $325,000
+__________ __________
+GENERAL FUND TOTAL $0 $325,000
+Page 2 - 132LR1212(05)

@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 775
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 775
+APRIL 26, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 871 - L.D. 2150
+An Act to Enhance Notice to Individuals Whose Access to State Property Has
+Been Restricted
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 5 MRSA §60 is enacted to read:
+§60. Restriction of access to state property or services; restriction of communication
+with or through entities of the State
+1. Entity of the State; definition. As used in this section, "entity of the State" means
+any office, department, agency, authority, commission, board, institution, hospital or other
+instrumentality of the State, except that "entity of the State" does not include a public
+institution of higher education.
+2. Notice or communication of restriction. An entity of the State that issues a notice
+or communication, or a local law enforcement agency that issues a notice or communication
+on behalf of an entity of the State, that restricts a person from accessing state property or
+services provided by the State or from communicating with or through the entity to which
+an otherwise unrestricted person would have access must issue the notice or
+communication in writing to the restricted person. The written notice or communication
+must include the factual basis for the entity of the State's decision to restrict the person's
+access or communication as well as information describing the procedure to challenge the
+notice or communication. The issuance of a court order does not satisfy the requirements
+of this subsection.
+3. Final agency action. A notice or communication issued pursuant to this section
+constitutes final agency action for the purposes of review under chapter 375.
+4. Copy to Department of Public Safety. An entity of the State other than the
+Department of Public Safety that issues a written notice or communication pursuant to this
+section shall send a copy of that notice or communication to the Department of Public
+Safety.
+5. Applicability. This section does not apply to the Department of Corrections with
+respect to placing restrictions on a resident of a department facility as defined under Title
+34-A, section 3015, subsection 1.
+Page 1 - 132LR2840(07)
+
+Sec. 2. Department of Public Safety; data collection, report. No later than
+January 15, 2028, the Department of Public Safety shall, within existing resources, submit
+a report regarding the implementation of the Maine Revised Statutes, Title 5, section 60 to
+the joint standing committee of the Legislature having jurisdiction over judiciary matters.
+The report must include at least the following data:
+1. The number of notices or communications issued by or on behalf of an entity of the
+State;
+2. The number of notices or communications issued by or on behalf of an entity of the
+State that were subsequently violated by the person being restricted;
+3. A list of the entities of the State that issued notices or communications and the
+number of notices or communications issued on behalf of each entity;
+4. The geographic scope of the impact that the notice or communication issued to the
+restricted person has on the entity of the State, including whether the notice or
+communication was issued for a regional office or offices across the State;
+5. The final duration of each notice or communication; and
+6. The number of notices or communications that were challenged pursuant to Title 5,
+chapter 375.
+The joint standing committee of the Legislature having jurisdiction over judiciary
+matters may report out legislation based on the findings and recommendations of the report
+to the Second Regular Session of the 133rd Legislature.
+Page 2 - 132LR2840(07)

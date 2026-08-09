@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-B (H-828)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1890
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1261, L.D. 1890, “An Act to Facilitate
+10 the Development of Ambulatory Surgical Facilities by Exempting Certain Facilities from
+11 the Requirement to Obtain a Certificate of Need”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act Facilitating the Development of Ambulatory Surgical Facilities by Increasing
+14 the Monetary Threshold for Certain Facilities Under the Requirement to Obtain a
+15 Certificate of Need and to Index the Threshold Annually Thereafter'
+16 Amend the bill by striking out everything after the enacting clause and inserting the
+17 following:
+18 'Sec. 1. 22 MRSA §329, sub-§4-A, ¶B, as enacted by PL 2011, c. 424, Pt. A, §5
+19 and affected by Pt. E, §1, is amended by amending subparagraph (1) to read:
+20 (1) If it requires a capital expenditure of more than $3,000,000 $5,000,000.
+21 Beginning January 1, 2027 and annually thereafter, the threshold amount for
+22 review must be updated by the commissioner to reflect the change in the United
+23 States Department of Labor, Bureau of Labor Statistics Consumer Price Index
+24 medical care services index, with an effective date of January 1st each year; or'
+25 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+26 number to read consecutively.
+27 SUMMARY
+2288 This amendment, which is the minority report of the committee, replaces the bill and
+2299 changes the title. Under current law, a new health care facility other than a nursing facility
+3300 must obtain a certificate of need before it is established if it requires a capital expenditure
+3311 of more than $3 million. The amendment increases that threshold amount to $5 million and
+3322 also requires that, beginning January 1, 2027 and annually thereafter, the Commissioner of
+3333 Health and Human Services update the threshold amount for review to reflect the change
+Page 1 - 132LR2124(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1261, L.D. 1890
+314 in the United States Department of Labor, Bureau of Labor Statistics Consumer Price Index
+325 medical care services index, with an effective date of January 1st each year.
+Page 2 - 132LR2124(03)
+COMMITTEE AMENDMENT

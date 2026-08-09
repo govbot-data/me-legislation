@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-511)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1964
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 771, L.D. 1964, “An Act to Require the
+10 Development of a Standard Written Disclosure for Sellers and Installers of Distributed
+11 Generation Resources, to Make Changes to Other Standard Disclosures and to Make
+12 Misrepresentation in the Sale of Electricity Products an Unfair Trade Practice”
+13 Amend the bill by striking out the title and substituting the following:
+14 'An Act to Establish Additional Requirements Related to the Sale or Lease of Net
+15 Energy Billing Interests and Solar Energy Equipment'
+16 Amend the bill by inserting after the title and before the enacting clause the following:
+17 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+18 become effective until 90 days after adjournment unless enacted as emergencies; and
+19 Whereas, the Office of the Public Advocate receives inquiries nearly every day from
+20 Maine consumers who are struggling to understand who their solar provider is or how to
+21 contact their provider with questions about their account; and
+22 Whereas, the sale or lease of solar energy equipment involves significant consumer
+23 investment and long-term contracts, which may be complex; and
+24 Whereas, recent federal tax changes may increase the likelihood of door-to-door
+25 solicitations for the lease of solar energy equipment, and this legislation must take effect
+26 as soon as possible to clarify and improve upon existing consumer protection laws; and
+27 Whereas, in the judgment of the Legislature, these facts create an emergency within
+28 the meaning of the Constitution of Maine and require the following legislation as
+29 immediately necessary for the preservation of the public peace, health and safety; now,
+30 therefore,'
+31 Amend the bill by striking out all of sections 2, 3, 4, 5, 6 and 7 and inserting the
+32 following:
+33 'Sec. 2. 32 MRSA §4661, sub-§2, as enacted by PL 1969, c. 395, is amended to
+34 read:
+Page 1 - 132LR1248(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 771, L.D. 1964
+1 2. Merchandise. "Merchandise" includes any objects, wares, goods, commodities,
+2 intangibles or services. "Merchandise" also includes a contract for a shared financial
+3 interest in a distributed generation resource that has a net energy billing arrangement in
+4 accordance with Title 35-A, section 3209-A or 3209-B and solar energy equipment as
+5 defined in Title 35-A, section 3218, subsection 1.
+6 Sec. 3. 32 MRSA §14701, sub-§4, as amended by PL 2005, c. 347, Pt. E, §1, is
+7 further amended to read:
+8 4. Merchandise. "Merchandise" includes any objects, wares, goods, promises,
+9 commodities, intangibles, services or other things of value but does not include food or
+10 technical or vocational schools located outside of the State that are registered pursuant to
+11 Title 20‑A, section 9501. "Merchandise" also includes a contract for a shared financial
+12 interest in a distributed generation resource that has a net energy billing arrangement in
+13 accordance with Title 35-A, section 3209-A or 3209-B and solar energy equipment as
+14 defined in Title 35-A, section 3218, subsection 1. "Merchandise" does not include
+15 securities that are registered or exempt from registration pursuant to chapter 135, the Maine
+16 Uniform Securities Act and rules adopted pursuant to that Act or insurance products that
+17 are regulated under Title 24‑A.
+18 Sec. 4. 35-A MRSA §3209-A, sub-§5, ¶G-1 is enacted to read:
+19 G-1. As applicable, must comply with the requirements of Title 32, chapter 69,
+20 subchapter 5 and Title 32, chapter 128, subchapter 2;
+21 Sec. 5. 35-A MRSA §3218 is enacted to read:
+22 §3218. Standard written disclosure for sale or lease of solar energy equipment
+23 1. Definition. For the purposes of this section, "solar energy equipment" means all
+24 controls, tanks, pumps, heat exchangers, collectors and other equipment necessary for the
+25 collection, transfer and storage of solar energy. "Solar energy equipment" includes
+26 photovoltaic modules, inverters and racking and electronic control systems. "Solar energy
+27 equipment" does not include passive solar energy systems or those systems using natural
+28 means to collect, store and transfer solar energy or equipment owned by a transmission and
+29 distribution utility.
+30 2. Standard written disclosure. Beginning June 1, 2026, a person that sells or leases
+31 solar energy equipment that is installed on the customer side of the meter shall, prior to a
+32 sale or lease, provide to the customer a completed standard written disclosure. The
+33 completed standard written disclosure must be provided to the customer in a form that the
+34 customer may keep. The completed disclosures may be provided to the customer in
+35 electronic form, subject to compliance with the consumer consent and other applicable
+36 provisions of federal law, including, but not limited to, the federal Electronic Signatures in
+37 Global and National Commerce Act, 15 United States Code, Chapter 96, as amended. The
+38 standard written disclosure must include the following:
+39 A. The name of the seller or lessor and contact information of the seller or lessor or a
+40 representative of the seller or lessor;
+41 B. The name of the primary installer and contact information of the primary installer;
+42 C. A plain language summary of design, cost and warranty information, including the
+43 average cost of system interconnection by project size based on the previous calendar
+Page 2 - 132LR1248(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 771, L.D. 1964
+414 year's range of interconnection costs as published annually by the interconnection
+425 ombudsman appointed pursuant to section 107, subsection 1 on the commission's
+436 publicly accessible website pursuant to subsection 4;
+4 D. A checklist of the responsibilities of the seller or lessor, primary installer, customer
+5 and transmission and distribution utility related to the transaction;
+6 E. A description of any dispute resolution mechanisms, including information relating
+7 to the interconnection ombudsman under section 3474, subsection 4, available to the
+8 seller or lessor, primary installer, customer and transmission and distribution utility;
+9 F. Clearly described terms and conditions of any financial agreement or contract
+10 associated with the sale or lease of solar energy equipment, including information
+11 about contract termination and a description of the parties' obligations under the
+12 contract if the customer moves or if the replacement or repair of the customer's roof is
+13 required; and
+14 G. Signature lines for the seller or lessor and customer to attest that the seller or lessor
+15 provided, and the customer received, the standard written disclosure prior to the sale
+16 or lease of the solar energy equipment.
+17 3. Violation. A violation of subsection 2 is a violation of the Maine Unfair Trade
+18 Practices Act.
+19 4. Interconnection costs; reporting. By March 1, 2026, and annually thereafter, each
+20 large, investor-owned transmission and distribution utility shall provide the interconnection
+21 ombudsman appointed pursuant to section 107, subsection 1 with the average
+22 interconnection costs for the previous calendar year by project size. By May 1, 2026, and
+23 annually thereafter, the interconnection ombudsman shall publish on the commission's
+24 publicly accessible website the average interconnection costs by project size along with
+25 disclaimer language regarding the range and factors associated with the cost of
+26 interconnection pursuant to subsection 2, paragraph C.
+27 Sec. 6. Department of Energy Resources; model forms. By June 1, 2026, the
+28 Department of Energy Resources shall develop 2 model standard written disclosure forms
+29 for the sale and for the lease of solar energy equipment described in the Maine Revised
+30 Statutes, Title 35-A, section 3218, informed by stakeholder input. The department shall
+31 make the disclosure forms available on its publicly accessible website.'
+32 Amend the bill by adding before the summary the following:
+33 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+34 takes effect when approved.'
+35 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+36 number to read consecutively.
+37 SUMMARY
+3388 This amendment changes the title of the bill and adds an emergency preamble and
+3399 clause. It makes the following changes to the bill.
+40 1. It clarifies the definition of "merchandise" for the purposes of the laws governing
+41 consumer solicitation sales to specify that "merchandise" includes a contract for a shared
+42 financial interest in a distributed generation resource that has a net energy billing
+Page 3 - 132LR1248(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 771, L.D. 1964
+413 arrangement in the kilowatt-hour credit or commercial and institutional net energy billing
+424 program as well as solar energy equipment.
+3 2. It clarifies the definition of "merchandise" for the purposes of the laws governing
+4 transient sellers of consumer merchandise to specify that "merchandise" includes a contract
+5 for a shared financial interest in a distributed generation resource that has a net energy
+6 billing arrangement in the kilowatt-hour credit or commercial and institutional net energy
+7 billing program as well as solar energy equipment.
+8 3. Beginning June 1, 2026, it requires a person who sells or leases solar energy
+9 equipment that is installed on the customer side of the meter to provide a standard written
+10 disclosure to a customer prior to a sale or lease. A failure to provide the standard written
+11 disclosure as required by the law is a violation of the Maine Unfair Trade Practices Act.
+12 The amendment removes the requirement for certain elements of the written disclosure that
+13 are in the bill. It requires the Department of Energy Resources to develop 2 model standard
+14 written disclosure forms: one for the sale of solar energy equipment and one for the lease
+15 of solar energy equipment.
+16 4. By March 1, 2026, it requires each large, investor-owned transmission and
+17 distribution utility to annually provide the interconnection ombudsman with the average
+18 interconnection costs for the previous calendar year by project size. By May 1, starting in
+19 2026, the interconnection ombudsman must annually publish the average interconnection
+20 costs by project size on the Public Utilities Commission's website.
+21 5. It removes the provisions that require competitive electricity providers and project
+22 sponsors to provide certain disclosures to residential customers and that require rulemaking
+23 applicable to the Attorney General and the Public Utilities Commission.
+24 The amendment retains from the bill the prohibition on a person's falsely representing
+25 that the person is a representative or affiliate of an electric utility or representative or
+26 official of a governmental agency or program when selling, offering to sell, leasing,
+27 installing or entering into any other financial arrangement regarding an electricity product.
+28 A violation of the prohibition is a violation of the Maine Unfair Trade Practices Act.
+2299 FISCAL NOTE REQUIRED
+3300 (See attached)
+Page 4 - 132LR1248(04)
+COMMITTEE AMENDMENT

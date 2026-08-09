@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 588
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 23, 2026 588
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 756 - L.D. 1949
+An Act Regarding Energy Fairness
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 35-A MRSA §103-B is enacted to read:
+§103-B. Affordability impact considerations
+In executing its duties, powers and regulatory functions under this Title, the
+commission, while ensuring system reliability, shall consider the impact on affordability
+for residential customers.
+Sec. 2. Credit and collection data; publication. The Public Utilities
+Commission shall publish on its publicly accessible website data regarding credit and
+collection activities of a transmission and distribution utility with more than 50,000
+customers that is submitted to the commission by the utility in accordance with rules
+adopted by the commission pursuant to the Maine Revised Statutes, Title 35-A, section
+704, subsection 1. The commission shall ensure that the data is provided on the
+commission's publicly accessible website in a clear and transparent manner.
+Sec. 3. Comprehensive review of electric delivery rates. The Public Utilities
+Commission shall conduct a comprehensive review of each component of electric delivery
+rates. In conducting the review required pursuant to this section, the commission shall
+consider whether changes to the current design and composition of electric delivery rates
+could be implemented to, at a minimum:
+1. Contain customer costs;
+2. Reduce transmission and distribution utility bill volatility; and
+3. Increase transmission and distribution utility bill transparency.
+The commission shall engage stakeholders in the review process under this section and
+solicit stakeholder feedback. By January 31, 2027, the commission shall submit an interim
+report to the joint standing committee of the Legislature having jurisdiction over energy
+matters informing the committee of its work to date on the comprehensive review. By
+December 15, 2027, the commission shall submit a final report regarding its comprehensive
+review, including any recommendations or proposed legislation, to the joint standing
+Page 1 - 132LR2159(10)
+
+committee of the Legislature having jurisdiction over energy matters. The committee may
+report out a bill related to the report to the Second Regular Session of the 133rd Legislature.
+Sec. 4. Affordability metric development. The Public Utilities Commission
+shall develop an affordability metric to be used to assess the impact of electricity bills on
+the overall energy burden for residential customers of an investor-owned transmission and
+distribution utility. By January 15, 2027, the commission shall submit an interim report on
+the commission's progress under this section to the joint standing committee of the
+Legislature having jurisdiction over energy matters. The commission shall submit a final
+report by December 15, 2027 to the joint standing committee of the Legislature having
+jurisdiction over energy matters regarding the development of an affordability metric under
+this section, along with any recommendations or proposed legislation, if necessary. The
+committee may report out a bill related to the final report to the Second Regular Session of
+the 133rd Legislature.
+Page 2 - 132LR2159(10)

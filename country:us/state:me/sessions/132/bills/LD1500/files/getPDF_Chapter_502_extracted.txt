@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 502
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 502
+JANUARY 11, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+H.P. 984 - L.D. 1500
+An Act to Establish the Maine Community Development Financial
+Institution Fund to Support Small Businesses, Rural Economic Development
+and Affordable Housing
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 5 MRSA §135, as amended by PL 2021, c. 231, §1, is further amended by
+enacting after the 7th paragraph a new paragraph to read:
+The Treasurer of State may deposit, if funds are available, an amount not to exceed
+$10,000,000 in each calendar year with community development financial institutions
+authorized to do business in the State at a rate of return not more than 2% per year below
+the rate of return otherwise obtainable had the funds been invested with other financial
+institutions for a similar term, as determined by the Treasurer of State, for periods not to
+exceed 2 years. For the purposes of this paragraph, "community development financial
+institution" has the same meaning as in section 13056-K, subsection 1, paragraph A.
+Sec. 2. 5 MRSA §13056-K is enacted to read:
+§13056-K. Maine Community Development Financial Institution Program
+1. Definitions. As used in this section, unless the context otherwise indicates, the
+following terms have the following meanings.
+A. "Community development financial institution" means an institution that, as
+determined by the Secretary of State, is:
+(1) Legally qualified to do business within the State;
+(2) Subject to oversight by applicable federal or state financial institution or
+insurance regulatory agencies, if applicable; and
+(3) Certified by the United States Department of the Treasury as a community
+development financial institution.
+B. "Financing" means any combination of loans, grants and forgivable loans.
+C. "Fund" means the Maine Community Development Financial Institution Fund
+established in subsection 2.
+Page 1 - 132LR1523(07)
+
+D. "Program" means the Maine Community Development Financial Institution
+Program established in subsection 3.
+E. "Project" means a project funded under the program.
+F. "Underserved community" means a geographic area or targeted population identified
+by the Community Development Financial Institutions Fund at the United States
+Department of the Treasury as a target market for financing from community
+development financial institutions.
+2. Fund established. The Maine Community Development Financial Institution Fund
+is established within the department for the purpose of providing funds for the program.
+The fund consists of money transferred to the fund by the Legislature in the form of
+appropriations, which may be provided as grants or loans, or by the Treasurer of State in
+the form of low-cost or no-cost loaned capital, which may be provided as loans.
+Other funds may include grants and loans from federal, state and private sources and other
+types of funding from private sources. The fund is a dedicated nonlapsing fund, and all
+revenues deposited in the fund remain in the fund and must be disbursed in accordance
+with this section. The department may dedicate up to 10% of the appropriated and granted
+money in the fund for the administrative and operational costs required to administer and
+manage the program, and any interest earned on money in the fund remains in the fund and
+must be credited to the fund.
+3. Program established; duties. The Maine Community Development Financial
+Institution Program is established within the department to provide capital through grants
+and loans to community development financial institutions. The program must provide
+grants and loans to community development financial institutions for purposes that align
+with the program's goal of promoting housing and economic and community development,
+capital access, housing access and small business support. Community development
+financial intuitions must deploy the funds in the form of loans, grants and forgivable loans
+to provide financial products to underserved communities in the State.
+4. Rulemaking. The department shall adopt rules to implement this section. Rules
+must include, but are not limited to, monitoring and accountability mechanisms for
+organizations receiving funding under the program. Rules adopted pursuant to this
+subsection are routine technical rules as defined in chapter 375, subchapter 2-A.
+5. Reporting. Beginning January 1, 2026, and biannually thereafter, the department
+shall report to the joint standing committee of the Legislature having jurisdiction over
+economic development matters on such matters regarding the fund as the department
+considers appropriate, including the amount of funding committed to projects from the
+fund, and other items as may be requested by the joint standing committee of the
+Legislature having jurisdiction over economic development matters. After reviewing the
+report, the committee may report out legislation to implement any recommendations
+contained in the report or address any other issues identified in the report.
+Sec. 3. Appropriations and allocations. The following appropriations and
+allocations are made.
+ECONOMIC AND COMMUNITY DEVELOPMENT, DEPARTMENT OF
+Maine Community Development Financial Institution Fund N506
+Page 2 - 132LR1523(07)
+
+Initiative: Allocates ongoing funds for grants and loans to eligible institutions and
+enterprises to promote housing and community development, capital access, housing
+access and small business support.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+All Other $500 $500
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $500 $500
+Page 3 - 132LR1523(07)

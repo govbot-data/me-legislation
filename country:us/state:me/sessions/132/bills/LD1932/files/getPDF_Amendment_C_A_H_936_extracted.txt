@@ -1,0 +1,259 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-936)
+Media Type: application/pdf
+
+================================================================================
+
+1 L.D. 1932
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1293, L.D. 1932, “An Act to Support
+10 Essential Support Workers and Enhance Workforce Development”
+11 Amend the bill by striking out all of sections 1 to 4.
+12 Amend the bill by striking out all of sections 6 to 10 and inserting the following:
+13 'Sec. 6. Maine Health Data Organization and Department of Health and
+14 Human Services to develop care gap plan. The Maine Health Data Organization,
+15 referred to in this section as "the organization," and the Department of Health and Human
+16 Services, referred to in this section as "the department," shall develop a plan to measure the
+17 State's care gap. For the purposes of this section, "care gap" means the difference between
+18 the home and community-based services individuals are authorized to receive and the
+19 services that they actually received. The organization and the department shall do the
+20 following:
+21 1. Work with the department's appropriate vendors to create a supplemental file to
+22 report on the care gap for services provided under the sections of MaineCare policy
+23 provided under rule Chapter 101: MaineCare Benefits Manual, Chapter II, Sections 12, 17,
+24 18, 19, 20, 21, 28, 29, 40, 65, 92 and 96. This file must include the authorization data
+25 elements needed for the organization to link this data with the claims and eligibility data
+26 that the vendor currently submits to the organization on behalf of the Office of MaineCare
+27 Services within the department. The organization must have access to the authorization,
+28 claims and eligibility data necessary to calculate the care gap. Using the existing data
+29 governance framework, the organization shall securely integrate multiple data streams,
+30 manage and store the data and develop dashboards to display key data points over time;
+31 2. Work with the department's appropriate vendors to create a uniform reporting system
+32 for submitting key data elements to report on the care gap for services provided under the
+33 department's Office of Aging and Disability Services, Part 1 rule Chapter 5, Office of
+34 Aging and Disability Services Policy Manual, Sections 61, 63, 68 and 69. These data
+35 elements that may need modification to allow for data collection include, but are not limited
+Page 1 - 132LR1742(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1293, L.D. 1932
+316 to, the medical eligibility determination form, authorized care plan, invoiced payment data
+327 and utilization reports; and
+3 3. Determine if there is any data available to estimate the care gap for services provided
+4 under the sections of MaineCare policy provided under rule Chapter 101: MaineCare
+5 Benefits Manual, Chapter II, Sections 23 and 26 and those services provided under Section
+6 65 that do not require prior authorization. If data is available, the organization and the
+7 department shall estimate the care gap.
+8 Following the modifications to contracts required in subsections 1 and 2, the
+9 organization shall integrate multiple data streams, manage and store the data and develop
+10 dashboards to display key data points over time. The organization may integrate any
+11 available data for those MaineCare services that do not require prior authorization
+12 described in subsection 3. The organization shall submit an annual report to the joint
+13 standing committees of the Legislature having jurisdiction over health and human services
+14 matters and over appropriations and financial affairs no later than November 15th of each
+15 year beginning in 2027. This report must contain data on the care gap with a breakdown
+16 by MaineCare Benefits Manual sections and Office of Aging and Disability Services Policy
+17 Manual sections, including any changes in trends. The first report in 2027 must include
+18 information on progress toward developing the care gap analysis, including any options for
+19 MaineCare services without prior authorization. The joint standing committee of the
+20 Legislature having jurisdiction over health and human services matters is authorized to
+21 report out legislation in response to the first report in 2027. As part of any proposed
+22 legislation, the joint standing committee of the Legislature having jurisdiction over health
+23 and human services matters must consider the inclusion of the care gap data and the full
+24 cost of providing the services identified in the care gap in one of the existing statutorily
+25 required reports submitted by the department to the joint standing committee of the
+26 Legislature having jurisdiction over health and human services matters.
+27 Sec. 7. Cost-of-living adjustment for essential support workers; MaineCare
+28 rates. Notwithstanding any provision of law to the contrary, the Department of Health
+29 and Human Services shall submit a request to seek approval from the United States
+30 Department of Health and Human Services, Centers for Medicare and Medicaid Services
+31 to implement a cost-of-living adjustment of 3.07% for reimbursement rates subject to rule
+32 Chapter 101: MaineCare Benefits Manual, Chapter II, Sections 13, 65 and 92 and rule
+33 Chapter 101: MaineCare Benefits Manual, Chapter III, Sections 2, 12, 17, 18, 19, 20, 21,
+34 26, 29, 40, 67, 96 and 97 Appendix C effective January 1, 2027. The department shall
+35 submit the request required to seek approval under this section to implement the cost-of-
+36 living adjustment as soon as practicable.
+37 Sec. 8. Cost-of-living adjustment for state-funded home and community-
+38 based services. The Department of Health and Human Services shall increase
+39 reimbursement for state-funded home and community-based services by implementing a
+40 cost-of-living increase of 3.07% for direct care services provided under the department's
+41 Office of Aging and Disability Services, Part 1 rule Chapter 5, Office of Aging and
+42 Disability Services Policy Manual, Sections 61, 63, 68 and 69 effective January 1, 2027 to
+43 maintain parity with similar MaineCare programs.
+44 Sec. 9. Appropriations and allocations. The following appropriations and
+45 allocations are made.
+Page 2 - 132LR1742(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1293, L.D. 1932
+1 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+2 Developmental Services Waiver - MaineCare Z211
+3 Initiative: Provides funding to the Department of Health and Human Services to implement
+4 a cost-of-living adjustment for direct care services under several MaineCare policy sections
+5 and state-funded home and community-based services.
+6 GENERAL FUND 2025-26 2026-27
+7 All Other $0 $3,601,826
+8 __________ __________
+9 GENERAL FUND TOTAL $0 $3,601,826
+106 Developmental Services Waiver - Supports Z212
+11 Initiative: Provides funding to the Department of Health and Human Services to implement
+12 a cost-of-living adjustment for direct care services under several MaineCare policy sections
+13 and state-funded home and community-based services.
+14 GENERAL FUND 2025-26 2026-27
+15 All Other $0 $295,468
+16 __________ __________
+17 GENERAL FUND TOTAL $0 $295,468
+1184 Long Term Care - Office of Aging and Disability Services 0420
+19 Initiative: Provides funding to the Department of Health and Human Services to implement
+20 a cost-of-living adjustment for direct care services under several MaineCare policy sections
+21 and state-funded home and community-based services.
+22 GENERAL FUND 2025-26 2026-27
+23 All Other $0 $253,130
+24 __________ __________
+25 GENERAL FUND TOTAL $0 $253,130
+2262 Medicaid Services - Developmental Services Z210
+27 Initiative: Provides funding to the Department of Health and Human Services to implement
+28 a cost-of-living adjustment for direct care services under several MaineCare policy sections
+29 and state-funded home and community-based services.
+30 GENERAL FUND 2025-26 2026-27
+31 All Other $0 $270,572
+32 __________ __________
+33 GENERAL FUND TOTAL $0 $270,572
+3340 Medical Care - Payments to Providers 0147
+35 Initiative: Provides funding to the Department of Health and Human Services to implement
+36 a cost-of-living adjustment for direct care services under several MaineCare policy sections
+37 and state-funded home and community-based services.
+38 GENERAL FUND 2025-26 2026-27
+39 All Other $0 $2,954,257
+40 __________ __________
+41 GENERAL FUND TOTAL $0 $2,954,257
+Page 3 - 132LR1742(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1293, L.D. 1932
+11
+2 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+3 All Other $0 $11,488,930
+4 __________ __________
+5 FEDERAL EXPENDITURES FUND TOTAL $0 $11,488,930
+62
+7 FEDERAL BLOCK GRANT FUND 2025-26 2026-27
+8 All Other $0 $75,046
+9 __________ __________
+10 FEDERAL BLOCK GRANT FUND TOTAL $0 $75,046
+117 Nursing Facilities 0148
+12 Initiative: Provides funding to the Department of Health and Human Services to implement
+13 a cost-of-living adjustment for direct care services under several MaineCare policy sections
+14 and state-funded home and community-based services.
+15 GENERAL FUND 2025-26 2026-27
+16 All Other $0 $2,099,642
+17 __________ __________
+18 GENERAL FUND TOTAL $0 $2,099,642
+1195
+20 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+21 All Other $0 $3,843,337
+22 __________ __________
+23 FEDERAL EXPENDITURES FUND TOTAL $0 $3,843,337
+2240
+25 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+26 All Other $0 $379,339
+27 __________ __________
+28 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $379,339
+2295 Office of MaineCare Services 0129
+30 Initiative: Provides funding to the Department of Health and Human Services to implement
+31 a cost-of-living adjustment for direct care services under several MaineCare policy sections
+32 and state-funded home and community-based services.
+33 GENERAL FUND 2025-26 2026-27
+34 All Other $0 $42,194
+35 __________ __________
+36 GENERAL FUND TOTAL $0 $42,194
+3373
+38 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+39 All Other $0 $130,538
+40 __________ __________
+41 FEDERAL EXPENDITURES FUND TOTAL $0 $130,538
+Page 4 - 132LR1742(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1293, L.D. 1932
+11 PNMI Room and Board Z009
+2 Initiative: Provides funding to the Department of Health and Human Services to implement
+3 a cost-of-living adjustment for direct care services under several MaineCare policy sections
+4 and state-funded home and community-based services.
+5 GENERAL FUND 2025-26 2026-27
+6 All Other $0 $534,775
+7 __________ __________
+8 GENERAL FUND TOTAL $0 $534,775
+95
+10 HEALTH AND HUMAN SERVICES,
+11 DEPARTMENT OF
+12 DEPARTMENT TOTALS 2025-26 2026-27
+13
+14 GENERAL FUND $0 $10,051,864
+15 FEDERAL EXPENDITURES FUND $0 $15,462,805
+16 OTHER SPECIAL REVENUE FUNDS $0 $379,339
+17 FEDERAL BLOCK GRANT FUND $0 $75,046
+18 __________ __________
+19 DEPARTMENT TOTAL - ALL FUNDS $0 $25,969,054
+2100 HEALTH DATA ORGANIZATION, MAINE
+21 Maine Health Data Organization 0848
+22 Initiative: Provides one-time funding to the Maine Health Data Organization for data
+23 collection and initial implementation of a reporting dashboard to calculate the care gap for
+24 Office of Aging and Disability Services services.
+25 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+26 All Other $0 $133,768
+27 __________ __________
+28 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $133,768
+2295
+30 HEALTH DATA ORGANIZATION, MAINE
+31 DEPARTMENT TOTALS 2025-26 2026-27
+32
+33 OTHER SPECIAL REVENUE FUNDS $0 $133,768
+34 __________ __________
+35 DEPARTMENT TOTAL - ALL FUNDS $0 $133,768
+3360
+37 SECTION TOTALS 2025-26 2026-27
+38
+39 GENERAL FUND $0 $10,051,864
+40 FEDERAL EXPENDITURES FUND $0 $15,462,805
+41 OTHER SPECIAL REVENUE FUNDS $0 $513,107
+42 FEDERAL BLOCK GRANT FUND $0 $75,046
+43 __________ __________
+Page 5 - 132LR1742(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1293, L.D. 1932
+1 SECTION TOTAL - ALL FUNDS $0 $26,102,822
+21 '
+3 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+4 number to read consecutively.
+5 SUMMARY
+66 This amendment removes all sections of the bill except for the section that adds 2
+77 members to the Essential Support Workforce Advisory Committee.
+8 The amendment applies a one-time cost-of-living adjustment of 3.07% for direct care
+9 services provided under certain sections of the MaineCare Benefits Manual and state-
+10 funded home and community-based services. The adjustment is applied beginning January
+11 1, 2027.
+12 The amendment replaces the requirement for the Maine Health Data Organization to
+13 develop a methodology to develop a care gap report with a requirement for the Maine
+14 Health Data Organization and the department to work with the department's vendors to
+15 allow for the Maine Health Data Organization to develop a plan to measure the care gap in
+16 essential support worker services paid by the MaineCare program or a similar state-funded
+17 program. "Care gap" is defined as the difference between the services individuals are
+18 authorized to receive and the services that they actually received. This follows the
+19 recommendations from the report submitted pursuant to Resolve 2025, chapter 113. The
+20 amendment also requires the joint standing committee of the Legislature having jurisdiction
+21 over health and human services matters to determine which existing reports required by
+22 statute that are submitted by the department to the committee could be amended to include
+23 the ongoing care gap funding requirements.
+2244 FISCAL NOTE REQUIRED
+2255 (See attached)
+Page 6 - 132LR1742(02)
+COMMITTEE AMENDMENT

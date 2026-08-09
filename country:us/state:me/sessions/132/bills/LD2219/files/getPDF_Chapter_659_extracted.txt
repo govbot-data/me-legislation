@@ -1,0 +1,142 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 659
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 659
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1496 - L.D. 2219
+An Act to Implement the Recommendations of the Right To Know Advisory
+Committee Concerning Certain Existing Public Records Exceptions
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 25 MRSA §1577, sub-§2, as amended by PL 2003, c. 393, §6, is further
+amended to read:
+2. Access to records Permissible disclosure. The following persons or agencies may
+have access to DNA records may be disclosed to the following persons or agencies:
+A. Local, county, state and federal criminal justice and law enforcement agencies,
+including forensic laboratories serving the agencies, for identification purposes that
+further official criminal investigations;
+B. The FBI for storage and maintenance of CODIS;
+C. Medical examiners and coroners for the purpose of identifying remains; and
+D. A person who has been identified and charged with a criminal offense or a juvenile
+crime as a result of a search of DNA records stored in the state DNA data base. A
+Disclosure to a person who has been identified and charged with a criminal offense or
+a juvenile crime has access only is limited to that person's records and any other records
+that person is entitled to under the Maine Rules of Evidence Unified Criminal
+Procedure.
+Sec. 2. 26 MRSA §685, sub-§3, ¶A, as enacted by PL 1989, c. 536, §§1 and 2 and
+affected by c. 604, §§2 and 3, is amended to read:
+A. Unless the employee or applicant consents, all information acquired by an employer
+in the testing process is confidential and may not be released disclosed to any person
+other than the employee or applicant who is tested, any necessary personnel of the
+employer and a provider of rehabilitation or treatment services under subsection 2,
+paragraph C. This paragraph does not prevent:
+(1) The release disclosure of this information when required or permitted by state
+or federal law, including release disclosure under section 683, subsection 8,
+paragraph D; or
+Page 1 - 132LR3018(03)
+
+(2) The use of this information in any grievance procedure, administrative hearing
+or civil action relating to the imposition of the test or the use of test results.
+Sec. 3. 29-A MRSA §253, as enacted by PL 1993, c. 683, Pt. A, §2 and affected by
+Pt. B, §5, is amended to read:
+§253. Confidentiality of nongovernment vehicle records
+Upon receiving a written request by an appropriate criminal justice official and
+showing cause that it is in the best interest of public safety, the Secretary of State may
+determine that records of a nongovernment vehicle may be held are confidential for a
+specific period of time, which may not exceed the expiration of the current registration.
+Sec. 4. 29-A MRSA §1301, sub-§6-A, as amended by PL 2023, c. 257, §13, is
+further amended to read:
+6-A. Confidentiality. Except as required by 18 United States Code, Section 2721(b)
+or as needed to implement the federal National Voter Registration Act of 1993, the federal
+Help America Vote Act of 2002 or other federal election law, the Secretary of State may
+not disseminate disclose information collected under subsection 6. For every willful
+violation of this subsection, a person commits a civil violation for which a fine of not more
+than $500 may be adjudged.
+Sec. 5. 29-A MRSA §2251, sub-§7-A, ¶B, as amended by PL 2023, c. 235, §9, is
+further amended to read:
+B. Except as provided in paragraph B‑1 and Title 16, section 805‑A, subsection 1,
+paragraph F, the Department of Public Safety, Bureau of State Police may not publicly
+disseminate personally identifying accident report data that are contained in an accident
+report database maintained, administered or contributed to by the Bureau of State
+Police are confidential. Such data are not public records for the purposes of Title 1,
+chapter 13.
+Sec. 6. 29-A MRSA §2251, sub-§7-A, ¶B-1, as enacted by PL 2011, c. 654, §8,
+is amended to read:
+B-1. The Department of Public Safety, Bureau of State Police may disseminate
+disclose a vehicle registration plate number contained in an accident report database
+maintained, administered or contributed to by the Bureau of State Police to a person
+only if that person provides the Bureau of State Police an affidavit stating that the
+person will not:
+(1) Use a vehicle registration plate number to identify or contact a person; or
+(2) Disseminate Disclose a vehicle registration plate number to another person.
+Sec. 7. 29-A MRSA §2251, sub-§7-A, ¶C, as amended by PL 2011, c. 662, §19,
+is further amended to read:
+C. The Department of Public Safety, Bureau of State Police may publicly disseminate
+nonpersonally Nonpersonally identifying accident report data that are contained in an
+accident report database maintained, administered or contributed to by the Bureau of
+State Police are not confidential. The cost of furnishing a copy of such data is not
+subject to the limitations of Title 1, section 408‑A.
+Page 2 - 132LR3018(03)
+
+Sec. 8. 32 MRSA §2600-A, as enacted by PL 2001, c. 214, §1, is amended to read:
+§2600-A. Confidentiality of personal information of applicant or licensee
+An applicant or licensee shall provide the board with a current professional address and
+telephone number, which will be their public contact address, and a personal residence
+address and, telephone number and e-mail address. An applicant's or licensee's personal
+residence address and, telephone number is and e-mail address are confidential information
+and may not be disclosed except as permitted by this section or as required by law, unless.
+If the personal residence address and telephone number have been provided as the public
+contact address, the personal residence address and telephone number are not confidential.
+Personal health information submitted as part of any application is confidential information
+and may not be disclosed except as permitted by this section or as required by law. The
+personal health information and personal residence address and, telephone number and e-
+mail address may be provided to other governmental licensing or disciplinary authorities
+or to any health care providers located within or outside this State that are concerned with
+granting, limiting or denying a physician's employment or privileges.
+Sec. 9. 32 MRSA §2600-E, sub-§1, as enacted by PL 2019, c. 499, §2, is amended
+to read:
+1. Request for record; redaction. When the board receives a request to inspect or
+copy all or part of the record of an applicant or licensee, the board shall redact confidential
+information that is not public before making the record available for inspection or copying.
+Sec. 10. 32 MRSA §6080, sub-§1, as enacted by PL 2023, c. 662, §2, is amended
+to read:
+1. Confidentiality and prohibited disclosure. Except as otherwise provided in
+subsection 2 this section, all information or reports obtained by the administrator from an
+applicant for a license, licensee or authorized delegate and all information contained in or
+related to an examination, investigation, operating report or condition report prepared by,
+on behalf of or for the use of the administrator, or financial statements, balance sheets or
+authorized delegate information, are confidential and are not subject to disclosure under
+Title 1, chapter 13.
+Sec. 11. 32 MRSA §6080, sub-§2, as enacted by PL 2023, c. 662, §2, is amended
+to read:
+2. Authorized disclosure. The administrator may disclose confidential information
+not otherwise subject to disclosure under subsection 1 to representatives of state or federal
+agencies who certify in a record that they will maintain the confidentiality of the
+information or if the administrator finds that the release is reasonably necessary for the
+protection and interest of the public.
+Sec. 12. 32 MRSA §16808, as enacted by PL 2019, c. 17, §1, is amended to read:
+§16808. Records
+A broker-dealer or investment adviser shall provide access to or copies of records that
+are relevant to the suspected or attempted financial exploitation of an eligible adult to the
+Department of Health and Human Services and to a law enforcement agency as part of a
+referral to the department or to a law enforcement agency or upon request of the department
+or a law enforcement agency pursuant to an investigation. The records may include
+Page 3 - 132LR3018(03)
+
+historical records and records relating to recent transactions that may constitute financial
+exploitation of an eligible adult. All records made available to agencies under this section
+are not public records for purposes of Title 1, chapter 13, subchapter 1 confidential.
+Nothing in this This section limits does not limit or otherwise impedes impede the authority
+of the administrator to access or examine the books and records of broker-dealers and
+investment advisers as otherwise provided by law.
+Page 4 - 132LR3018(03)

@@ -1,0 +1,601 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-1037)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2213
+2 Date: (Filing No. H- )
+3 TRANSPORTATION
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213, “An Act Making
+10 Supplemental Allocations from the Highway Fund and Other Funds for the Expenditures
+11 of State Government and Changing Certain Provisions of the Law Necessary to the Proper
+12 Operations of State Government for the Fiscal Years Ending June 30, 2026 and June 30,
+13 2027”
+14 Amend the bill by inserting after the title and before the enacting clause the following:
+15 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+16 become effective until 90 days after adjournment unless enacted as emergencies; and
+17 Whereas, the 90-day period may not terminate until after the beginning of the next
+18 fiscal year; and
+19 Whereas, certain obligations and expenses incident to the operation of state
+20 departments and institutions will become due and payable immediately; and
+21 Whereas, in the judgment of the Legislature, these facts create an emergency within
+22 the meaning of the Constitution of Maine and require the following legislation as
+23 immediately necessary for the preservation of the public peace, health and safety; now,
+24 therefore,'
+25 Amend the bill by striking out everything after the enacting clause and inserting the
+26 following:
+27 'PART A
+28 Sec. A-1. Appropriations and allocations. The following appropriations and
+29 allocations are made.
+30 PUBLIC SAFETY, DEPARTMENT OF
+31 State Police 0291
+32 Initiative: Provides funding across programs for the approved reorganization of 8 Public
+33 Safety Mechanic positions to 8 Auto Mechanic III positions.
+Page 1 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 HIGHWAY FUND 2025-26 2026-27
+2 Personal Services $0 $10,887
+3 __________ __________
+4 HIGHWAY FUND TOTAL $0 $10,887
+51 State Police 0291
+6 Initiative: Establishes 4 State Police Detective positions and provides funding for related
+7 All Other costs.
+8 HIGHWAY FUND 2025-26 2026-27
+9 Personal Services $0 $268,408
+10 All Other $0 $22,554
+11 __________ __________
+12 HIGHWAY FUND TOTAL $0 $290,962
+138 State Police 0291
+14 Initiative: Provides funding for the approved reorganization of 5 Senior Laboratory
+15 Scientist positions from range 29 to range 31 and related All Other costs.
+16 HIGHWAY FUND 2025-26 2026-27
+17 Personal Services $0 $20,976
+18 All Other $0 $407
+19 __________ __________
+20 HIGHWAY FUND TOTAL $0 $21,383
+2116 State Police 0291
+22 Initiative: Provides funding for an increase in rent for the northern field troop barracks.
+23 HIGHWAY FUND 2025-26 2026-27
+24 All Other $0 $35,000
+25 __________ __________
+26 HIGHWAY FUND TOTAL $0 $35,000
+2273 State Police 0291
+28 Initiative: Establishes one State Police Lieutenant position and provides funding for related
+29 All Other costs for additional staffing related to the Extreme Risk Protection Order Act.
+30 This initiative also provides funding for one Ford Police Interceptor Utility Hybrid vehicle
+31 for this position.
+32 HIGHWAY FUND 2025-26 2026-27
+33 Personal Services $14,808 $63,677
+34 All Other $1,158 $20,011
+35 Capital Expenditures $0 $16,800
+36 __________ __________
+37 HIGHWAY FUND TOTAL $15,966 $100,488
+3382 State Police 0291
+39 Initiative: Establishes one Forensic Chemist II position and one DNA Forensic Analyst
+40 position and provides funding for related All Other costs, a mobile office unit and a
+41 contracted trainer for the tracking system.
+42 HIGHWAY FUND 2025-26 2026-27
+Page 2 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 Personal Services $21,680 $93,514
+2 All Other $10,823 $50,287
+3 Capital Expenditures $14,000 $0
+4 __________ __________
+5 HIGHWAY FUND TOTAL $46,503 $143,801
+61 State Police 0291
+7 Initiative: Transfers one State Police Lieutenant position from the Traffic Safety program,
+8 100% Highway Fund to the State Police program, 65% General Fund and 35% Highway
+9 Fund and provides funding for related All Other costs.
+10 HIGHWAY FUND 2025-26 2026-27
+11 Personal Services $0 $71,008
+12 All Other $0 $4,192
+13 __________ __________
+14 HIGHWAY FUND TOTAL $0 $75,200
+1150 State Police - Support 0981
+16 Initiative: Provides funding for the approved reclassification of one Office Associate II
+17 position to an Office Specialist I position effective November 17, 2025.
+18 HIGHWAY FUND 2025-26 2026-27
+19 Personal Services $0 $6,029
+20 __________ __________
+21 HIGHWAY FUND TOTAL $0 $6,029
+2128 Traffic Safety 0546
+23 Initiative: Provides funding for the approved reorganization of one State Police Pilot
+24 position to a State Police Lieutenant position.
+25 HIGHWAY FUND 2025-26 2026-27
+26 Personal Services $0 $15,737
+27 __________ __________
+28 HIGHWAY FUND TOTAL $0 $15,737
+2295 Traffic Safety 0546
+30 Initiative: Transfers one State Police Lieutenant position from the Traffic Safety program,
+31 100% Highway Fund to the State Police program, 65% General Fund and 35% Highway
+32 Fund and provides funding for related All Other costs.
+33 HIGHWAY FUND 2025-26 2026-27
+34 POSITIONS - LEGISLATIVE COUNT 0.000 (1.000)
+35 Personal Services $0 ($187,145)
+36 All Other $0 ($4,192)
+37 __________ __________
+38 HIGHWAY FUND TOTAL $0 ($191,337)
+3393 Traffic Safety - Commercial Vehicle Enforcement 0715
+40 Initiative: Provides funding across programs for the approved reorganization of 8 Public
+41 Safety Mechanic positions to 8 Auto Mechanic III positions.
+42 HIGHWAY FUND 2025-26 2026-27
+Page 3 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 Personal Services $0 $13,975
+2 __________ __________
+3 HIGHWAY FUND TOTAL $0 $13,975
+41
+5 PUBLIC SAFETY, DEPARTMENT OF
+6 DEPARTMENT TOTALS 2025-26 2026-27
+7
+8 HIGHWAY FUND $62,469 $522,125
+9 __________ __________
+10 DEPARTMENT TOTAL - ALL FUNDS $62,469 $522,125
+115 Sec. A-2. Appropriations and allocations. The following appropriations and
+126 allocations are made.
+13 SECRETARY OF STATE, DEPARTMENT OF
+14 Administration - Motor Vehicles 0077
+15 Initiative: Provides funding for the approved reorganization of one Public Service
+16 Coordinator I position from range 26 to range 28.
+17 HIGHWAY FUND 2025-26 2026-27
+18 Personal Services $0 $7,222
+19 __________ __________
+20 HIGHWAY FUND TOTAL $0 $7,222
+2117 Administration - Motor Vehicles 0077
+22 Initiative: Provides funding for the approved reorganization of 4 Customer Representative
+23 Associate II positions to Office Specialist I positions.
+24 HIGHWAY FUND 2025-26 2026-27
+25 Personal Services $0 $21,440
+26 __________ __________
+27 HIGHWAY FUND TOTAL $0 $21,440
+2284 Administration - Motor Vehicles 0077
+29 Initiative: Provides funding for the approved reorganization of 3 Accounting Associate I
+30 positions to Office Associate II positions.
+31 HIGHWAY FUND 2025-26 2026-27
+32 Personal Services $0 $16,241
+33 __________ __________
+34 HIGHWAY FUND TOTAL $0 $16,241
+3351 Administration - Motor Vehicles 0077
+36 Initiative: Provides funding for the approved reorganization of one Office Associate II
+37 position to an Office Associate II Supervisor position.
+38 HIGHWAY FUND 2025-26 2026-27
+39 Personal Services $0 $5,392
+40 __________ __________
+41 HIGHWAY FUND TOTAL $0 $5,392
+Page 4 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+11 Administration - Motor Vehicles 0077
+2 Initiative: Provides funding for the approved reorganization of one Senior Technical
+3 Support Specialist position to a Systems Section Manager position.
+4 HIGHWAY FUND 2025-26 2026-27
+5 Personal Services $0 $11,942
+6 __________ __________
+7 HIGHWAY FUND TOTAL $0 $11,942
+84 Administration - Motor Vehicles 0077
+9 Initiative: Provides funding for the approved reorganization of one Program Audit Manager
+10 position from range 27 to range 28.
+11 HIGHWAY FUND 2025-26 2026-27
+12 Personal Services $0 $4,333
+13 __________ __________
+14 HIGHWAY FUND TOTAL $0 $4,333
+1151 Administration - Motor Vehicles 0077
+16 Initiative: Provides funding for the approved reorganization of 8 Office Associate I
+17 positions to Office Associate II positions.
+18 HIGHWAY FUND 2025-26 2026-27
+19 Personal Services $0 $44,073
+20 __________ __________
+21 HIGHWAY FUND TOTAL $0 $44,073
+2128 Administration - Motor Vehicles 0077
+23 Initiative: Provides funding for the approved reorganization of one Accounting Associate
+24 I position to a Business Manager I position.
+25 HIGHWAY FUND 2025-26 2026-27
+26 Personal Services $0 $13,580
+27 __________ __________
+28 HIGHWAY FUND TOTAL $0 $13,580
+2295 Administration - Motor Vehicles 0077
+30 Initiative: Provides funding for the approved reorganization of one Office Associate I
+31 position to a Management Analyst II position.
+32 HIGHWAY FUND 2025-26 2026-27
+33 Personal Services $0 $14,441
+34 __________ __________
+35 HIGHWAY FUND TOTAL $0 $14,441
+3362 Administration - Motor Vehicles 0077
+37 Initiative: Provides funding for the approved reorganization of one Clerk IV position to an
+38 Office Specialist II Supervisor position.
+39 HIGHWAY FUND 2025-26 2026-27
+40 Personal Services $0 $7,810
+41 __________ __________
+Page 5 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 HIGHWAY FUND TOTAL $0 $7,810
+21 Administration - Motor Vehicles 0077
+3 Initiative: Provides funding for the approved reorganization of one Public Service
+4 Coordinator I position to a Public Service Manager II position.
+5 HIGHWAY FUND 2025-26 2026-27
+6 Personal Services $0 $10,680
+7 __________ __________
+8 HIGHWAY FUND TOTAL $0 $10,680
+95
+10 SECRETARY OF STATE, DEPARTMENT OF
+11 DEPARTMENT TOTALS 2025-26 2026-27
+12
+13 HIGHWAY FUND $0 $157,154
+14 __________ __________
+15 DEPARTMENT TOTAL - ALL FUNDS $0 $157,154
+1160 Sec. A-3. Appropriations and allocations. The following appropriations and
+1171 allocations are made.
+18 TRANSPORTATION, DEPARTMENT OF
+19 Administration 0339
+20 Initiative: Transfers and reallocates the cost of 5 Public Service Coordinator I positions
+21 from 96% Highway Fund and 4% Federal Expenditures Fund within the Maintenance and
+22 Operations program to 100% Administration program, Highway Fund. This initiative also
+23 transfers All Other to Personal Services in the Administration program, Highway Fund to
+24 partially fund the transfer and reallocation.
+25 HIGHWAY FUND 2025-26 2026-27
+26 POSITIONS - LEGISLATIVE COUNT 0.000 5.000
+27 Personal Services $0 $582,482
+28 All Other $0 ($23,300)
+29 __________ __________
+30 HIGHWAY FUND TOTAL $0 $559,182
+3215 Administration 0339
+32 Initiative: Transfers and reallocates the cost of one Public Service Manager I position from
+33 100% Administration program, Highway Fund to 96% Highway Fund and 4% Federal
+34 Expenditures Fund within the Maintenance and Operations program. This initiative also
+35 provides All Other funding in the Maintenance and Operations program to maintain the
+36 department's Highway Fund allocation.
+37 HIGHWAY FUND 2025-26 2026-27
+38 POSITIONS - LEGISLATIVE COUNT 0.000 (1.000)
+39 Personal Services $0 ($155,495)
+40 __________ __________
+41 HIGHWAY FUND TOTAL $0 ($155,495)
+4327 Fleet Services 0347
+Page 6 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 Initiative: Transfers and reallocates the cost of one Office Associate II position from 100%
+2 Fleet Services program, Fleet Services Fund - DOT to 96% Highway Fund and 4% Federal
+3 Expenditures Fund within the Maintenance and Operations program. This initiative also
+4 transfers All Other to Personal Services in the Maintenance and Operations program,
+5 Highway Fund to fund that portion of the transfer and reallocation.
+6 FLEET SERVICES FUND - DOT 2025-26 2026-27
+7 POSITIONS - LEGISLATIVE COUNT 0.000 (1.000)
+8 Personal Services $0 ($84,497)
+9 __________ __________
+10 FLEET SERVICES FUND - DOT TOTAL $0 ($84,497)
+116 Highway and Bridge Capital 0406
+12 Initiative: Provides the allocation to spend GARVEE bond proceeds for highway and
+13 bridge needs.
+14 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+15 Capital Expenditures $0 $50,000,000
+16 __________ __________
+17 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $50,000,000
+1184 Highway and Bridge Capital 0406
+19 Initiative: Provides position count for one Engineering Aide position by increasing the
+20 Legislative Count from 0.5 to 1.0.
+21 HIGHWAY FUND 2025-26 2026-27
+22 POSITIONS - LEGISLATIVE COUNT 0.000 0.500
+23 __________ __________
+24 HIGHWAY FUND TOTAL $0 $0
+2251 Highway and Bridge Capital 0406
+26 Initiative: Provides funding in the Highway and Bridge Capital program and Maintenance
+27 and Operations program for the approved reorganization of 90 Senior Technician positions
+28 to Lead Technician positions. This initiative also transfers All Other to Personal Services
+29 to fund the portion of the reorganization allocated to the Highway Fund.
+30 HIGHWAY FUND 2025-26 2026-27
+31 Personal Services $0 $434,519
+32 All Other $0 ($434,519)
+33 __________ __________
+34 HIGHWAY FUND TOTAL $0 $0
+3350
+36 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+37 Personal Services $0 $391,018
+38 __________ __________
+39 FEDERAL EXPENDITURES FUND TOTAL $0 $391,018
+4306
+41 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+42 Personal Services $0 $43,468
+Page 7 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 __________ __________
+2 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $43,468
+31 Highway and Bridge Capital 0406
+4 Initiative: Provides funding for the approved reorganization of one Public Service Manager
+5 II position from range 30 to range 33 and transfers All Other to Personal Services to fund
+6 the portion of the reorganization allocated to the Highway Fund.
+7 HIGHWAY FUND 2025-26 2026-27
+8 Personal Services $0 $9,042
+9 All Other $0 ($9,042)
+10 __________ __________
+11 HIGHWAY FUND TOTAL $0 $0
+127
+13 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+14 Personal Services $0 $8,139
+15 __________ __________
+16 FEDERAL EXPENDITURES FUND TOTAL $0 $8,139
+1173
+18 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+19 Personal Services $0 $903
+20 __________ __________
+21 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $903
+2128 Maintenance and Operations 0330
+23 Initiative: Transfers and reallocates the cost of 5 Public Service Coordinator I positions
+24 from 96% Highway Fund and 4% Federal Expenditures Fund within the Maintenance and
+25 Operations program to 100% Administration program, Highway Fund. This initiative also
+26 transfers All Other to Personal Services in the Administration program, Highway Fund to
+27 partially fund the transfer and reallocation.
+28 HIGHWAY FUND 2025-26 2026-27
+29 POSITIONS - LEGISLATIVE COUNT 0.000 (5.000)
+30 Personal Services $0 ($559,182)
+31 __________ __________
+32 HIGHWAY FUND TOTAL $0 ($559,182)
+3238
+34 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+35 Personal Services $0 ($23,300)
+36 __________ __________
+37 FEDERAL EXPENDITURES FUND TOTAL $0 ($23,300)
+3384 Maintenance and Operations 0330
+39 Initiative: Transfers and reallocates the cost of one Public Service Manager I position from
+40 100% Administration program, Highway Fund to 96% Highway Fund and 4% Federal
+41 Expenditures Fund within the Maintenance and Operations program. This initiative also
+Page 8 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+412 provides All Other funding in the Maintenance and Operations program to maintain the
+423 department's Highway Fund allocation.
+3 HIGHWAY FUND 2025-26 2026-27
+4 POSITIONS - LEGISLATIVE COUNT 0.000 1.000
+5 Personal Services $0 $149,276
+6 All Other $0 $6,219
+7 __________ __________
+8 HIGHWAY FUND TOTAL $0 $155,495
+93
+10 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+11 Personal Services $0 $6,219
+12 __________ __________
+13 FEDERAL EXPENDITURES FUND TOTAL $0 $6,219
+1140 Maintenance and Operations 0330
+15 Initiative: Transfers and reallocates the cost of one Office Associate II position from 100%
+16 Fleet Services program, Fleet Services Fund - DOT to 96% Highway Fund and 4% Federal
+17 Expenditures Fund within the Maintenance and Operations program. This initiative also
+18 transfers All Other to Personal Services in the Maintenance and Operations program,
+19 Highway Fund to fund that portion of the transfer and reallocation.
+20 HIGHWAY FUND 2025-26 2026-27
+21 POSITIONS - LEGISLATIVE COUNT 0.000 1.000
+22 Personal Services $0 $81,117
+23 All Other $0 ($81,117)
+24 __________ __________
+25 HIGHWAY FUND TOTAL $0 $0
+2260
+27 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+28 Personal Services $0 $3,380
+29 __________ __________
+30 FEDERAL EXPENDITURES FUND TOTAL $0 $3,380
+3217 Maintenance and Operations 0330
+32 Initiative: Provides funding in the Industrial Drive Facility Fund for increased costs of
+33 maintaining and operating the facilities on Industrial Drive in Augusta.
+34 INDUSTRIAL DRIVE FACILITY FUND 2025-26 2026-27
+35 All Other $0 $250,000
+36 __________ __________
+37 INDUSTRIAL DRIVE FACILITY FUND TOTAL $0 $250,000
+3384 Maintenance and Operations 0330
+39 Initiative: Provides funding in the Highway and Bridge Capital program and Maintenance
+40 and Operations program for the approved reorganization of 90 Senior Technician positions
+41 to Lead Technician positions. This initiative also transfers All Other to Personal Services
+42 to fund the portion of the reorganization allocated to the Highway Fund.
+Page 9 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 HIGHWAY FUND 2025-26 2026-27
+2 Personal Services $0 $175,744
+3 All Other $0 ($175,744)
+4 __________ __________
+5 HIGHWAY FUND TOTAL $0 $0
+61
+7 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+8 Personal Services $0 $7,323
+9 __________ __________
+10 FEDERAL EXPENDITURES FUND TOTAL $0 $7,323
+117 Multimodal Transportation Fund Z017
+12 Initiative: Provides funding to align allocations with projected expenditures and available
+13 resources.
+14 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+15 All Other $743,753 $1,365,912
+16 __________ __________
+17 OTHER SPECIAL REVENUE FUNDS TOTAL $743,753 $1,365,912
+1184
+19 TRANSPORTATION, DEPARTMENT OF
+20 DEPARTMENT TOTALS 2025-26 2026-27
+21
+22 HIGHWAY FUND $0 $0
+23 FEDERAL EXPENDITURES FUND $0 $392,779
+24 OTHER SPECIAL REVENUE FUNDS $743,753 $51,410,283
+25 FLEET SERVICES FUND - DOT $0 ($84,497)
+26 INDUSTRIAL DRIVE FACILITY FUND $0 $250,000
+27 __________ __________
+28 DEPARTMENT TOTAL - ALL FUNDS $743,753 $51,968,565
+2199 PART B
+30 Sec. B-1. Appropriations and allocations. The following appropriations and
+31 allocations are made.
+32 TRANSPORTATION, DEPARTMENT OF
+33 Highway and Bridge Capital 0406
+34 Initiative: RECLASSIFICATIONS
+35 HIGHWAY FUND 2025-26 2026-27
+36 Personal Services $9,644 $440,642
+37 All Other ($9,644) ($440,642)
+38 __________ __________
+39 HIGHWAY FUND TOTAL $0 $0
+4305
+41 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+Page 10 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 Personal Services $8,678 $396,558
+2 All Other ($6,632) ($353,453)
+3 __________ __________
+4 FEDERAL EXPENDITURES FUND TOTAL $2,046 $43,105
+51
+6 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+7 Personal Services $963 $44,021
+8 All Other ($735) ($39,236)
+9 __________ __________
+10 OTHER SPECIAL REVENUE FUNDS TOTAL $228 $4,785
+116 Maintenance and Operations 0330
+12 Initiative: RECLASSIFICATIONS
+13 HIGHWAY FUND 2025-26 2026-27
+14 Personal Services $0 $68,013
+15 All Other $0 ($68,013)
+16 __________ __________
+17 HIGHWAY FUND TOTAL $0 $0
+1183
+19 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+20 Personal Services $0 $2,500
+21 All Other $0 ($2,500)
+22 __________ __________
+23 FEDERAL EXPENDITURES FUND TOTAL $0 $0
+2149
+25 TRANSPORTATION, DEPARTMENT OF
+26 DEPARTMENT TOTALS 2025-26 2026-27
+27
+28 HIGHWAY FUND $0 $0
+29 FEDERAL EXPENDITURES FUND $2,046 $43,105
+30 OTHER SPECIAL REVENUE FUNDS $228 $4,785
+31 __________ __________
+32 DEPARTMENT TOTAL - ALL FUNDS $2,274 $47,890
+3235 PART C
+34 Sec. C-1. Carrying provision; Department of Secretary of State,
+35 Administration - Motor Vehicles. Notwithstanding any provision of law to the
+36 contrary, the State Controller shall carry forward up to $2,500,000 in unexpended balances
+37 in the Personal Services and All Other line categories in the Department of Secretary of
+38 State, Administration - Motor Vehicles program, after all financial commitments for
+39 obligations and budgetary adjustments have been made, at the end of fiscal year 2025-26
+40 to the next fiscal year to the All Other line category in the Department of Secretary of State,
+41 Administration - Motor Vehicles program to be used to continue the modernization of
+42 Bureau of Motor Vehicles systems and services provided to the public. These funds do not
+43 lapse and are intended to carry until expended.
+Page 11 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 PART D
+2 Sec. D-1. 23 MRSA §1652, 2nd ¶, as amended by PL 2011, c. 392, Pt. L, §2, is
+3 further amended to read:
+4 Any balance of any allocation or subdivision of an allocation from the Highway Fund
+5 made by the Legislature for any department or agency, which that at any time may is not
+6 be required for the purposes named in that allocation or subdivision, may be transferred at
+7 any time prior to the closing of the books, to any other allocation or subdivision of an
+8 allocation from the Highway Fund made by the Legislature for the same fiscal year subject
+9 to review by the joint standing committee of the Legislature having jurisdiction over
+10 transportation matters. In addition to transfers of Highway Fund allocations and
+11 subdivisions of allocations from the Highway Fund, the joint standing committee of the
+12 Legislature having jurisdiction over transportation matters shall review all other allocations
+13 or subdivisions of allocations to the Department of Transportation. Financial orders
+14 describing these transfers must be submitted by the Department of Administrative and
+15 Financial Services, Bureau of the Budget to the Office of Fiscal and Program Review 30
+16 days before the transfer is to be implemented. In the case of extraordinary emergency
+17 transfers, the 30-day prior submission requirement may be waived by vote of the joint
+18 standing committee of the Legislature having jurisdiction over transportation matters.
+19 PART E
+20 Sec. E-1. Transfer of Personal Services balances to All Other; Department
+21 of Public Safety. Notwithstanding any provision of law to the contrary, for fiscal year
+22 2026-27, the Department of Public Safety is authorized to transfer up to $339,948 of
+23 available balances of Personal Services allocations, after all salary, benefit and other
+24 obligations are met, to the All Other line category of the State Police program for the
+25 purposes of funding consoles at 3 regional emergency communication centers and a
+26 contract for firearms examiner services. These amounts may be transferred by financial
+27 order upon the recommendation of the State Budget Officer and approval of the Governor.
+28 These transfers are not considered adjustments to appropriations.
+29 Sec. E-2. Transfer of Personal Services balances to Capital Expenditures;
+30 Department of Public Safety. Notwithstanding any provision of law to the contrary,
+31 for fiscal year 2026-27, the Department of Public Safety is authorized to transfer up to
+32 $16,450 of available balances of Personal Services allocations, after all salary, benefit and
+33 other obligations are met, to the Capital Expenditures line category of the State Police
+34 program for the purposes of funding a heat pump and generator for the Pittsfield barracks
+35 and updating the security system at the Bangor barracks. These amounts may be transferred
+36 by financial order upon the recommendation of the State Budget Officer and approval of
+37 the Governor. These transfers are not considered adjustments to appropriations.
+38 PART F
+39 Sec. F-1. Programmed GARVEE bonding level for 2026-2027 biennium.
+40 Notwithstanding any provision of law to the contrary and pursuant to the Maine Revised
+41 Statutes, Title 23, chapter 19, subchapter 3-A, for the 2026-2027 biennium, the Maine
+42 Municipal Bond Bank may issue from time to time up to $50,000,000 of GARVEE bonds
+43 for highway and bridge needs statewide to be repaid solely from annual federal
+44 transportation appropriations for funding for qualified transportation projects.
+Page 12 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 Emergency clause. In view of the emergency cited in the preamble, this legislation
+2 takes effect when approved.'
+3 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+4 number to read consecutively.
+5 SUMMARY
+66 PART A
+7 This Part allocates money not otherwise allocated in order to provide for the necessary
+8 expenditures of State Government and other purposes for the fiscal years ending June 30,
+9 2026 and June 30, 2027.
+10 PART B
+11 This Part allocates money to provide funding for approved reclassifications and range
+12 changes.
+13 PART C
+14 This Part directs the State Controller to carry forward up to $2,500,000 in unexpended
+15 balances in the Personal Services and All Other line categories in the Department of
+16 Secretary of State, Administration - Motor Vehicles program, after all financial
+17 commitments for obligations and budgetary adjustments have been made, at the end of
+18 fiscal year 2025-26 to the next fiscal year to the All Other line category in the Department
+19 of Secretary of State, Administration - Motor Vehicles program to be used to continue the
+20 Bureau of Motor Vehicles modernization project.
+21 PART D
+22 This Part establishes an exception to the requirement that a financial order describing
+23 the transfer of unused funds within the Highway Fund and any other allocations to the
+24 Department of Transportation be submitted to the Office of Fiscal and Program Review 30
+25 days before the transfer is to be implemented. This Part provides that in the case of
+26 extraordinary emergency transfers, the 30-day waiting period may be waived by a vote of
+27 the joint standing committee of the Legislature having jurisdiction over transportation
+28 matters.
+29 PART E
+30 This Part authorizes the Department of Public Safety to transfer, for fiscal year 2026-
+31 27, up to $339,948 of available balances of Personal Services allocations, after all salary,
+32 benefit and other obligations are met, to the All Other line category of the State Police
+33 program for the purposes of funding consoles at 3 regional emergency communication
+34 centers and a contract for firearms examiner services. This Part also authorizes the
+35 department to transfer, for fiscal year 2026-27, up to $16,450 of available balances of
+36 Personal Services allocations, after all salary, benefit and other obligations are met, to the
+37 Capital Expenditures line category of the State Police program for the purposes of funding
+38 a heat pump and generator for the Pittsfield barracks and updating the security system at
+39 the Bangor barracks.
+40 PART F
+Page 13 - 132LR3050(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1492, L.D. 2213
+1 This Part allows the Maine Municipal Bond Bank to issue, for the 2026-2027 biennium,
+2 up to $50,000,000 of GARVEE bonds for highway and bridge needs to be repaid solely
+3 from annual federal transportation appropriations.
+44 FISCAL NOTE REQUIRED
+55 (See attached)
+Page 14 - 132LR3050(02)
+COMMITTEE AMENDMENT

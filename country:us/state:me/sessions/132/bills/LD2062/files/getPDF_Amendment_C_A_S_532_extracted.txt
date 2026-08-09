@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-532)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2062
+2 Date: (Filing No. S- )
+3 TRANSPORTATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 849, L.D. 2062, “An Act to Enhance the
+10 Safety of Public Transit Bus Operators Through the Installation of Vehicle Security
+11 Barriers”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 23 MRSA §4209-B is enacted to read:
+15 §4209-B. Public transit bus operators; vehicle security barriers
+16 1. Short title. This section may be known and cited as "the Public Transit Bus
+17 Operator Safety Act."
+18 2. Definitions. As used in this section, unless the context otherwise indicates, the
+19 following terms have the following meanings.
+20 A. "Fund" means the Public Transit Bus Operator Safety Fund established in
+21 subsection 6.
+22 B. "Large heavy-duty bus" means a bus, as defined in Title 29-A, section 101,
+23 subsection 11, that has a gross vehicle weight of 26,001 pounds or greater and has a
+24 length of 30 feet or greater.
+25 C. "Public transit bus operator" means an individual employed by an urban fixed-route
+26 transit provider to operate a large heavy-duty bus.
+27 D. "Urban fixed-route transit provider" means a transit district or a regional
+28 transportation corporation, as defined in Title 30-A, section 3501, that provides public
+29 transportation within one or more municipalities, at least one of which has a population
+30 greater than 20,000, on prescribed routes at prescribed times.
+31 E. "Vehicle security barrier" means a transparent, protective partition made of hard,
+32 durable, glare-minimizing materials that:
+Page 1 - 132LR2647(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 849, L.D. 2062
+1 (1) Is capable of fully enclosing a public transit bus operator's workstation and of
+2 preventing the unwanted entry of individuals, fluids and objects into the
+3 workstation;
+4 (2) Does not impede the public transit bus operator's lines of sight from the
+5 workstation to the exterior of the large heavy-duty bus, including all exterior
+6 mirrors; and
+7 (3) Allows the public transit bus operator to maintain communications with
+8 passengers.
+9 3. Urban fixed-route transit providers; installation of vehicle security barriers.
+10 Beginning August 1, 2029, an urban fixed-route transit provider shall ensure that any large
+11 heavy-duty buses that are in service are equipped with a vehicle security barrier.
+12 4. Procurements requirements; vehicle security barriers. When procuring vehicle
+13 security barriers and any other materials funded by the fund, an urban fixed-route transit
+14 provider shall solicit and incorporate input from a labor organization representing the urban
+15 fixed-route transit provider's public transit bus operators. Such solicitation must occur via
+16 a joint labor-management safety committee, if the urban fixed-route transit provider is party
+17 to such a committee.
+18 5. Prohibition; large heavy-duty buses in service without vehicle security barrier.
+19 On or after August 1, 2029, an urban fixed-route transit provider may not operate a large
+20 heavy-duty bus that is not equipped with a vehicle security barrier.
+21 6. Public Transit Bus Operator Safety Fund. The Public Transit Bus Operator
+22 Safety Fund is established as an Other Special Revenue Funds account within the
+23 department to provide grants to urban fixed-route transit providers for the purchase and
+24 installation of vehicle security barriers that comply with the requirements of this section.
+25 The fund consists of money received as transfers, appropriations, allocations and
+26 contributions from public and private sources. Any funds remaining in the fund after
+27 August 1, 2029 must lapse or be transferred to the General Fund. The fund may not be used
+28 for the maintenance or repair of vehicle security barriers or to equip a large heavy-duty bus
+29 that is not in service.
+30 Sec. 2. Reporting requirements. By August 1st in 2027, 2028 and 2029, an urban
+31 fixed-route transit provider shall submit an annual report to the Department of
+32 Transportation regarding the progress of the urban fixed-route transit provider in meeting
+33 the requirements of the Maine Revised Statutes, Title 23, section 4209-B. The report must
+34 set forth the steps that the urban fixed-route transit provider has taken to comply with the
+35 requirements to install vehicle security barriers, the tasks remaining for the urban fixed-
+36 route transit provider to complete in order to achieve full compliance and an estimated
+37 completion date for each of these tasks. The department shall make a report received under
+38 this section available to the public within 30 days of receipt of the report.
+39 Sec. 3. Transfer from General Fund unappropriated surplus to
+40 Department of Transportation, Public Transit Bus Operator Safety Fund,
+41 Other Special Revenue Funds account. Notwithstanding any provision of law to the
+42 contrary, on or before June 30, 2027, the State Controller shall transfer $1,000,000 from
+43 the unappropriated surplus of the General Fund to the Department of Transportation, Public
+44 Transit Bus Operator Safety Fund, Other Special Revenue Funds account for one-time
+Page 2 - 132LR2647(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 849, L.D. 2062
+415 funding for grants for the purchase and installation of vehicle security barriers in large
+426 heavy-duty buses used by urban fixed-route transit providers.
+3 Sec. 4. Appropriations and allocations. The following appropriations and
+4 allocations are made.
+5 TRANSPORTATION, DEPARTMENT OF
+6 Public Transit Bus Operator Safety Fund N559
+7 Initiative: Provides one-time funding to the Public Transit Bus Operator Safety Fund within
+8 the Department of Transportation to provide grants to urban fixed-route transit providers
+9 that operate within municipalities with a population greater than 20,000 for the purchase
+10 and installation of vehicle security barriers.
+11 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+12 All Other $0 $1,000,000
+13 __________ __________
+14 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $1,000,000
+1151 '
+16 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+17 number to read consecutively.
+18 SUMMARY
+1199 This amendment replaces the bill. The amendment does the following.
+20 1. It requires, by August 1, 2029, an urban fixed-route transit provider that operates
+21 within a municipality with a population greater than 20,000 to install vehicle security
+22 barriers in any large heavy-duty buses that are in service.
+23 2. It maintains the bill's establishment of the Public Transit Bus Operator Safety Fund
+24 while clarifying that the fund may be used only for the purchase and installation of vehicle
+25 security barriers for large heavy-duty buses that are in service. Any maintenance of a
+26 vehicle security barrier is the responsibility of the urban fixed-route transit provider.
+27 3. It requires any remaining funds in the fund to lapse or be transferred to the General
+28 Fund after August 1, 2029.
+29 4. It reduces the appropriations and allocations from $2,000,000 to $1,000,000.
+3300 FISCAL NOTE REQUIRED
+3311 (See attached)
+Page 3 - 132LR2647(02)
+COMMITTEE AMENDMENT

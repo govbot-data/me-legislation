@@ -1,0 +1,219 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 660
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 660
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 899 - L.D. 2211
+An Act Implementing the Recommendations of the Automotive Right to
+Repair Working Group
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 5 MRSA §12004-G, sub-§5-B is enacted to read:
+5-B.
+Commerce Motor Vehicle Right to Repair Not Authorized 29-A MRSA
+and Trade Commission §1810,
+sub-§2-A
+Sec. 2. 29-A MRSA §1810, sub-§1, as enacted by IB 2023, c. 3, §3, is amended to
+read:
+1. Access to diagnostic systems. Access to the vehicle on-board diagnostic systems
+of all motor vehicles, including commercial motor vehicles and heavy duty vehicles having
+a gross vehicle weight rating of more than 14,000 pounds, must be standardized and made
+accessible to motor vehicle owners and independent repair facilities and the access may not
+require authorization by the motor vehicle manufacturer, directly or indirectly, unless that
+authorization is standardized across all makes and models of motor vehicles sold in this
+State and is administered by the independent entity described in subsection 2.
+Sec. 3. 29-A MRSA §1810, sub-§1-A is enacted to read:
+1-A. Definition. For the purposes of this section, unless the context otherwise
+indicates, "owner-authorized independent repair facility" means an independent repair
+facility that has been authorized by a motor vehicle owner to receive or access diagnostic
+and repair information or other mechanical data pertaining to or emanating from the
+owner's motor vehicle for the purpose of diagnosing or repairing the motor vehicle.
+Sec. 4. 29-A MRSA §1810, sub-§2, as enacted by IB 2023, c. 3, §3, is repealed.
+Sec. 5. 29-A MRSA §1810, sub-§2-A is enacted to read:
+2-A. Motor Vehicle Right to Repair Commission. This subsection governs the
+composition, activities and duties of the Motor Vehicle Right to Repair Commission, as
+Page 1 - 132LR3028(07)
+
+established in Title 5, section 12004-G, subsection 5-B and referred to in this section as
+"the commission."
+A. The commission consists of the following 12 members, appointed by the Governor:
+(1) Three members representing motor vehicle manufacturers, at least one of
+whom must represent an organization of motor vehicle manufacturers and at least
+one of whom must represent a manufacturer of heavy duty vehicles;
+(2) One member representing aftermarket parts manufacturers;
+(3) One member representing diagnostic tool manufacturers;
+(4) One member representing aftermarket parts distributors and retailers;
+(5) Three members representing independent repair facilities in the State, at least
+one of whom must be an owner or operator of an independent repair facility
+specializing in motor vehicle repair and at least one of whom must be an owner or
+operator of an independent repair facility specializing in heavy duty vehicle repair;
+(6) One member representing new motor vehicle dealers in the State;
+(7) One member with expertise in automotive cybersecurity matters; and
+(8) One member representing the public, who must be a resident of the State and
+who serves as the chair of the commission.
+In making appointments under this paragraph, the Governor may take into
+consideration any nominations for appointments that are timely made by industry
+stakeholders or trade associations.
+B. Members of the commission are appointed to 3-year terms. The commission shall
+meet at least quarterly but may meet more frequently at the chair's discretion. The
+Attorney General may provide administrative support to the commission, within the
+limits of existing resources.
+C. The commission:
+(1) Shall monitor and assess implementation of and motor vehicle manufacturers'
+compliance with the requirements of this section;
+(2) Shall attempt to informally resolve any complaints from motor vehicle owners
+and independent repair facilities alleging motor vehicle manufacturer
+noncompliance with the requirements of this section, and, if a complaint cannot be
+resolved informally, consider whether to refer the matter to the Attorney General
+for potential enforcement action;
+(3) Shall designate one or more technical experts with whom the Attorney General
+may consult in assessing enforcement referrals under subparagraph (2) and
+maintaining enforcement actions under subsection 8; and
+(4) May issue recommendations for best practices for motor vehicle manufacturers
+to use in providing access to motor vehicle data and may solicit input from
+stakeholders and other interested parties regarding privacy issues associated with
+the disclosure of motor vehicle-generated data.
+Page 2 - 132LR3028(07)
+
+D. By January 15, 2028, and annually thereafter, the commission shall submit to the
+Governor, the Attorney General and the joint standing committee of the Legislature
+having jurisdiction over business matters a report that:
+(1) Describes the commission's activities during the preceding year;
+(2) Describes any implementation or compliance issues that the commission has
+identified during the preceding year; and
+(3) Includes any recommendations for proposed changes to this section to address
+any implementation or compliance issues, including any recommendations that
+propose providing the commission with additional authority.
+After reviewing the report, the joint standing committee may report out legislation
+relating to the report to any regular or special session held in the same year in which
+the report was received pursuant to this paragraph.
+Sec. 6. 29-A MRSA §1810, sub-§3, as enacted by IB 2023, c. 3, §3, is amended to
+read:
+3. Model year 2002 or later motor vehicles; diagnostic repair tools, parts, software
+and components. For model year 2002 or later motor vehicles, including commercial
+motor vehicles and heavy duty vehicles having a gross vehicle weight rating of more than
+14,000 pounds, each a manufacturer of motor vehicles sold in this State shall make
+available for purchase under fair and reasonable terms by motor vehicle owners and
+independent repair facilities all diagnostic repair tools, parts, software and components
+incorporating the same diagnostic, functional repair and wireless capabilities that the motor
+vehicle manufacturer makes available to its authorized repair shops. Each motor vehicle
+manufacturer shall:
+A. Provide diagnostic repair information to each aftermarket scan tool company and
+each 3rd-party service information provider with whom the motor vehicle
+manufacturer has appropriate licensing, contractual or confidentiality agreements for
+the sole purpose of building aftermarket diagnostic tools and 3rd-party service
+information publications and systems. Once a A motor vehicle manufacturer that
+makes information available pursuant to this paragraph, the manufacturer is considered
+to have has satisfied its obligations under this paragraph and thereafter is not
+responsible for the content and functionality of aftermarket diagnostic tools or service
+information systems;
+B. Make available for purchase by owners of motor vehicles and by independent repair
+facilities the same diagnostic and repair information, including repair technical
+updates, that the motor vehicle manufacturer makes available to its authorized repair
+shops through the motor vehicle manufacturer's Internet-based diagnostic and repair
+information system; and
+C. Provide access to the manufacturer's diagnostic and repair information system for
+purchase by owners of motor vehicles and independent repair facilities on a daily,
+monthly and yearly subscription basis and upon fair and reasonable terms.
+All parts, tools, software and other components necessary to complete a full repair of the
+vehicle, as referenced in this subsection, must be included and provided to owners of motor
+vehicles and authorized owner-authorized independent repair shops facilities.
+Page 3 - 132LR3028(07)
+
+Sec. 7. 29-A MRSA §1810, sub-§4, as enacted by IB 2023, c. 3, §3, is amended to
+read:
+4. Model year 2002-2017 motor vehicles; access to on-board diagnostic and repair
+information system. For model year 2002-2017 motor vehicles, including commercial
+motor vehicles and heavy duty vehicles having a gross vehicle weight rating of more than
+14,000 pounds, a motor vehicle manufacturer shall provide a motor vehicle owner or an
+owner-authorized independent repair facility with access to a vehicle's on-board diagnostic
+and repair information system must be the same for an owner or an independent repair
+facility as that to the same extent that access to a vehicle's on-board diagnostic and repair
+information system is provided to a new vehicle dealer.
+Sec. 8. 29-A MRSA §1810, sub-§5, as enacted by IB 2023, c. 3, §3, is amended to
+read:
+5. Model year 2018 and or later motor vehicles; access to on-board diagnostic and
+repair information system. For model year 2018 and or later motor vehicles, including
+commercial motor vehicles and heavy duty vehicles having a gross vehicle weight rating
+of more than 14,000 pounds, a motor vehicle manufacturer shall provide access to the on-
+board diagnostic and repair information system must be available through use of an off-
+the-shelf personal computer with sufficient memory, processor speed, connectivity and
+other capabilities as specified by the motor vehicle manufacturer and:
+A. A nonproprietary vehicle interface device that complies with SAE International
+standard J2534, SAE International standard J1939, commonly referred to as SAE
+J2534 and SAE J1939, the International Organization for Standardization standard
+22900, commonly referred to as ISO 22900, or any successor to SAE J2534, SAE
+J1939 or ISO 22900 as may be accepted or published by SAE International or the
+International Organization for Standardization, as appropriate;
+B. An on-board diagnostic and repair information system integrated into and entirely
+self-contained within the vehicle, including, but not limited to, service information
+systems integrated into an on-board display; and or
+C. A system that provides direct access to on-board diagnostic and repair information
+through a nonproprietary vehicle interface, such as ethernet, universal serial bus or
+digital versatile disc.
+Each motor vehicle manufacturer shall provide access to the same on-board diagnostic and
+repair information available to their the motor vehicle manufacturer's dealers, including
+technical updates to such on-board systems, through such nonproprietary interfaces as
+referenced in this subsection. All parts, tools, software and other components necessary to
+complete a full repair of a vehicle, as referenced in this subsection, must be included and
+provided to motor vehicle owners and authorized owner-authorized independent repair
+shops facilities.
+Sec. 9. 29-A MRSA §1810, sub-§6, as enacted by IB 2023, c. 3, §3, is amended to
+read:
+6. Required equipment Owner-authorization access platform. Not later than one
+year from the effective date of this section September 1, 2027, a manufacturer of motor
+vehicles sold in this State, including commercial motor vehicles and heavy duty vehicles
+having a gross vehicle weight rating of more than 14,000 pounds, that uses a telematics
+Page 4 - 132LR3028(07)
+
+system is required to equip vehicles sold in this State with an inter-operable, and
+standardized and owner-authorized owner-authorization access platform across all of the
+motor vehicle manufacturer's makes and models. The platform must be capable of securely
+communicating all mechanical data emanating directly from the motor vehicle via direct
+data connection to the platform. The platform must be directly accessible by the motor
+vehicle owner through a mobile-based application and, upon the authorization of the owner,
+all mechanical data must be directly accessible by an independent repair facility or a
+licensed dealer as described in section 851, subsections 2 and 9, limited to the time to
+complete the repair or for a period of time agreed to by the motor vehicle owner for the
+purposes of maintaining, diagnosing and repairing the motor vehicle. Access must include
+the ability to receive data and send commands to in-vehicle components if needed for
+purposes of maintenance, diagnostics and repair. The platform must provide a motor
+vehicle owner or owner-authorized independent repair facility access to the same data the
+motor vehicle manufacturer makes available to its authorized repair shops. All parts, tools,
+software and other components necessary to complete a full repair of the vehicle, as
+referenced in this subsection, must be included and provided to a motor vehicle owners
+owner and authorized independent repair shops facility authorized by a motor vehicle
+owner.
+Sec. 10. 29-A MRSA §1810, sub-§8, as enacted by IB 2023, c. 3, §3, is amended
+to read:
+8. Enforcement. If the independent entity described by subsection 2 commission has
+reason to believe that a motor vehicle manufacturer has violated any provision of this
+section, the independent entity commission shall notify the Attorney General. The In
+response to a referral from the commission pursuant to subsection 2-A, paragraph C,
+subparagraph (2), or in any other instance for which the Attorney General believes this
+section may have been violated, the Attorney General shall promptly may institute any
+actions or proceedings the Attorney General considers appropriate. The independent entity,
+through the Attorney General, may apply to an action in the Superior Court of any county
+of the State to enforce any lawful order made or action taken by the independent entity
+pursuant to this section. The Attorney General may seek injunctive relief and a civil penalty
+of not more than $10,000 for each violation of this section.
+A motor vehicle owner or owner-authorized independent repair facility authorized by an
+owner who has been denied access to mechanical data in violation of this section may
+initiate a civil action seeking any remedies under law. Each denial of access is compensable
+by an award of treble damages or $10,000, whichever amount is greater.
+Sec. 11. Staggered terms. Notwithstanding the Maine Revised Statutes, Title 29-A,
+section 1810, subsection 2-A, paragraph B, of the members initially appointed to the Motor
+Vehicle Right to Repair Commission, 4 members must be appointed to an initial term of
+one year, 4 members must be appointed to an initial term of 2 years and 4 members must
+be appointed to an initial term of 3 years.
+Page 5 - 132LR3028(07)

@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-793)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2068
+2 Date: (Filing No. H- )
+3 TRANSPORTATION
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1381, L.D. 2068, “An Act to Bring the
+10 Law Governing Emergency Equipment for Trucks and Truck Tractors into Alignment with
+11 the Federal Motor Carrier Laws”
+12 Amend the bill in section 1 in subsection 1 in the first line (page 1, line 4 in L.D.) by
+13 striking out the following: "and" and inserting the following: 'or bidirectional emergency'
+14 Amend the bill in section 1 in subsection 1 in the 3rd line (page 1, line 6 in L.D.) by
+15 striking out the following: "and" and inserting the following: 'and or'
+16 Amend the bill in section 1 in subsection 1 in the last line (page 1, line 7 in L.D.) by
+17 inserting after the following: "reflectors" the following: 'bidirectional emergency'
+18 Amend the bill in section 2 in subsection 2 in paragraph A in the first line (page 1, line
+19 14 in L.D.) by inserting after the following: "reflector" the following: 'bidirectional
+20 emergency'
+21 Amend the bill in section 2 in subsection 2 in paragraph B in the first line (page 1, line
+22 17 in L.D.) by inserting after the following: "reflector" the following: 'bidirectional
+23 emergency'
+24 Amend the bill in section 2 in subsection 2 in paragraph C in the first line (page 1, line
+25 19 in L.D.) by inserting after the following: "reflector" the following: 'bidirectional
+26 emergency'
+27 Amend the bill by inserting after section 2 the following:
+28 'Sec. 3. 29-A MRSA §1952, as amended by PL 2003, c. 452, Pt. Q, §§25 and 26
+29 and affected by Pt. X, §2, is further amended by enacting at the end a new paragraph to
+30 read:
+31 As used in this section, "bidirectional emergency reflective triangle" means an
+32 emergency warning device that meets the Federal Motor Vehicle Safety Standards, 49 Code
+33 of Federal Regulations, Section 571.125.'
+Page 1 - 132LR2629(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1381, L.D. 2068
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment amends the bill to clarify that reflective triangles used by trucks and
+55 truck tractors must be bidirectional emergency reflective triangles to conform with federal
+66 law. The amendment also clarifies that either flares or bidirectional emergency reflective
+77 triangles, rather than both, are required equipment on a truck or truck tractor.
+Page 2 - 132LR2629(02)
+COMMITTEE AMENDMENT

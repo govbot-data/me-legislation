@@ -1,0 +1,259 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-930)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1966
+2 Date: (Filing No. H- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1310, L.D. 1966, “An Act to Improve
+10 Access to Community Solar Programs in the State”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Increase Disclosure of Utility Charges and Improve Access to Distributed
+13 Generation Resources in the State'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 35-A MRSA §301-A is enacted to read:
+17 §301-A. Administrative charge limitation
+18 1. "Administrative charge" defined. "Administrative charge" means a fee or charge
+19 for services that is added to the actual cost of materials or supplies or labor performed by
+20 or on behalf of a transmission and distribution utility with over 50,000 customers and
+21 charged to a transmission and distribution utility customer for work funded directly by that
+22 customer through a proposal, estimate, invoice or final accounting for the cost of
+23 interconnection, line extensions or other work funded directly by the customer other than
+24 charges for the customer's regular electricity service. "Administrative charge" includes,
+25 but is not limited to, an administrative service charge, overhead costs, an indirect overhead
+26 cost or a cost adder. "Administrative charge" does not include:
+27 A. Expenses for a transmission and distribution utility employee's labor while directly
+28 engaged in the work for which a customer is billed if the customer bill states that those
+29 expenses are included in the cost of labor; or
+30 B. Expenses related to the purchase, storage or delivery of materials or supplies
+31 incorporated into the work if the customer bill states that those expenses are included
+32 in the cost of materials or supplies.
+33 2. Administrative charge disclosure. A transmission and distribution utility with
+34 over 50,000 customers shall disclose any administrative charges included in a customer bill
+35 for work funded directly by that customer. If any line item in a customer bill includes an
+Page 1 - 132LR1838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1310, L.D. 1966
+316 administrative charge, the customer bill must specifically identify the administrative charge
+327 and include a description of the charge. All administrative charges must comply with the
+338 requirements of section 301, subsection 2 and any other applicable provisions of this Title.
+4 3. Violations. If the commission finds that a transmission and distribution utility with
+5 over 50,000 customers has violated any provision of this section or improperly assessed an
+6 administrative charge, the commission may order the transmission and distribution utility
+7 to refund all or part of the administrative charge paid by the customer.
+8 4. Rules. The commission may adopt rules to implement this section. Rules adopted
+9 by the commission pursuant to this subsection are routine technical rules as defined in Title
+10 5, chapter 375, subchapter 2‑A.
+11 Sec. 2. 35-A MRSA §3107, sub-§2, as enacted by PL 2019, c. 88, §1 and
+12 reallocated by RR 2019, c. 1, Pt. A, §49, is amended to read:
+13 2. Consumer assistance. Require a customer bill issued by an investor-owned
+14 transmission and distribution utility to display clearly and prominently the toll-free
+15 telephone number for the commission's consumer assistance and safety division and a
+16 statement of the consumer assistance services available by calling the division; and
+17 Sec. 3. 35-A MRSA §3107, sub-§3, as enacted by PL 2019, c. 88, §1 and
+18 reallocated by RR 2019, c. 1, Pt. A, §49, is amended to read:
+19 3. Correction of misleading information. Establish a process by which, if the
+20 commission finds that an investor-owned transmission and distribution utility has included
+21 on customer bills, or inserts or attachments to customer bills, information that is
+22 misleading, deceptive or inaccurate, the transmission and distribution utility is required to
+23 provide to customers a statement that corrects the misleading, deceptive or inaccurate
+24 information that was disseminated. Upon request of the Public Advocate, the commission
+25 shall investigate the truth and accuracy of information included on customer bills, or inserts
+26 or attachments to customer bills.; and
+27 Sec. 4. 35-A MRSA §3107, sub-§4 is enacted to read:
+28 4. Expenses that may be recovered in rates; disclosure. If an investor-owned
+29 transmission and distribution utility does not include all expenses that may be recovered in
+30 rates in a customer's delivery cost, prohibit the utility from labeling such expenses or any
+31 combination thereof as public policy charges or a substantially similar term on customer
+32 bills. The rules must require the investor-owned transmission and distribution utility to
+33 label such expenses or combination of expenses on customer bills in a way that the
+34 commission determines is objective and assists customers in understanding these expenses.
+35 The commission shall also require, to the extent practicable without incurring additional
+36 costs for ratepayers, an investor-owned transmission and distribution utility to include a
+37 brief, objective description of each of the expenses that may be recovered in rates paid by
+38 the customer or include a link to the utility's publicly accessible website where a customer
+39 may obtain an objective description of such expenses. For the purposes of this subsection,
+40 "expenses that may be recovered in rates" means charges or costs paid by a customer, other
+41 than those charges or costs for electricity supply, delivery and transmission, including, but
+42 not limited to, charges or costs for energy efficiency programs and services, renewable
+43 energy programs and low-income energy assistance programs.
+Page 2 - 132LR1838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1310, L.D. 1966
+1 Sec. 5. 35-A MRSA §3209-A, sub-§12 is enacted to read:
+2 12. Billing and disclosure standards. The commission shall adopt rules to establish
+3 billing and disclosure standards applicable to distributed generation resources with
+4 customers who participate in a net energy billing arrangement based upon a shared financial
+5 interest in accordance with this section or section 3209-B. The rules must include
+6 standardized methods for presenting savings rates in a clear and consistent manner and
+7 require the identification of all charges.
+8 A violation of a billing and disclosure standard adopted by the commission by rule in
+9 accordance with this subsection is a violation of the Maine Unfair Trade Practices Act.
+10 Notwithstanding any provision of this section to the contrary, rules adopted by the
+11 commission pursuant to this subsection are routine technical rules as defined in Title 5,
+12 chapter 375, subchapter 2‑A.
+13 Sec. 6. 35-A MRSA §3210-L is enacted to read:
+14 §3210-L. Renewable energy procurement; low-income and moderate-income
+15 consumer-owned projects
+16 The commission shall direct investor-owned transmission and distribution utilities to
+17 enter into one or more contracts for energy from eligible projects in accordance with this
+18 section.
+19 1. Definitions. As used in this section, unless the context otherwise indicates, the
+20 following terms have the following meanings.
+21 A. "Distributed generation resource" has the same meaning as in section 3481,
+22 subsection 5.
+23 B. "Eligible project" means a distributed generation resource:
+24 (1) With a nameplate capacity of no more than 200 kilowatts;
+25 (2) That serves only low-income customers and moderate-income households;
+26 (3) That is wholly owned by its customer or customers or wholly owned by a
+27 cooperative corporation organized under Title 13, chapter 85;
+28 (4) That provides discounts or payments to its customers to offset its customers'
+29 electricity bills in a manner similar to customers receiving kilowatt-hour credits in
+30 accordance with section 3209-A as determined by the commission;
+31 (5) That is placed in service on or after August 1, 2026; and
+32 (6) That is connected to the electric grid of an investor-owned transmission and
+33 distribution utility in the State.
+34 C. "Low-income customer" means a customer of a transmission and distribution utility
+35 receiving benefits under the utility's program to assist low-income customers or a
+36 customer who has qualified at any time in the prior 12-month period to receive
+37 assistance through any state or federal program in which low income or limited assets
+38 are criteria for eligibility.
+39 D. "Moderate-income household" means a household in which gross income does not
+40 exceed 150% of the median income of the county or metropolitan statistical area in
+41 which the household is located.
+Page 3 - 132LR1838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1310, L.D. 1966
+1 E. "Renewable energy credit" has the same meaning as in section 3210, subsection 2,
+2 paragraph B-2.
+3 2. Competitive solicitation; procurement. By September 1, 2026, the commission
+4 shall initiate a competitive solicitation in order to procure up to 4 megawatts of energy from
+5 one or more eligible projects. The commission shall select an eligible project or eligible
+6 projects for a contract or contracts under this section as expeditiously as possible, taking
+7 into account a bidder's ability to receive federal grants or tax credits in connection with the
+8 operation of an eligible project.
+9 A. The commission shall determine the value of kilowatt-hour credits received by
+10 customers of a distributed generation resource in accordance with section 3209-A at
+11 the time of the competitive solicitation and require a bidder to state the bid price of the
+12 eligible project's energy as a percentage of that kilowatt-hour credit value over a
+13 proposed contract length not to exceed 20 years.
+14 B. Notwithstanding any provision of this Title to the contrary, the commission shall
+15 select an eligible project for a contract if:
+16 (1) At least one bid is received for an eligible project that meets the requirements
+17 of this subsection; and
+18 (2) The bid price for the eligible project's energy is not greater than the credit value
+19 determined by the commission in accordance with paragraph A.
+20 3. Contract award; terms. A contract entered into pursuant to this section must:
+21 A. Be for a term of no more than 20 years;
+22 B. Include provisions allowing for the commission to periodically increase the contract
+23 price to account for inflation, but only in an amount that the commission determines
+24 necessary to ensure eligible project viability while minimizing impacts to ratepayers;
+25 C. Include provisions ensuring that an eligible project meets the requirements of this
+26 section for the term of the contract;
+27 D. Provide for the sharing of customer usage data and allocation and billing
+28 information between the eligible project and the investor-owned transmission and
+29 distribution utility in whose service territory the eligible project is located;
+30 E. Prohibit the release of a customer's personal information by the eligible project
+31 owner or an entity acting on behalf of the owner or owners without the explicit
+32 affirmative consent of the customer other than for purposes of debt collection or credit
+33 reporting pursuant to state and federal law or to law enforcement agencies pursuant to
+34 lawful process; and
+35 F. Require the investor-owned transmission and distribution utility to sell all of the
+36 renewable energy credits generated by the eligible project.
+37 4. Cost recovery. The commission shall ensure that all costs and direct financial
+38 benefits associated with contracts entered into under this section are allocated to ratepayers
+39 in accordance with section 3210-F. A price differential existing at any time during the term
+40 of the contract between the contract price and the prevailing market price at which the
+41 energy generated by an eligible project is sold or any gains or losses derived from contracts
+Page 4 - 132LR1838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1310, L.D. 1966
+412 for differences must be reflected in the amounts charged to ratepayers and may not be
+423 considered imprudent.
+3 5. Rules. The commission may adopt rules to implement this section. Rules adopted
+4 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+5 subchapter 2-A.
+6 Sec. 7. Net energy billing; consumer protections. The Public Utilities
+7 Commission shall amend its rules adopted pursuant to the Maine Revised Statutes, Title
+8 35-A, section 3209-A, subsection 5, paragraph E and Public Law 2025, chapter 430, section
+9 15 to:
+10 1. Exempt from the requirements described in Public Law 2025, chapter 430, section
+11 15, subsections 1 and 2, distributed generation resources that are wholly owned by the
+12 customer or customers receiving the net energy billing credits associated with the output
+13 of the distributed generation resource; and
+14 2. Ensure that the prohibition on simultaneous participation in more than one net
+15 energy billing agreement pursuant to Title 35-A, section 3209-A, subsection 3 per
+16 residential account does not apply to net energy billing agreements related to distributed
+17 generation resources in which a customer has an ownership interest. The rules must allow
+18 a customer to have multiple net energy billing agreements with distributed generation
+19 resources in which the customer has an ownership interest and prohibit the customer from
+20 having more than one net energy billing agreement pursuant to Title 35-A, section 3209-A,
+21 subsection 3 per residential account if the customer does not have an ownership interest in
+22 the distributed generation resource.
+23 Notwithstanding any provision of Title 35-A, section 3209-A to the contrary, rules
+24 amended by the commission pursuant to this section are routine technical rules as defined
+25 in Title 5, chapter 375, subchapter 2-A.'
+26 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+27 number to read consecutively.
+28 SUMMARY
+2299 This amendment replaces the bill and changes the title. It does the following.
+30 1. It requires a transmission and distribution utility with over 50,000 customers to
+31 disclose any administrative charges included in a customer bill for work funded directly by
+32 that customer. If any line item in a customer bill includes an administrative charge, the bill
+33 must specifically identify the charge and include a description.
+34 2. It directs the Public Utilities Commission, by rule, to prohibit an investor-owned
+35 transmission and distribution utility that does not include all expenses that may be
+36 recovered in rates in a customer's delivery cost, from labeling such expenses or any
+37 combination thereof as public policy charges or a substantially similar term on customer
+38 bills. The rules must require the investor-owned transmission and distribution utility to
+39 label such expenses or combination of expenses in a way that the commission determines
+40 is objective and assists customers in understanding these expenses.
+41 3. It directs the commission to adopt rules to establish billing and disclosure standards
+42 for distributed generation resources with customers who participate in a net energy billing
+Page 5 - 132LR1838(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1310, L.D. 1966
+413 arrangement based upon shared financial interest. The rules must include standardized
+424 methods for presenting savings rates in a clear and consistent manner and require
+435 identification of all charges.
+4 4. It requires the commission, by September 1, 2026, to initiate a competitive
+5 solicitation to procure up to 4 megawatts of energy from one or more distributed generation
+6 resources. Eligible distributed generation resource projects must have a nameplate capacity
+7 of no more than 200 kilowatts; serve only low-income customers and moderate-income
+8 households; be wholly owned by its customer or customers or wholly owned by a
+9 cooperative corporation; provide discounts or payments to its customers to offset its
+10 customers' electricity bills in a manner similar to customers receiving kilowatt-hour credits
+11 as determined by the commission; be placed in service on or after August 1, 2026; and be
+12 connected to the electric grid of an investor-owned transmission and distribution utility in
+13 the State. The commission must select an eligible project for a contract if at least one bid
+14 is received that meets the requirements of the legislation and the bid price does not exceed
+15 a certain threshold. Contracts resulting from the procurement may not have a term greater
+16 than 20 years and must require the sale of all renewable energy credits generated by the
+17 project.
+18 5. It directs the commission to amend rules establishing consumer protections in net
+19 energy billing arrangements to create exemptions to the otherwise applicable requirements
+20 related to subscription sizing and payments for unused kilowatt-hour credits for certain
+21 types of distributed generation resources. It also directs the commission to amend its rule
+22 prohibiting participation in more than one shared financial interest net energy billing
+23 agreement per residential account to ensure that it does not apply to net energy billing
+24 agreements related to a distributed generation resource in which a customer has an
+25 ownership interest.
+2266 FISCAL NOTE REQUIRED
+2277 (See attached)
+Page 6 - 132LR1838(02)
+COMMITTEE AMENDMENT

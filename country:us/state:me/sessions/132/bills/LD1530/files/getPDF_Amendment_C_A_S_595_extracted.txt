@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-595)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1530
+2 Date: (Filing No. S- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 614, L.D. 1530, “An Act to Improve the
+10 Sustainability of Emergency Medical Services in Maine”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 24-A MRSA §4303-F, as amended by PL 2025, c. 34, §1 and affected by
+14 §2, is further amended by amending the section headnote to read:
+15 §4303-F. Reimbursement for ambulance services and nontransporting emergency
+16 medical services; participation of ambulance and nontransporting emergency
+17 medical service providers in carrier networks
+18 Sec. 2. 24-A MRSA §4303-F, sub-§1-A, ¶D, as enacted by PL 2023, c. 468, §2,
+19 is amended to read:
+20 D. If, on the effective date of this subsection, an ambulance service provider's rate for
+21 ambulance services is below 200% of the average of the Medicare rate for basic life
+22 support services and the Medicare rate for advanced life support services, the
+23 ambulance service provider may not increase the rate for that service by more than 5%
+24 annually.
+25 Sec. 3. 24-A MRSA §4303-F, sub-§1-B is enacted to read:
+26 1-B. Reimbursement for nontransporting emergency medical services. With
+27 respect to a health plan with an effective date on or after January 1, 2027, when a
+28 nontransporting emergency medical service provider responds to a call for emergency
+29 services, a carrier shall reimburse the nontransporting emergency medical service provider
+30 for any covered services as follows.
+31 A. If the nontransporting emergency medical service provider participates in the
+32 carrier's network, the carrier shall reimburse the nontransporting emergency medical
+33 service provider at the nontransporting emergency medical service provider's rate or
+34 160% of the average of the Medicare rate for basic life support services and the
+Page 1 - 132LR1615(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 614, L.D. 1530
+315 Medicare rate for advanced life support services, whichever is less, plus any adjustment
+326 required by paragraph C.
+3 B. If the nontransporting emergency medical service provider is an out-of-network
+4 provider, the carrier shall reimburse the nontransporting emergency medical service
+5 provider at the ambulance service provider's rate or 140% of the average of the
+6 Medicare rate for basic life support services and the Medicare rate for advanced life
+7 support services, whichever is less, plus any adjustment required by paragraph C.
+8 C. If the nontransporting emergency medical service provider is located in a rural or
+9 super rural area as designated by the federal Department of Health and Human
+10 Services, Centers for Medicare and Medicaid Services and eligible for additional
+11 Medicare reimbursement for services that were provided to a Medicare enrollee, the
+12 carrier shall increase the reimbursement to that nontransporting emergency medical
+13 service provider in the same amount as the additional Medicare reimbursement.
+14 D. If, on the effective date of this subsection, a nontransporting emergency medical
+15 service provider's rate for nontransporting emergency medical services is below 160%
+16 of the average of the Medicare rate for basic life support services and the Medicare rate
+17 for advanced life support services, the nontransporting emergency medical service
+18 provider may not increase the rate for that service by more than 5% annually.
+19 Notwithstanding this subsection, a carrier is not required to reimburse a nontransporting
+20 emergency medical service provider at the reimbursement rates required in this subsection
+21 for covered services delivered through community paramedicine in accordance with Title
+22 32, section 84, subsection 4, and a carrier may require a nontransporting emergency
+23 medical service provider to obtain prior authorization before providing services through
+24 community paramedicine.
+25 Sec. 4. 24-A MRSA §4303-F, sub-§2, as amended by PL 2023, c. 468, §2, is
+26 further amended to read:
+27 2. Network participation; standard contract. A carrier shall offer a standard
+28 contract to all ambulance service providers and nontransporting emergency medical service
+29 providers willing to participate in the carrier's provider network with the following
+30 provisions:
+31 A. The reimbursement rate paid for ambulance services or nontransporting emergency
+32 medical services conforms to the requirements of subsection subsections 1, 1-A and
+33 1-B;
+34 B. The contract term is for a minimum of 24 months;
+35 C. The contract may be terminated as long as the party seeking to terminate the contract
+36 provides at least 180 days' prior notice; and
+37 D. The contract provides that an ambulance service provider or nontransporting
+38 emergency medical service provider has a minimum of 120 days to submit a claim.
+39 Sec. 5. 24-A MRSA §4303-F, sub-§5 is enacted to read:
+40 5. Reimbursement for administration and dispensing of naloxone hydrochloride.
+41 Notwithstanding this section, a carrier shall reimburse an ambulance service provider or
+42 nontransporting emergency medical service provider for the administration and dispensing
+Page 2 - 132LR1615(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 614, L.D. 1530
+413 of naloxone hydrochloride or another opioid overdose-reversing medication as authorized
+424 under Title 32, section 86, subsection 4.
+3 Sec. 6. 24-A MRSA §4303-F, sub-§6 is enacted to read:
+4 6. Dual response to request for emergency services. A carrier may not be required
+5 to reimburse twice for covered services under this section when both an ambulance service
+6 provider and a nontransporting emergency medical service provider respond to the same
+7 request for emergency services.
+8 Sec. 7. 24-A MRSA §4303-F, sub-§7 is enacted to read:
+9 7. Nontransporting emergency medical service; definition. As used in this section,
+10 "nontransporting emergency medical service" has the same meaning as in Title 32, section
+11 83, subsection 14.
+12 Sec. 8. Application. This Act applies to all policies, contracts and certificates
+13 executed, delivered, issued for delivery, continued or renewed in this State on or after
+14 January 1, 2027. For purposes of this Act, all contracts are deemed to be renewed no later
+15 than the next yearly anniversary of the contract date.'
+16 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+17 number to read consecutively.
+18 SUMMARY
+1199 This amendment replaces the bill. The amendment requires that, beginning with health
+2200 plans issued or renewed on or after January 1, 2027, health insurance carriers reimburse
+2211 nontransporting emergency medical service providers at 160% of the Medicare rate for
+2222 covered services.
+23 The amendment also provides that care that is provided at the scene of an emergency
+24 medical services event by an ambulance service or nontransporting emergency medical
+25 service is reimbursable care regardless of whether a patient is transported to another
+26 facility, including the administration of overdose-reversing medications that do not result
+27 in patient transport to a facility. The amendment specifies that a carrier is not required to
+28 reimburse twice for the same service when both an ambulance service provider and a
+29 nontransporting emergency medical service provider respond to the same request for
+30 emergency services.
+31 The amendment applies to health plans issued on or after January 1, 2027.
+3322 FISCAL NOTE REQUIRED
+3333 (See attached)
+Page 3 - 132LR1615(02)
+COMMITTEE AMENDMENT

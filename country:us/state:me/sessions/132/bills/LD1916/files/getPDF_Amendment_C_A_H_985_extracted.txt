@@ -1,0 +1,173 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-985)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1916
+2 Date: (Filing No. H- )
+3 CRIMINAL JUSTICE AND PUBLIC SAFETY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1277, L.D. 1916, “An Act to
+10 Automatically Seal Criminal History Record Information for Class D and Class E Crimes
+11 Relating to Marijuana Possession and Cultivation”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Automatically Seal Criminal History Record Information for Class D and
+14 Class E Crimes Relating to Marijuana Possession and Cultivation and to Clarify
+15 Dissemination of Sealed Criminal History Record Information to the Department of
+16 Professional and Financial Regulation'
+17 Amend the bill by inserting before section 1 the following:
+18 'Sec. 1. 15 MRSA §2265, sub-§5, as enacted by PL 2021, c. 674, §1, is amended
+19 to read:
+20 5. Financial services regulatory agencies. The Notwithstanding any provision of
+21 law to the contrary, except as provided for in subsection 8, the Department of Professional
+22 and Financial Regulation, Bureau of Insurance, Bureau of Consumer Credit Protection,
+23 Bureau of Financial Institutions and Office of Securities to ensure compliance with Titles
+24 9‑A, 9‑B, 10, 24, 24‑A and 32, as applicable, and any state or federal requirement to
+25 perform criminal background checks by those agencies;
+26 Sec. 2. 15 MRSA §2265, sub-§6, as enacted by PL 2021, c. 674, §1, is repealed
+27 and the following enacted in its place:
+28 6. Occupational and professional licensing boards and agencies. Notwithstanding
+29 any provision of law to the contrary, except as provided in subsection 8, occupational and
+30 professional licensing boards as established in Title 5, section 12004-A; agencies
+31 performing any regulatory functions within the Office of Professional and Occupational
+32 Regulation as described in Title 10, section 8001 and affiliated with the Department of
+33 Professional and Financial Regulation as established in Title 10, section 8001; the State
+34 Harness Racing Commission as established in Title 5, section 12004-G, subsection 32; and
+35 the Maine Criminal Justice Academy under Title 25, chapter 341;
+Page 1 - 132LR2461(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1277, L.D. 1916
+1 Sec. 3. 15 MRSA §2265, sub-§8, as enacted by PL 2021, c. 674, §1, is amended to
+2 read:
+3 8. Subject to fingerprinting. An entity that is required by federal or state law to
+4 conduct a fingerprint-based criminal history record check pursuant to Title 25, section
+5 1542‑A. To the extent this subsection applies to the dissemination of any particular record
+6 to boards and agencies identified in subsection 5 or 6, this subsection is the exclusive basis
+7 for disseminating that criminal history record information or sealed record.
+8 Sec. 4. 15 MRSA §2265, as enacted by PL 2021, c. 674, §1, is amended by enacting
+9 at the end a new paragraph to read:
+10 Disseminations authorized in subsections 5, 6 and 8 apply to all criminal history record
+11 information and any sealed record, including convictions and nonconvictions. For the
+12 purposes of this section, "nonconviction" means a criminal charge that did not result in a
+13 conviction. An entity receiving such information may use the disseminated record and
+14 information contained in such record as may be reasonably necessary to conduct public
+15 administrative proceedings to allow an applicant or licensee to demonstrate rehabilitation
+16 under Title 5, chapter 341. An entity receiving such information may use the disseminated
+17 record and information contained in such record in any other adjudicatory proceeding, as
+18 long as the disseminated information remains confidential but subject to disclosure as
+19 provided in Title 5, section 9057, subsection 6, paragraph B. Title 16, section 708,
+20 subsections 4 and 5 apply to any administrative proceeding addressed in this paragraph.
+21 Sec. 5. 15 MRSA §2266, as enacted by PL 2021, c. 674, §1, is amended to read:
+22 §2266. Limited disclosure of eligible criminal conviction
+23 A person whose eligible criminal conviction is the subject of a sealing order under
+24 section 2264 may respond to inquiries from persons other than criminal justice agencies
+25 and other than entities that are authorized to obtain the sealed criminal history record
+26 information under section 2265 by not disclosing the existence of the eligible criminal
+27 conviction without being subject to any sanctions under the laws of this State. Other than
+28 when responding to criminal justice agencies or when under oath while being prosecuted
+29 for a subsequent crime, a person whose criminal conviction is sealed does not violate Title
+30 17‑A, section 451, 452 or 453 by not disclosing the sealed criminal conviction.
+31 Notwithstanding any provision of law to the contrary, a person shall disclose all criminal
+32 history record information that is the subject of a sealing order under section 2264 when
+33 the disclosure is requested as part of an application to any entity identified in section 2265,
+34 subsection 5 or 6 or when disclosure to any such entity is otherwise required by law. A
+35 person's failure to make such required disclosure may result in any such entity withholding,
+36 denying or revoking the license or other benefit for which the individual applied or received
+37 or in such other administrative action as may be authorized by law.'
+38 Amend the bill in section 2 in the last line (page 4, line 6 in L.D.) by striking out the
+39 following: "January 1, 2026" and inserting the following: 'April 1, 2027'
+40 Amend the bill by inserting after section 2 the following:
+41 'Sec. 3. Appropriations and allocations. The following appropriations and
+42 allocations are made.
+43 JUDICIAL DEPARTMENT
+Page 2 - 132LR2461(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1277, L.D. 1916
+1 Courts - Supreme, Superior and District 0063
+2 Initiative: Establishes 2 limited-period Law Clerk positions through June 30, 2028 and
+3 provides funding for related All Other costs.
+4 GENERAL FUND 2025-26 2026-27
+5 Personal Services $0 $216,000
+6 All Other $0 $8,000
+7 __________ __________
+8 GENERAL FUND TOTAL $0 $224,000
+94 Courts - Supreme, Superior and District 0063
+10 Initiative: Provides one-time All Other funding for contracted temporary staffing to assist
+11 with reviewing cases.
+12 GENERAL FUND 2025-26 2026-27
+13 All Other $0 $232,800
+14 __________ __________
+15 GENERAL FUND TOTAL $0 $232,800
+1162 Courts - Supreme, Superior and District 0063
+17 Initiative: Provides one-time funding for compensation to active retired judges to review
+18 cases.
+19 GENERAL FUND 2025-26 2026-27
+20 All Other $0 $25,375
+21 __________ __________
+22 GENERAL FUND TOTAL $0 $25,375
+2139
+24 JUDICIAL DEPARTMENT
+25 DEPARTMENT TOTALS 2025-26 2026-27
+26
+27 GENERAL FUND $0 $482,175
+28 __________ __________
+29 DEPARTMENT TOTAL - ALL FUNDS $0 $482,175
+3204 PUBLIC SAFETY, DEPARTMENT OF
+31 State Police 0291
+32 Initiative: Provides funding for one SBI Specialist, one Paralegal position and related All
+33 Other costs to automatically seal certain criminal history record information.
+34 GENERAL FUND 2025-26 2026-27
+35 POSITIONS - LEGISLATIVE COUNT 0.000 2.000
+36 Personal Services $0 $114,761
+37 All Other $0 $45,292
+38 __________ __________
+39 GENERAL FUND TOTAL $0 $160,053
+4304
+41 HIGHWAY FUND 2025-26 2026-27
+Page 3 - 132LR2461(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1277, L.D. 1916
+1 Personal Services $0 $61,794
+2 All Other $0 $24,388
+3 __________ __________
+4 HIGHWAY FUND TOTAL $0 $86,182
+51
+6 PUBLIC SAFETY, DEPARTMENT OF
+7 DEPARTMENT TOTALS 2025-26 2026-27
+8
+9 GENERAL FUND $0 $160,053
+10 HIGHWAY FUND $0 $86,182
+11 __________ __________
+12 DEPARTMENT TOTAL - ALL FUNDS $0 $246,235
+136
+14 SECTION TOTALS 2025-26 2026-27
+15
+16 GENERAL FUND $0 $642,228
+17 HIGHWAY FUND $0 $86,182
+18 __________ __________
+19 SECTION TOTAL - ALL FUNDS $0 $728,410
+2104 '
+21 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+22 number to read consecutively.
+23 SUMMARY
+2244 This amendment, which is the minority report of the committee, changes the title and
+2255 clarifies the list of entities to which sealed criminal history record information may be
+2266 disseminated; the basis for such dissemination; and the permissible use of the disseminated
+2277 sealed criminal history record information by the Department of Professional and Financial
+2288 Regulation, its agencies and boards and certain other entities. The amendment also clarifies
+2299 a license applicant's obligation to disclose sealed criminal history record information to
+3300 these entities. The amendment also adds an appropriations and allocations section.
+3311 FISCAL NOTE REQUIRED
+3322 (See attached)
+Page 4 - 132LR2461(02)
+COMMITTEE AMENDMENT

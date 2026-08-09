@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-951)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2025
+2 Date: (Filing No. H- )
+3 MARINE RESOURCES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1355, L.D. 2025, “An Act to Create a
+10 Limited-purpose License for Aquaculture Nursery and Husbandry Activities and to Clarify
+11 the Aquaculture Lease Amendment Process”
+12 Amend the bill by inserting before section 1 the following:
+13 'Sec. 1. 12 MRSA §6072, sub-§10, as amended by PL 2021, c. 581, §1, is further
+14 amended to read:
+15 10. Notification of granted leases. After the granting of a lease:
+16 B. The department shall notify all riparian owners, intervenors and the municipality in
+17 which the lease is located that a lease has been granted. The notice must include a
+18 description of the area and how a copy of the lease may be obtained; and
+19 C. The lessee shall mark the leased area in a manner prescribed by the commissioner;
+20 and.
+21 D. The lessee shall annually submit to the department a seeding and harvesting report
+22 for the past year and a seeding and harvesting plan for the coming year. Upon written
+23 request, the department shall provide a copy of the report to the municipality or
+24 municipalities in which or adjacent to which the lease is located. The seeding and
+25 harvesting reports submitted by a lessee under this paragraph are considered
+26 confidential statistics for the purposes of section 6173. A copy of a report provided to
+27 a municipality pursuant to this paragraph is confidential.'
+28 Amend the bill by inserting after section 1 the following:
+29 'Sec. 2. 12 MRSA §6072, sub-§19 is enacted to read:
+30 19. Reports retained by department. Seeding and harvesting reports that were
+31 submitted to the department under former subsection 10, paragraph D and former section
+32 6072-C, subsection 10 and were confidential at the time the reports were submitted to the
+33 department remain confidential until those reports are no longer retained by the department
+34 pursuant to any records retention schedule adopted pursuant to Title 5, section 95-C,
+35 subsection 2.
+Page 1 - 132LR2628(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1355, L.D. 2025
+1 Sec. 3. 12 MRSA §6072-A, sub-§20, as amended by PL 2011, c. 93, §6, is further
+2 amended to read:
+3 20. Extension of commercial lease. If a person who holds a limited-purpose lease
+4 for commercial aquaculture research and development submits an application under section
+5 6072 for that lease area or a portion of that area before the expiration of that limited-purpose
+6 lease, or within 30 days after the expiration of that limited-purpose lease and accompanied
+7 by a nonrefundable late fee of $500, and if the commissioner's decision under section 6072
+8 occurs after the expiration of that limited-purpose lease, the lease remains in effect until
+9 the commissioner makes a decision. If the commissioner grants that person a lease under
+10 section 6072, that person's limited-purpose lease remains in effect until the effective date
+11 of the lease issued under section 6072. The late fee may be waived by the commissioner
+12 if a substantial illness or a medical condition prevents the leaseholder from submitting the
+13 application within 30 days after the date of expiration of the limited-purpose lease. The
+14 applicant shall provide the commissioner with documentation from a physician describing
+15 the substantial illness or medical condition. If the commissioner denies that person a lease
+16 under section 6072, that person's limited-purpose lease remains in effect until 30 days after
+17 the commissioner's decision. The commissioner may not process applications under
+18 section 6072, subsection 12-D received more than 30 days after the expiration of a limited-
+19 purpose lease, and the leaseholder is responsible for removing all gear and equipment from
+20 the lease site within 120 days.
+21 Sec. 4. 12 MRSA §6072-C, sub-§10, as enacted by PL 2013, c. 509, §8, is
+22 repealed.
+23 Sec. 5. 12 MRSA §6072-C, sub-§11 is enacted to read:
+24 11. Inspection. The department shall inspect the holder of a limited-purpose
+25 aquaculture license issued under this section and the activities conducted under that license
+26 on an annual basis.
+27 Sec. 6. 12 MRSA §6072-D, sub-§4, as enacted by PL 2003, c. 660, Pt. A, §16, is
+28 amended to read:
+29 4. Uses of fund. The commissioner may make expenditures from the fund to develop
+30 and manage effective and cost-efficient water quality licensing and monitoring criteria,
+31 analyze and evaluate monitoring data, process lease applications aquaculture lease and
+32 licensing application processing and make information about aquaculture available to the
+33 public. Expenditures may also be used to improve agency management of existing
+34 aquaculture sites, including conducting education and outreach about compliance and
+35 inspection.'
+36 Amend the bill by inserting after section 3 the following:
+37 'Sec. 4. 12 MRSA §6085-B is enacted to read:
+38 §6085-B. Right to inspect and sample
+39 The commissioner or the commissioner's agent shall have access to the leased or
+40 licensed area or licensed facility for a lease issued under section 6072, 6072-A or 6072-B
+41 or a license issued under section 6072-C or 6085 for the purpose of the inspection or the
+42 collection of samples. A sample may be collected only if the commissioner or the
+43 commissioner's agent has identified a possible risk to public health, animal health or the
+Page 2 - 132LR2628(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1355, L.D. 2025
+414 health of other marine organisms. The commissioner or the commissioner's agent shall
+425 notify the leaseholder or license holder at least 24 hours in advance of sample collection,
+436 and the notice must identify the basis of the sample collection. The sample size must be as
+447 small as reasonably possible. The commissioner or the commissioner's agent shall provide
+458 the results of the testing on any samples to the leaseholder or license holder immediately
+469 after the results become available. The leaseholder or license holder shall make applicable
+570 marine resources licenses or permits available for inspection upon the request of the
+581 commissioner or the commissioner's agent. Denial of access to the leased or licensed area
+592 or licensed facility, including for the purposes of sample collection, is grounds for
+1503 revocation of any lease or license issued pursuant to section 6072, 6072-A, 6072-B, 6072-
+1514 C or 6085. Records collected or manufactured pursuant to this section are confidential.
+12 Sec. 5. 12 MRSA §6085-C is enacted to read:
+13 §6085-C. Results of testing; confidentiality
+14 1. Results of testing confidential. Except as provided in subsection 2, the results of
+15 testing of a sample collected pursuant to section 6085-B are confidential.
+16 2. Exceptions; disclosure permitted. The department may disclose the results of
+17 testing of a sample collected pursuant to section 6085-B:
+18 A. When the department determines that the release of the results of testing of a sample
+19 is necessary to protect public health;
+20 B. To the Bureau of Marine Patrol when the results of testing of a sample is necessary
+21 for enforcement purposes; and
+22 C. When the department relies on the results of testing of a sample to consider a
+23 renewal application of a lease or license issued under this subchapter or initiate
+24 revocation of a lease or license issued under this subchapter.
+25 Sec. 6. Issuance of license or lease amendment. Until rules are adopted pursuant
+26 to this Act, the Department of Marine Resources may not issue a limited-purpose license
+27 or authorize a lease amendment under the Maine Revised Statutes, Title 12, chapter 605,
+28 subchapter 2.'
+29 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+30 number to read consecutively.
+31 SUMMARY
+3322 This amendment makes the following changes to the bill.
+33 1. It removes the requirement that the holder of a research and aquaculture lease submit
+34 an annual seeding and harvesting report for the past year and a seeding and harvesting plan
+35 for the coming year.
+36 2. It establishes a 30-day period after the expiration of a limited-purpose lease for
+37 commercial aquaculture research and development in which the holder of the lease may
+38 submit an application to extend the lease and submit a $500 late fee for the lease to remain
+39 in effect until the Commissioner of Marine Resources makes a decision regarding the
+40 application.
+Page 3 - 132LR2628(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1355, L.D. 2025
+1 3. It removes the development and management of water quality licensing and
+2 monitoring criteria and analysis and evaluation of monitoring data from the allowable
+3 expenditures from the Aquaculture Management Fund and allows funds to be used to
+4 improve agency management of existing sites, including conducting education and
+5 outreach about compliance and inspection.
+6 4. It requires access to aquaculture lease sites, licenses and permits by the
+7 commissioner or the commissioner's agent for the purpose of the inspection or the
+8 collection of samples and establishes requirements for the collection of samples.
+9 5. It clarifies that seeding and harvesting reports that were submitted to the Department
+10 of Marine Resources that were confidential at the time the report was submitted remain
+11 confidential until those reports are no longer retained by the department pursuant to any
+12 records retention schedule.
+13 6. It makes the results of testing of a sample collected by the Department of Marine
+14 Resources confidential except in certain cases.
+15 7. It prohibits the Department of Marine Resources from issuing limited-purpose
+16 licenses or authorizing lease amendments for aquaculture until rules are adopted.
+1177 FISCAL NOTE REQUIRED
+1188 (See attached)
+Page 4 - 132LR2628(02)
+COMMITTEE AMENDMENT

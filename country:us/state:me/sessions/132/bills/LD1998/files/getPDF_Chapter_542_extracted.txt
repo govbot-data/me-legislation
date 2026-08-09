@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 542
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 3, 2026 542
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 811 - L.D. 1998
+An Act to Authorize Registration of Certain Cash-dispensing Machines
+Through the Nationwide Mortgage Licensing System and Registry and to
+Limit the Use of Certain Cash-dispensing Machines as Virtual Currency
+Kiosks
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 32 MRSA §6152, sub-§2, as enacted by PL 1999, c. 229, §2, is amended to
+read:
+2. Limitations. A cash-dispensing machine:
+A. May not accept deposits or loan payments or effectuate account transfers other than
+those transfers between the customer's accounts in the same financial institution; and
+B. Must be operated in such a way as to comply with the Electronic Funds Transfer
+Act, 15 United States Code, Section 1693 et seq. or regulations adopted under that Act.;
+and
+C. May not operate as a virtual currency kiosk as defined in section 6164, subsection
+3 unless the virtual currency kiosk operator is licensed as a money transmitter pursuant
+to section 6165.
+Sec. 2. 32 MRSA §6153, sub-§1, ¶B, as enacted by PL 1999, c. 229, §2, is
+amended to read:
+B. A registration fee of $50 for the first cash-dispensing machine location operator and
+$25 for each additional location, payable to the Treasurer of State cash-dispensing
+machine.
+Sec. 3. 32 MRSA §6153, sub-§1-A is enacted to read:
+1-A. Nationwide mortgage licensing system and registry. The administrator may
+require registration under this section through the nationwide mortgage licensing system
+and registry as defined in Title 9‑A, section 13‑102, subsection 8. The administrator is
+authorized to participate in the nationwide mortgage licensing system and registry.
+Sec. 4. 32 MRSA §6153, sub-§1-B is enacted to read:
+Page 1 - 132LR2811(02)
+
+1-B. Registration requirements. In all cases, whether registration is through the
+nationwide mortgage licensing system and registry or otherwise, the administrator may
+establish, by rule, requirements for registration, including but not limited to:
+A. Background checks for:
+(1) Criminal history through fingerprint or other databases;
+(2) Civil or administrative records;
+(3) Credit history; or
+(4) Any other information determined necessary by the nationwide mortgage
+licensing system and registry;
+B. The payment of fees to apply for or renew registration. If registration is through the
+nationwide mortgage licensing system and registry, an applicant must also pay a
+nationwide mortgage licensing system and registry processing fee in an amount to be
+determined by the administrators of the nationwide mortgage licensing system and
+registry. Renewal applications received after the due date are subject to an additional
+fee of $100;
+C. The setting or resetting as necessary of renewal or reporting dates; and
+D. Other requirements for application for, amendment of or revocation of a registration
+or any other such activities as the administrator considers necessary.
+The aggregate of registration fees and other fees and assessments provided for by this
+section is appropriated for the use of the administrator. Any balance of these funds does
+not lapse but must be carried forward to be expended for the same purpose in the following
+fiscal year.
+Sec. 5. 32 MRSA §6153, sub-§6, as enacted by PL 1999, c. 229, §2, is amended to
+read:
+6. Fine. The administrator may impose a fine of $5 $25 per day on any person failing
+to comply with the requirements of this section.
+Sec. 6. 32 MRSA §6154, sub-§1, ¶A-1 is enacted to read:
+A-1. If registration is through the nationwide mortgage licensing system and registry,
+the operator’s unique identifier as defined in Title 9-A, section 13-102, subsection 15;
+Page 2 - 132LR2811(02)

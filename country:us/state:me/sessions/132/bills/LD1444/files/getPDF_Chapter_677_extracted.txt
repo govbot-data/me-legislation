@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 677
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 677
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 585 - L.D. 1444
+An Act to Clarify the Application of Finch v. U.S. Bank, N.A.
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 14 MRSA §6111, sub-§1-B is enacted to read:
+1-B. Application. Notwithstanding any provision of this section to the contrary, for
+any cause of action arising prior to January 11, 2024 for a claim in which a foreclosure
+action was dismissed due to a defective notice of a mortgagor's right to cure pursuant to
+this section, any subsequent cause of action asserting a claim for any sums due on the
+obligation as of the date of the final judgment dismissing the prior action is barred. The
+holding in the case of Finch v. U.S. Bank, N.A., 2024 Me. 2 may not be applied to any cause
+of action arising prior to January 11, 2024.
+Page 1 - 132LR0736(05)

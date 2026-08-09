@@ -1,0 +1,348 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-974)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2097
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1412, L.D. 2097, “An Act to Modify the
+10 Law Governing Revocation of a Code Enforcement Officer's Certification”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 30-A MRSA §4221, sub-§2, as amended by PL 2011, c. 655, Pt. FF, §7
+14 and affected by §16, is further amended to read:
+15 2. Certification requirements. A person may not hold the office of plumbing
+16 inspector unless currently certified as qualified pursuant to section 4451. Certification is
+17 effective for a period of 5 years unless sooner revoked or suspended by the District Court
+18 as provided for in section 4451 4451-G.
+19 Sec. 2. 30-A MRSA §4450 is enacted to read:
+20 §4450. Definitions
+21 As used in this subchapter, unless the context otherwise indicates, the following terms
+22 have the following meanings.
+23 1. Certificate holder. "Certificate holder" means an individual holding a code
+24 enforcement officer certificate issued under section 4451 by the former State Planning
+25 Office, the Department of Economic and Community Development, Office of Community
+26 Development, the Department of Public Safety, Office of the State Fire Marshal or the
+27 Maine Office of Community Affairs.
+28 2. Certification review committee. "Certification review committee" or "committee"
+29 means the committee established in section 4451-A, subsection 1.
+30 3. Division director. "Division director" means the senior employee responsible for
+31 technical codes coordination in the Division of Building Codes and Standards established
+32 within the Maine Office of Community Affairs in Title 25, section 2372.
+33 4. Staff. "Staff" means an employee or contractor of the Maine Office of Community
+34 Affairs established in Title 5, section 3202.
+Page 1 - 132LR2777(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1412, L.D. 2097
+1 Sec. 3. 30-A MRSA §4451, sub-§1, ¶D, as amended by PL 2025, c. 388, Pt. D,
+2 §38, is further amended to read:
+3 D. An individual whose certification has expired or is about to expire may be
+4 temporarily authorized in writing by the Maine Office of Community Affairs to extend
+5 that individual's certification for a period not to exceed 12 months in cases where the
+6 necessary training or examination is suspended under subsection 3‑B, paragraph E,
+7 except that beginning July 20, 2026 and ending July 20, 2028, the Maine Office of
+8 Community Affairs may extend an individual’s certification for a period not to exceed
+9 24 months.
+10 Sec. 4. 30-A MRSA §4451, sub-§6, as amended by PL 2025, c. 388, Pt. D, §38, is
+11 further amended to read:
+12 6. Certification; terms; revocation. The Maine Office of Community Affairs shall
+13 certify individuals as to their competency to successfully enforce ordinances and other land
+14 use regulations and permits granted under those ordinances and regulations and shall issue
+15 certificates attesting to the competency of those individuals to act as code enforcement
+16 officers. Certificates issued by the former State Planning Office, the Department of
+17 Economic and Community Development, Office of Community Development, the
+18 Department of Public Safety, Office of the State Fire Marshal or the Maine Office of
+19 Community Affairs are valid for 6 years unless revoked by the District Court or suspended
+20 as provided for in section 4451-G. An examination is not required for recertification of
+21 code enforcement officers. The Maine Office of Community Affairs shall recertify a code
+22 enforcement officer if the code enforcement officer successfully completes at least 12 hours
+23 of approved training in each area of job responsibility during the 6-year certification period.
+24 A. The District Court may revoke the certificate of a code enforcement officer, in
+25 accordance with Title 4, chapter 5, when it finds that:
+26 (1) The code enforcement officer has practiced fraud or deception;
+27 (2) Reasonable care, judgment or the application of a duly trained and
+28 knowledgeable code enforcement officer's ability was not used in the performance
+29 of the duties of the office; or
+30 (3) The code enforcement officer is incompetent or unable to perform properly the
+31 duties of the office.
+32 B. Code enforcement officers whose certificates are invalidated under this subsection
+33 may be issued new certificates provided that they are newly certified as provided in
+34 this section.
+35 Sec. 5. 30-A MRSA §4451-A is enacted to read:
+36 §4451-A. Certification review committee
+37 1. Certification review committee; established. The certification review committee
+38 is established to receive, review, investigate when appropriate and respond to complaints
+39 regarding any violation of this subchapter or rules established by the Technical Building
+40 Codes and Standards Board or the Maine Office of Community Affairs by a certificate
+41 holder.
+Page 2 - 132LR2777(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1412, L.D. 2097
+1 2. Certification review committee; membership. The division director shall appoint
+2 7 members to serve on the committee. The division director shall name one member as
+3 chair and one member as secretary of the committee.
+4 A. Two of the members must be members of the Technical Building Codes and
+5 Standards Board, established in Title 5, section 12004-G, subsection 5-A, one of whom
+6 must hold a certification pursuant to section 4221 or 4451.
+7 B. The remaining 5 members must be residents of this State who have professional
+8 experience and familiarity with the topic areas for which the Division of Building
+9 Codes and Standards issues certifications, except they may not be members of the
+10 Technical Building Codes and Standards Board. At least one of the 5 members must
+11 be selected from a list of names provided to the division director by a statewide
+12 organization representing code enforcement officers.
+13 3. Quorum. A majority of the members of the committee, including at least one
+14 Technical Building Codes and Standards Board member, constitutes a quorum and must be
+15 present for deliberations and votes. A majority vote of all members present is necessary
+16 for any action or to recommend taking corrective or disciplinary action on a complaint or
+17 to order an independent investigation pursuant to section 4451-D or 4451-E.
+18 Sec. 6. 30-A MRSA §4451-B is enacted to read:
+19 §4451-B. Receipt and review of complaints
+20 Upon the request of the division director or upon the committee's own motion, the
+21 committee shall review complaints about a certificate holder received regarding
+22 noncompliance with or violation of this subchapter or rules adopted by the Technical
+23 Building Codes and Standards Board established in Title 5, section 12004-G, subsection
+24 5-A or the Maine Office of Community Affairs and recommend appropriate action to the
+25 division director.
+26 Sec. 7. 30-A MRSA §4451-C is enacted to read:
+27 §4451-C. Notice; response
+28 Before proceeding with any investigation regarding a complaint filed against a
+29 certificate holder, the division director, the committee or staff shall notify the certificate
+30 holder, the municipality, state agency or entity employing the certificate holder and the
+31 administrators of the jurisdiction in which the complaint originates of the content of a
+32 complaint filed against the certificate holder and that an investigation of the complaint may
+33 occur. Notice must be given as soon as possible, but no later than 60 days after the division
+34 director, the committee or staff receives the complaint or other pertinent information.
+35 1. Certificate holder response. The certificate holder has the right to respond to the
+36 complaint within 30 days of receiving notice of the complaint in all cases except those
+37 involving an emergency refusal to renew or an emergency suspension or revocation of a
+38 certificate, as described in Title 5, chapter 375, section 10004.
+39 2. Review and response by employer. Within 30 days of receiving notice of a
+40 complaint, the municipality, state agency or entity employing the certificate holder shall
+41 review the alleged conduct of the certificate holder or otherwise respond to the complaint
+42 and, notwithstanding any provision of law to the contrary, report the findings of the review
+43 to the division director along with a recommended disposition.
+Page 3 - 132LR2777(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1412, L.D. 2097
+1 3. Jurisdiction's response. The administrators of the jurisdiction in which the
+2 complaint originates may respond to the division director with supplementary information
+3 and recommendations relevant to the complaint.
+4 This section does not preclude a municipality, state agency or entity employing a
+5 certificate holder from investigating and taking appropriate action, up to and including
+6 termination of employment, before it receives notice from the division director, the
+7 committee or staff under this section, as long as the municipality, state agency or entity
+8 notifies the division director following its investigation if the investigation reveals
+9 reasonable cause to believe that a certificate holder has engaged in conduct subject to
+10 disciplinary action and provides to the division director the findings related to the conduct.
+11 This section does not preclude the division director from investigating the conduct of
+12 a certificate holder on the division director's own initiative.
+13 Sec. 8. 30-A MRSA §4451-D is enacted to read:
+14 §4451-D. Further action
+15 The division director may proceed with any action the division director determines
+16 appropriate after the response time periods in subsection 4451-C have passed. Further
+17 action may include, but is not limited to, the following:
+18 1. Dismissal of complaint. If the certificate holder's response to the complaint or other
+19 information related to the complaint satisfies the division director, the committee or staff
+20 that the complaint does not merit further investigation or action, the matter may be
+21 dismissed by the division director or the committee, with notice of the dismissal to the
+22 certificate holder and the complainant, if any;
+23 2. Referral. The division director may refer the matter of the complaint to another
+24 agency for investigation regardless of whether the division director receives a response
+25 under section 4451-C, with notice of the referral to the certificate holder; or
+26 3. Investigation. The division director at the division director's sole discretion or, as
+27 delegated, the committee or staff, may investigate a complaint that is not dismissed or
+28 referred under this section. An investigation may include an informal conference under
+29 section 4451-E to determine whether grounds exist to deny an application for a certification
+30 or recertification or for modification, suspension or revocation of a certificate or for taking
+31 other disciplinary action pursuant to this section and section 4451-G. The division director
+32 or the committee may contract with outside investigators or agencies for use of their
+33 investigators through memoranda of understanding or other written agreement. The
+34 division director, the committee or staff may subpoena witnesses, records and documents
+35 in any investigation or hearing conducted.
+36 Sec. 9. 30-A MRSA §4451-E is enacted to read:
+37 §4451-E. Informal conference
+38 If, in the opinion of the division director, the committee or staff, the factual basis of the
+39 complaint is or may be true and the complaint is of sufficient gravity to warrant further
+40 action, the division director, the committee or staff may request an informal conference
+41 with the certificate holder either prior to or during an investigation. The division director,
+42 the committee or staff shall provide the certificate holder with adequate notice of the
+Page 4 - 132LR2777(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1412, L.D. 2097
+413 conference and of the issues to be discussed. The certificate holder may, without prejudice,
+424 refuse to participate in an informal conference.
+3 Sec. 10. 30-A MRSA §4451-F is enacted to read:
+4 §4451-F. Grounds for action
+5 The division director or the committee may take action against an applicant for a
+6 certificate or a certificate holder pursuant to this subchapter or any rules adopted pursuant
+7 to this subchapter, including, but not limited to, a decision to refuse to issue or renew a
+8 certificate or to modify, suspend or revoke a certificate for one or more of the following
+9 reasons:
+10 1. Certification or recertification requirements. Failing to meet certification or
+11 recertification requirements;
+12 2. Material facts. Falsifying or misrepresenting material facts in obtaining or
+13 maintaining a certificate issued pursuant to section 4451;
+14 3. Dishonest, fraudulent or illegal conduct; intentional misconduct. Engaging in
+15 conduct constituting dishonest, fraudulent or illegal dealings or intentional misconduct that,
+16 when viewed in light of the nature and purpose of the person's conduct and circumstances
+17 known to the person, involves deviation from the standard of conduct, as defined in rule,
+18 that a reasonable and prudent certificate holder would observe in the same or a similar
+19 situation; or
+20 4. Duties authorized. Repeatedly failing to effectively perform the duties authorized
+21 by the issued certificate.
+22 Sec. 11. 30-A MRSA §4451-G is enacted to read:
+23 §4451-G. Action after investigation
+24 If the division director or the committee finds that the factual basis of the complaint is
+25 true and is of sufficient gravity to warrant further action, the division director or the
+26 committee may take any of the following actions.
+27 1. Letter of guidance or concern. The division director may issue a letter of guidance
+28 or concern to a certificate holder. A letter of guidance or concern may be used to educate,
+29 reinforce knowledge regarding legal or professional obligations or express concern over
+30 action or inaction by the certificate holder that does not rise to the level of misconduct
+31 sufficient to merit disciplinary action. The issuance of a letter of guidance or concern is
+32 not a formal proceeding and does not constitute an adverse disciplinary action.
+33 Notwithstanding any provision of law to the contrary, letters of guidance or concern are
+34 not confidential. The division director may place letters of guidance or concern, together
+35 with any underlying complaint, report and investigation materials, in a certificate holder's
+36 file for a specified period of time not to exceed 10 years. Any letters, complaints and
+37 materials placed on file may be accessed and considered by the division director in any
+38 subsequent action commenced against the certificate holder within the specified time
+39 frame. Complaints, reports and investigation materials placed on file remain confidential
+40 to the extent required by this subchapter.
+41 2. Consent agreement. The division director, the committee or staff may negotiate a
+42 consent agreement that resolves a complaint or investigation without further proceedings.
+43 A consent agreement may be entered into only with the consent of the certificate holder
+Page 5 - 132LR2777(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1412, L.D. 2097
+414 and the division director. Notwithstanding any provision of law to the contrary, any
+425 remedy, penalty or fine that is otherwise available by law, even if only in the jurisdiction
+436 of the Superior Court, may be achieved by consent agreement, including long-term
+447 modification, suspension and permanent revocation of a certificate issued under this
+458 subchapter. A consent agreement is not subject to review or appeal and may be modified
+469 only by a writing executed by the certificate holder and the division director. A consent
+570 agreement is enforceable by an action in Superior Court.
+8 3. Voluntary surrender of certificate. If a certificate holder offers to voluntarily
+9 surrender a certificate, the division director, the committee or staff may negotiate
+10 stipulations necessary to ensure protection of the public health and safety and the
+11 rehabilitation or education of the certificate holder. These stipulations may be set forth
+12 only in a consent agreement entered into between the division director and the certificate
+13 holder.
+14 4. Modification, suspension, revocation of certificate or other sanction or
+15 discipline. The division director or the committee may impose the following forms of
+16 discipline upon a certificate holder or applicant for a certificate:
+17 A. Denial of an application for a certificate or recertification, which may occur in
+18 conjunction with the imposition of another form of discipline;
+19 B. Issuance of a written warning, censure or reprimand;
+20 C. Suspension of a certificate for up to 3 years. Execution of all or any portion of a
+21 term of suspension may be stayed pending successful completion of conditions of
+22 probation imposed pursuant to paragraph F, except that the suspension remains part of
+23 the certificate holder's record;
+24 D. Revocation of a certificate;
+25 E. Modification of a certificate; or
+26 F. Imposition of conditions of probation. Probation may run for a time period that the
+27 division director determines appropriate. Probation may include conditions such as
+28 additional continuing education, mandatory professional supervision of the applicant
+29 or certificate holder, restrictions and other conditions as the division director
+30 determines appropriate. Costs incurred in the performance of terms of probation are
+31 borne by the applicant or certificate holder. Failure to comply with the conditions of
+32 probation may be grounds for disciplinary action against a certificate holder.
+33 5. Request for adjudicatory hearing. Unless otherwise indicated in this subchapter,
+34 if the division director or the committee concludes that modification, suspension,
+35 revocation or imposition of any other sanction or discipline authorized under this
+36 subchapter is in order, the division director, the committee or staff shall notify the
+37 certificate holder and inform the certificate holder of the right to request an adjudicatory
+38 hearing. If the certificate holder requests an adjudicatory hearing in writing within 21 days,
+39 the hearing must be held by a subcommittee of 3 committee members designated by the
+40 committee chair or a hearing officer, at the committee’s sole discretion. The hearing must
+41 be in accordance with Title 5, chapter 375, subchapter 4 and must be held within 60 days
+42 of the certificate holder's request for hearing. The subcommittee or the hearing officer,
+43 after conducting the hearing, shall file with the committee all papers connected with the
+Page 6 - 132LR2777(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1412, L.D. 2097
+414 case and report recommended findings and sanctions to the committee, which may, in
+425 consultation with the division director, approve or modify them.
+3 If, after the adjudicatory hearing, the certificate holder wishes to appeal the final decision
+4 of the division director or the committee, the certificate holder shall file a petition for
+5 review pursuant to the Maine Rules of Civil Procedure, Rule 80C with the Superior Court
+6 within 30 days of receipt of the division director's or the committee's written decision.
+7 Review under this subsection must be conducted pursuant to Title 5, chapter 375,
+8 subchapter 7. If a request for a hearing is not filed within 21 days, the certificate holder is
+9 deemed to have waived any right to hearing and the division director may, in consultation
+10 with the committee, impose any sanction or discipline allowed by this subchapter.
+11 6. Injunction. The State may bring an action in Superior Court to enjoin a person
+12 from violating any provision of this subchapter, regardless of whether civil or
+13 administrative proceedings have been or may be instituted.
+14 7. Recertification. A person whose certificate has been revoked under this subchapter
+15 may apply to the division director for reinstatement of certification if at least one year has
+16 elapsed since revocation of the certificate and the person is otherwise eligible for
+17 reinstatement. The granting of recertification under this subsection is governed by rules
+18 adopted by the Maine Office of Community Affairs pursuant to section 4451-I relating to
+19 certification. The person is subject to all training requirements applicable to persons whose
+20 certification has lapsed.
+21 Sec. 12. 30-A MRSA §4451-H is enacted to read:
+22 §4451-H. Confidentiality; access to documents; public records
+23 All complaints, charges or accusations of misconduct, replies to those complaints,
+24 charges or accusations and any other information or materials that are considered by the
+25 division director or the committee are confidential. If a person subject to this chapter
+26 requests an adjudicatory hearing under the Maine Administrative Procedure Act, that
+27 hearing must be open to the public. The subcommittee or hearing officer that presides over
+28 the hearing shall issue a written decision that states the conduct or other facts on the basis
+29 of which action is being taken and the reason for that action. Once issued, the written
+30 decision is a public record under the Freedom of Access Act, regardless of whether it is
+31 appealed. Any action taken by the division director pursuant to this subchapter as a result
+32 of a complaint, charge or accusation must be supported by a statement of findings and must
+33 be issued as a written decision of the division director. The written decision of the division
+34 director and findings are public records under the Freedom of Access Act.
+35 Sec. 13. 30-A MRSA §4451-I is enacted to read:
+36 §4451-I. Rulemaking
+37 The Maine Office of Community Affairs may adopt rules necessary to implement this
+38 subchapter. Rules adopted pursuant to this section are routine technical rules as defined in
+39 Title 5, chapter 375, subchapter 2‑A.'
+40 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+41 number to read consecutively.
+Page 7 - 132LR2777(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1412, L.D. 2097
+1 SUMMARY
+22 This amendment, which is the majority report of the committee, replaces the bill and
+33 does the following.
+4 1. It reorganizes the bill to provide clarity.
+5 2. It replaces the definition of "director" with a definition of "division director" and
+6 replaces the word "director" with "division director" throughout the bill.
+7 3. It adds definitions of "certificate holder" and "certification review committee."
+8 4. It allows the Maine Office of Community Affairs to extend a code enforcement
+9 officer's certification for up to 24 months between July 20, 2026 and July 20, 2028.
+10 5. It clarifies that a certificate holder may be employed by a municipality, a state
+11 agency or an entity.
+12 6. It removes the requirement that a certificate holder's employer investigate a
+13 complaint filed with the Division of Building Codes and Standards.
+14 7. It removes the requirement that a certificate holder's employer share information,
+15 other than findings, from the employer's investigation of the certificate holder.
+16 8. It removes the civil penalty option for a violation of laws or rules applicable to the
+17 work of a certificate holder.
+18 9. It adds a requirement that a certificate holder be notified if the complaint against the
+19 certificate holder is dismissed.
+20 10. It makes confidential all complaints, charges or accusations of misconduct and any
+21 other information or materials that are considered by the division director or the committee.
+2222 FISCAL NOTE REQUIRED
+2233 (See attached)
+Page 8 - 132LR2777(02)
+COMMITTEE AMENDMENT

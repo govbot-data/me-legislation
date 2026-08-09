@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-529)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2007
+2 Date: (Filing No. S- )
+3 VETERANS AND LEGAL AFFAIRS
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 825, L.D. 2007, “An Act Regarding the
+10 Prohibition of Online Sweepstakes Games”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 5 MRSA §20006-B, sub-§1, as amended by PL 2011, c. 657, Pt. AA, §24,
+14 is further amended to read:
+15 1. Fund established. The Gambling Addiction Prevention and Treatment Fund,
+16 referred to in this section as "the fund," is established for the purpose of supporting
+17 gambling addiction analysis, prevention and treatment to be administered by the
+18 department. The fund is a dedicated, nonlapsing fund into which payments are received in
+19 accordance with Title 8, section 1036, subsection 2 and Title 8, section 1352, subsection 1.
+20 Sec. 2. 8 MRSA c. 38 is enacted to read:
+21 CHAPTER 38
+22 ONLINE SWEEPSTAKES GAMES PROHIBITED
+23 §1351. Definitions
+24 As used in this chapter, unless the context otherwise indicates, the following terms
+25 have the following meanings.
+26 1. Board. "Board" means the Gambling Control Board established under section
+27 1002.
+28 2. Direct consideration. "Direct consideration" means a coin, token or other
+29 representation of value that may be purchased by a person or received through a bonus or
+30 promotion and that is used for playing or participating in an online sweepstakes game.
+Page 1 - 132LR2873(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 825, L.D. 2007
+1 3. Dual-currency system of payment. "Dual-currency system of payment" means a
+2 system of payment that allows a person to play or participate with direct consideration or
+3 indirect consideration or that is otherwise designed in a manner that:
+4 A. Prevents a person from directly purchasing coins, tokens or other representations
+5 of value that are redeemable for any cash prize, cash award or cash equivalents or the
+6 chance to win any cash prize, cash award or cash equivalents; and
+7 B. Encourages a person to purchase services, products, coins, tokens or other
+8 representations of value that are not exchangeable for a prize, award, cash or cash
+9 equivalents or a chance to win a prize, award, cash or cash equivalents in order for that
+10 person to obtain the coins, tokens or other representations of value that are
+11 exchangeable for prizes, awards, cash or cash equivalents or a chance to win a prize,
+12 award, cash or cash equivalents.
+13 The unit may adopt rules to further define what constitutes a dual-currency system of
+14 payment. Rules adopted pursuant to this subsection are major substantive rules as defined
+15 in Title 5, chapter 375, subchapter 2‑A.
+16 4. Indirect consideration. "Indirect consideration" means a coin, token or other
+17 representation of value that:
+18 A. Is provided for free through a promotion or bonus or with the purchase of a related
+19 product, service or activity; and
+20 B. May be exchanged for a prize, award, cash or cash equivalents or a chance to win
+21 a prize, award, cash or cash equivalents.
+22 As used in this subsection, “related product, service or activity” includes a coin, token or
+23 other representation of value that may be used for direct consideration.
+24 5. Licensee. "Licensee" means a person that holds any one of the following licenses:
+25 A. A license issued under chapter 31;
+26 B. A license issued under chapter 33;
+27 C. A license issued under chapter 35;
+28 D. A license issued under chapter 39; or
+29 E. A license issued under Title 17, chapter 62.
+30 6. Online sweepstakes game. "Online sweepstakes game" means any game, contest
+31 or promotion that:
+32 A. Is available on the Internet and accessible on a mobile telephone, computer terminal
+33 or similar access device;
+34 B. Uses a dual-currency system of payment; and
+35 C. Simulates casino-style gaming, including, but not limited to, slot machines, poker
+36 and other table games, lottery games, bingo or sports wagering.
+37 7. Unit. "Unit" means the Gambling Control Unit established as a bureau within the
+38 Department of Public Safety under Title 25, section 2902, subsection 12.
+39 §1352. Online sweepstakes games prohibited; fines; other penalties
+Page 2 - 132LR2873(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 825, L.D. 2007
+1 A person that operates or promotes an online sweepstakes game or supports the
+2 operation or promotion of an online sweepstakes game commits a civil violation.
+3 1. Fine. A person that violates this section is subject to a fine of not less than $10,000
+4 and not more than $100,000. All fines adjudged pursuant to this section must be collected
+5 by the unit and distributed to the Gambling Addiction Prevention and Treatment Fund
+6 established in Title 5, section 20006-B.
+7 2. Revocation of license. If a licensee is convicted of unlawful gambling under Title
+8 17-A, section 954, subsection 1-B or is otherwise found to be in violation of this section
+9 through the administrative process applicable to the license held by the licensee, the unit
+10 or board, whichever is responsible for administering the license, shall revoke the licensee's
+11 license.
+12 3. Ineligible for license. A person that is found to be in violation of this section is
+13 ineligible to receive a license described in section 1351, subsection 5.
+14 Sec. 3. 17-A MRSA §954, sub-§1-B is enacted to read:
+15 1-B. A person is guilty of unlawful gambling if the person operates or promotes an
+16 online sweepstakes game or supports the operation or promotion of an online sweepstakes
+17 game. For the purposes of this subsection, "online sweepstakes game" has the same
+18 meaning as in Title 8, section 1351, subsection 6.'
+19 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+20 number to read consecutively.
+21 SUMMARY
+2222 This amendment replaces the bill. The amendment provides the same language as the
+2233 bill in a new chapter and new sections of the Maine Revised Statutes to avoid creating a
+2244 conflict with the recently enacted Public Law 2025, chapter 538. The amendment also adds
+2255 an Internet gaming license, established in Public Law 2025, chapter 538, to the definition
+2266 of "licensee" and corrects cross-references in the bill.
+2277 FISCAL NOTE REQUIRED
+2288 (See attached)
+Page 3 - 132LR2873(02)
+COMMITTEE AMENDMENT

@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-639)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2044
+2 Date: (Filing No. S- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 837, L.D. 2044, “An Act to Allow for
+10 the Transferability of the Biofuel Production and Renewable Chemicals Tax Credits”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Make the Biofuel Commercial Production and Commercial Use Tax Credit
+13 and the Renewable Chemicals Tax Credit Refundable'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 36 MRSA §5219-X, sub-§3, as amended by PL 2007, c. 426, §1, is further
+17 amended to read:
+18 3. Limitations. A person entitled to a credit under this section for any taxable year
+19 may carry over and apply the portion of any unused credits to the tax liability on income
+20 derived from the production of biofuel for any one or more of the next succeeding 10
+21 taxable years. The credit allowed, including carryovers, may not reduce the tax otherwise
+22 due under this Part to less than zero. A person may be allowed a credit under subsection 2
+23 for a period not to exceed 10 consecutive taxable years as of the first tax year beginning on
+24 or after January 1, 2021 for which the credit is allowed.
+25 Sec. 2. 36 MRSA §5219-X, sub-§3-A is enacted to read:
+26 3-A. Refundable credit. Notwithstanding subsection 3, for tax years beginning on or
+27 after January 1, 2027, a credit allowed under subsection 2 is refundable up to the amount
+28 of the credit generated during the taxable year plus any unused carry-over credit amounts
+29 generated and claimed on a timely filed Maine income tax return for tax years 2021, 2022,
+30 2023, 2024, 2025 and 2026.
+31 Sec. 3. 36 MRSA §5219-X, sub-§6, as enacted by PL 2021, c. 181, Pt. A, §12, is
+32 amended to read:
+33 6. Reporting. A taxpayer allowed a credit under subsection 2 shall report to the
+34 Department of Economic and Community Development, for each tax credit awarded, the
+Page 1 - 132LR2729(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 837, L.D. 2044
+315 dollar amount of the tax credit, the number of full-time and part-time direct manufacturing
+326 jobs created and the dollar amount of capital investment in manufacturing.
+3 Sec. 4. 36 MRSA §5219-XX, sub-§3, as amended by PL 2021, c. 181, Pt. A, §13,
+4 is further amended to read:
+5 3. Reporting. A taxpayer allowed a credit under subsection 2 shall report to the
+6 Department of Economic and Community Development, for each tax credit awarded, the
+7 dollar amount of the tax credit, the number of full-time and part-time direct manufacturing
+8 jobs created and the dollar amount of capital investment in manufacturing.
+9 Sec. 5. 36 MRSA §5219-XX, sub-§4, as enacted by PL 2019, c. 628, §3, is
+10 amended to read:
+11 4. Limitation. A person entitled to a tax credit under this section for any taxable year
+12 may carry over and apply the portion of any unused credits to the tax liability on income
+13 derived from the production of renewable chemicals for any one or more of the next
+14 succeeding 10 taxable years. The credit allowed, including carryovers, may not reduce the
+15 tax otherwise due under this Part to less than zero. A person may be allowed a credit under
+16 subsection 2 for a period not to exceed 10 consecutive taxable years as of the first tax year
+17 beginning on or after January 1, 2021 for which the credit is allowed.
+18 Sec. 6. 36 MRSA §5219-XX, sub-§4-A is enacted to read:
+19 4-A. Refundable credit. Notwithstanding subsection 4, for tax years beginning on or
+20 after January 1, 2027, a credit allowed under subsection 2 is refundable up to the amount
+21 of the credit generated during the taxable year plus any unused carry-over credit amounts
+22 generated and claimed on a timely filed Maine income tax return for tax years 2021, 2022,
+23 2023, 2024, 2025 and 2026.
+24 Sec. 7. Appropriations and allocations. The following appropriations and
+25 allocations are made.
+26 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+27 Revenue Services, Bureau of 0002
+28 Initiative: Provides one-time funding for administrative expenses to update systems,
+29 perform testing and implement processing changes to change the credit from nonrefundable
+30 to refundable for the individual, composite, fiduciary and corporate income tax types.
+31 GENERAL FUND 2025-26 2026-27
+32 All Other $0 $117,370
+33 __________ __________
+34 GENERAL FUND TOTAL $0 $117,370
+3351 Sec. 8. Report. On or before December 31, 2031, the Department of Economic and
+3362 Community Development shall submit a report to the joint standing committee of the
+3373 Legislature having jurisdiction over taxation matters on the information provided by
+3384 taxpayers pursuant to the Maine Revised Statutes, Title 36, section 5219-X, subsection 6
+3395 and Title 36, section 5219-XX, subsection 3 for tax years 2027, 2028, 2029 and 2030. The
+4306 joint standing committee may report out legislation based on the report.'
+41 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+42 number to read consecutively.
+Page 2 - 132LR2729(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 837, L.D. 2044
+1 SUMMARY
+22 This amendment replaces the bill, changes the title and amends the tax laws by making
+33 the biofuel commercial production and commercial use tax credit and the renewable
+44 chemicals tax credit refundable for tax years beginning on or after January 1, 2027. The
+55 amendment limits a person's eligibility to generate a credit under the Maine Revised
+66 Statutes, Title 36, sections 5219-X and 5219-XX to a period not to exceed 10 consecutive
+77 taxable years as of the first tax year beginning on or after January 1, 2021 for which the
+88 credit is allowed. The amendment requires the Department of Economic and Community
+99 Development to report to the joint standing committee of the Legislature having
+1100 jurisdiction over taxation matters 5 years after the credits become refundable and authorizes
+1111 the committee to report out legislation related to the credits allowed under Title 36, sections
+1122 5219-X and 5219-XX after receiving the report.
+1133 FISCAL NOTE REQUIRED
+1144 (See attached)
+Page 3 - 132LR2729(02)
+COMMITTEE AMENDMENT

@@ -1,0 +1,466 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 690
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 690
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1480 - L.D. 2201
+An Act to Implement Certain Recommendations Related to the Regulatory
+Review and Approval of Certain Health Care Transactions Involving Private
+Equity Companies, Hedge Funds or Management Services Organizations
+from the Commission to Evaluate the Scope of Regulatory Review and
+Oversight over Health Care Transactions That Impact the Delivery of Health
+Care Services in the State
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA c. 106 is enacted to read:
+CHAPTER 106
+REVIEW OF MATERIAL CHANGE TRANSACTIONS INVOLVING HEALTH
+CARE ENTITIES AND PRIVATE EQUITY COMPANIES, HEDGE FUNDS OR
+MANAGEMENT SERVICES ORGANIZATIONS
+§371. Definitions
+As used in this chapter, unless the context otherwise indicates, the following terms
+have the following meanings.
+1. Carrier. "Carrier" has the same meaning as in Title 24-A, section 4301-A,
+subsection 3.
+2. Health care entity. "Health care entity" means a health care provider, a health care
+facility or a provider organization. "Health care entity" does not include a nursing facility
+as defined by section 328, subsection 18 or a health care provider or provider organization
+that provides only dental services.
+3. Health care facility. "Health care facility" means a licensed institution providing
+health care services or a health care setting, including, but not limited to, hospitals and
+other licensed inpatient facilities; health systems consisting of one or more health care
+entities that are jointly owned or managed; ambulatory surgical or treatment centers;
+residential treatment centers; diagnostic, laboratory and imaging centers; freestanding
+Page 1 - 132LR3022(03)
+
+emergency facilities; outpatient clinics; and rehabilitation and other therapeutic health
+settings.
+4. Health care provider. "Health care provider" means a person, corporation,
+partnership, governmental unit, state institution, medical practice or other entity qualified
+or licensed under state law to perform or provide health care services to persons in the
+State.
+5. Health care services. "Health care services" means services and payments for the
+care, prevention, diagnosis, treatment, cure or relief of a medical, dental or behavioral
+health condition, illness, injury or disease, including, but not limited to:
+A. Inpatient, outpatient, habilitative, rehabilitative, dental, palliative, therapeutic,
+supportive, home health or behavioral services provided by a health care entity;
+B. Pharmacy services, either retail or specialty, and any drugs, medical devices or
+medical supplies;
+C. Performance of functions to refer, arrange or coordinate care;
+D. The use of equipment such as durable medical equipment, diagnostic equipment,
+surgical devices or infusion equipment; or
+E. Technology associated with the provision of services or equipment in paragraphs A
+to D, such as telehealth, electronic health records, software, claims processing or
+utilization systems.
+6. Management services organization. "Management services organization" means
+any organization or entity owned or controlled by a private equity company or hedge fund
+that contracts with a health care provider or provider organization to perform management
+or administrative services relating to, supporting or facilitating the provision of health care
+services when the health care provider or provider organization is also owned or controlled
+by the same private equity company or hedge fund.
+7. Material change transaction. "Material change transaction" means the acquisition
+of a majority interest or operational control of a health care entity within the State occurring
+during a single transaction or in a series of related transactions by a private equity company,
+hedge fund or management services organization.
+8. Medical practice. "Medical practice" means a corporate entity or partnership
+organized for the purpose of practicing medicine and permitted to practice medicine in the
+State, including, but not limited to, partnerships, professional corporations, limited liability
+companies and limited liability partnerships.
+9. Operational control. "Operational control" means the power to:
+A. Influence or direct the actions or policies of any part of a health care entity; or
+B. Choose, appoint or terminate a member of a board, manager, managing member,
+senior employee, consultant or other individual or entity that participates in the
+operational oversight of a health care entity.
+10. Private equity company. "Private equity company" means an entity that collects
+capital investments from individuals or entities and purchases, as a parent entity or through
+another entity that the entity completely or partially owns or controls, a direct or indirect
+ownership share of a health care provider, provider organization or management services
+Page 2 - 132LR3022(03)
+
+organization, except that "private equity company" does not include venture capital entities
+exclusively funding start-ups or other early-stage businesses.
+11. Provider organization. "Provider organization" means any corporation,
+partnership, business trust, association or organized group of persons that is in the business
+of health care delivery or management, whether incorporated or not, that represents one or
+more health care providers in contracting with carriers for the payment of health care
+services. "Provider organization" includes, but is not limited to, physician organizations,
+physician-hospital organizations, independent practice associations, health care provider
+networks, accountable care organizations and management services organizations and any
+other organization that contracts with carriers for payment for health care services.
+§372. Review of proposed material change transactions
+1. Notice. This subsection governs notice regarding material change transactions.
+A. A health care entity shall, before completing any material change transaction, file
+written notice, as provided in paragraph B, with the department not fewer than 180
+days before the date of the proposed material change transaction.
+B. The notice of the proposed material change transaction must include:
+(1) A list of the parties, the terms of the proposed transaction and copies of all
+transaction agreements between any of the parties;
+(2) A statement describing the goals of the proposed transaction and whether and
+how the proposed transaction affects health care services in the State;
+(3) The geographic service area of any hospital affected by the proposed
+transaction;
+(4) A description of the groups or individuals likely to be affected by the
+transaction; and
+(5) A summary of the health care services currently provided by any of the parties
+and any health care services that will be added, reduced or eliminated, including
+an explanation of why any services will be reduced or eliminated in the service
+area in which they are currently provided.
+C. All the information provided by the submitter as part of the notice under this
+subsection is public unless the submitter requests that the information be designated as
+confidential and the department determines that it contains proprietary information, in
+which case it is confidential. The department may not disclose confidential
+information that is obtained under this chapter in relation to a material change
+transaction, except that the department may exchange confidential information with
+the Office of Affordable Health Care, established under Title 5, section 3122,
+subsection 1, necessary for the office to exercise its authority under this chapter and
+may disclose information in accordance with subsection 3, paragraph D. For purposes
+of this section, "proprietary information" means information that is a trade secret or
+production, commercial or financial information the disclosure of which would impair
+the competitive position of the health care entity and would make available information
+that is not otherwise public.
+Page 3 - 132LR3022(03)
+
+D. Within 10 days of receiving written notice of a material change transaction, the
+department shall post on its publicly accessible website information about the material
+change transaction, including:
+(1) A summary of the proposed transaction, including the identities of the parties
+to the transaction;
+(2) An explanation of the groups or individuals likely to be affected by the
+transaction;
+(3) Information about services currently provided by the health care entity,
+commitments made by the health care entity to continue such services and any
+services to be reduced or eliminated;
+(4) Details about any public hearings and how to submit comments; and
+(5) Any other information from the notice and other materials submitted by the
+health care entity that the department determines would be in the public interest,
+except for materials designated confidential under paragraph C.
+E. For purposes of calculating time periods pursuant to this subsection, notice is
+considered received on the first business day after the department determines that
+notice is complete.
+2. Preliminary review. This subsection governs preliminary reviews of material
+change transactions.
+A. Within 60 days after receiving a notice described in subsection 1, the department,
+in consultation with the Office of Affordable Health Care, shall:
+(1) Approve the material change transaction and notify the health care entity in
+writing that a comprehensive review is not required for the material change
+transaction;
+(2) Approve the material change transaction subject to conditions set by the
+department and notify the health care entity in writing of the conditions under
+which the material change transaction may be completed; or
+(3) Notify the health care entity in writing that the transaction is subject to a
+comprehensive review. The department may request additional information
+necessary to perform a comprehensive review under subsection 3.
+B. A comprehensive review under subsection 3 is required when any of the following
+applies to the material change transaction:
+(1) The material change transaction will result in the transfer of assets valued over
+$100,000,000;
+(2) The material change transaction will lessen competition, including through the
+effects of vertical or cross-market transactions among different product or
+geographic markets; and
+(3) The department, at its sole discretion, determines that the material change
+transaction is likely to have a material impact on the cost, quality or equity of or
+access to health care services in any region in the State.
+Page 4 - 132LR3022(03)
+
+C. This section does not limit or infringe upon the existing authority of any state
+agency, including the department, the Department of Professional and Financial
+Regulation and the Department of the Attorney General, to review any transactions.
+D. The department shall review a proposed material change transaction under this
+chapter concurrently with any review required pursuant to chapter 103-A.
+3. Comprehensive review process. This subsection governs the comprehensive
+review process for material change transactions.
+A. No later than 90 days after determining a material change transaction is subject to
+a comprehensive review pursuant to subsection 2, paragraph B, the department shall
+conduct one or more public hearings or public meetings, one of which must be in the
+county in which the health care entity is located, to hear comments from interested
+parties.
+B. At the department's request, the Office of Affordable Health Care shall review the
+material change transaction's cost and market impact. The review may examine factors
+relating to the proposed transaction and the transacting parties and their relative market
+positions, including, but not limited to:
+(1) The quality of the services provided by any health care provider party to the
+transaction, including patient experience;
+(2) Consumer concerns, including, but not limited to, complaints or other
+allegations that the health care provider or provider organization has engaged in
+any unfair method of competition or any unfair or deceptive act or practice;
+(3) The role of the transacting parties in serving at-risk, underserved and
+government payer patient populations;
+(4) The prices charged by either of the transacting parties for health care services,
+including their relative prices compared to others' prices for the same health care
+services in the same geographic area;
+(5) The cost and cost trends of the health care entity in comparison to total health
+care expenditures statewide;
+(6) The impact of the transaction on the clinical workforce, including wages,
+working conditions, staffing levels, supply, patient access and continuity of
+patient-care relationships;
+(7) The impact of a real estate sale or lease agreement on the financial condition
+of the health care entity and its ability to maintain patient care operations, including
+the impact of a sale and leaseback arrangement if the main campus of the health
+care entity is leased from a real estate investment trust;
+(8) The market share of any transacting party and the likely effects of the
+transaction on competition;
+(9) Any previous transaction involving either transacting party, including, but not
+limited to, acquisitions or mergers of similar health care providers, whether or not
+in the same state;
+(10) The debt-to-equity ratio of the health care entity following the transaction;
+Page 5 - 132LR3022(03)
+
+(11) The availability and accessibility of health care services similar to those
+provided, or proposed to be provided, through the health care provider or provider
+organization within its primary service areas and dispersed service areas;
+(12) The impact of the material change transaction on competing options for the
+delivery of health care services within the health care provider's or provider
+organization's primary service areas and dispersed service areas;
+(13) The role of the transacting parties in providing low-margin or negative-margin
+services within their respective primary service areas and dispersed service areas;
+(14) The parties' compliance with prior conditions and legal requirements related
+to competitive conduct, including without limitation compliance with reporting
+requirements regarding health care entity ownership and control under section
+8710-A and compliance with the laws and regulations of other states in which the
+parties operate; and
+(15) Any other factors that the Office of Affordable Health Care determines to be
+in the public interest.
+C. The department and the Office of Affordable Health Care may request additional
+information or documents from the transacting parties necessary to conduct the review
+of the material change transaction's cost and market impact. Failure to respond or
+insufficient responses to requests for information by transacting parties may result in
+the extension of the deadline for the office to complete the review or the imposition of
+conditions for approval or the disapproval of the material change transaction under
+subsection 4.
+D. Proprietary information and documents obtained by the department and the Office
+of Affordable Health Care under this chapter and the work product of the office is
+confidential, except that the department and the office may disclose confidential
+information or documents:
+(1) With the consent of the party that produced the information or documents; or
+(2) To an expert or consultant under contract with the State to review the proposed
+material change transaction, as long as the expert or consultant maintains the
+confidentiality of the information or documents in accordance with this paragraph.
+E. The department or the Office of Affordable Health Care may, in its sole discretion:
+(1) Contract with, consult and receive advice from any state agency, including
+other offices of the department, the Department of Professional and Financial
+Regulation, the Maine Health Data Organization established in section 8703, the
+Maine Quality Forum established in Title 24-A, section 6951 or any other state
+agency, on those terms and conditions that the department or the office considers
+appropriate; and
+(2) Contract with experts or consultants to assist in reviewing the proposed material
+change transaction.
+Notwithstanding Title 5, chapter 155 or any other provision of law to the contrary,
+agreements and contracts entered into pursuant to this chapter are not subject to the
+competitive bid requirements of the Chief Procurement Officer.
+Page 6 - 132LR3022(03)
+
+F. Not more than 150 days after receiving the request under paragraph B, the Office
+of Affordable Health Care shall produce a report on its review of the material change
+transaction's cost and market impact report containing the findings and conclusions of
+the review as long as the health care entity has complied with the requests for
+information or documents pursuant to this section within 21 days of the request or by
+a later date set by mutual agreement of the health care entity and the office. The report
+must be posted publicly and may not disclose confidential information.
+G. The department may charge costs to the transacting parties for all actual, reasonable
+and direct costs incurred in reviewing, evaluating and making the determination
+referred to in this section, including, without limitation, administrative costs, costs
+incurred by the Office of Affordable Health Care and costs of contracted experts or
+consultants.
+4. Approval authority. This subsection governs the department's approval authority.
+A. The department may approve, conditionally approve or disapprove of any material
+change transaction for which the department receives notice under subsection 1. Any
+conditions imposed pursuant to this section must specify a time period for compliance,
+an expiration date or that the condition applies indefinitely.
+B. The department shall inform the health care entity of the determination under
+paragraph A within 60 days of notice under subsection 1 or, in the case of
+comprehensive review, within 60 days of the department's receiving the report of the
+completed review of the material change transaction's cost and market impact from the
+Office of Affordable Health Care. A proposed material change transaction may not be
+completed before the department has informed the health care entity of the
+determination.
+C. In making the determination pursuant to paragraph A, the department may consider
+any factors that the department considers relevant, including, but not limited to, the
+likely impact, as described in the cost and market impact review report when
+applicable, of the material change transaction on:
+(1) Health care costs, prices and affordability;
+(2) The availability or accessibility of health care services to the affected
+individuals and groups;
+(3) The potential effects of the transaction on health outcomes, quality, access,
+equity or workforce for residents of this State or the potential loss or change in
+access to essential health care services;
+(4) Health care provider cost trends and containment of total state health care
+spending;
+(5) Access to health care services in medically underserved areas;
+(6) Rectifying historical problems and contemporary factors contributing to a lack
+of health equity or access to health care services;
+(7) The functioning and competitiveness of the markets for health care and health
+insurance;
+Page 7 - 132LR3022(03)
+
+(8) Whether the transaction is contrary to or violates any applicable law, including,
+without limitation, state antitrust laws, laws restricting the corporate practice of
+medicine and consumer protection laws;
+(9) Whether the benefits of the transaction are likely to outweigh the
+anticompetitive effects from the transaction; and
+(10) Whether the transaction is in the public interest.
+D. This subsection does not limit or alter any authority of the Attorney General or any
+state agency to enforce any other law, including state or federal antitrust law, or to
+review nonprofit transactions.
+5. Post-transaction oversight. This subsection governs post-transaction oversight.
+A. This paragraph governs enforcement by the Attorney General.
+(1) The Attorney General may subpoena any records necessary to enforce any
+provision of this chapter or to investigate suspected violations of any provision of
+this chapter or any condition imposed by conditional approval pursuant to
+subsection 4.
+(2) The Attorney General may enforce any requirement of this chapter and any
+conditions imposed by a conditional approval pursuant to subsection 4 to the fullest
+extent provided by law, including damages. In addition to any legal remedies the
+Attorney General may have, the Attorney General is entitled to specific
+performance, injunctive relief and other equitable remedies a court considers
+appropriate for any violation or imminent violation of any requirement of this
+chapter or breach of any of the conditions and is entitled to recover attorney's fees
+and costs incurred in remedying each violation.
+(3) This subsection does not narrow, abrogate or otherwise alter the authority of
+the Attorney General to prosecute violations of antitrust or consumer protection
+requirements.
+B. This paragraph governs enforcement by the department.
+(1) The department may audit the books, documents, records and data of any entity
+that is subject to a conditional approval under subsection 4 to monitor compliance
+with the conditions.
+(2) Any entity that violates any provision of this chapter, any rules adopted
+pursuant to this chapter or any condition imposed pursuant to a conditional
+approval under subsection 4 is subject to an administrative penalty of $10,000 per
+day in violation of this chapter. The department may hold these funds in a special
+revenue account that may be used only to support material change transaction
+reviews, such as for hiring expert analysts on a short-term consulting basis.
+(3) The department may refer any entity to the Attorney General to review for
+enforcement of any noncompliance with this chapter and any conditions imposed
+by conditional approval pursuant to subsection 4.
+(4) In order to effectively monitor ongoing compliance with the terms and
+conditions of any material change transaction subject to prior notice, approval or
+conditional approval under this chapter, the department may, in its sole discretion,
+Page 8 - 132LR3022(03)
+
+conduct a review or audit and may contract with experts and consultants to assist
+in this regard.
+(5) One year, 2 years and 5 years following the completion of the material change
+transaction approved or conditionally approved by the department after a
+comprehensive review under subsection 3, and at future intervals determined at the
+discretion of the department, the health care entity or the person, corporation or
+partnership or any other entity that acquired direct or indirect control over the
+health care entity shall submit reports to the department that:
+(a) Demonstrate compliance with conditions placed on the transaction, if any;
+(b) Analyze cost trends and cost growth trends of the parties to the transactions;
+and
+(c) Analyze any changes or effects of the transaction on patient access,
+availability of services, workforce, quality or equity.
+C. The department may charge costs to the transacting parties for all actual, reasonable
+and direct costs incurred in monitoring ongoing compliance with the terms and
+conditions of the material change transaction, including contractor and administrative
+costs.
+6. Assessment. The department shall adopt rules setting minimum and maximum
+filing fees under this chapter. Initial fees may not be less than $2,000 nor more than
+$10,000. In addition to rules regarding filing fees, the department shall adopt rules to
+establish reasonable and necessary fees to carry out the provisions of this chapter. When
+filing written notice pursuant to subsection 1, paragraph A, the health care entity shall pay
+a nonrefundable filing fee pursuant to this subsection. All fees received by the department
+under this subsection must be placed in a separate, nonlapsing account to be used in
+accordance with this chapter. The department shall hold these funds in a special revenue
+account that may be used only to support staff positions and other expenses necessary to
+administer this section.
+7. Exemption. Notwithstanding any other provision of this chapter to the contrary,
+this section does not apply to an independent provider organization, without any ownership
+or control entities, consisting of 6 or fewer individual providers that experience a material
+change transaction.
+§373. Rulemaking
+The department may, after notice and hearing pursuant to Title 5, chapter 375,
+subchapter 2, adopt rules to carry out this chapter. Rules adopted pursuant to this section
+are major substantive rules pursuant to Title 5, chapter 375, subchapter 2-A.
+Sec. 2. 22 MRSA §8710-A is enacted to read:
+§8710-A. Ownership and control of health care entities
+1. Definitions. For the purposes of this section, unless the context otherwise indicates,
+all terms have the same meanings as in section 371 and "affiliate" means:
+A. A person, entity or organization that directly, indirectly or through one or more
+intermediaries controls, is controlled by or is under common control or ownership with
+another person, entity or organization;
+Page 9 - 132LR3022(03)
+
+B. A person whose business is operated under a lease, management or operating
+agreement by another entity or a person substantially all of whose property is operated
+under a management or operating agreement with that other entity;
+C. An entity that operates the business or substantially all the property of another entity
+under a lease, management or operating agreement; or
+D. Any out-of-state operations and corporate affiliates of an affiliate as defined in
+paragraph A, B or C, including significant equity investors, real estate investment trusts
+and management services organizations.
+2. Reporting of ownership and control of health care entities. A health care entity
+shall report to the organization once no later than July 1, 2027 and subsequently upon the
+completion of a material change transaction involving the health care entity in a form and
+manner required by the organization the following information:
+A. The legal name of the health care entity;
+B. The business address of the health care entity;
+C. Locations of operations of the health care entity;
+D. The business identification numbers of the health care entity, as applicable,
+including:
+(1) Taxpayer identification number;
+(2) National provider identifier;
+(3) Employer identification number; and
+(4) United States Department of Health and Human Services, Centers for Medicare
+and Medicaid Services certification number;
+E. The name and contact information of a representative of the health care entity;
+F. A current organizational chart showing the business structure of the health care
+entity, including affiliates and subsidiaries; and
+G. For a health care entity that is a hospital:
+(1) The affiliated health care providers identified by name, license type, specialty,
+national provider identifier and any other applicable identification number
+described in paragraph D; the address of the principal practice location; and
+whether the affiliated health care provider is employed or contracted by the health
+care entity; and
+(2) The name and address of affiliated health care facilities by license number,
+license type and capacity in each major service area.
+3. Exceptions. The following health care entities are exempt from the reporting
+requirements under subsection 2:
+A. A health care entity that is an independent provider organization, without any
+ownership or control entities, consisting of 6 or fewer individual providers; and
+B. A health care provider or provider organization that is owned or controlled by
+another health care entity, if the health care provider or provider organization is shown
+in the organizational chart submitted under subsection 2, paragraph F and the
+Page 10 - 132LR3022(03)
+
+controlling health care entity reports all the information required under subsection 2 on
+behalf of the controlled or owned entity, except that health care facilities are not subject
+to this exception.
+4. Sharing of ownership information to improve transparency. This subsection
+governs the sharing of ownership information to improve transparency.
+A. Information provided under this subsection is public information and may not be
+considered confidential, proprietary or a trade secret, except that any individual health
+care provider's taxpayer identification number that is also their social security number
+and any business identification number of a health care entity listed in subsection 2,
+paragraph D is confidential.
+B. No later than January 1, 2029 and annually thereafter, the organization shall post
+on a publicly accessible website a report with respect to the previous one-year period,
+including:
+(1) The number of health care entities reporting for that previous one-year period,
+disaggregated by the business structure of each specified health care entity;
+(2) The name, address and business structure of any health care entity;
+(3) Any change in ownership or control for each health care entity;
+(4) In accordance with paragraph A, any change in the tax identification number
+of a health care entity; and
+(5) As applicable in accordance with subsection 2, paragraph G, the name, address,
+tax identification number and business structure of affiliates and subsidiaries of a
+health care entity that is a hospital, including the business type and the tax
+identification number of each.
+C. The organization may share information reported under this section with the Office
+of Affordable Health Care, the Attorney General, other state agencies and other state
+officials to reduce or avoid duplication in reporting requirements or to facilitate
+oversight or enforcement pursuant to the laws of the State, except that any tax
+identification numbers that are individual social security numbers may be shared only
+with other state agencies or other state officials that agree to maintain the
+confidentiality of such information.
+Sec. 3. Effective date. This Act takes effect January 1, 2027.
+Page 11 - 132LR3022(03)

@@ -1,0 +1,312 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-950)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2110
+2 Date: (Filing No. H- )
+3 LABOR
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1425, L.D. 2110, “An Act to Update
+10 Employer Substance Use Testing Policy Requirements”
+11 Amend the bill in section 5 in the first blocked paragraph in the first line (page 1, line
+12 23 in L.D.) by striking out the following: "A" and inserting the following: 'A With the
+13 approval of the Department of Labor, a'
+14 Amend the bill in section 6 in subsection 8 in paragraph C by striking out all of the last
+15 sentence (page 2, lines 2 to 4 in L.D.) and inserting the following: 'To qualify for the
+16 limitation under this paragraph, the employer must have at least one employee located in
+17 the State for whom substance use testing is federally mandated, and the employer, in
+18 conducting any substance use testing of applicants or employees for whom substance use
+19 testing is not federally mandated, shall follow the same federal regulations applicable to
+20 the testing of employees for whom substance use testing is federally mandated.'
+21 Amend the bill by striking out all of section 7 and inserting the following:
+22 'Sec. 7. 26 MRSA §682, sub-§1-A is enacted to read:
+23 1-A. Criteria-based testing. "Criteria-based testing" or "criteria-based," with respect
+24 to substance use testing, means that the frequency of substance use testing and the selection
+25 of persons being tested are based on a set event, such as an employment anniversary or
+26 promotion. "Criteria-based testing" includes client-required or site-specific testing based
+27 on criteria unrelated to substance use, such as when a client requires testing prior to work
+28 on a project or specific site.'
+29 Amend the bill by striking out all of section 9 and inserting the following:
+30 'Sec. 9. 26 MRSA §682, sub-§3-B is enacted to read:
+31 3-B. Legitimate medical explanation. "Legitimate medical explanation" means an
+32 explanation provided by an employee that justifies a confirmed positive result on a test for
+33 a tested-for substance. "Legitimate medical explanation" includes:
+Page 1 - 132LR2789(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1425, L.D. 2110
+1 A. Use of a controlled substance with a valid prescription, prescribed for a legitimate
+2 medical purpose in a quantity appropriate for the condition and expected duration with
+3 levels consistent with prescribed amounts; or
+4 B. Legal use of cannabis pursuant to the Maine Medical Use of Cannabis Act.'
+5 Amend the bill by striking out all of sections 12 and 13 and inserting the following:
+6 'Sec. 12. 26 MRSA §682, sub-§5-A is enacted to read:
+7 5-A. Observable behavior. "Observable behavior" means observable physical,
+8 behavioral or psychological signs that can be seen, heard, smelled or otherwise observed
+9 that provide a reasonable suspicion that an employee is impaired by substance use,
+10 including signs regarding appearance, behavior, speech or odor that are usually associated
+11 with substance use.
+12 Sec. 13. 26 MRSA §682, sub-§5-B is enacted to read:
+13 5-B. Random testing. "Random testing" or "random" means a neutral selection
+14 method by which all employees have an equal chance of being selected for substance use
+15 testing.
+16 Sec. 14. 26 MRSA §682, sub-§6, as amended by PL 2017, c. 407, Pt. A, §106, is
+17 further amended to read:
+18 6. Probable cause Reasonable suspicion. "Probable cause Reasonable suspicion"
+19 means a reasonable ground for belief in the existence of facts that induce a person to believe
+20 specific and articulable facts that, taken together with rational inferences from those facts,
+21 reasonably support the belief that an employee may be under the influence of a substance,
+22 provided except that the existence of probable cause reasonable suspicion may not be based
+23 exclusively on any of the following:
+24 A. Information received from an anonymous informant;
+25 B. Any information tending to indicate that an employee may have possessed or used
+26 a substance off duty, except when the employee is observed possessing or ingesting
+27 any substance either while on the employer's premises or in the proximity of the
+28 employer's premises during or immediately before the employee's working hours; or
+29 C. A single work-related accident without the employee also exhibiting observable
+30 behavior indicating impairment at the time of the accident.'
+31 Amend the bill in section 15 in subsection 2 in paragraph B in subparagraph (1) in the
+32 2nd line (page 4, line 2 in L.D.) by striking out the following: "arbitrary" and inserting the
+33 following: 'arbitrary criteria-based'
+34 Amend the bill in section 15 in subsection 2 in paragraph B in subparagraph (2) in the
+35 last line (page 4, line 6 in L.D.) by striking out the following: "arbitrary" and inserting the
+36 following: 'arbitrary criteria-based'
+37 Amend the bill by striking out all of sections 16 and 17 and inserting the following:
+38 'Sec. 16. 26 MRSA §683, sub-§5, ¶B, as amended by PL 2019, c. 627, Pt. B, §7;
+39 PL 2021, c. 669, §5; and PL 2025, c. 316, §3, is further amended to read:
+40 B. In the case of an employee, have a blood sample taken from the employee by a
+41 licensed physician, licensed physician associate, or registered nurse or a other person
+Page 2 - 132LR2789(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1425, L.D. 2110
+412 certified by the Department of Health and Human Services trained and qualified to
+423 draw blood samples. The employer shall have this sample tested for the presence of
+434 alcohol or cannabis metabolites, if those substances are to be tested for under the
+445 employer's written policy. If the employee requests that a blood sample be taken as
+456 provided in this paragraph, the employer may not test any other sample from the
+467 employee for the presence of these substances. The employer shall ensure that the
+478 testing facility and confirmation testing laboratory used by the employer accepts and
+489 has the ability to test blood samples.
+9 (1) The Department of Health and Human Services may identify, by rules adopted
+10 under section 687, other substances for which an employee may request that a
+11 blood sample, instead of a urine sample, be tested instead of a urine sample if the
+12 department determines that a sufficient correlation exists between the presence of
+13 the substance in an individual's blood and its effect upon the individual's
+14 performance.
+15 (2) An employer may not require, request or suggest that any employee or
+16 applicant provide a blood sample for substance use testing purposes nor may any
+17 employer conduct a substance use test upon a blood sample except as provided in
+18 this paragraph.
+19 (3) Applicants do not have the right to require the employer to test a blood sample
+20 as provided in this paragraph.'
+21 Amend the bill by striking out all of section 19 and inserting the following:
+22 'Sec. 19. 26 MRSA §683, sub-§6, as amended by PL 2017, c. 407, Pt. A, §107, is
+23 further amended to read:
+24 6. Qualified testing laboratories required. An Except as provided in subsection
+25 5-A, an employer may not administer or perform any screening tests or substance use test
+26 administered tests to any of that employer's employees. An employer may perform
+27 screening tests administered to applicants if the employer's testing facilities unless the
+28 employer's testing facilities comply with the requirements for testing laboratories under
+29 this subsection. Except as provided in subsection 5‑A, any substance use test administered
+30 under this subchapter must be performed in a qualified testing laboratory that complies
+31 with a qualified testing laboratory under this subsection.
+32 B. The laboratory must have written testing procedures and procedures to ensure a
+33 clear chain of custody.
+34 C. The laboratory must demonstrate satisfactory performance in the proficiency testing
+35 program of the National Institute on Drug Abuse, the College of American Pathology
+36 Pathologists or the American Association for Clinical Chemistry Diagnostics and
+37 Laboratory Medicine or a successor organization.
+38 D. The laboratory must comply with rules adopted by the Department of Health and
+39 Human Services under section 687. These rules must ensure that:
+40 (1) The laboratory possesses all licenses or certifications that the department finds
+41 necessary or desirable to ensure reliable and accurate test results;
+42 (2) The laboratory follows proper quality control procedures, including, but not
+43 limited to:
+Page 3 - 132LR2789(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1425, L.D. 2110
+1 (a) The use of internal quality controls during each substance use test
+2 conducted under this subchapter, including the use of blind samples and
+3 samples of known concentrations that are used to check the performance and
+4 calibration of testing equipment;
+5 (b) The internal review and certification process for test results, including the
+6 qualifications of the person who performs that function in the testing
+7 laboratory; and
+8 (c) Security measures implemented by the testing laboratory; and
+9 (3) Other necessary and proper actions are taken to ensure reliable and accurate
+10 test results.'
+11 Amend the bill in section 20 in subsection 7 in the 4th line (page 8, line 18 in L.D.) by
+12 inserting after the following: "positive" the following: 'a'
+13 Amend the bill in section 20 in subsection 7 in the 4th line (page 8, line 18 in L.D.) by
+14 inserting after the following: "non-negative" the following: 'test result'
+15 Amend the bill by striking out all of sections 21 to 23 and inserting the following:
+16 'Sec. 21. 26 MRSA §683, sub-§7-A is enacted to read:
+17 7-A. Medical review officer. A medical review officer must have knowledge and
+18 clinical experience of controlled substance use disorders and be knowledgeable in
+19 deviations of substance use testing specimens and causes of invalid testing results. The
+20 medical review officer shall act independently in carrying out any testing reviews pursuant
+21 to this section.
+22 Sec. 22. 26 MRSA §683, sub-§8, ¶A, as amended by PL 2017, c. 407, Pt. A, §107,
+23 is further amended by amending subparagraph (2) to read:
+24 (2) Any confirmed positive results on any tested sample.
+25 (a) Unless the employee or applicant consents, test results may not be reported
+26 in numerical or quantitative form but must state only that the test result was
+27 positive a confirmed positive result, with or without a legitimate medical
+28 explanation, or negative. This division does not apply if the test or the test
+29 results become result becomes the subject of any grievance procedure,
+30 administrative proceeding or civil action.
+31 (b) A testing laboratory and the employer shall ensure that an employee's
+32 unconfirmed positive screening non-negative test result on a screening test
+33 cannot be determined by the employer in any manner, including, but not
+34 limited to, the method of billing the employer for the tests performed by the
+35 laboratory and the time within which results are provided to the employer.
+36 This division does not apply to test results for applicants;
+37 Sec. 23. 26 MRSA §683, sub-§8, ¶B, as amended by PL 1989, c. 832, §9, is further
+38 amended to read:
+39 B. The employer shall promptly notify the employee or applicant tested of the test
+40 result. Upon request of an employee or applicant, the employer shall promptly provide
+41 a legible copy of the laboratory report to the employee or applicant. Within 3 working
+Page 4 - 132LR2789(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1425, L.D. 2110
+412 days after notice of a confirmed positive test result, the employee or applicant may
+423 submit information to the employer explaining or contesting the results.
+3 Sec. 24. 26 MRSA §683, sub-§8, ¶B-1 is enacted to read:
+4 B-1. An applicant or employee must be given the opportunity to contest a non-negative
+5 test result by discussing with the medical review officer or confirmation testing
+6 laboratory representative any legitimate medical explanation for the non-negative test
+7 result. If the medical review officer or laboratory representative determines that there
+8 is a legitimate medical explanation for the non-negative test result, the result must be
+9 reported to the employer as a confirmed positive result with a legitimate medical
+10 explanation. If the medical review officer or laboratory representative determines that
+11 there is no legitimate medical explanation for the non-negative test result, the result
+12 must be reported to the employer as a confirmed positive result.
+13 Sec. 25. 26 MRSA §683, sub-§8, ¶D, as amended by PL 2017, c. 407, Pt. A, §107,
+14 is further amended to read:
+15 D. Every employer whose policy is approved by the Department of Labor under
+16 section 686 shall annually send to the department a compilation of the results of all
+17 substance use tests administered by that employer in the previous calendar year. This
+18 report must provide separate categories for employees and applicants and must be
+19 presented in statistical form so that no person who was tested by that employer can be
+20 identified from the report. The report must include a separate category for any tests
+21 conducted on a random or arbitrary criteria-based basis under section 684, subsection
+22 3.'
+23 Amend the bill by striking out all of section 26 and inserting the following:
+24 'Sec. 26. 26 MRSA §684, sub-§3, as amended by PL 2017, c. 407, Pt. A, §108, is
+25 further amended to read:
+26 3. Random or arbitrary criteria-based testing of employees. In addition to testing
+27 employees on a probable cause reasonable suspicion basis under subsection 2, an employer
+28 may require, request or suggest that an employee submit to a substance use test on a random
+29 or arbitrary criteria-based basis if:
+30 A. The employer and the employee have bargained for provisions in a collective
+31 bargaining agreement, either before or after the effective date of this subchapter
+32 September 30, 1989, that provide for random or arbitrary criteria-based testing of
+33 employees. A random or arbitrary criteria-based testing program that would result
+34 from implementation of an employer's last best offer is not considered a provision
+35 bargained for in a collective bargaining agreement for purposes of this section;
+36 B. The employee works in a position the nature of which would create an unreasonable
+37 threat to the health or safety of the public or the employee's coworkers if the employee
+38 were under the influence of a substance. It is the intent of the Legislature that the
+39 requirements of this paragraph be narrowly construed; or
+40 C. The employer has established a random or arbitrary criteria-based testing program
+41 under this paragraph that applies to all employees, except as provided in subparagraph
+42 (4), regardless of position.
+Page 5 - 132LR2789(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1425, L.D. 2110
+1 (1) An employer may establish a testing program under this paragraph only if the
+2 employer has 50 or more employees who are not covered by a collective bargaining
+3 agreement.
+4 (2) The written policy required by section 683, subsection 2 with respect to a
+5 testing program under this paragraph must be developed by a committee of at least
+6 10 of the employer's employees. The employer shall appoint members to the
+7 committee from a cross-section of employees who are eligible to be tested. The
+8 committee must include a medical professional who is trained in procedures for
+9 testing for substances. If no such person is employed by the employer, the
+10 employer shall obtain the services of such a person to serve as a member of the
+11 committee created under this subparagraph.
+12 (2-A) An employer may establish a testing program under this paragraph if the
+13 employer is required to test employees to retain a contract.
+14 (3) The written policy developed under subparagraph (2) required by section 683,
+15 subsection 2 must also require that selection of employees for testing be performed
+16 by a person or entity not subject to the employer's influence, such as a medical
+17 review officer. Selection must be made from a list, provided by the employer, of
+18 all employees subject to testing under this paragraph. The list may not contain
+19 information that would identify the employee to the person or entity making the
+20 selection.
+21 (4) Employees who are covered by a collective bargaining agreement are not
+22 included in testing programs pursuant to this paragraph unless they agree to be
+23 included pursuant to a collective bargaining agreement as described under
+24 paragraph A.
+25 (5) Before initiating a testing program under this paragraph, the employer shall
+26 obtain from the Department of Labor approval of the policy developed by the
+27 employee committee, as required in section 686. If the employer does not approve
+28 of the written policy developed by the employee committee, the employer may
+29 decide not to submit the policy to the department and not to establish the testing
+30 program. The employer may not change the written policy without approval of the
+31 employee committee.
+32 (6) The employer may not discharge, suspend, demote, discipline or otherwise
+33 discriminate with regard to compensation or working conditions against an
+34 employee for participating or refusing to participate in an employee committee
+35 created pursuant to this paragraph.'
+36 Amend the bill in section 34 in subparagraph (3) in division (a) in the 2nd line (page
+37 12, line 43 in L.D.) by striking out the following: "arbitrary" and inserting the following:
+38 'arbitrary criteria-based'
+39 Amend the bill in section 34 in subparagraph (3) in division (a) in the 15th line (page
+40 13, line 12 in L.D.) by striking out the following: "test" and inserting the following: 'test'
+41 Amend the bill by inserting after section 34 the following:
+42 'Sec. 35. 26 MRSA §686, sub-§1, ¶B, as enacted by PL 1989, c. 536, §§1 and 2
+43 and affected by c. 604, §§2 and 3, is amended to read:
+Page 6 - 132LR2789(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1425, L.D. 2110
+1 B. The department may request additional information from an employer when
+2 necessary to determine whether an employment position meets the requirements of
+3 section 684, subsection 3. The department shall may not approve any written policy
+4 that provides for random or arbitrary criteria-based testing of any employment position
+5 that the employer has failed to demonstrate meets the requirements of section 684,
+6 subsection 3.'
+7 Amend the bill in section 35 in paragraph B-1 in the first line (page 13, line 27 in L.D.)
+8 by striking out the following: "chooses" and inserting the following: 'intends'
+9 Amend the bill in section 35 in paragraph B-1 in the 3rd line (page 13, line 29 in L.D.)
+10 by inserting before the following: "effective" the following: 'anticipated'
+11 Amend the bill by inserting after section 36 the following:
+12 'Sec. 37. 26 MRSA §690, sub-§3, as amended by PL 2017, c. 407, Pt. A, §113, is
+13 further amended to read:
+14 3. Random or arbitrary criteria-based testing. Indicate those employers whose
+15 substance use testing policies permit random or arbitrary criteria-based testing under
+16 section 684, subsection 3, and describe the employment positions subject to such random
+17 or arbitrary criteria-based testing;'
+18 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+19 number to read consecutively.
+20 SUMMARY
+2211 This amendment:
+22 1. Clarifies that authorization from the Department of Labor is required for any
+23 substance use testing program;
+24 2. Clarifies that an employer who is subject to federal substance use testing
+25 requirements must test any nonfederally mandated employees in the same manner as its
+26 federally mandated employees;
+27 3. Replaces the term "arbitrary" with "criteria-based testing";
+28 4. Clarifies the definitions of "legitimate medical explanation" and "observable
+29 behavior";
+30 5. Provides a definition of "random testing";
+31 6. Clarifies that an employer may not perform a substance use test on its employees
+32 unless its facilities comply with the requirements for a qualified testing laboratory; and
+33 7. Makes a number of technical changes.
+3344 FISCAL NOTE REQUIRED
+3355 (See attached)
+Page 7 - 132LR2789(02)
+COMMITTEE AMENDMENT

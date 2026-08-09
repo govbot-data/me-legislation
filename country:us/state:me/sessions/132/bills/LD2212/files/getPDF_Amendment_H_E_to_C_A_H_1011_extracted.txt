@@ -1,0 +1,197 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-E to C-A (H-1011)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2212
+2 Date: (Filing No. H- )
+3 Reproduced and distributed under the direction of the Clerk of the House.
+4 STATE OF MAINE
+5 HOUSE OF REPRESENTATIVES
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1491,
+9 L.D. 2212, “An Act Making Supplemental Appropriations and Allocations from the
+10 General Fund and Other Funds for the Expenditures of State Government and Changing
+11 Certain Provisions of the Law Necessary to the Proper Operations of State Government for
+12 the Fiscal Years Ending June 30, 2026 and June 30, 2027”
+13 Amend the amendment by inserting after Part HHHH the following:
+14 'PART IIII
+15 Sec. IIII-1. 5 MRSA Pt. 32 is enacted to read:
+16 PART 32
+17 IMMIGRATION INFORMATION SHARING
+18 CHAPTER 641
+19 IMMIGRATION STATUS
+20 §26001. Short title
+21 This chapter may be known and cited as "the Public Safety and Protection Act."
+22 §26002. Definitions
+23 As used in this chapter, unless the context otherwise indicates, the following terms
+24 have the following meanings.
+25 1. Federal immigration agency. "Federal immigration agency" means the United
+26 States Department of Justice, the United States Department of Homeland Security or any
+27 division within either of those departments, including but not limited to United States
+28 Immigration and Customs Enforcement, United States Customs and Border Protection or
+29 any successor agency or any other federal agency charged with the enforcement or
+30 administration of immigration or border control.
+Page 1 - 132LR3049(26)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1491, L.D. 2212
+1 2. Government entity. "Government entity" means a state government entity, state
+2 government entity official, local government entity, local government entity official, law
+3 enforcement agency or law enforcement agency official.
+4 3. Immigration detainer. "Immigration detainer" means a facially sufficient written
+5 or electronic request issued by a federal immigration agency using that agency's official
+6 form to request that another law enforcement agency detain a person based on probable
+7 cause to believe that the person to be detained is a removable alien under federal
+8 immigration law, including detainers issued pursuant to 8 United States Code, Sections
+9 1226 to 1232 and 8 United States Code, Section 1357. For the purposes of this subsection,
+10 an immigration detainer is facially sufficient if:
+11 A. The federal immigration agency's official form is complete and indicates on its face
+12 that the federal immigration agency has probable cause to believe that the person to be
+13 detained is a removable alien under federal immigration law; or
+14 B. The federal immigration agency's official form is incomplete and fails to indicate
+15 on its face that the federal immigration agency has probable cause to believe that the
+16 person to be detained is a removable alien under federal immigration law, but is
+17 supported by an affidavit, order or other official documentation, such as a Form I-200
+18 Warrant for Arrest of Alien or a Form I-205 Warrant of Removal and Deportation, or
+19 a successor warrant or other warrant authorized by federal law, that indicates that the
+20 federal immigration agency has probable cause to believe that the person to be detained
+21 is a removable alien under federal immigration law.
+22 4. Immigration law. "Immigration law" means the laws of this State or federal law
+23 relating to immigrants or immigration, including but not limited to the federal Immigration
+24 and Nationality Act.
+25 5. Inmate. "Inmate" means a person in the custody of a law enforcement agency.
+26 6. Law enforcement agency. "Law enforcement agency" means an agency in the
+27 State charged with enforcement of state, county, municipal or federal laws or with
+28 managing custody of detained persons in the State and includes but is not limited to
+29 municipal police departments; sheriffs' departments; the State Police; if a university or
+30 college has an organized police department, the campus police; and the Department of
+31 Public Safety.
+32 7. Law enforcement agency official. "Law enforcement agency official" means a
+33 person having official duties as a representative, agent or employee of a law enforcement
+34 agency.
+35 8. Local government entity. "Local government entity" means a county, municipality
+36 or other political subdivision of the State.
+37 9. Local government entity official. "Local government entity official" means a
+38 person having official duties as a representative, agent or employee of a local government
+39 entity.
+40 10. State government entity. "State government entity" means a department, agency,
+41 bureau, commission, council or other entity established under the laws of the State.
+Page 2 - 132LR3049(26)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1491, L.D. 2212
+1 11. State government entity official. "State government entity official" means a
+2 person having official duties as a representative, agent or employee of a state government
+3 entity.
+4 §26003. Prohibited practices regarding immigration enforcement
+5 A state government entity, local government entity or law enforcement agency may not
+6 adopt or maintain a law, ordinance, resolution, rule, regulation, policy, directive, order,
+7 practice or procedure, formal or informal, written or unwritten, that prohibits or materially
+8 restricts the state government entity, local government entity or law enforcement agency
+9 from complying with or assisting in the enforcement of immigration law, including, but not
+10 limited to, prohibiting or materially restricting the state government entity, local
+11 government entity or law enforcement agency from prohibiting or otherwise materially
+12 restricting any state government entity, local government entity or law enforcement agency
+13 from assisting in the enforcement of immigration law. This section applies to prohibitions
+14 or restrictions on:
+15 1. Inquiries into status. Inquiries into the immigration status of any person;
+16 2. Information relating to status. Transmitting, requesting or receiving information
+17 relating to immigration status, lawful or unlawful, of any person to or from any federal
+18 immigration agency;
+19 3. Maintaining information. Maintaining, archiving or otherwise storing for
+20 subsequent use information relating to a person's immigration status;
+21 4. Exchanging information. Exchanging information relating to immigration status
+22 with another local government entity or state government entity or a federal immigration
+23 agency;
+24 5. Complying with detainer. Complying with an immigration detainer, including,
+25 but not limited to, refusing to cooperate or comply with a lawfully issued immigration
+26 detainer in the absence of a warrant or other order directing compliance with or
+27 enforcement of such an immigration detainer;
+28 6. Complying with request to notify. Complying with a request from a federal
+29 immigration agency to notify the agency before the release of an inmate;
+30 7. Providing incarceration status. Providing a federal immigration agency with an
+31 inmate's incarceration status or release date;
+32 8. Assisting federal immigration agency. Assisting or cooperating with a federal
+33 immigration agency, including by providing enforcement assistance;
+34 9. Participating in program. Participating in any program or agreement authorized
+35 under the federal Immigration and Nationality Act, 8 United States Code, Section 1357(g);
+36 and
+37 10. Permitting officer to enter jail. Permitting a federal immigration officer to enter
+38 and conduct enforcement activities at a municipal jail, county jail, state prison or other
+39 correctional facility involving or related to the enforcement of federal immigration laws.
+40 §26004. Complaint process; appeals
+41 1. Resident complaints and Legislator requests submitted to Attorney General.
+42 A resident of the State may submit a complaint to the Attorney General asserting a violation
+Page 3 - 132LR3049(26)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1491, L.D. 2212
+413 of section 26003 by a government entity. The complaint must be in writing and in a form
+424 and manner as prescribed by the Attorney General. A member of the Legislature may
+435 request that the Attorney General investigate and issue an opinion as to whether a
+446 government entity has violated section 26003.
+5 2. Attorney General investigation. After receiving a complaint or request under
+6 subsection 1, the Attorney General shall investigate and determine whether a violation of
+7 section 26003 has occurred. If after the investigation the Attorney General determines that
+8 a violation of section 26003 has occurred, the Attorney General shall issue an opinion that
+9 a violation has occurred. The Attorney General shall make the opinion available to the
+10 public.
+11 3. Review of Attorney General findings. If the Attorney General issues an opinion
+12 pursuant to subsection 2 that a government entity has violated section 26003, the
+13 government entity has 30 days from the date the opinion was issued to contest the finding
+14 in Superior Court.
+15 A. If the Superior Court affirms the Attorney General's findings, the court shall
+16 immediately enjoin the policy or practice in violation of section 26003. A government
+17 entity that fails to comply with an injunction is subject to a fine of $500 for each day
+18 the policy or practice of the government entity remains in effect.
+19 B. If the Superior Court overturns the Attorney General's findings, the Attorney
+20 General shall immediately certify that the government entity is in compliance with
+21 section 26003.
+22 §26005. Duty to report
+23 A state government entity official, local government entity official, law enforcement
+24 agency official or person holding public office shall report a violation of section 26003 by
+25 submitting a complaint to the Attorney General pursuant to section 26004, subsection 1. A
+26 person who reports a violation under this section is protected under the federal
+27 Whistleblower Protection Act of 1989.
+28 §26006. Implementation
+29 This chapter must be implemented in a manner consistent with federal laws regulating
+30 immigration, protecting the civil rights of all persons and respecting the privileges and
+31 immunities of citizens of the United States. In complying with the requirements of this
+32 chapter, a government entity may not consider a person's race, color or national origin,
+33 except to the extent permitted by the United States Constitution and the Constitution of
+34 Maine.
+35 Sec. IIII-2. Appropriations and allocations. The following appropriations and
+36 allocations are made.
+37 ATTORNEY GENERAL, DEPARTMENT OF THE
+38 Administration - Attorney General 0310
+39 Initiative: Provides funding for one Assistant Attorney General position, one part-time
+40 Attorney General Detective position and related costs to administer and enforce the
+41 provisions of this legislation.
+42 GENERAL FUND 2025-26 2026-27
+Page 4 - 132LR3049(26)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1491, L.D. 2212
+1 POSITIONS - LEGISLATIVE COUNT 0.000 1.500
+2 Personal Services $0 $272,756
+3 All Other $0 $12,500
+4 __________ __________
+5 GENERAL FUND TOTAL $0 $285,256
+61 '
+7 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+8 section number to read consecutively.
+9 SUMMARY
+1100 This amendment establishes prohibitions concerning restricting the sharing and use of
+1111 immigration and citizenship information. It prohibits restricting the enforcement of federal
+1122 immigration law. It establishes a complaint process and a duty to report violations of these
+1133 provisions.
+1144 SPONSORED BY: ___________________________________
+1155 (Representative SMITH, K.)
+1166 TOWN: Palermo
+Page 5 - 132LR3049(26)
+HOUSE AMENDMENT

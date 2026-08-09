@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-A to C-A (H-1040)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 713
+2 Date: (Filing No. H- )
+3 Reproduced and distributed under the direction of the Clerk of the House.
+4 STATE OF MAINE
+5 HOUSE OF REPRESENTATIVES
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 452,
+9 L.D. 713, “An Act Regarding Taxation”
+10 Amend the amendment in section 4 in paragraph A-1 in the 6th line (page 2, line 9 in
+11 amendment) by striking out the following: "in which electronic equipment" and inserting
+12 the following: 'containing electronic equipment that'
+13 Amend the amendment in section 4 in paragraph A-1 in the 7th line (page 2, line 10 in
+14 amendment) by inserting after the following: "not" the following: 'the performance of'
+15 Amend the amendment in section 5 in paragraph C-1 in the 6th line (page 2, line 19 in
+16 amendment) by striking out the following: "in which electronic equipment" and inserting
+17 the following: 'containing electronic equipment that'
+18 Amend the amendment in section 5 in paragraph C-1 in the 7th line (page 2, line 20 in
+19 amendment) by inserting after the following: "not" the following: 'the performance of'
+20 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+21 section number to read consecutively.
+22 SUMMARY
+2233 This amendment clarifies that a facility does not qualify for the Dirigo business
+2244 incentives program or the business equipment tax exemption if it contains electronic
+2255 equipment used to support a business whose primary business activity is the performance
+2266 of data processing, data storage, cloud computing or similar computing infrastructure
+2277 services.
+2288 SPONSORED BY: ___________________________________
+2299 (Representative SAYRE, D.)
+3300 TOWN: Kennebunk
+Page 1 - 132LR1238(04)
+HOUSE AMENDMENT

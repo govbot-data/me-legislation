@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-948)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2018
+2 Date: (Filing No. H- )
+3 LABOR
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1348, L.D. 2018, “An Act to Amend the
+10 Requirements Governing Self-insurance Plans in the Paid Family and Medical Leave
+11 Benefits Program”
+12 Amend the bill by striking out all of section 1 and inserting the following:
+13 'Sec. 1. 26 MRSA §850-H, sub-§2, ¶A, as enacted by PL 2023, c. 412, Pt. AAA,
+14 §7, is repealed and the following enacted in its place:
+15 A. If the private plan is in the form of self-insurance:
+16 (1) The employer must furnish a bond to the State with a surety company
+17 authorized to transact business in the State, in the form, amount and manner
+18 required by the department;
+19 (2) The department may not allow the pooling of risk among multiple employers;
+20 and
+21 (3) The department shall allow multiple employers to share the cost of legal,
+22 accounting and 3rd-party administrator expenses as long as the arrangements do
+23 not result in pooling of risk;'
+24 Amend the bill in section 4 in paragraph G in the first 2 lines (page 1, lines 19 and 20
+25 in L.D.) by striking out the following: ", financial resources or administration"
+26 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+27 number to read consecutively.
+28 SUMMARY
+2299 This amendment amends the bill. Like the bill, the amendment specifies that, under
+3300 the law governing paid family and medical leave, the Department of Labor, with respect to
+3311 a private plan in the form of self-insurance, may not allow the pooling of risk among
+3322 multiple employers. The amendment amends the bill to require that the department, with
+3333 respect to a private plan in the form of self-insurance, must allow multiple employers to
+Page 1 - 132LR2791(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1348, L.D. 2018
+314 share the costs of legal, accounting and 3rd-party administrator expenses as long as the
+325 arrangements do not result in pooling of risk.
+336 FISCAL NOTE REQUIRED
+347 (See attached)
+Page 2 - 132LR2791(02)
+COMMITTEE AMENDMENT

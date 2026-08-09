@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-A to C-A (S-632)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1908
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to S.P. 749,
+9 L.D. 1908, “An Act to Require the Cooperation of Original Manufacturers of Electronic
+10 Devices to Facilitate the Repair of Those Devices by Device Owners and Independent
+11 Repair Providers”
+12 Amend the amendment in section 1 in c. 247 in §1500-QQ in subsection 5 in the last
+13 line (page 7, line 21 in amendment) by inserting after the following: "Act." the following:
+14 'Notwithstanding Title 5, section 213, an independent repair provider or owner may not
+15 bring an action in Superior Court or District Court for a violation of this section.'
+16 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+17 section number to read consecutively.
+18 SUMMARY
+1199 This amendment provides that an independent repair provider or an owner of digital
+2200 electronic equipment may not bring an action in Superior Court or District Court for a
+2211 violation of the laws governing the right to repair electronic equipment.
+2222 SPONSORED BY: ___________________________________
+2233 (Senator TIPPING, M.)
+2244 COUNTY: Penobscot
+Page 1 - 132LR1519(07)
+SENATE AMENDMENT

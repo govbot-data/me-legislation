@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-835)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2153
+2 Date: (Filing No. H- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1442, L.D. 2153, “An Act to Transfer
+10 the Responsibilities of the Governor's Energy Office to the Department of Energy
+11 Resources”
+12 Amend the bill in Part B in section 1 in subparagraph (2-A) in the first line (page 24,
+13 line 37 in L.D.) by striking out the following: "2033" and inserting the following: '2027'
+14 Amend the bill in Part B by inserting after section 8 the following:
+15 'Sec. B-9. 35-A MRSA §10313, sub-§7, as enacted by PL 2025, c. 476, Pt. A, §16,
+16 is amended by amending the first blocked paragraph to read:
+17 The commission shall approve or reject a contract within 120 calendar days, unless a longer
+18 period is requested by the department. If the commission approves a contract, the
+19 commission shall issue an order directing a transmission and distribution utility to act with
+20 respect to the contract within 120 calendar days, unless a longer period is requested by the
+21 department. If the commission does not approve a contract, the commission may direct
+22 that the contract be amended and resubmitted to the commission for approval.'
+23 Amend the bill in Part B in section 9 in subsection 9 in the last line (page 27, line 5 in
+24 L.D.) by inserting after the following: "disclosed" the following: ', except the department
+25 may share proposals and contract negotiation materials with the commission as necessary
+26 for the commission to approve a contract pursuant to subsection 7 and the department may
+27 make public certain information regarding submitted proposals at the conclusion of a
+28 solicitation, including, but not limited to, the identity of the bidder awarded a contract and
+29 the bid price'
+30 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+31 number to read consecutively.
+32 SUMMARY
+3333 This amendment makes the following changes to the bill.
+Page 1 - 132LR2953(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1442, L.D. 2153
+1 1. It requires the Department of Energy Resources to be subject to a review under the
+2 State Government Evaluation Act in 2027 instead of 2033.
+3 2. It clarifies the period of time in which the Public Utilities Commission must approve
+4 or reject a contract negotiated by the department for a competitive solicitation conducted
+5 by the department.
+6 3. It clarifies the circumstances under which the department may share proposals and
+7 contract negotiation materials that are otherwise confidential.
+88 FISCAL NOTE REQUIRED
+99 (See attached)
+Page 2 - 132LR2953(02)
+COMMITTEE AMENDMENT

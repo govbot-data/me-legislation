@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 658
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 658
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1498 - L.D. 2223
+An Act to Increase Funding for Construction Plan Reviews and Clarify Rule-
+making Authority for Municipal Reviews of Development
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 25 MRSA §2448-A, sub-§2, as amended by PL 2011, c. 94, §3, is further
+amended to read:
+2. Registration. A municipality shall comply with all rules adopted by the
+commissioner pursuant to this section as a condition of registration. The commissioner
+shall register municipalities to grant permits for projects under subsection 1 if the
+commissioner finds that the municipality meets all of the following criteria.
+A. A municipal building official has been appointed pursuant to section 2351‑A.
+B. The municipality has an employee that is certified as a plan reviewer by the National
+Fire Protection Association.
+C. The municipality has adopted by reference the fire codes adopted by the Office of
+the State Fire Marshal pursuant to sections 2452 and 2465.
+D. The municipality has adequate resources to administer and enforce the provisions
+of the fire codes under paragraph C.
+E. The procedures for public hearing and notification have been established including:
+(1) Notice to the commissioner upon receipt of an application, including a
+description of the project;
+(2) Notice of issuance and denial to the applicant and commissioner, including the
+reason for denial;
+(3) Public notification of the application and any hearings; and
+(4) Procedures for public hearing.
+F. The procedures for appeal of local decisions by aggrieved parties are defined.
+G. A registration form, provided by the commissioner, has been completed and
+submitted by the municipality, demonstrating compliance with the criteria under this
+subsection.
+Page 1 - 132LR2991(03)
+
+H. The municipality is currently enforcing the Maine Uniform Building and Energy
+Code.
+The Department of Public Safety shall publish on its publicly accessible website a list of
+those municipalities that are registered pursuant to this subsection.
+Sec. 2. 25 MRSA §2448-A, sub-§2-A is enacted to read:
+2-A. Memoranda of understanding. The commissioner may enter into a
+memorandum of understanding with any municipality to facilitate the purposes of this
+section.
+Sec. 3. 25 MRSA §2448-A, sub-§11 is enacted to read:
+11. Rulemaking. The commissioner may adopt rules to implement, administer and
+enforce the provisions of this section, including, but not limited to, procedures for
+registration, suspension and revocation of registrations, notifications, technical assistance
+and appeals. Rules adopted pursuant to this subsection are routine technical rules as defined
+in Title 5, chapter 375, subchapter 2-A.
+Sec. 4. 25 MRSA §2450, first ¶, as amended by PL 2017, c. 284, Pt. MMMMM,
+§1, is further amended to read:
+The Commissioner of Public Safety shall adopt, in accordance with requirements of
+the Maine Administrative Procedure Act, a schedule of fees for the examination of all plans
+for construction, reconstruction or repairs submitted to the Department of Public Safety.
+The fee schedule for new construction, reconstruction, repairs or renovations is 1.5/10 1/5
+of 1% of the cost to construct or reconstruct the portion of the project that is subject to State
+Fire Marshal review. Except for projects reviewed by a municipality pursuant to section
+2448‑A, the fees must be credited to a special revenue account to defray expenses in
+carrying out this section. Any balance of the fees may not lapse, but must be carried
+forward as a continuing account to be expended for the same purpose in the following fiscal
+years. For projects reviewed by a municipality that include occupied spaces, a 1¢ fee per
+square foot must be remitted to the Department of Public Safety and a 4¢ fee per square
+foot must be paid to the municipality.
+Sec. 5. 32 MRSA §1377, first ¶, as amended by PL 1997, c. 728, §36, is further
+amended to read:
+Prior to construction of any fire sprinkler system, or prior to an addition involving more
+than 20 new sprinkler heads to a fire sprinkler system, regulated by the National Fire
+Protection Association, Pamphlet No. 13, as amended, a fire sprinkler system contractor
+shall obtain a permit from the commissioner who or a municipality registered pursuant to
+Title 25, section 2448-A. The commissioner or the registered municipality shall review the
+plan for construction or addition and charge a reasonable fee for the review and permitting
+process. All plans to be submitted by a contractor to the Department of Public Safety must
+be reviewed, approved and signed by the certified responsible managing supervisor
+retained by the contractor.
+Sec. 6. Appropriations and allocations. The following appropriations and
+allocations are made.
+PUBLIC SAFETY, DEPARTMENT OF
+Page 2 - 132LR2991(03)
+
+Fire Marshal - Office of 0327
+Initiative: Provides funding for 4 Public Safety Inspector II positions and related All Other
+costs to conduct reviews of fire sprinkler system plans.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+POSITIONS - LEGISLATIVE COUNT 0.000 4.000
+Personal Services $0 $429,600
+All Other $0 $53,400
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $483,000
+Fire Marshal - Office of 0327
+Initiative: Provides one-time funding for 4 vehicles for Public Safety Inspector II positions.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+Capital Expenditures $0 $226,600
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $226,600
+PUBLIC SAFETY, DEPARTMENT OF
+DEPARTMENT TOTALS 2025-26 2026-27
+OTHER SPECIAL REVENUE FUNDS $0 $709,600
+__________ __________
+DEPARTMENT TOTAL - ALL FUNDS $0 $709,600
+Page 3 - 132LR2991(03)

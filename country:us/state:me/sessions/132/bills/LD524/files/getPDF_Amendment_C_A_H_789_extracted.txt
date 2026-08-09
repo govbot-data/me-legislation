@@ -1,0 +1,372 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-789)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 524
+2 Date: (Filing No. H- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 343, L.D. 524, “An Act to Reduce
+10 Trafficking in the State”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Protect Children from Technology-facilitated Sexual Abuse'
+13 Amend the bill by inserting after the title and before the enacting clause the following:
+14 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+15 become effective until 90 days after adjournment unless enacted as emergencies; and
+16 Whereas, this Act extends the prohibitions in current state law against the creation,
+17 dissemination and possession of sexually explicit material depicting minors engaged in
+18 sexually explicit conduct to similarly prohibit the creation, dissemination and possession
+19 of images that have been modified or generated, including through the use of artificial
+20 intelligence, or AI, technology, so that the images appear to depict minors engaged in
+21 sexually explicit conduct; and
+22 Whereas, perpetrators of these crimes have already begun creating child sexual abuse
+23 material using technology through which they modify existing images of identifiable
+24 children or through which they wholly create images that appear to depict children engaged
+25 in sexually explicit conduct, but these perpetrators cannot be prosecuted because this
+26 conduct is not currently prohibited by state law; and
+27 Whereas, as generative artificial intelligence technology continues to advance, it is
+28 becoming more and more difficult to distinguish between unaltered child sexual abuse
+29 material subject to prosecution under current law and modified or AI-generated child
+30 sexual abuse material not currently subject to prosecution; and
+31 Whereas, it is essential to clarify state law as soon as possible to prevent sexual
+32 exploitation of children; and
+33 Whereas, in the judgment of the Legislature, these facts create an emergency within
+34 the meaning of the Constitution of Maine and require the following legislation as
+Page 1 - 132LR1129(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 343, L.D. 524
+315 immediately necessary for the preservation of the public peace, health and safety; now,
+326 therefore,'
+3 Amend the bill by striking out everything after the enacting clause and inserting the
+4 following:
+5 'Sec. 1. 17-A MRSA §281, as enacted by PL 2003, c. 711, Pt. B, §12, is amended
+6 to read:
+7 §281. Definitions
+8 As used in this chapter, unless the context otherwise indicates, the following terms
+9 have the following meanings.
+10 1. "Disseminate" means to manufacture, publish, send, promulgate, distribute, exhibit,
+11 issue, furnish, sell or transfer or to offer or agree to do any of these acts.
+12 1-A. "Child sexual abuse material" means any image, including a computer-generated
+13 image, that depicts or has been created or modified so that it appears to depict a minor,
+14 regardless of whether that depiction is an identifiable child, engaged in sexually explicit
+15 conduct.
+16 1-B. "Generative AI or machine learning" means any computer algorithm or model
+17 that creates content, including, but not limited to, text, images, audio or video.
+18 1-C. "Identifiable child" means a person:
+19 A. Who is recognizable as an actual person by that person's face, likeness or other
+20 distinguishing characteristic, such as a unique birthmark or other recognizable feature;
+21 and
+22 B. Who was a minor at the time an unaltered image was created or whose likeness
+23 when the person was a minor was used in creating, adapting or modifying an image.
+24 "Identifiable child" does not require proof of the actual identity of the identifiable child.
+25 1-D. "Image" means something that is made, captured, generated or saved as a print,
+26 negative, slide, motion picture, photograph, computer data file, animation, video,
+27 livestream or other mechanically, electronically or chemically reproduced visual image or
+28 material.
+29 2. "Minor" means a person who has not attained 18 16 years of age.
+30 3. "Photograph" means to make, capture, generate or save a print, negative, slide,
+31 motion picture, computer data file, videotape or other mechanically, electronically or
+32 chemically reproduced visual image or material.
+33 3-A. "Obscene material" means material that:
+34 A. To the average individual, applying contemporary community standards, appeals
+35 to the prurient interest. For purposes of this paragraph, if it appears from the nature of
+36 an image or the circumstances of the image's dissemination, distribution or exhibition
+37 that the image is designed for clearly defined deviant sexual groups, the appeal of the
+38 image must be judged with reference to its intended recipient group;
+39 B. Depicts or describes, in a patently offensive manner, ultimate sexual acts, excretory
+40 functions, masturbation or lewd exhibition of the genitals; and
+Page 2 - 132LR1129(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 343, L.D. 524
+1 C. Considered as a whole, lacks serious literary, artistic, political or scientific value.
+2 For purposes of this paragraph:
+3 (1) The fact that the defendant knew that the image depicts a minor engaged in
+4 sexually explicit conduct is a factor that may be considered in making the
+5 determination that an image taken as a whole lacks serious literary, artistic,
+6 political or scientific value; and
+7 (2) If circumstances of production, presentation, sale, dissemination, distribution
+8 or exhibition indicate that an image is being exploited by the defendant for the sake
+9 of its prurient appeal, this evidence is probative with respect to the nature of the
+10 image and may justify the conclusion that the image lacks serious literary, artistic,
+11 political or scientific value.
+12 4. "Sexually explicit conduct" means any of the following acts:
+13 A. A sexual act;
+14 B. Bestiality;
+15 C. Masturbation;
+16 D. Sadomasochistic abuse for the purpose of sexual stimulation;
+17 E. Lewd exhibition of the genitals, anus or pubic area of a person. An exhibition is
+18 considered lewd if the exhibition is designed for the purpose of eliciting or attempting
+19 to elicit a sexual response in the intended viewer; or
+20 F. Conduct that creates the appearance of the acts in paragraphs A to D and also
+21 exhibits any uncovered or covered portions of the genitals, anus or pubic area.
+22 Sec. 2. 17-A MRSA §282, as amended by PL 2019, c. 113, Pt. B, §15, is further
+23 amended to read:
+24 §282. Sexual exploitation of minor
+25 1. A person is guilty of sexual exploitation of a minor if:
+26 A. Knowing or intending that the conduct will be photographed used to create an image
+27 for the purpose of arousing or gratifying the sexual desire of that person or another
+28 person, the person intentionally or knowingly employs, solicits, entices, persuades or
+29 uses another person a minor, not that person's spouse, who has not in fact attained 16
+30 years of age, to engage in sexually explicit conduct to create child sexual abuse
+31 material, except that it is not a violation of this paragraph if the other person minor is
+32 14 or 15 years of age and the person is less than 5 years older than the other person
+33 minor. Violation of this paragraph is a Class B crime;
+34 A-1. Knowing or intending that the conduct will be photographed used to create an
+35 image, the person intentionally or knowingly compels or induces by any threat another
+36 person, not that person's spouse, who is in fact a minor, to engage in sexually explicit
+37 conduct. Violation of this paragraph is a Class B crime. For purposes of this paragraph,
+38 "minor" means a person who has not attained 18 years of age;
+39 A-2. The person intentionally or knowingly modifies or alters an image of an
+40 identifiable child to create child sexual abuse material, except that it is not a violation
+41 of this paragraph if the minor is 14 or 15 years of age and the person is less than 5 years
+42 older than the minor. Violation of this paragraph is a Class B crime;
+Page 3 - 132LR1129(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 343, L.D. 524
+1 A-3. The person intentionally or knowingly manufactures or creates, including using
+2 generative AI or machine learning, obscene material that is child sexual abuse material
+3 and the person knows or has reason to know that the material is child sexual abuse
+4 material. Violation of this paragraph is a Class B crime;
+5 B. The person violates paragraph A or, A‑1, A-2 or A-3 and, at the time of the offense,
+6 the person has one or more prior convictions under this section or for engaging in
+7 substantially similar conduct to that contained in this section in another jurisdiction.
+8 Violation of this paragraph is a Class A crime;
+9 C. The person violates paragraph A or, A‑1, A-2 or A-3 and the minor or identifiable
+10 child has not in fact attained 12 years of age. Violation of this paragraph is a Class A
+11 crime;
+12 D. Being a parent, legal guardian or other person having care or custody of another
+13 person who has not in fact attained 16 years of age a minor, that person knowingly or
+14 intentionally or knowingly permits that person who has not in fact attained 16 years of
+15 age to engage in sexually explicit conduct, knowing or intending that the conduct will
+16 be photographed the minor to create child sexual abuse material. Violation of this
+17 paragraph is a Class B crime;
+18 E. The person violates paragraph D and, at the time of the offense, the person has one
+19 or more prior convictions under this section or for engaging in substantially similar
+20 conduct to that contained in this section in another jurisdiction. Violation of this
+21 paragraph is a Class A crime; or
+22 F. The person violates paragraph D and the minor has not in fact attained 12 years of
+23 age. Violation of this paragraph is a Class A crime.
+24 2. The following mandatory minimum terms of imprisonment apply to sexual
+25 exploitation of a minor.
+26 A. A court shall impose upon a person convicted under subsection 1, paragraph A,
+27 A‑1, A-2, A-3 or D a sentencing alternative involving a term of imprisonment of at
+28 least 5 years.
+29 B. A court shall impose upon a person convicted under subsection 1, paragraph B or
+30 E a sentencing alternative involving a term of imprisonment of at least 10 years.
+31 The court may not suspend a minimum term of imprisonment imposed under this section
+32 unless it sets forth in detail, in writing, the reasons for suspending the sentence. The court
+33 shall consider the nature and circumstances of the crime, the physical and mental well-
+34 being of the minor and the history and character of the defendant and may only suspend
+35 the minimum term if the court is of the opinion that the exceptional features of the case
+36 justify the imposition of another sentence. Section 9‑A governs the use of prior convictions
+37 when determining a sentence.
+38 3. Aggravating sentencing factor of victim under 12 years of age. If the State
+39 pleads and proves that a crime under this section was committed against an individual a
+40 minor, including an identifiable child, who had not attained 12 years of age, the court, in
+41 determining the appropriate sentence, shall treat the age of the victim minor as an
+42 aggravating sentencing factor.
+Page 4 - 132LR1129(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 343, L.D. 524
+1 4. The following may be reasonably inferred from the contents of an image or may be
+2 established through competent medical evidence or other expert testimony:
+3 A. The age of an individual depicted in the image;
+4 B. The age of an individual who appears to be depicted in the image; and
+5 C. That an individual depicted or who appears to be depicted in the image is an
+6 identifiable child.
+7 5. A person is subject to prosecution pursuant to this section in this State if the person,
+8 the minor or the identifiable child was in the State at the time of the offense.
+9 Sec. 3. 17-A MRSA §283, as amended by PL 2015, c. 394, §3, is further amended
+10 to read:
+11 §283. Dissemination of sexually explicit child sexual abuse material
+12 1. A person is guilty of dissemination of sexually explicit child sexual abuse material
+13 if that person:
+14 A. The person intentionally Intentionally or knowingly disseminates or possesses with
+15 intent to disseminate any book, magazine, newspaper, print, negative, slide, motion
+16 picture, videotape, computer data file or other mechanically, electronically or
+17 chemically reproduced visual image or child sexual abuse material that depicts any
+18 person who has not in fact attained 16 years of age of an identifiable child who the
+19 person knows or has reason to know is a person under 16 years of age engaging in
+20 sexually explicit conduct minor, except that it is not a violation of this paragraph if the
+21 person depicted identifiable child is 14 or 15 years of age and the person is less than 5
+22 years older than the person depicted identifiable child. Violation of this paragraph is a
+23 Class C crime;
+24 A-1. Intentionally or knowingly disseminates or possesses with intent to disseminate
+25 any obscene material that is child sexual abuse material, including an image created
+26 using generative AI or machine learning, and the person knows or has reason to know
+27 that the material is child sexual abuse material. Violation of this paragraph is a Class
+28 C crime;
+29 B. The person violates Violates paragraph A or A-1 and, at the time of the offense, has
+30 one or more prior convictions under this section or for engaging in substantially similar
+31 conduct to that contained in this section in another jurisdiction. Violation of this
+32 paragraph is a Class B crime;
+33 C. The person intentionally or knowingly disseminates or possesses with intent to
+34 disseminate any book, magazine, newspaper, print, negative, slide, motion picture,
+35 videotape, computer data file or other mechanically, electronically or chemically
+36 reproduced visual image or material that depicts any minor who is less than 12 years
+37 of age who the person knows or has reason to know is a minor less than 12 years of
+38 age engaging in sexually explicit conduct Violates paragraph A and the identifiable
+39 child in the child sexual abuse material has not attained 12 years of age and the person
+40 knows or has reason to know the identifiable child has not attained 12 years of age.
+41 Violation of this paragraph is a Class B crime; or
+Page 5 - 132LR1129(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 343, L.D. 524
+1 C-1. Violates paragraph A-1 and the person knows or has reason to know that the child
+2 sexual abuse material appears to depict a minor who has not attained 12 years of age.
+3 Violation of this paragraph is a Class B crime; or
+4 D. The person violates Violates paragraph C or C-1 and, at the time of the offense, has
+5 one or more prior convictions under this section or for engaging in substantially similar
+6 conduct to that contained in this section in another jurisdiction. Violation of this
+7 paragraph is a Class A crime.
+8 Section 9‑A governs the use of prior convictions when determining a sentence.
+9 2. For the purposes of this section, possession of 10 100 or more copies images of any
+10 of the materials as described in subsection 1 gives rise to a permissible inference under the
+11 Maine Rules of Evidence, Rule 303 that the person possesses those items with intent to
+12 disseminate.
+13 3. For purposes of this section, any element of age of the person depicted a minor or
+14 identifiable child means the age of the person minor or identifiable child at the time of the
+15 sexually explicit conduct occurred in the child sexual abuse material, not the age of the
+16 person depicted minor or identifiable child at the time of dissemination or possession of
+17 the sexually explicit visual image or child sexual abuse material.
+18 4. The following may be reasonably inferred from the contents of an image or may be
+19 established through competent medical evidence or other expert testimony:
+20 A. The age of an individual depicted in the image;
+21 B. The age of an individual who appears to be depicted in the image; and
+22 C. That an individual depicted or who appears to be depicted in the image is an
+23 identifiable child.
+24 Sec. 4. 17-A MRSA §284, as amended by PL 2015, c. 394, §4, is further amended
+25 to read:
+26 §284. Possession of sexually explicit child sexual abuse material
+27 1. A person is guilty of possession of sexually explicit child sexual abuse material if
+28 that person:
+29 A. Intentionally or knowingly transports, exhibits, purchases, possesses or accesses
+30 with intent to view any book, magazine, newspaper, print, negative, slide, motion
+31 picture, computer data file, videotape or other mechanically, electronically or
+32 chemically reproduced visual image or child sexual abuse material that the person
+33 knows or should know depicts another person engaging in sexually explicit conduct,
+34 and: of an identifiable child who the person knows or has reason to know is a minor,
+35 except that it is not a violation of this paragraph if the identifiable child is 14 or 15
+36 years of age and the person is less than 5 years older than the identifiable child.
+37 (1) The other person has not in fact attained 16 years of age; or
+38 (2) The person knows or has reason to know that the other person has not attained
+39 16 years of age.
+40 It is not a violation of this paragraph if the person depicted is 14 or 15 years of age and
+41 the person is less than 5 years older than the person depicted.
+Page 6 - 132LR1129(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 343, L.D. 524
+1 Violation of this paragraph is a Class D crime;
+2 A-1. Intentionally or knowingly transports, exhibits, purchases, possesses or accesses
+3 with intent to view any obscene material that is child sexual abuse material, including
+4 an image of a minor created using generative AI or machine learning, and the person
+5 knows or has reason to know that the material is child sexual abuse material. Violation
+6 of this paragraph is a Class D crime;
+7 B. Violates paragraph A or A-1 and, at the time of the offense, has one or more prior
+8 convictions under this section or for engaging in substantially similar conduct to that
+9 contained in this section in another jurisdiction. Violation of this paragraph is a Class
+10 C crime;
+11 C. Intentionally or knowingly transports, exhibits, purchases, possesses or accesses
+12 with intent to view any book, magazine, newspaper, print, negative, slide, motion
+13 picture, computer data file, videotape or other mechanically, electronically or
+14 chemically reproduced visual image or material that the person knows or should know
+15 depicts another person engaging in sexually explicit conduct, and: Violates paragraph
+16 A and the identifiable child in the child sexual abuse material has not attained 12 years
+17 of age or the person knows or has reason to know that the identifiable child has not
+18 attained 12 years of age.
+19 (1) The other person has not in fact attained 12 years of age; or
+20 (2) The person knows or has reason to know that the other person has not attained
+21 12 years of age.
+22 Violation of this paragraph is a Class C crime; or
+23 C-1. Violates paragraph A-1 and the person knows or has reason to know that the child
+24 sexual abuse material appears to depict a minor who has not attained 12 years of age.
+25 Violation of this paragraph is a Class C crime; or
+26 D. Violates paragraph C or C-1 and, at the time of the offense, has one or more prior
+27 convictions under this section or for engaging in substantially similar conduct to that
+28 contained in this section in another jurisdiction. Violation of this paragraph is a Class
+29 B crime.
+30 Section 9‑A governs the use of prior convictions when determining a sentence.
+31 2. It is a defense to a prosecution under this section that the person depicted was the
+32 spouse of the person possessing the sexually explicit child sexual abuse material at the time
+33 the material was produced.
+34 3. The age of the person depicted and that the person depicted is an actual person
+35 following may be reasonably inferred from the depiction. Competent medical evidence or
+36 other expert testimony may be used to establish the age and authenticity of the person
+37 depicted. contents of an image or may be established through competent medical evidence
+38 or other expert testimony:
+39 A. The age of an individual depicted in the image;
+40 B. The age of an individual who appears to be depicted in the image; and
+41 C. That an individual depicted or who appears to be depicted in the image is an
+42 identifiable child.
+Page 7 - 132LR1129(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 343, L.D. 524
+1 4. Any child sexual abuse material that depicts a person who has not attained 16 years
+2 of age engaging in sexually explicit conduct is declared to be contraband and may be seized
+3 by the State.
+4 5. For purposes of this section, any element of age of the person depicted a minor or
+5 identifiable child means the age of the person minor or identifiable child at the time of the
+6 sexually explicit conduct occurred in the child sexual abuse material, not the age of the
+7 person depicted minor or identifiable child at the time of the transporting, exhibiting,
+8 purchasing, possession or accessing of the sexually explicit visual image or child sexual
+9 abuse material.'
+10 Amend the bill by adding before the summary the following:
+11 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+12 takes effect when approved.'
+13 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+14 number to read consecutively.
+15 SUMMARY
+1166 This amendment replaces the bill, which is a concept draft. The amendment makes
+1177 several changes to chapter 12 within the Maine Criminal Code, which prohibits the
+1188 creation, possession and dissemination of sexually explicit material, referred to in the
+1199 amendment as child sexual abuse material. These changes are intended to protect children
+2200 from offenses involving child sexual abuse material that are facilitated by technology.
+21 The amendment defines the terms "child sexual abuse material," "identifiable child,"
+22 "image," "obscene material" and "generative AI or machine learning" for purposes of
+23 chapter 12 of the Maine Criminal Code. It also amends the definition of "minor" for
+24 purposes of the chapter to include only a person who is less than 16 years of age, except
+25 that, if the crime of sexual exploitation of a minor involves compulsion, the definition of
+26 "minor" continues to include any person who is less than 18 years of age.
+27 The amendment renames the crime of "dissemination of sexually explicit material" to
+28 the crime of "dissemination of child sexual abuse material" and similarly renames the crime
+29 of "possession of sexually explicit material" to the crime of "possession of child sexual
+30 abuse material." It also expands the elements of these crimes as well as the crime of sexual
+31 exploitation of a minor, which involves the creation of child sexual abuse material, to apply
+32 both:
+33 1. To child sexual abuse material that depicts or that has been created or modified so
+34 that it appears to depict an identifiable child engaged in sexually explicit conduct; and
+35 2. To child sexual abuse material, including an image created through generative AI
+36 or machine learning, that appears to depict a minor engaged in sexually explicit conduct,
+37 regardless of whether the minor is an identifiable child, if that child sexual abuse material
+38 is obscene material.
+39 The amendment provides that, for the purposes of any of the crimes set forth in chapter
+40 12 of the Maine Criminal Code, the age of a person who is depicted or who appears to be
+41 depicted in an image and the fact that the person is an identifiable child may be reasonably
+42 inferred from the contents of the image or may be established through competent medical
+Page 8 - 132LR1129(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 343, L.D. 524
+413 evidence or other expert testimony. Under current law, this rule of evidence only explicitly
+424 applies to possession crimes, not to crimes involving the creation or dissemination of
+435 prohibited child pornography.
+4 The amendment also adds an emergency preamble and emergency clause.
+55 FISCAL NOTE REQUIRED
+66 (See attached)
+Page 9 - 132LR1129(02)
+COMMITTEE AMENDMENT

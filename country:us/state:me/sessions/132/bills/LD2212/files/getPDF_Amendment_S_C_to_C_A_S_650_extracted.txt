@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-C to C-A (S-650)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2212
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1491,
+9 L.D. 2212, “An Act Making Supplemental Appropriations and Allocations from the
+10 General Fund and Other Funds for the Expenditures of State Government and Changing
+11 Certain Provisions of the Law Necessary to the Proper Operations of State Government for
+12 the Fiscal Years Ending June 30, 2026 and June 30, 2027”
+13 Amend the amendment by inserting after Part HHHH the following:
+14 'PART IIII
+15 Sec. IIII-1. 22 MRSA §3198 is enacted to read:
+16 §3198. Able-bodied, childless adults; temporary enrollment freeze; permanent
+17 enrollment cap
+18 Notwithstanding any provision of law to the contrary, the following provisions apply
+19 to Medicaid enrollment levels for enrollees who are classified as able-bodied, childless
+20 adults.
+21 1. Temporary enrollment freeze. Contingent on approval of a Section 1115
+22 demonstration waiver under the United States Social Security Act from the United States
+23 Department of Health and Human Services, Centers for Medicare and Medicaid Services,
+24 within 30 days of the effective date of this section, the total number of MaineCare enrollees
+25 classified as able-bodied, childless adults that may be enrolled in the MaineCare program
+26 must be frozen and the enrollment level may not be increased. New enrollments of able-
+27 bodied, childless adults may not be made until the department has certified that the total
+28 enrollment in this category has been reduced by 10% from the level of enrollment at the
+29 date enrollment is frozen under this subsection.
+30 2. Enrollment reduction. When an enrollee becomes ineligible for MaineCare
+31 coverage, that enrollee may not be automatically reenrolled. When an enrollee's eligibility
+32 lapses due to income increase, employment or failure to renew enrollment, that enrollee's
+33 spot in the program may not be filled by a new enrollee. The department shall prioritize
+34 program integrity measures to remove ineligible enrollees.
+35 3. Lifting enrollment freeze; permanent enrollment cap. When the total enrollment
+36 of able-bodied, childless adults has declined by 10% from the number of enrollments at the
+37 time of the enrollment freeze pursuant to subsection 1, the reduced level of enrollment is
+Page 1 - 132LR3049(35)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1491, L.D. 2212
+318 established as a new permanent cap on the level of enrollment for able-bodied, childless
+329 adults. The enrollment cap established pursuant to this section may not be exceeded unless
+430 the Legislature specifically authorizes it.
+4 4. Legislative oversight; quarterly progress reports; additional program integrity
+5 measures. Beginning 3 months after the effective date of this section, the department shall
+6 submit quarterly reports to the Legislature detailing the department's efforts to reduce the
+7 enrollment levels of able-bodied, childless adults under subsection 2. If the Legislature
+8 determines that the department has failed to make meaningful progress, the Legislature
+9 may impose additional program integrity measures to ensure compliance.
+10 Sec. IIII-2. MaineCare enrollment freeze; Department of Health and
+11 Human Services to request waiver. No later than October 1, 2026, the Department of
+12 Health and Human Services shall request federal approval from the United States
+13 Department of Health and Human Services, Centers for Medicare and Medicaid Services
+14 for a Section 1115 demonstration waiver under the United States Social Security Act that
+15 would temporarily freeze MaineCare enrollment for able-bodied, childless adults, reduce
+16 enrollment in that category over time and create a permanent enrollment cap at the reduced
+17 enrollment level after the freeze is lifted. If the waiver is approved, the department shall
+18 adopt rules to implement the enrollment freeze no later than 90 days after approval. Rules
+19 adopted pursuant to this section are routine technical rules as defined in the Maine Revised
+20 Statutes, Title 5, chapter 375, subchapter 2-A.
+21 Sec. IIII-3. MaineCare program review. The Department of Health and Human
+22 Services shall engage a 3rd-party independent entity, referred to in this section as "the
+23 independent entity," to conduct a review of the MaineCare program for fraud, waste and
+24 abuse pursuant to this section.
+25 1. Selection of independent entity. Within 30 days of the effective date of this Part,
+26 the department shall issue a request for proposals to determine, through a competitive
+27 bidding process, the independent entity to conduct the review required by this section.
+28 2. Duties of independent entity. The independent entity chosen shall:
+29 A. Review and assess current processes, procedures and capacity in place to identify
+30 fraud, waste and abuse, including but not limited to the department's Fraud
+31 Investigation and Recovery Unit, the MaineCare program integrity unit, the Medicaid
+32 Eligibility Quality Control program and the efficacy of the State's implementation of
+33 the payment error rate measurement process;
+34 B. Identify best practices in state fraud, waste and abuse prevention, identification and
+35 resolution;
+36 C. Use any available prior state and federal audits, reviews, investigations, reports,
+37 data and information, including but not limited to audit findings, claims data, provider
+38 records, program integrity reports, United States Department of Health and Human
+39 Services, Centers for Medicare and Medicaid Services' communications and
+40 whistleblower complaints, to identify systemic vulnerabilities, patterns of fraud, waste
+41 and abuse and gaps in oversight; and
+42 D. Make recommendations to strengthen the State's practices for preventing,
+43 identifying and addressing fraud, waste and abuse in Medicaid.
+Page 2 - 132LR3049(35)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1491, L.D. 2212
+1 3. Report by independent entity. The independent entity shall provide the
+2 department with a final report regarding the independent entity's findings no later than
+3 December 29, 2026.
+4 4. Report by Department of Health and Human Services regarding MaineCare
+5 fraud, waste and abuse. The Department of Health and Human Services shall submit a
+6 report regarding the MaineCare program review for fraud, waste and abuse conducted
+7 pursuant to this section and any necessary implementing legislation to the joint standing
+8 committee of the Legislature having jurisdiction over appropriations and financial affairs
+9 by January 5, 2027. The joint standing committee shall report out a bill to the 133rd
+10 Legislature in 2027.
+11 Sec. IIII-4. Contingent effective date. That section of this Part that enacts the
+12 Maine Revised Statutes, Title 22, section 3198 does not take effect unless approval of a
+13 Section 1115 demonstration waiver pursuant to section 2 of this Part is received.
+14 The Commissioner of Health and Human Services shall notify the Secretary of State,
+15 the Secretary of the Senate, the Clerk of the House and the Revisor of Statutes when
+16 approval sought under section 2 of this Part is received.'
+17 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+18 section number to read consecutively.
+19 SUMMARY
+2200 This amendment requires the Department of Health and Human Services to request a
+2211 demonstration waiver from the United States Department of Health and Human Services,
+2222 Centers for Medicare and Medicaid Services to place a freeze on the level of MaineCare
+2233 enrollment by enrollees who are able-bodied, childless adults. If the waiver is approved,
+2244 the amendment would require a freeze on enrollment for this classification of enrollees
+2255 within 30 days of the effective date of this legislation and require the department to
+2266 gradually reduce enrollment by 10%. When enrollment has been reduced by 10%, the level
+2277 of enrollment at that time becomes the new permanent cap on enrollment for that
+2288 classification of enrollees and the freeze is lifted. The department must submit to the
+2299 Legislature quarterly reports of its progress in reducing enrollment. If the department's
+3300 progress is not satisfactory, the Legislature may impose additional program integrity
+3311 measures to ensure compliance.
+32 This amendment also requires the Department of Health and Human Services to
+33 contract, through a competitive bidding process, with a 3rd-party independent entity to
+34 conduct a review of the MaineCare program for fraud, waste and abuse, based on specified
+35 criteria, and to report to the department with its findings. It requires the department to
+36 provide a report regarding the findings of the review of the MaineCare program for fraud,
+37 waste and abuse to the joint standing committee of the Legislature having jurisdiction over
+38 appropriations and financial affairs, along with any necessary implementing legislation.
+Page 3 - 132LR3049(35)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1491, L.D. 2212
+319 The joint standing committee is required to report out a bill based on the report to the 133rd
+420 Legislature in 2027.
+431 SPONSORED BY: ___________________________________
+442 (Senator STEWART, T.)
+453 COUNTY: Aroostook
+Page 4 - 132LR3049(35)
+SENATE AMENDMENT

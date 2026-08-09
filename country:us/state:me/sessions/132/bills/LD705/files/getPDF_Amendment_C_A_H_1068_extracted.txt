@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-1068)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 705
+2 Date: (Filing No. H- )
+3 APPROPRIATIONS AND FINANCIAL AFFAIRS
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 444, L.D. 705, “An Act to Provide
+10 Appropriations and Allocations for the Operations of State Government”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Correct Technical Errors in Public Law 2025, Chapter 650'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 36 MRSA §5124-C, sub-§1-B, ¶A, as enacted by PL 2023, c. 412, Pt.
+16 ZZZ, §5, is amended by amending subparagraph (1) to read:
+17 (1) For single individuals and married persons filing separate returns, $12,000
+18 $15,000;
+19 Sec. 2. PL 2025, c. 650, Part N, section 8 is amended to read:
+20 Sec. N-8. Application. This Act Part applies to taxable years beginning on or after
+21 January 1, 2026.
+22 Sec. 3. PL 2025, c. 650, Part FF, section 4 is amended to read:
+23 Sec. FF-4. Cost-of-living adjustment for essential support workers;
+24 MaineCare rates. Notwithstanding any provision of law to the contrary, the Department
+25 of Health and Human Services shall submit a request to seek approval from the United
+26 States Department of Health and Human Services, Centers for Medicare and Medicaid
+27 Services to implement a cost-of-living adjustment of 3.07% for reimbursement rates
+28 subject to rule Chapter 101: MaineCare Benefits Manual, Chapter II, Sections 13, 65 and
+29 92 and rule Chapter 101: MaineCare Benefits Manual, Chapter III, Sections 2, 12, 17, 18,
+30 19, 20, 21, 26, 28, 29, 40, 67, 96 and 97 Appendix C effective January 1, 2027 and for
+31 reimbursement rates subject to rule Chapter 101: MaineCare Benefits Manual, Chapter III,
+32 Section 97 Appendix B and Section 97 Appendix D effective July 1, 2026. The department
+33 shall submit the request required to seek approval under this section to implement the cost-
+34 of-living adjustment as soon as practicable.
+Page 1 - 132LR2321(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 444, L.D. 705
+1 Sec. 4. Transfer from MaineCare Stabilization Fund; General Fund.
+2 Notwithstanding any provision of law to the contrary, on or before June 30, 2027, the State
+3 Controller shall transfer $1,653,131 from the MaineCare Stabilization Fund Other Special
+4 Revenue Funds account within the Department of Health and Human Services to the
+5 unappropriated surplus of the General Fund.
+6 Sec. 5. Funds to address unmet needs of older adults; distribution to area
+7 agencies on aging. Funds appropriated in the amount of $3,000,000 to the Department
+8 of Health and Human Services, Office of Aging and Disability Services Central Office
+9 program in Public Law 2025, chapter 650, Part A, section 17 to address unmet needs of
+10 older adults through community-based services and programs delivered by the area agency
+11 in each of the State's coordinated community program areas must be distributed to the area
+12 agencies, based on priorities identified by local advisory councils to meet regional needs,
+13 through the intrastate funding formula to develop programs and deliver services necessary
+14 for the general well-being of older adults, including, but not limited to, in-home services,
+15 case management services, meals programs, wellness services, respite for caregivers,
+16 public education and outreach, volunteer services and information and referral services.
+17 Sec. 6. Appropriations and allocations. The following appropriations and
+18 allocations are made.
+19 EDUCATION, DEPARTMENT OF
+20 Early Childhood Nutrition Grant Program N583
+21 Initiative: Provides ongoing, nonlapsing funding for a grant program to allow school
+22 administrative units to enter into agreements with providers of off-site public preschool
+23 programs to provide students in those programs with breakfast, lunch and a snack.
+24 GENERAL FUND 2025-26 2026-27
+25 All Other $0 $375,000
+26 __________ __________
+27 GENERAL FUND TOTAL $0 $375,000
+2284 Early Childhood Nutrition Grant Program N583
+29 Initiative: Deappropriates one-time, nonlapsing funding for a grant program to allow school
+30 administrative units to enter into agreements with providers of off-site public preschool
+31 programs to provide students in those programs with breakfast, lunch and a snack.
+32 GENERAL FUND 2025-26 2026-27
+33 All Other $0 ($375,000)
+34 __________ __________
+35 GENERAL FUND TOTAL $0 ($375,000)
+3362
+37 EDUCATION, DEPARTMENT OF
+38 DEPARTMENT TOTALS 2025-26 2026-27
+39
+40 GENERAL FUND $0 $0
+41 __________ __________
+42 DEPARTMENT TOTAL - ALL FUNDS $0 $0
+Page 2 - 132LR2321(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 444, L.D. 705
+11 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+2 Medical Care - Payments to Providers 0147
+3 Initiative: Provides funding to implement a cost-of-living adjustment for direct care
+4 services subject to rule Chapter 101: MaineCare Benefits Manual, Chapter III, Section 28.
+5 GENERAL FUND 2025-26 2026-27
+6 All Other $0 $841,377
+7 __________ __________
+8 GENERAL FUND TOTAL $0 $841,377
+95
+10 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+11 All Other $0 $1,235,634
+12 __________ __________
+13 FEDERAL EXPENDITURES FUND TOTAL $0 $1,235,634
+1140
+15 FEDERAL BLOCK GRANT FUND 2025-26 2026-27
+16 All Other $0 $122,894
+17 __________ __________
+18 FEDERAL BLOCK GRANT FUND TOTAL $0 $122,894
+1195 Medical Care - Payments to Providers 0147
+20 Initiative: Provides funding to implement a cost-of-living adjustment for direct care
+21 services subject to rule Chapter 101: MaineCare Benefits Manual, Chapter III, Section 97
+22 Appendix B and Section 97 Appendix D.
+23 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+24 All Other $0 $1,598,732
+25 __________ __________
+26 FEDERAL EXPENDITURES FUND TOTAL $0 $1,598,732
+2273
+28 FEDERAL BLOCK GRANT FUND 2025-26 2026-27
+29 All Other $0 $36,304
+30 __________ __________
+31 FEDERAL BLOCK GRANT FUND TOTAL $0 $36,304
+3228 Mental Health Services - Child Medicaid Z207
+33 Initiative: Provides funding to implement a cost-of-living adjustment for direct care
+34 services subject to rule Chapter 101: MaineCare Benefits Manual, Chapter III, Section 97
+35 Appendix B and Section 97 Appendix D.
+36 GENERAL FUND 2025-26 2026-27
+37 All Other $0 $811,754
+38 __________ __________
+39 GENERAL FUND TOTAL $0 $811,754
+4306
+Page 3 - 132LR2321(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 444, L.D. 705
+1 HEALTH AND HUMAN SERVICES,
+2 DEPARTMENT OF
+3 DEPARTMENT TOTALS 2025-26 2026-27
+4
+5 GENERAL FUND $0 $1,653,131
+6 FEDERAL EXPENDITURES FUND $0 $2,834,366
+7 FEDERAL BLOCK GRANT FUND $0 $159,198
+8 __________ __________
+9 DEPARTMENT TOTAL - ALL FUNDS $0 $4,646,695
+101 HOUSING AUTHORITY, MAINE STATE
+11 Low-income Home Energy Assistance - MSHA 0708
+12 Initiative: Provides ongoing funding for low-income electric ratepayer assistance.
+13 GENERAL FUND 2025-26 2026-27
+14 All Other $0 $7,500,000
+15 __________ __________
+16 GENERAL FUND TOTAL $0 $7,500,000
+1173 Low-income Home Energy Assistance - MSHA 0708
+18 Initiative: Deappropriates one-time funding for low-income electric ratepayer assistance.
+19 GENERAL FUND 2025-26 2026-27
+20 All Other $0 ($7,500,000)
+21 __________ __________
+22 GENERAL FUND TOTAL $0 ($7,500,000)
+2139
+24 HOUSING AUTHORITY, MAINE STATE
+25 DEPARTMENT TOTALS 2025-26 2026-27
+26
+27 GENERAL FUND $0 $0
+28 __________ __________
+29 DEPARTMENT TOTAL - ALL FUNDS $0 $0
+3204
+31 SECTION TOTALS 2025-26 2026-27
+32
+33 GENERAL FUND $0 $1,653,131
+34 FEDERAL EXPENDITURES FUND $0 $2,834,366
+35 FEDERAL BLOCK GRANT FUND $0 $159,198
+36 __________ __________
+37 SECTION TOTAL - ALL FUNDS $0 $4,646,695
+3381 '
+39 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+40 number to read consecutively.
+Page 4 - 132LR2321(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 444, L.D. 705
+1 SUMMARY
+22 This amendment replaces the bill, which is a concept draft. The amendment makes
+33 corrections and clarifying changes to Public Law 2025, chapter 650 as follows.
+4 It clarifies that the standard deduction for tax year 2025 is $15,000.
+5 It clarifies that the application date for the pass-through entity tax applies only to the
+6 Part of Public Law 2025, chapter 650 that enacts the pass-through entity tax.
+7 It includes reimbursement rates subject to rule Chapter 101: MaineCare Benefits
+8 Manual, Chapter III, Section 28, Section 97 Appendix B and Section 97 Appendix D in the
+9 3.07% cost-of-living adjustment for essential support workers.
+10 It provides a one-time transfer from the MaineCare Stabilization Fund Other Special
+11 Revenue Funds account within the Department of Health and Human Services to the
+12 General Fund to fund the General Fund portion of the cost-of-living adjustments for fiscal
+13 year 2026-27.
+14 It provides that the funds provided in Public Law 2025, chapter 650 to address unmet
+15 needs of older adults through community-based services and programs must be distributed
+16 to area agencies based on priorities identified by local advisory councils to meet regional
+17 needs through the intrastate funding formula to develop programs and deliver services to
+18 older adults.
+19 It provides appropriations and allocations. It changes the funding provided for grants
+20 in the early childhood nutrition grant program in Public Law 2025, chapter 650 from one-
+21 time to ongoing. It also changes the funding provided for low-income electric ratepayer
+22 assistance in Public Law 2025, chapter 650 from one-time to ongoing. It also includes the
+23 appropriations and allocations necessary for the cost-of-living adjustments.
+2244 FISCAL NOTE REQUIRED
+2255 (See attached)
+Page 5 - 132LR2321(02)
+COMMITTEE AMENDMENT

@@ -1,0 +1,155 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-808)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1587
+2 Date: (Filing No. H- )
+3 LABOR
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1045, L.D. 1587, “An Act to Establish
+10 Greater Alignment of Penalties for Certain Labor Law Violations”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Clarify the Bureau of Labor Standards' Investigatory and Enforcement
+13 Procedures'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 26 MRSA §54 is enacted to read:
+17 §54. Investigation; penalties
+18 1. Investigation. Whenever the director believes a person or employer has violated
+19 any provision of chapter 7 or 15, the director may conduct an investigation. During the
+20 investigation of a person or employer, the director may:
+21 A. Examine or cause to be examined for that purpose any books, records, papers and
+22 memoranda of any person or employer of whatever nature relevant to the alleged
+23 violation;
+24 B. Issue a subpoena pursuant to subsection 2 or otherwise require the attendance of
+25 the person or employer, or of any other person having knowledge of the subject of the
+26 investigation, take testimony, administer oaths or take acknowledgement in respect of
+27 any book, record, paper or memorandum and may require proof material for that
+28 person's or employer's information. Such testimony, administration of oaths or
+29 acknowledgement of any book, record, paper or memorandum must be taken in the
+30 county where the person or employer resides or has a place of business, or in Kennebec
+31 County if the person or employer is a nonresident or has no place of business within
+32 the State; and
+33 C. Require production of any record required by law to be kept by the person or
+34 employer pursuant to any provision of chapter 7 or 15.
+Page 1 - 132LR1551(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1045, L.D. 1587
+1 2. Issuance of subpoenas. Subpoenas issued for the purposes of conducting an
+2 investigation pursuant to subsection 1 must be issued pursuant to Title 5, section 9060.
+3 Service of any notice or subpoena may be made by:
+4 A. Delivering a duly executed copy of the subpoena to the person or employer to be
+5 served or to a partner or to any officer or agent authorized by appointment or by law to
+6 receive service of process on behalf of that person or employer;
+7 B. Delivering a duly executed copy of the subpoena to the principal place of business
+8 in this State of the person or employer to be served; or
+9 C. Mailing by registered or certified mail a duly executed copy of the subpoena
+10 addressed to the person or employer to be served at the principal place of business in
+11 this State of the person or employer to be served or, if that person or employer does not
+12 have a place of business in this State, to the person's or employer's principal office or
+13 place of business or publicly identified service address.
+14 3. Penalties for violations. If the director determines a person or employer has
+15 violated any provision of chapter 7 or 15, the director may issue a notice of violation and:
+16 A. Order the payment of penalties and other remedies consistent with section 53 and
+17 any other penalty or enforcement provision in chapter 7 or 15. Once a penalty or other
+18 ordered remedy is final and all administrative and legal appeal rights have been
+19 exhausted, the person or employer subject to the penalty or ordered remedy pursuant
+20 to this subsection shall make payment within 30 calendar days. Failure to make a timely
+21 payment is subject to an additional civil penalty of not more than $1,000 for each day
+22 that the person or employer fails to make payment; or
+23 B. Order the correction of ongoing violations. Any person or employer who fails to
+24 correct a violation for which a notice of violation has been issued within the permitted
+25 period for its correction is subject to an additional civil penalty of not more than $1,000
+26 for each day during which the violation is not corrected. The permitted period for
+27 correction may not begin to run until the date on which all administrative and legal
+28 appeal rights have been exhausted in the case of any appeal proceeding initiated by the
+29 person or employer in good faith and not solely for delay or avoidance of penalties.
+30 A person or employer who is ordered to pay wages, liquidated damages or interest to an
+31 employee pursuant to this subsection or the provisions of chapter 7 or 15 shall certify that
+32 payment was made within 7 calendar days from the date on which all administrative and
+33 legal appeal rights have been exhausted in the case of any appeal proceeding initiated by
+34 the person or employer in good faith and not solely for delay or avoidance of penalties.
+35 Such certification must demonstrate to the satisfaction of the director that payment was
+36 made to any employee's last known address or attest to the same under penalty of perjury.
+37 4. Failure to pay; notice of levy. If a person or employer fails to pay any part of the
+38 wages, liquidated damages, interest or penalties due to an employee under this section or
+39 chapter 7 or 15, the director may notify by mail a 3rd party who has possession or control
+40 of property in which the delinquent person or employer may have an interest or who may
+41 owe a debt to the delinquent person or employer, other than earnings.
+42 A. A notice of levy under this subsection may be given any time after the amount due
+43 under this section becomes delinquent. The notice of levy must state the aggregate
+44 amount of contributions, penalties, interest or other amounts due and any additional
+Page 2 - 132LR1551(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1045, L.D. 1587
+415 amount that will accrue by operation of law in a period not to exceed the computation
+426 ending date of the month in which the notice of levy is given and, in the case of a credit,
+437 bank or savings account or deposit, the notice of levy is effective only up to that
+448 amount.
+5 B. The delinquent person's or employer's property subject to levy includes:
+6 (1) A credit, bank or savings account or deposit that is subject to execution pursuant
+7 to Title 14, section 4751; or
+8 (2) Any other interest or personal property that is not exempt from attachment or
+9 execution pursuant to Title 14, chapter 507, subchapter 2, article 7.
+10 C. A notice of levy is effective:
+11 (1) At the time of delivery against all property, rights to property, credits and debts
+12 involving the delinquent person or employer that are not, as of the date of the
+13 notice, subject to a preexisting lien, attachment, garnishment or execution issued
+14 through a judicial process; and
+15 (2) Against all property, rights to property, credits and debts involving the
+16 delinquent person or employer that come into the possession or control of the
+17 person or employer served with the notice.
+18 D. A notice of levy sent under this subsection that attempts to prohibit the transfer or
+19 disposition of any property possessed or controlled by a bank is effective if it is mailed
+20 to the principal or any branch office of the bank, including any office of the bank at
+21 which the deposit is carried or the credit or property is held.
+22 E. A person who has received a notice of levy under this subsection and who acts in
+23 accordance with the terms of the notice of levy issued by the director is discharged
+24 from any obligation or liability to the delinquent person or employer with respect to
+25 the affected property, rights to property, credits and debts of the person affected by
+26 compliance with the notice of levy.
+27 F. A person who has received a notice of levy under this subsection and who transfers
+28 or disposes of any property or debt in a manner that violates this section is liable to the
+29 director for the amount of the indebtedness of the delinquent person or employer with
+30 respect to whose obligation or liability the notice was given to the extent of the value
+31 of that property or debt.
+32 5. Workplace posting. A copy or copies of any notice of violation issued under this
+33 section or chapter 7 or 15 must be prominently posted in a conspicuous location in the
+34 workplace that is accessible to employees. If no such location exists, a copy or copies of
+35 the notice of violation must be delivered to each employee in a reasonable manner.
+36 6. Employee notification. If a notice of violation issued under this section or chapter
+37 7 or 15 covers a defined time period, notice of violation must be provided to all employees
+38 employed during that time period. Mail, e-mail and text messages constitute reasonable
+39 manners in which to notify employees, as long as the mail, e-mail or text message is in the
+40 same language in which the employer typically communicates to the employees receiving
+41 the notice of violation.'
+42 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+43 number to read consecutively.
+Page 3 - 132LR1551(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1045, L.D. 1587
+1 SUMMARY
+22 This amendment replaces the bill and changes the title. The amendment provides the
+33 Director of Labor Standards within the Department of Labor the authority to conduct an
+44 investigation when the director believes a person or employer has violated any provision
+55 of the Maine Revised Statutes, Title 26, chapter 7 or 15. The amendment also provides the
+66 penalties the director may order if it is determined that a violation has occurred and
+77 authorizes the director to issue a notice of levy if the person or employer charged with a
+88 violation fails to pay. The amendment also requires persons or employers to prominently
+99 post in the workplace the notices of violation issued for a violation and requires the person
+1100 or employer to notify employees if a notice of violation covers a defined period of time.
+1111 FISCAL NOTE REQUIRED
+1122 (See attached)
+Page 4 - 132LR1551(02)
+COMMITTEE AMENDMENT

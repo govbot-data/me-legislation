@@ -1,0 +1,232 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-874)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1609
+2 Date: (Filing No. H- )
+3 VETERANS AND LEGAL AFFAIRS
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1063, L.D. 1609, “An Act to Prevent the
+10 Participation of Individuals and Companies Linked to Federally Recognized Criminal
+11 Organizations in the Medical and Adult Use Cannabis Programs”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act Regarding Background Checks for Medical Cannabis Providers'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 22 MRSA §2421-A, sub-§16, ¶B, as enacted by PL 2023, c. 679, Pt. A,
+17 §3, is amended to read:
+18 B. If required by the office pursuant to this chapter, the applicant has submitted to a
+19 criminal history record check pursuant to section 2425-B;
+20 Sec. 2. 22 MRSA §2423-A, sub-§4, as amended by PL 2019, c. 501, §12 and PL
+21 2021, c. 669, §5, is further amended to read:
+22 4. Long-term care facility. A qualifying patient may designate a long-term care
+23 facility to assist with the qualifying patient's medical use of cannabis if that use is consistent
+24 with the facility's policy and is pursuant to subsection 1, paragraph F‑1, subparagraph (2).
+25 If a long-term care facility is designated, the facility shall complete the registration process
+26 with the department and obtain a registration certificate for the facility. For a long-term
+27 care facility to be issued a registration certificate, staff persons of the facility who will be
+28 assisting a qualifying patient with the patient's medical use of cannabis in accordance with
+29 this chapter must be at least 21 years of age, must submit to a criminal history record check
+30 pursuant to section 2425-B and may not have been convicted of a disqualifying drug
+31 offense. The long-term care facility and the staff of the facility may not cultivate cannabis
+32 plants for the patient.
+33 Sec. 3. 22 MRSA §2423-A, sub-§10, ¶A, as repealed and replaced by PL 2019, c.
+34 331, §13 and amended by PL 2021, c. 669, §5, is amended to read:
+Page 1 - 132LR1925(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1063, L.D. 1609
+1 A. A cannabis testing facility that meets the requirements of this subsection and any
+2 rules adopted under paragraph D and submits to a criminal history record check
+3 pursuant to section 2425-B may receive and possess samples from qualifying patients,
+4 caregivers, dispensaries and manufacturing facilities to provide testing for the
+5 cannabinoid profile and potency of the samples and for contaminants in the samples,
+6 including but not limited to mold, mildew, heavy metals, plant regulators and illegal
+7 pesticides. For the purposes of this paragraph, "plant regulator" has the same meaning
+8 as in Title 7, section 604, subsection 26.
+9 Sec. 4. 22 MRSA §2423-F, sub-§8, ¶B, as repealed and replaced by PL 2019, c.
+10 331, §17 and amended by PL 2021, c. 669, §5, is further amended by amending the first
+11 blocked paragraph to read:
+12 The department may not issue a registry identification card to an officer or director or
+13 assistant of a registered manufacturing facility or person authorized to engage in
+14 cannabis extraction using inherently hazardous substances who has been convicted of
+15 a disqualifying drug offense. The department shall conduct a criminal history record
+16 check pursuant to section 2425-B of each person, officer or director or assistant subject
+17 to this subsection on an annual basis.
+18 Sec. 5. 22 MRSA §2425-A, sub-§3, as amended by PL 2023, c. 679, Pt. A, §§10
+19 and 11, is further amended by amending the first blocked paragraph to read:
+20 The department shall conduct a criminal history record check pursuant to section 2425-B
+21 for any applicant for a registry identification card, except that an assistant is not required
+22 to submit to a criminal history record check. The criminal history record check is valid for
+23 2 years from the date it was conducted, regardless of the person's employment status.
+24 Except as provided in subsection 3‑A, the department may not issue a registry identification
+25 card to an applicant who is not permitted under this chapter to have a disqualifying drug
+26 offense.
+27 Sec. 6. 22 MRSA §2425-A, sub-§3-A, as amended by PL 2021, c. 387, §8 and c.
+28 669, §5, is further amended to read:
+29 3-A. Criminal history record check for caregivers administering medical
+30 cannabis on school grounds. The department shall request a criminal history record check
+31 pursuant to section 2425-B for a caregiver designated under section 2423‑A, subsection 1,
+32 paragraph F‑1, subparagraph (4), except for a caregiver who is a parent, a legal guardian or
+33 a person having legal custody of the qualifying patient. The department may not issue a
+34 registry identification card to an applicant who is not permitted to have a disqualifying drug
+35 offense or who would be denied an approval, credential, certification, authorization or
+36 renewal under Title 20‑A, section 6103 or 13011 based on that criminal history record
+37 check.
+38 The criminal history record check requested under this subsection must include criminal
+39 history record information obtained from the Maine Criminal Justice Information System
+40 established in Title 16, section 631 and the Federal Bureau of Investigation. The following
+41 provisions apply.
+42 A. The criminal history record information obtained from the Maine Criminal Justice
+43 Information System must include a record of public criminal history record information
+44 as defined in Title 16, section 703, subsection 8.
+Page 2 - 132LR1925(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1063, L.D. 1609
+1 B. The criminal history record information obtained from the Federal Bureau of
+2 Investigation must include other state and national criminal history record information.
+3 C. A person subject to a criminal history record check under this section shall submit
+4 to having fingerprints taken. The State Police, upon payment of the fee, shall take or
+5 cause to be taken the person's fingerprints and shall forward the fingerprints to the State
+6 Bureau of Identification so that the bureau can conduct state and national criminal
+7 history record checks. Except for the portion of the payment, if any, that constitutes
+8 the processing fee charged by the Federal Bureau of Investigation, all money received
+9 by the State Police for purposes of this paragraph must be paid over to the Treasurer of
+10 State. The money must be applied to the expenses of administration incurred by the
+11 Department of Public Safety.
+12 D. The subject of a Federal Bureau of Investigation criminal history record check may
+13 obtain a copy of the criminal history record check by following the procedures outlined
+14 in 28 Code of Federal Regulations, Sections 16.32 and 16.33. The subject of a state
+15 criminal history record check may inspect and review the criminal history record
+16 information pursuant to Title 16, section 709.
+17 E. State and federal criminal history record information may be used by the department
+18 for the purpose of screening a person in accordance with this chapter.
+19 F. Information obtained pursuant to this subsection is confidential. The results of
+20 criminal history record checks received by the department are for official use only and
+21 may not be disseminated to any other person.
+22 G. If a person is no longer subject to this chapter that person may request in writing
+23 that the State Bureau of Identification remove the person's fingerprints from the
+24 bureau's fingerprint file. In response to a written request, the bureau shall remove the
+25 person's fingerprints from the fingerprint file and provide written confirmation of that
+26 removal.
+27 The department, with the Department of Public Safety, Bureau of State Police, State Bureau
+28 of Identification, shall adopt rules to implement this subsection. Rules adopted pursuant to
+29 this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter
+30 2‑A, except that, beginning July 1, 2021, rules adopted pursuant to this subsection are major
+31 substantive rules as defined in Title 5, chapter 375, subchapter 2‑A.
+32 Sec. 7. 22 MRSA §2425-A, sub-§6, as enacted by PL 2017, c. 452, §12, is amended
+33 to read:
+34 6. Application for registration certificate; qualifications. The department shall
+35 register and issue a registration certificate to an applicant who submits a complete
+36 application that meets the requirements of this subsection. An application must include, as
+37 applicable:
+38 The department shall conduct a criminal history record check pursuant to section 2425-B
+39 for each officer or director of the applicant for a registration certificate. The department
+40 may not issue a registration certificate to an applicant if any officer or director of the
+41 applicant has been convicted of a disqualifying drug offense.
+42 An application must include, as applicable:
+43 A. The annual fee required pursuant to subsection 10;
+Page 3 - 132LR1925(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1063, L.D. 1609
+1 B. Evidence of the applicant's registration with the Secretary of State and evidence
+2 that the applicant is in good standing with the Secretary of State; and
+3 C. The name, address and date of birth of each officer or director of the applicant.
+4 Sec. 8. 22 MRSA §2425-A, sub-§10, ¶J, as amended by PL 2023, c. 679, Pt. A,
+5 §13, is repealed.
+6 Sec. 9. 22 MRSA §2425-B is enacted to read:
+7 §2425-B. Criminal history record check
+8 The department shall request a criminal history record check for each applicant for an
+9 initial registry identification card and registration certificate as required under this chapter
+10 and for each registrant or registrant agent, except that an assistant is not required to submit
+11 to a criminal history record check, and every 2 years thereafter, unless a different period is
+12 specified in this chapter. If the applicant or registrant is a business entity, every officer or
+13 director of the business entity is required to submit to a criminal history record check in
+14 accordance with this section. If the applicant or registrant is a long-term care facility under
+15 section 2423-A, subsection 4, any staff person of the facility who will be assisting a
+16 qualifying patient with the patient's medical use of cannabis is required to submit to a
+17 criminal history record check in accordance with this section. A criminal history record
+18 check conducted pursuant to this section must include criminal history record information
+19 as defined in Title 16, section 703, subsection 3 and obtained from the Maine Criminal
+20 Justice Information System established in Title 16, section 631 and the United States
+21 Department of Justice, Federal Bureau of Investigation.
+22 1. Record of public criminal history record information required. Criminal
+23 history record information obtained from the Maine Criminal Justice Information System
+24 pursuant to this section must include a record of public criminal history record information
+25 as defined in Title 16, section 703, subsection 8.
+26 2. Other state and national criminal history record information required.
+27 Criminal history record information obtained from the Federal Bureau of Investigation
+28 pursuant to this section must include other state and national criminal history record
+29 information.
+30 3. Fingerprinting. A person required to submit to a criminal history record check
+31 under this section shall submit to having fingerprints taken. The Department of Public
+32 Safety, Bureau of State Police, upon payment of the fee required under subsection 4, shall
+33 take or cause to be taken the person's fingerprints and shall forward the fingerprints to the
+34 Department of Public Safety, Bureau of State Police, State Bureau of Identification. The
+35 State Bureau of Identification shall conduct the state and national criminal history record
+36 checks required under this section. Except for the portion of a payment, if any, that
+37 constitutes the processing fee for a criminal history record check charged by the Federal
+38 Bureau of Investigation, all money received by the Department of Public Safety, Bureau of
+39 State Police under this section must be paid to the Treasurer of State, who shall apply the
+40 money to the expenses incurred by the Department of Public Safety in the administration
+41 of this section.
+42 4. Fees. The fee for a criminal history record check under this section may not be less
+43 than $31 or more than $60. The fee must be paid by the applicant, registrant or registrant
+44 agent, except that if the applicant, registrant or registrant agent is a business entity, the fee
+Page 4 - 132LR1925(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1063, L.D. 1609
+415 must be paid by the business entity for any officer or director required to submit to a
+426 criminal history record check under this section.
+3 5. Availability of criminal history record information. The subject of a Federal
+4 Bureau of Investigation criminal history record check pursuant to this section may obtain
+5 a copy of the criminal history record check by following the procedures outlined in 28 Code
+6 of Federal Regulations, Sections 16.32 and 16.33. The subject of a state criminal history
+7 record check pursuant to this section may inspect and review the criminal history record
+8 information pursuant to Title 16, section 709.
+9 6. Use of criminal history record information. State and national criminal history
+10 record information obtained by the department under this section may be used only for the
+11 purpose of screening an applicant for a registry identification card or registration certificate,
+12 a registrant or a registrant agent under this chapter.
+13 7. Confidentiality. All criminal history record information obtained by the
+14 department pursuant to this section is confidential, is for the official use of the department
+15 only and may not be disseminated outside of the department or disclosed to any other
+16 person or entity except as provided in subsection 5.
+17 8. Rules. The department, after consultation with the Department of Public Safety,
+18 Bureau of State Police, State Bureau of Identification, shall adopt rules to implement this
+19 section. Rules adopted pursuant to this subsection are major substantive rules as defined in
+20 Title 5, chapter 375, subchapter 2-A.
+21 Sec. 10. 25 MRSA §1542-A, sub-§1, ¶S, as repealed and replaced by PL 2021, c.
+22 293, Pt. A, §31, is amended to read:
+23 S. Who is required to have a criminal history record check under Title 22, section
+24 2425‑A, subsection 3‑A 2425-B.
+25 Sec. 11. 25 MRSA §1542-A, sub-§3, ¶R, as enacted by PL 2019, c. 343, Pt. G,
+26 §9; c. 399, §6; c. 402, §6; and c. 416, §6, is amended to read:
+27 R. The State Police shall take or cause to be taken the fingerprints of the person named
+28 in subsection 1, paragraph S at the request of that person or the Department of
+29 Administrative and Financial Services under Title 22, section 2425‑A, subsection 3‑A
+30 2425-B.'
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+33 SUMMARY
+3344 This amendment replaces the bill and changes the title. The amendment requires
+3355 anyone applying for or renewing a registry identification card or registration certificate
+3366 under the Maine Medical Use of Cannabis Act, except for assistants, to submit to a criminal
+3377 history record check. If a person applying for or renewing a registry identification card or
+3388 registration certificate is a business entity, every officer or director of the business entity is
+3399 also required to submit to a criminal history record check.
+4400 FISCAL NOTE REQUIRED
+4411 (See attached)
+Page 5 - 132LR1925(02)
+COMMITTEE AMENDMENT

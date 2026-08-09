@@ -1,0 +1,1246 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 597
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 23, 2026 597
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1442 - L.D. 2153
+An Act to Transfer the Responsibilities of the Governor's Energy Office to
+the Department of Energy Resources
+Be it enacted by the People of the State of Maine as follows:
+PART A
+Sec. A-1. 2 MRSA §6, sub-§3, as amended by PL 2025, c. 390, Pt. A, §1, is further
+amended to read:
+3. Range 89. The salaries of the following state officials and employees are within
+salary range 89:
+Director, Bureau of General Services;
+Director, Bureau of Alcoholic Beverages and Lottery Operations;
+State Budget Officer;
+State Controller;
+Director, Bureau of Forestry;
+Director, Office of Policy Innovation and the Future;
+Director, Governor's Energy Office;
+State Human Resources Officer;
+Director, Bureau of Parks and Lands;
+Director of the Governor's Office of Communications;
+Director, Bureau of Agriculture, Food and Rural Resources;
+Director, Bureau of Resource Information and Land Use Planning;
+Director, Office of Cannabis Policy;
+Executive Director, Office of Affordable Health Care; and
+Director, Maine Office of Community Affairs.
+Page 1 - 132LR2953(03)
+
+Sec. A-2. 2 MRSA §9, sub-§3, ¶C, as amended by PL 2025, c. 390, Pt. A, §§2 and
+3 and repealed by c. 476, Pt. A, §3, is repealed.
+Sec. A-3. 5 MRSA §931, sub-§1, ¶G, as amended by PL 2011, c. 655, Pt. D, §1,
+is further amended to read:
+G. Employees working in the Governor's office, and the Governor's Office of
+Communications, Governor's Energy Office and at the Blaine Mansion House;
+Sec. A-4. 5 MRSA §1591, sub-§5, as amended by PL 2019, c. 343, Pt. D, §3, is
+further amended to read:
+5. Executive Department. The Executive Department shall carry forward any
+General Fund balances remaining in the Administration - Executive - Governor's Office
+program, the Blaine House program, the Governor's Office of Communications program,
+and the Office of Policy Innovation and the Future program and the Governor's Energy
+Office program at the end of any fiscal year for use in the next fiscal year.
+Sec. A-5. 5 MRSA §3204, sub-§2, ¶F, as enacted by PL 2023, c. 643, Pt. DD, §2,
+is amended to read:
+F. Consult with and provide ongoing coordination with state agencies on programs
+and issues related to planning technical assistance and funding to communities in this
+State, including but not limited to the Department of Transportation; Department of
+Environmental Protection; Department of Marine Resources; Department of Inland
+Fisheries and Wildlife; Department of Agriculture, Conservation and Forestry;
+Department of Economic and Community Development; Department of Health and
+Human Services; Department of Defense, Veterans and Emergency Management,
+Maine Emergency Management Agency; Department of Public Safety; Department of
+Energy Resources; Maine State Housing Authority; Governor's Energy Office;
+Efficiency Maine Trust; the Maine Historic Preservation Commission; and the Maine
+Redevelopment Land Bank Authority.
+Sec. A-6. 7 MRSA §2, 4th ¶, as amended by PL 2019, c. 310, §1, is further amended
+to read:
+In addition, the commissioner shall be concerned with the quality of life of Maine
+farmers and rural communities. The commissioner shall promote: farm financing and rural
+development proposals; conservation and preservation of agricultural lands; increased and
+improved production of beef, poultry, sheep, dairy beef and other livestock; expanded and
+improved production of potatoes, fruits and other vegetables and horticultural ventures;
+coordinated foreign and domestic marketing of Maine agricultural products; in conjunction
+with the university University of Maine, crop development and integrated pest
+management; and conservation of nonrenewable energy resources and utilization of
+renewable energy resources in conjunction with the Governor's Energy Office Department
+of Energy Resources. To accomplish these objectives, the commissioner is authorized for,
+or on behalf of, Maine's farmers and rural community: to engage in research and
+educational programs; to participate directly or indirectly in programs to encourage and
+enable individuals to enter agricultural or other rural enterprises; to institute litigation or
+upon request to represent farmers or other members of the rural community in litigation
+where when the commissioner determines that such litigation may be beneficial to
+agricultural industry as a whole; and to exercise all other powers of an agency of State
+Page 2 - 132LR2953(03)
+
+Government. The commissioner may study such issues and, consistent with statute, take
+such actions either individually, for, or on behalf of, the State's farmers or rural residents,
+or jointly with such other persons, agencies or organizations as the commissioner
+determines may benefit the State's farmers and rural communities. To further accomplish
+these objectives, the commissioner is authorized beginning July 1, 1991, on behalf of the
+State's rural community, to administer food assistance programs including the receipt,
+distribution and administration of federal and state funds, including block grants, for food
+assistance.
+Sec. A-7. 10 MRSA §1044, sub-§12, ¶B, as amended by PL 2025, c. 390, Pt. A,
+§17, is further amended to read:
+B. Revenue obligation securities of the authority may not be issued until the Director
+of the Governor's Energy Office Commissioner of Energy Resources has reviewed and
+commented upon the project proposal. The director commissioner shall make
+comments within 30 days after receipt of a notification and copy of the project proposal
+from the authority. The authority shall take the comments into consideration in its
+processing of the project.
+Sec. A-8. 10 MRSA §1492, sub-§1, as amended by PL 2011, c. 655, Pt. MM, §9
+and affected by §26, is further amended to read:
+1. Solar energy equipment. "Solar energy equipment" means all controls, tanks,
+pumps, heat exchangers, collectors and all other equipment necessary for the collection,
+transfer and storage of solar energy, as determined by the Governor's Energy Office.
+Passive solar energy systems or those systems using natural means to collect, store and
+transfer solar energy may not be included under this chapter.
+Sec. A-9. 10 MRSA §9722, sub-§2, ¶I, as amended by PL 2011, c. 655, Pt. MM,
+§10 and affected by §26, is further amended to read:
+I. An energy efficiency representative, recommended by the Director of the Governor's
+Energy Office within the Executive Department Commissioner of Energy Resources,
+who has experience or expertise in the design or implementation of energy codes or in
+the application of energy efficiency measures in residential or commercial
+construction;
+Sec. A-10. 12 MRSA §407, as amended by PL 2021, c. 675, §1, is further amended
+to read:
+§407. Comprehensive river resource management plans
+The Department of Agriculture, Conservation and Forestry, with assistance from the
+Department of Inland Fisheries and Wildlife, the Department of Marine Resources, the
+Department of Environmental Protection, the Governor's Energy Office Department of
+Energy Resources and other state agencies as needed, shall develop, subject to the Maine
+Administrative Procedure Act, Title 5, chapter 375, a comprehensive river resource
+management plan for each watershed with a hydropower project licensed under the Federal
+Power Act or to be licensed under the Federal Power Act. These plans must provide a basis
+for state agency comments, recommendations and permitting decisions and at a minimum
+include, as applicable, minimum flows, impoundment level regimes, upstream and
+downstream fish passage, maintenance of aquatic habitat and habitat productivity, public
+access and recreational opportunities. These plans must update, complement and, after
+Page 3 - 132LR2953(03)
+
+public notice, comment and hearings in the watershed, be adopted as components of the
+State's comprehensive rivers management plan. A comprehensive river resource
+management plan adopted under this section is a major substantive rule as defined in Title
+5, chapter 375, subchapter 2‑A.
+Sec. A-11. 22 MRSA §666, sub-§2, as amended by PL 2011, c. 655, Pt. MM, §12
+and affected by §26, is further amended to read:
+2. Reports. The State Nuclear Safety Inspector, with the cooperation of the Director
+of Health Engineering, shall prepare a report of the safety inspector's activities under this
+chapter to be submitted July 1st of each year to the Governor's Energy Office Department
+of Energy Resources and the Legislature. The State Nuclear Safety Inspector shall prepare
+monthly reports for the Governor's Energy Office Department of Energy Resources, the
+President of the Senate and the Speaker of the House, with copies to the United States
+Nuclear Regulatory Commission and the facility licensee.
+Sec. A-12. 22 MRSA §676, sub-§6, as amended by PL 2011, c. 655, Pt. MM, §13
+and affected by §26, is further amended to read:
+6. Energy. The Governor's Energy Office Department of Energy Resources shall
+serve as liaison with the United States Department of Energy.
+Sec. A-13. 26 MRSA §3901, sub-§1, as enacted by PL 2025, c. 377, §1, is amended
+to read:
+1. Fact sheet and technical resource guide. The Department of Labor, in partnership
+with the Governor's Energy Office Department of Energy Resources, the Public Utilities
+Commission and the Office of Policy Innovation and the Future, or successor governmental
+departments and offices having jurisdiction over energy matters, shall develop a fact sheet
+and technical resource guide that clearly outlines the requirements, opportunities,
+expectations and responsibilities detailed in state labor laws, rules and priority selection
+opportunities for entities developing assisted projects, as defined in section 1304,
+subsection 1‑A, with a nameplate capacity of one megawatt or more in the State. The fact
+sheet and technical resource guide must:
+A. Incorporate relevant information included in the Department of Labor's training on
+wage and hour laws compliance, with a focus on state labor and workforce
+requirements and benchmarks related to energy projects and programs;
+B. Include relevant labor standards, benchmarks and other necessary commitments
+required by the State, the Public Utilities Commission, the University of Maine System
+and any other entity responsible for administering energy generation and transmission
+projects and programming in the State to receive preference or priority selection related
+to requests for proposals;
+C. Clearly outline the statutory labor requirements of contractors and subcontractors
+performing work on energy projects;
+D. Include information on statutory obligations of employers and the Department of
+Labor's enforcement procedures and penalties for violations; and
+E. Be updated as necessary and reviewed by the Department of Labor no less than
+once per calendar year.
+Page 4 - 132LR2953(03)
+
+The fact sheet and technical resource guide must be disseminated to entities developing
+assisted projects in the State no less than once per calendar year.
+Sec. A-14. 35-A MRSA §123, sub-§2, as enacted by PL 2023, c. 554, §1, is
+amended to read:
+2. Pilot program. The commission, in collaboration with the Governor’s Energy
+Office Department of Energy Resources and the Department of Environmental Protection,
+shall establish a pilot program in accordance with this section. The pilot program must be
+designed to allow the commission to select a proposal for a qualifying facility that meets
+the requirements of this section. The commission shall administer the program in
+accordance with this section and shall ensure that such administration is in the public
+interest and:
+A. Accounts for and is designed to advance the renewable energy and climate policies
+and goals of the State;
+B. Minimizes potential negative environmental and community effects;
+C. Maximizes air quality, health and workforce benefits; and
+D. Encourages high standards of safety performance.
+Sec. A-15. 35-A MRSA §123, sub-§4, as enacted by PL 2023, c. 554, §1, is
+amended to read:
+4. Proposal selection. If the commission, after consultation with the Governor’s
+Energy Office Department of Energy Resources and the Department of Environmental
+Protection, finds that a proposal for the development and operation of a qualifying facility
+meets the requirements of this section, the commission may select that qualifying facility
+for participation in the program.
+If more than one proposal for the development and operation of a qualifying facility meets
+the requirements of this section, the commission shall give preference to the proposal that
+provides the greatest benefit to ratepayers and is likely to result in the greatest reduction in
+greenhouse gas emissions.
+The commission shall, to the extent practicable, make a determination of whether to select
+a proposal under this subsection and provide notice of its decision to all facilities that
+submitted proposals to participate in the program within 120 days of the closing of the
+request for proposal process.
+The commission may not select more than one proposal for participation in the pilot
+program.
+Sec. A-16. 35-A MRSA §1714, sub-§1, ¶B, as enacted by PL 2021, c. 623, §2, is
+amended by amending subparagraph (2) to read:
+(2) The Director of the Governor’s Energy Office Commissioner of Energy
+Resources or the director’s commissioner's designee;
+Sec. A-17. 35-A MRSA §1904, first ¶, as amended by PL 2015, c. 445, §5, is
+further amended to read:
+The commission in consultation with the Public Advocate and the Governor's Energy
+Office Department of Energy Resources may execute an energy cost reduction contract or
+Page 5 - 132LR2953(03)
+
+a physical energy storage contract, or both, in accordance with this section. In no event
+may the The commission may not execute energy cost reduction contracts for the
+transmission of greater than a cumulative total of 200,000,000 cubic feet of natural gas per
+day. In no event may the The commission may not execute physical energy storage
+contracts for a total amount that exceeds $25,000,000 annually, and in no event may the
+total amount of all contracts entered into under this section may not exceed $75,000,000
+annually.
+Sec. A-18. 35-A MRSA §1904, sub-§1, ¶C, as enacted by PL 2013, c. 369, Pt. B,
+§1, is amended to read:
+C. In consultation with the Public Advocate and the Governor's Energy Office
+Department of Energy Resources, hire a consultant with expertise in natural gas
+markets to make recommendations regarding the execution of an energy cost reduction
+contract. The commission shall consider those recommendations as part of an
+adjudicatory proceeding under subsection 2.
+Sec. A-19. 35-A MRSA §3145, as amended by PL 2025, c. 105, §1, is further
+amended to read:
+§3145. State energy storage policy goals
+The state goal for energy storage system development is at least 300 megawatts of
+installed capacity located within the State by December 31, 2025 and at least 400
+megawatts of installed capacity located within the State by December 31, 2030. Beginning
+January 15, 2027, and every 2 years thereafter, when updating the state energy plan in
+accordance with Title 2, section 9, subsection 3, paragraph C section 10305, subsection 1,
+the Governor's Energy Office established in Title 2, section 9 Department of Energy
+Resources shall reevaluate and may increase the state goal for energy storage system
+development and shall, in the state energy plan, report any increase to the goal to the joint
+standing committee of the Legislature having jurisdiction over energy and utilities matters.
+For the purposes of this section, "energy storage system" has the same meaning as in section
+3481, subsection 6.
+Sec. A-20. 35-A MRSA §3147, sub-§4, ¶D, as amended by PL 2025, c. 293, §4
+and affected by §8, is further amended by amending subparagraph (1) to read:
+(1) Forecasts of projected load, including forecasts of end-use electrification,
+energy efficiency and distributed energy resources and, when appropriate,
+consideration of the energy forecasting method used to prepare the comprehensive
+state energy plan required pursuant to Title 2, section 9, subsection 3, paragraph C
+section 10305, subsection 1;
+Sec. A-21. 35-A MRSA §3209-H, sub-§2, ¶B, as enacted by PL 2025, c. 430,
+§11, is amended to read:
+B. The commission may initiate additional competitive solicitations in its sole
+discretion after consultation with the Governor's Energy Office Department of Energy
+Resources.
+Sec. A-22. 35-A MRSA §3209-I, sub-§2, as enacted by PL 2025, c. 430, §12, is
+amended to read:
+Page 6 - 132LR2953(03)
+
+2. Program design; implementation. The Governor's Energy Office Department of
+Energy Resources shall design a program or programs to encourage the development of
+front of the meter distributed energy resources in the State and submit the proposed
+program or programs to the commission. If the commission finds that a program or
+programs proposed by the office Department of Energy Resources provide benefits to
+ratepayers in the State in excess of the costs to ratepayers, the commission shall by rule
+implement the program or programs.
+Sec. A-23. 35-A MRSA §3210, sub-§2, ¶A-4, as enacted by PL 2025, c. 386, §3,
+is amended by amending subparagraph (3) to read:
+(3) Generates electric energy in a manner that, as determined by the Department
+of Environmental Protection, produces no more than a de minimis level of net
+greenhouse gas emissions and co-pollutant emissions at the point of generation and
+from the fuel supply chain of the facility and has been certified by the Governor's
+Energy Office Department of Energy Resources in accordance with rules adopted
+by the Department of Environmental Protection in accordance with this subsection.
+Sec. A-24. 35-A MRSA §3210, sub-§2, as amended by PL 2025, c. 386, §§3 to 6,
+is further amended by amending the 2nd blocked paragraph to read:
+The Department of Environmental Protection, in coordination with the Governor's Energy
+Office Department of Energy Resources, shall establish by rule standards and procedures
+necessary to implement the definition under paragraph A‑4 and verification standards
+necessary for purposes of paragraph A‑5. Rules adopted under this subsection are routine
+technical rules pursuant to Title 5, chapter 375, subchapter 2‑A.
+Sec. A-25. 35-A MRSA §3210, sub-§3-B, ¶B, as enacted by PL 2019, c. 477, §1,
+is amended by amending subparagraph (3) to read:
+(3) If the commission suspends any scheduled increases in the portfolio
+requirements under paragraph A pursuant to subparagraph (1) or (2), the
+commission shall report its rationale for suspension to the joint standing committee
+of the Legislature having jurisdiction over energy and utilities matters, the
+Governor's Energy Office Department of Energy Resources and the Office of the
+Public Advocate and make recommendations for modifications to the schedule of
+increases. The commission may resume increases, limited to no more than one
+percentage point per year over the previous year, in the portfolio requirements after
+a minimum of one year unless otherwise directed by the Legislature.
+Sec. A-26. 35-A MRSA §3210, sub-§3-D, ¶B, as enacted by PL 2025, c. 386, §8,
+is amended by amending subparagraph (3) to read:
+(3) If the commission suspends any scheduled increases in the portfolio
+requirements under paragraph A pursuant to subparagraph (1) or (2), the
+commission shall report its rationale for suspension to the joint standing committee
+of the Legislature having jurisdiction over energy and utilities matters, the
+Governor's Energy Office Department of Energy Resources and the Office of the
+Public Advocate and make recommendations for modifications to the schedule of
+increases. The commission may resume increases, limited to no more than one
+percentage point per year over the previous year, in the portfolio requirements after
+a minimum of one year unless otherwise directed by the Legislature.
+Page 7 - 132LR2953(03)
+
+Sec. A-27. 35-A MRSA §3210, sub-§11, as amended by PL 2025, c. 386, §12, is
+further amended to read:
+11. Report; renewable energy credit portfolio requirements. By March 31, 2024
+and every 3 years thereafter, the Governor's Energy Office Department of Energy
+Resources shall submit a report to the joint standing committee of the Legislature having
+jurisdiction over energy matters based on a review, conducted in consultation with the
+commission, of the status and impacts of the implementation of the portfolio requirements
+under subsections 3, 3‑A, 3‑B, 3‑C and 3‑D. The review must be completed through a
+public process and must include consideration of impacts of these renewable portfolio
+requirements on energy prices and assessment of benefits, including, but not limited to, on
+greenhouse gas emissions and the economy of the State. After reviewing the report
+required under this subsection, the committee may report out legislation regarding
+renewable portfolio requirements.
+Sec. A-28. 35-A MRSA §3210-I, sub-§1, ¶F, as enacted by PL 2023, c. 660, §6,
+is amended to read:
+F. In collaboration with the Governor's Energy Office Department of Energy
+Resources, established in Title 2, section 9, seek to partner with other states,
+governmental entities or utilities within New England in the development of requests
+for proposals and the evaluation of proposals received in response to a request for
+proposals for a transmission line or lines under subsection 2 and renewable energy
+generation projects under subsection 3.
+Sec. A-29. 35-A MRSA §3210-I, sub-§2, ¶A-1, as enacted by PL 2023, c. 660,
+§7, is amended to read:
+A-1. The commission may coordinate with other states, governmental entities or
+utilities within New England in the development of a request for proposals pursuant to
+this subsection and in the evaluation of proposals received in response to a request for
+proposals. The commission shall allow the Governor's Energy Office Department of
+Energy Resources and the Office of the Public Advocate to review the proposals
+submitted pursuant to this subsection. The Governor's Energy Office Department of
+Energy Resources and the Office of the Public Advocate may provide input to the
+commission upon review of the proposals, which may include an assessment as to
+whether any proposals submitted are consistent with the goals of the program as
+described in this section. If a proposal includes confidential or proprietary information,
+trade secrets or similar matters as provided by the Maine Rules of Civil Procedure,
+Rule 26(c), the commission may issue appropriate protective orders in accordance with
+section 1311‑A with respect to those portions of the proposal.
+Sec. A-30. 35-A MRSA §3210-I, sub-§3, ¶A-1, as enacted by PL 2023, c. 660,
+§8, is amended to read:
+A-1. The commission may coordinate with other states, governmental entities or
+utilities within New England in the development of a request for proposals pursuant to
+this subsection and in the evaluation of proposals received in response to a request for
+proposals. The commission shall allow the Governor's Energy Office Department of
+Energy Resources and the Office of the Public Advocate to review the proposals
+submitted pursuant to this subsection. The Governor's Energy Office Department of
+Page 8 - 132LR2953(03)
+
+Energy Resources and the Office of the Public Advocate may provide input to the
+commission upon review of the proposals, which may include an assessment as to
+whether any proposals submitted are consistent with the goals of the program as
+described in this section. If a proposal includes confidential or proprietary information,
+trade secrets or similar matters as provided by the Maine Rules of Civil Procedure,
+Rule 26(c), the commission may issue appropriate protective orders in accordance with
+section 1311‑A with respect to those portions of the proposal.
+Sec. A-31. 35-A MRSA §3401-A, sub-§14, as enacted by PL 2023, c. 481, §2, is
+repealed.
+Sec. A-32. 35-A MRSA §3404, sub-§2, as repealed and replaced by PL 2023, c.
+481, §3, is amended by amending the first blocked paragraph to read:
+Beginning January 1, 2025 and every 2 years thereafter, the office department may
+reevaluate and increase the goal established by this subsection and report that goal to the
+joint standing committee of the Legislature having jurisdiction over energy and utilities
+matters.
+Sec. A-33. 35-A MRSA §3405, sub-§3, ¶D, as enacted by PL 2021, c. 407, §2, is
+amended to read:
+D. The licensing, permitting or approval by a state agency or municipality or other
+political subdivision of the State of the siting, construction or operation of or the
+issuance of a lease or the grant of an easement or other real property interest for utility
+cables or transmission lines that are intended to support generation of electricity from
+offshore wind energy facilities located seaward of the territorial waters if, by March 1,
+2023:
+(1) The former Governor's Energy Office has completed a strategic plan to inform
+the development of offshore wind power projects that minimizes conflict with
+existing maritime industries, particularly fishing; identifies opportunities to
+preserve existing maritime businesses and jobs; and maximizes jobs, investment,
+new technologies and sustainability;
+(2) The former Governor's Energy Office, in consultation with other state
+agencies, has conducted a review of applicable state laws and rules to determine
+whether the existing offshore wind energy statutory and regulatory framework
+protects the State's coastal resources in a manner that avoids or minimizes adverse
+effects on coastal resources and users from the development of offshore wind
+power projects located seaward of the territorial waters; and
+(3) The former Governor's Energy Office, with input from the advisory board of
+the Offshore Wind Research Consortium established in section 3406, has identified
+the preliminary research questions the consortium seeks to answer regarding the
+development of offshore wind power projects.
+The Governor's Energy Office shall submit a report to the joint standing committee
+of the Legislature having jurisdiction over energy and utility matters when the
+conditions established under subparagraphs (1) to (3) are met.
+Sec. A-34. 35-A MRSA §3406, sub-§1, as amended by PL 2023, c. 481, §4, is
+further amended to read:
+Page 9 - 132LR2953(03)
+
+1. Offshore Wind Research Consortium. The Offshore Wind Research Consortium
+is an initiative of the office department, in collaboration with the Department of Marine
+Resources and the Department of Inland Fisheries and Wildlife, to coordinate, support and
+arrange for the conduct of research on offshore wind power projects in the Gulf of Maine.
+Sec. A-35. 35-A MRSA §3406, sub-§2, as amended by PL 2023, c. 481, §4, is
+further amended to read:
+2. Advisory board. The office department, in consultation with independent scientific
+experts, shall establish an advisory board of the consortium to oversee the development and
+execution of a research strategy to better understand the local and regional impacts of
+floating offshore wind power projects in the Gulf of Maine. The advisory board must
+include, but is not limited to, the following members:
+A. Two individuals from organizations that represent commercial lobster harvesting
+interests in the State;
+B. At least one individual from an organization that represents the interest of
+commercial fisheries other than lobster harvesting;
+C. The Commissioner of Marine Resources, or the commissioner's designee;
+C-1. The Commissioner of Inland Fisheries and Wildlife, or the commissioner's
+designee;
+D. Two individuals, not represented by an organization, that represent the interests of
+the commercial lobster harvesting industry and commercial fisheries in the State;
+E. One individual from the recreational charter fishing industry;
+F. At least one individual who is a member of one of the federally recognized Indian
+tribes in this State;
+G. Two individuals with expertise in marine wildlife and habitats; and
+H. At least one individual with experience in commercial offshore wind power
+development.
+The advisory board is subject to all applicable provisions of the Freedom of Access Act.
+The operation of the advisory board must be informed by the work of regional and national
+scientific entities. The advisory board shall solicit input from stakeholders, including
+representatives of the fishing industry, state and federal agencies and scientific experts.
+Sec. A-36. 35-A MRSA §3406, sub-§3, as amended by PL 2023, c. 481, §4, is
+further amended by amending the first blocked paragraph to read:
+The advisory board shall advise the office department on the development of the
+components of the research strategy.
+Sec. A-37. 35-A MRSA §3406, sub-§4, as amended by PL 2023, c. 481, §4, is
+further amended to read:
+4. Offshore Wind Research Consortium Fund; established. The Offshore Wind
+Research Consortium Fund, referred to in this subsection as "the fund," is established as a
+nonlapsing fund administered by the office department and the Department of Marine
+Resources and in coordination with the Department of Inland Fisheries and Wildlife. The
+fund consists of funds that are appropriated by the Legislature, funds received from federal
+Page 10 - 132LR2953(03)
+
+and state sources, payments from offshore wind power projects in accordance with section
+3408, subsection 1, paragraph D, subparagraph (3) and other funds from any public or
+private source received for use for any of the purposes under this subsection. The source
+of any funds received from public or private sources must be publicly disclosed. The fund
+may be used to support the consortium and the work of the advisory board established in
+subsection 2, including for:
+A. Developing the research strategy under subsection 3;
+B. Conducting research pursuant to the strategy developed under subsection 3;
+B-1. Supporting conservation actions and projects that support species and habitats
+impacted by offshore wind power development;
+C. Producing reports or other materials;
+D. Compensating independent experts, if needed to assist in the development or
+execution of the research strategy under subsection 3; and
+E. Making any other expenditures that are necessary to achieve the purposes of this
+section.
+The office department, in consultation with the advisory board, shall provide an annual
+report on the use of the fund in the last quarter of each calendar year to the joint standing
+committee of the Legislature having jurisdiction over energy and utility matters.
+Sec. A-38. 35-A MRSA §3407, as enacted by PL 2023, c. 481, §5, is amended to
+read:
+§3407. Maine Offshore Wind Renewable Energy and Economic Development
+Program
+1. Program established. The Maine Offshore Wind Renewable Energy and
+Economic Development Program, referred to in this section as "the program," is established
+to further the development and use of offshore wind power projects in the Gulf of Maine.
+The office department, in collaboration with the commission, shall administer the program
+in accordance with this section and shall ensure that the program is designed to advance
+the greenhouse gas emissions reduction obligations and climate policies of this State under
+Title 38, section 576‑A and Title 38, section 577, the renewable energy goals established
+in section 3210, subsection 1‑A and all applicable workforce development efforts of this
+State. Under the program, the office department, in collaboration with the commission,
+shall:
+A. Encourage the responsible development of offshore wind power projects to stabilize
+energy supply prices, reduce this State's reliance on imported fossil fuels, realize direct
+and near-term economic benefits for the people of this State and ensure the
+achievement of this State's wind energy generation goal established in section 3404,
+subsection 2;
+B. Support offshore wind power projects that result in long-term, family-supporting
+careers, including for disadvantaged populations and communities;
+C. Support responsibly sited and operated offshore wind power projects that avoid or
+minimize and compensate for impacts to wildlife, habitat, fisheries and coastal
+communities in the Gulf of Maine;
+Page 11 - 132LR2953(03)
+
+D. Support efforts to increase understanding of impacts of offshore wind power
+projects on the marine environment and to advance research to better understand how
+offshore wind power projects can coexist with minimal impact to existing ocean users,
+wildlife, fisheries and the marine environment;
+E. Promote diversity, equity and inclusion in the development of offshore wind power
+projects with particular consideration given to the energy and economic circumstances
+and opportunities in coastal and socially vulnerable communities and for the federally
+recognized Indian tribes in this State. For the purposes of this paragraph, "socially
+vulnerable communities" means those communities containing populations that are
+disproportionately burdened by existing social inequities or lack the capacity to
+withstand new or worsening burdens;
+F. Support the advancement of port infrastructure, local offshore wind power-related
+economic development and the development of a supply chain to support the
+development of offshore wind power projects;
+G. Support the development and deployment of innovative technologies to achieve the
+energy policy and economic development objectives of this State, including energy
+storage;
+H. Support the use of Maine-based technical and engineering expertise and build on
+this State's leadership in offshore wind power, maritime industries and research and
+development;
+I. Support the development of transmission infrastructure necessary for this State to
+expeditiously meet its renewable energy and climate goals, including advancing the
+development of shared or regional offshore wind power transmission infrastructure;
+J. Collaborate with other states or entities when appropriate on regional issues,
+including, but not limited to, transmission, procurement, supply chain and workforce
+development and research and monitoring relating to wildlife, fisheries and the Gulf of
+Maine ecosystem;
+K. Support responsibly sited offshore wind power projects with generation facilities
+located in areas outside of the area of the Gulf of Maine where the majority of lobster
+fishing or other significant commercial fishing occurs;
+L. Coordinate the activities of state agencies that are affected by the development of
+offshore wind power projects, including, but not limited to, the Department of
+Economic and Community Development, the Department of Labor, the Department of
+Marine Resources, the Department of Transportation, the Department of Inland
+Fisheries and Wildlife and the Department of Environmental Protection; and
+M. Support the development of deep-water offshore wind power projects and
+transmission infrastructure in the Gulf of Maine that serve the public interest by
+advancing the renewable energy and climate policies and economic development goals
+of this State and helping to reduce energy price volatility.
+2. Federal lease stipulations. The office department, in consultation with other state
+agencies, including, but not limited to, the Department of Marine Resources, shall advocate
+for the inclusion in any leases issued by a federal agency for offshore wind energy
+production in federal waters provisions that will:
+Page 12 - 132LR2953(03)
+
+A. Support economic development, including the development of port infrastructure;
+B. Promote public communications plans about the leased activity;
+C. Ensure appropriate engagement with federally recognized Indian tribes in this State;
+D. Include adequate transmission planning;
+E. Result in access to research conducted in connection with the lease; and
+F. Maximize mitigation of and compensation for impacts to coastal communities,
+wildlife, fisheries and the marine environment.
+Sec. A-39. 35-A MRSA §3408, sub-§1, as enacted by PL 2023, c. 481, §6, is
+amended to read:
+1. Preparation of requests for proposals; offshore wind power projects. The office
+department shall establish a schedule for competitive solicitations for the development and
+construction of offshore wind power projects to meet the objectives of the program as
+described in section 3407. The office department shall prepare, in consultation with
+appropriate state agencies, a request for proposals to implement each competitive
+solicitation. Upon developing a request for proposals for a competitive solicitation under
+this section, the office department shall submit the request for proposals to the commission
+for approval.
+A. A competitive solicitation under this section must specify the date on which a
+subsequent solicitation must be initiated and the specified date must be within 36
+months of a previous solicitation.
+B. The office department shall make reasonable efforts to consult with entities within
+this State, including, but not limited to, the commission, the Office of the Public
+Advocate and entities included in section 3407, subsection 1, paragraph L, and other
+states or entities regarding coordinated competitive solicitations.
+C. A competitive solicitation under this section must seek proposals for offshore wind
+power projects with not less than approximately 600 megawatts of nameplate capacity
+or of sufficient size to enable cost-competitive commercial-scale development. A
+competitive solicitation developed in coordination with other states or entities may
+seek proposals for offshore wind power projects with a nameplate capacity of less than
+600 megawatts if the coordinated solicitation is in an aggregate amount sufficient to
+enable cost-competitive commercial-scale development.
+D. A solicitation under this section must specify bidder criteria, including:
+(1) Submission of plans that meet or exceed state and federal requirements or
+guidelines and are consistent with the recommendations in the Maine Offshore
+Wind Roadmap issued by the office former Governor's Energy Office in February
+2023:
+(a) To ensure stakeholder engagement, capacity building and equity with
+particular consideration given to the energy and economic circumstances and
+opportunities in coastal and socially vulnerable communities, as defined in
+section 3407, subsection 1, paragraph E;
+Page 13 - 132LR2953(03)
+
+(b) To achieve economic and community benefits, including, but not limited
+to, investments in and development of ports, supply chains and the necessary
+workforce;
+(c) To achieve diversity, equity and inclusion in employment and contracting
+for the project;
+(d) To provide for fisheries research, monitoring and mitigation; and
+(e) To provide for environmental and wildlife research, monitoring, mitigation
+and conservation;
+(2) A fishing communities investment plan, as described in subsection 4;
+(3) An agreement by the responsible entity, if it is approved for a contract under
+this section, to pay an amount set in the solicitation of at least $5,000 per megawatt
+of the offshore wind power project's nameplate capacity to the Offshore Wind
+Research Consortium Fund in accordance with section 3406, subsection 4;
+(4) An agreement by the responsible entity, if it is approved for a contract under
+this section, to provide financial and technical assistance necessary to implement
+the plans listed in subparagraphs (1) and (2); and
+(5) Workforce requirements, as described in subsection 3.
+The office department may waive any of the requirements of this paragraph if the office
+department determines that applicable federal criteria, including, but not limited to,
+federal lease provisions, adequately achieve the applicable requirement.
+E. A competitive solicitation under this section must be announced, prior to issuance,
+through a notice of intent and made available in draft form, including the criteria for
+the plans required pursuant to paragraph D, for public comment. The office department
+shall:
+(1) Conduct at least 2 public comment sessions on the solicitation, at least one of
+which must be in person, in advance of the publication of a draft solicitation to
+assist in the development of the contents of the draft solicitation;
+(2) Respond in writing to the comments received regarding the draft solicitation;
+(3) Coordinate with the Department of Economic and Community Development,
+the Department of Marine Resources, the Department of Transportation, the
+Department of Inland Fisheries and Wildlife and the Department of Environmental
+Protection on the development of the criteria for the plans required pursuant to
+paragraph D;
+(4) Coordinate with the Department of Agriculture, Conservation and Forestry to
+ensure submerged lands leasing rates and fees, as described in Title 12, section
+1862, are aligned with the goals of the program as described in section 3407 and
+reflect a fair market rate considering fees set by other states in the region for the
+use of submerged lands in connection with an offshore wind power project;
+(5) Seek public input on appropriate contracting mechanisms for inclusion in the
+solicitations to address market dynamics and impacts to ratepayers, including, but
+not limited to, indexing and price adjustments;
+Page 14 - 132LR2953(03)
+
+(6) Request comments on the draft solicitation from each federally recognized
+Indian tribe in this State and the Maine Indian Tribal-State Commission; and
+(7) In developing the plan criteria for the plans required pursuant to paragraph D,
+consider all comments received under subparagraph (6).
+Sec. A-40. 35-A MRSA §3408, sub-§2, as amended by PL 2025, c. 476, Pt. A,
+§12, is further amended to read:
+2. Requests for proposals; offshore wind power projects. The commission shall
+review a solicitation developed by the department or the former Governor's Energy Office
+under subsection 1 and, upon finding that the solicitation is reasonably likely to attract
+competitive bids and further the objectives of the program as described in section 3407,
+shall authorize the department to issue a request for proposals in accordance with this
+subsection.
+A. The office former Governor's Energy Office shall file with the commission the first
+solicitation by July 1, 2025 unless another date is established by mutual agreement
+between the office former Governor's Energy Office and the commission.
+B. The department shall issue the first request for proposals by the later of January 15,
+2026 and 3 months after the first auction by the federal Department of the Interior,
+Bureau of Ocean Energy Management for offshore wind power leases in the Gulf of
+Maine.
+C. If, within any 3-year period between January 15, 2026 and January 1, 2039, the
+commission has not found a solicitation submitted by the department to be reasonably
+likely to further the objectives of the program as described in section 3407, the
+commission shall expeditiously develop and issue a request for proposals consistent
+with the requirements of this section.
+D. The commission shall review and make a determination regarding a solicitation
+submitted by the office former Governor's Energy Office or the department within 120
+days of the date of submission unless a longer period is requested by the department.
+E. If the commission determines that a contract for an amount greater than those
+specified in subsection 1, paragraph C is in the public interest, it may authorize the
+department to select resources and the commission may approve contracts accordingly.
+F. In conducting a solicitation and selecting offshore wind power projects under this
+section, the department shall ensure that selected projects result in contracts that are
+cost-effective for electric ratepayers over the term of the contract, taking into
+consideration potential quantitative and qualitative economic, environmental and other
+benefits to ratepayers.
+The department shall give priority to offshore wind power projects that:
+(1) Have generation facilities located outside of Lobster Management Area 1;
+(2) Include agreements compliant with subsection 3 or 29 United States Code,
+Section 158(f) and are open to disadvantaged business enterprises and small
+businesses;
+(3) Provide employment and contracting opportunities for:
+(a) Members of federally recognized Indian tribes in this State;
+Page 15 - 132LR2953(03)
+
+(b) Workers from disadvantaged communities as defined by:
+(i) The United States Council on Environmental Quality's climate and
+economic justice screening tool or by an agency of this State using
+standards similar to those in the screening tool as determined by the
+commission;
+(ii) The United States Department of Commerce, Economic Development
+Administration's economic distress criteria; or
+(iii) The United States Department of Energy's disadvantaged community
+criteria; and
+(c) Certified businesses;
+(4) Provide community benefits, as determined preconstruction through
+consultation with federally recognized Indian tribes in this State, a stakeholder
+engagement process that includes disadvantaged communities, as described in
+subparagraph (3), division (b), and investments in fishing communities;
+(5) Provide financial contributions or technical assistance to support research,
+monitoring and mitigation of impacts to wildlife, fisheries and habitats and the
+minimization of environmental impacts from the offshore wind power project and
+related transmission and interconnection infrastructure;
+(6) Provide economic benefits to the State, including using an offshore wind port
+located in this State;
+(7) Maximize the hiring of residents of this State;
+(8) Maximize economic, employment and contracting opportunities for residents
+of this State and all businesses in this State; and
+(9) Provide ratepayer benefits, including, but not limited to, enhanced electric
+reliability, resource adequacy including contributing to reducing winter electricity
+price spikes and overall price impacts, avoidance of line loss and mitigation of
+transmission costs to the extent possible.
+G. The commission shall review and approve the contracts upon a finding that the
+contracts meet the requirements of this section.
+H. If, at the close of a competitive bidding process conducted under this section, the
+department determines that the proposals submitted do not satisfy the requirements of
+paragraph F, the department shall reject all proposals and shall open a new competitive
+bidding process under this subsection.
+I. Notwithstanding Title 5, section 8071, subsection 3, the department, after
+consultation with the commission, may establish by rule reasonable fees that bidders
+must submit with proposals for offshore wind power projects. Fees collected pursuant
+to this paragraph may be used for the administration of this section, section 3406 and
+section 3407. Upon request of the commission, the department may transfer fees
+collected in accordance with this paragraph to the commission for the administration
+of this section, section 3406 and section 3407.
+Sec. A-41. 35-A MRSA §3408, sub-§5, as enacted by PL 2023, c. 481, §6, is
+amended to read:
+Page 16 - 132LR2953(03)
+
+5. Funding. Notwithstanding section 116, subsection 4, upon receiving a written
+request from the office department, the commission may provide reasonable funding to the
+office department for the purposes of implementing the requirements of this section.
+Sec. A-42. 35-A MRSA §3409, first ¶, as enacted by PL 2023, c. 481, §7, is
+amended to read:
+The commission, in coordination with the office department, shall seek to advance
+regional transmission solutions to interconnect offshore wind power with transmission and
+distribution utilities, other New England states or entities and the independent system
+operator of the New England bulk power system or a successor organization.
+Sec. A-43. 35-A MRSA §3409, sub-§1, ¶B, as enacted by PL 2023, c. 481, §7, is
+amended to read:
+B. The commission shall coordinate with the office department and may coordinate
+with other entities, including, but not limited to, transmission and distribution utilities,
+other New England states and the independent system operator of the New England
+bulk power system or a successor organization, in the solicitation and selection of
+proposals under this section.
+Sec. A-44. 35-A MRSA §3454, first ¶, as repealed and replaced by PL 2021, c.
+293, Pt. A, §47, is amended to read:
+In making findings pursuant to Title 38, section 484, subsection 3, the primary siting
+authority shall presume that an expedited wind energy development provides energy and
+emissions-related benefits described in section 3402 and shall make additional findings
+regarding other tangible benefits provided by the development. The Department of Labor,
+the Governor's Energy Office Department of Energy Resources and the Public Utilities
+Commission shall provide review comments if requested by the primary siting authority.
+Sec. A-45. 35-A MRSA §3454, sub-§5, as amended by PL 2019, c. 343, Pt. D,
+§16, is further amended to read:
+5. Promoting economic development and resource conservation; assistance to
+host communities. To the extent practicable within existing resources, the Department of
+Economic and Community Development, the Governor's Energy Office Department of
+Energy Resources and the Governor's Office of Policy Innovation and the Future shall
+provide, upon the request of a host community, assistance for the purpose of helping the
+host community maximize the economic development and resource conservation benefits
+from tax payments and payments made pursuant to a community benefit agreement or a
+community benefits package in connection with expedited wind energy developments. As
+part of this assistance, the department and the Department of Economic and Community
+Development shall support host communities in identifying additional funding and
+developing regional economic and natural resource conservation strategies.
+Sec. A-46. 35-A MRSA §3802, sub-§2, as enacted by PL 2023, c. 328, §1, is
+repealed.
+Sec. A-47. 35-A MRSA §3802, sub-§2-A is enacted to read:
+2-A. Department. "Department" means the Department of Energy Resources.
+Page 17 - 132LR2953(03)
+
+Sec. A-48. 35-A MRSA §3803, sub-§2, ¶A, as enacted by PL 2023, c. 553, §3, is
+amended by amending subparagraph (3) to read:
+(3) Integrate the ongoing energy planning efforts of the office department as
+appropriate.
+Sec. A-49. 35-A MRSA §3803, sub-§2, ¶B, as enacted by PL 2023, c. 553, §3, is
+amended by amending subparagraph (1) to read:
+(1) Incorporating the assumptions and advancing the findings and
+recommendations of the office former Governor's Energy Office in its "Maine
+Energy Plan: Pathway to 2040" study launched in August 2023, part of the
+comprehensive state energy plan required by Title 2, former section 9, subsection
+3, paragraph C;
+Sec. A-50. 35-A MRSA §3803, sub-§3, as amended by PL 2025, c. 476, Pt. A,
+§14, is further amended to read:
+3. Funding and reporting. Notwithstanding sections 116 and 117, at the request of
+the trust, the commission may transfer money from funds in the Public Utilities
+Commission Regulatory Fund or the Public Utilities Commission Reimbursement Fund to
+the trust to implement the 3-year beneficial electrification plan included in the triennial
+plan under subsection 2. At the end of any year in which the commission has transferred
+money under this subsection to the office former Governor's Energy Office, the department
+or the trust, the office former Governor's Energy Office, the department or the trust,
+respectively, shall provide a report to the commission detailing its fund requests, money
+received and expenditures.
+Sec. A-51. 35-A MRSA §3803, sub-§4, as enacted by PL 2023, c. 328, §1, is
+amended to read:
+4. Monitoring beneficial electrification trends and opportunities. To the extent
+possible through readily available information, the office department, the commission and
+the trust shall coordinate to monitor:
+A. All beneficial electrification activity in the State and the effect of the commission's
+actions under section 3804;
+B. Trends in beneficial electrification in the State and in other jurisdictions; and
+C. The estimated costs and benefits for ratepayers of beneficial electrification
+programs occurring as a result of this chapter and other programs that have been
+implemented in the State.
+Sec. A-52. 35-A MRSA §3805, sub-§2, as enacted by PL 2023, c. 328, §1, is
+amended to read:
+2. Office Department report. The office department shall include in its annual report
+under Title 2, section 9, subsection 3, paragraph C‑1 section 10305, subsection 3 a summary
+of its activities in accordance with this chapter.
+Sec. A-53. 35-A MRSA §4131, sub-§3, ¶C, as amended by PL 2011, c. 655, Pt.
+MM, §17 and affected by §26, is further amended to read:
+Page 18 - 132LR2953(03)
+
+C. The Director of the Governor's Energy Office Commissioner of Energy Resources,
+or another employee of that office the Department of Energy Resources, as the director
+Commissioner of Energy Resources may from time to time designate in writing filed
+with the clerk of the agency, shall serve as a member of the board of directors.
+Sec. A-54. 35-A MRSA §10103, sub-§2, ¶A, as repealed and replaced by PL
+2013, c. 424, Pt. B, §14, is amended by amending subparagraph (1) to read:
+(1) The Director of the Governor's Energy Office Commissioner of Energy
+Resources;
+Sec. A-55. 35-A MRSA §10104, sub-§4, as amended by PL 2021, c. 693, §7, is
+further amended to read:
+4. Triennial plan. The board shall vote on a detailed, triennial plan that includes the
+quantifiable performance metrics developed under subsection 3 and make a full report of
+the vote to the commission in accordance with this subsection. The triennial plan must
+provide integrated planning, program design and implementation strategies for all energy
+efficiency, alternative energy resources and conservation programs administered by the
+trust, including but not limited to the electric efficiency and conservation programs under
+section 10110, the natural gas efficiency and conservation programs under section 10111,
+the Regional Greenhouse Gas Initiative Trust Fund under section 10109, the Heating Fuels
+Efficiency and Weatherization Fund under section 10119 and any state or federal funds or
+publicly directed funds accepted by or allocated to the trust for the purposes of this chapter.
+The triennial plan must include provisions for the application of appropriate program funds
+to support workforce development efforts that are consistent with and promote the purposes
+of the trust. The plan must take into consideration the comprehensive state energy plan
+pursuant to Title 2, section 9, subsection 3, paragraph C section 10305, subsection 1. The
+plan must include, but is not limited to, efficiency and conservation program budget
+allocations, objectives, targets, performance metrics, program designs, program
+implementation strategies, timelines and other relevant information.
+A. The triennial plan must be developed by the trust, in consultation with entities and
+agencies engaged in delivering efficiency programs in the State, to authorize and
+govern or coordinate implementation of energy efficiency and weatherization
+programs in the State. The triennial plan must identify the maximum achievable cost-
+effective energy efficiency savings, as defined by rule by the trust, and related
+programs that could be implemented pursuant to sections 10110 and 10111, the costs
+and benefits of such programs and the basis and support for such identified costs and
+benefits. The trust shall conduct an evaluation of the maximum cost-effective potential
+for electrical and natural gas energy efficiency savings in the State at least once every
+3 years.
+(1) Transmission and distribution utilities and natural gas utilities shall furnish
+data to the trust that the trust requests under this subsection to develop and
+implement the triennial plan or conduct the evaluation of all cost-effective potential
+for electrical and natural gas energy efficiency savings subject to such confidential
+treatment as a utility may request and the board determines appropriate pursuant to
+section 10106. The costs of providing the data are deemed reasonable and prudent
+expenses of the utilities and are recoverable in rates.
+Page 19 - 132LR2953(03)
+
+(2) Unless prohibited by federal law, the Maine State Housing Authority and the
+Department of Health and Human Services shall furnish to the trust data pertaining
+to the identity, location and contact information, but not including income or asset
+information, of households that qualify for low-income programs, as determined
+necessary by the trust to develop and implement the triennial plan and to evaluate
+program effectiveness. Data received pursuant to this subparagraph is deemed to
+be received by the commission and is subject to a protective order issued by the
+commission pursuant to section 1311‑A.
+B. In developing the triennial plan, the staff of the trust shall consult the board and
+provide the opportunity for the board to provide input on drafts of the plan.
+B-1. In developing the triennial plan, the trust shall provide the joint standing
+committee of the Legislature having jurisdiction over energy matters an opportunity to
+provide input on the plan, which may occur at the same time the trust consults with
+other entities in the development of the plan.
+C. The board shall review and approve the triennial plan by affirmative vote of 2/3 of
+the trustees upon a finding that the plan is consistent with the statutory authority for
+each source of funds that will be used to implement the plan, advances the state energy
+efficiency targets in paragraph F, reflects the best practices of program administration
+under subsection 2 and is consistent with the provisions of this section.
+D. Prior to submission of the triennial plan to the commission, the trust shall offer to
+provide a detailed briefing on the draft plan to the joint standing committee of the
+Legislature having jurisdiction over energy matters and, at the request of the
+committee, shall provide such a briefing and opportunity for input from the committee.
+After providing such opportunity for input and making any changes as a result of any
+input received, the board shall deliver the plan to the commission for its review and
+approval. At the request of the trust or any party to the triennial plan, the commission
+shall open an adjudicatory proceeding to review the triennial plan. If an adjudicatory
+proceeding is not requested, the commission may use an adjudicatory proceeding or
+other process to review the triennial plan. The commission shall review the triennial
+plan to determine whether it will capture the maximum achievable cost-effective
+energy efficiency savings. In conducting the review, the commission shall defer to the
+trust's calculations of energy savings as long as the calculations were conducted
+consistent with rules of the trust and are supported by evidence in the record and the
+trust used a reasonable and transparent process to make the technical determinations
+necessary to make those calculations. The commission shall reject elements of the plan
+that propose to use funds generated pursuant to sections 3210‑C, 10110, 10111 or
+10119 if the plan fails to reasonably explain how these elements of the program would
+achieve the objectives and implementation requirements of the programs established
+under those sections or the performance metrics under subsection 3. If the commission
+approves the triennial plan, the commission shall issue the appropriate orders to
+transmission and distribution utilities and natural gas utilities for the procurement of
+energy efficiency resources identified within the plan pursuant to section 10110,
+subsection 4‑A and section 10111, subsection 2. If the commission rejects the triennial
+plan, the commission shall issue an order stating the reasons for the rejection. Funds
+generated under these statutory authorities may not be used pursuant to the triennial
+plan unless those elements of the plan proposing to use the funds have been approved
+Page 20 - 132LR2953(03)
+
+by the commission. The commission shall approve or reject the entire plan or elements
+of the plan within 120 days of its delivery to the commission. The board, within 30
+days of final commission approval of the triennial plan, shall submit the triennial plan
+to the joint standing committee of the Legislature having jurisdiction over energy
+matters together with any explanatory or other supporting material as the committee
+may request and, at the request of the committee, shall provide a detailed briefing on
+the triennial plan. After receipt of the triennial plan, the joint standing committee of
+the Legislature having jurisdiction over energy matters may submit legislation relating
+to the triennial plan.
+E. The trust shall determine the period to be covered by the triennial plan except that
+the period of the plan may not interfere with the delivery of any existing contracts to
+provide energy efficiency services that were previously procured pursuant to efficiency
+and conservation programs administered by the commission.
+F. It is an objective of the triennial plan to design, coordinate and integrate sustained
+energy efficiency and weatherization programs that are available to all energy
+consumers in the State and to users of all fuel types. The plan must set forth the costs
+and benefits of the trust's programs that advance the following goals and funding
+necessary to meet those goals:
+(1) Reducing energy costs, including residential heating costs;
+(2) For the period beginning January 1, 2020 and ending January 1, 2030,
+weatherizing 35,000 homes and businesses, with at least 10,000 of such
+weatherization projects completed in low-income households through the
+combined efforts of the trust and the Maine State Housing Authority;
+(3) Reducing peak-load demand for electricity by the maximum achievable cost-
+effective amount;
+(4) Achieving the maximum achievable cost-effective electricity and natural gas
+program savings, as defined in and determined pursuant to the performance metrics
+approved by the commission under section 10120;
+(5) Creating stable private sector jobs providing alternative energy and energy
+efficiency products and services in the State;
+(6) Contributing to the effort to reduce greenhouse gas emissions in the State by
+amounts consistent with the greenhouse gas emission levels established in Title 38,
+section 576‑A and in a manner consistent with the State's climate action plan
+adopted and updated under Title 38, section 577;
+(7) Promoting the purchase of high-efficiency heat pump systems to achieve by
+2030 the goal of at least 115,000 households in the State wholly heated by heat
+pumps and an additional 130,000 households in the State partially heated by heat
+pumps; and
+(8) Promoting the purchase of battery electric vehicles and plug-in hybrid electric
+vehicles to achieve by 2030 the goal of at least 220,000 such vehicles registered in
+the State.
+For the purposes of this subparagraph, "plug-in hybrid electric vehicle" has the
+same meaning as in section 10126, subsection 1, paragraph D.
+Page 21 - 132LR2953(03)
+
+G. In developing the triennial plan, or an annual update plan under subsection 6, the
+trust may include, as part of its budget for electric efficiency and conservation
+programs under section 10110, the costs of providing nonwires alternatives in
+accordance with section 3132‑D.
+H. After the triennial plan is approved, the trust or any party to the triennial plan may
+petition for, or the commission may initiate on its own, consideration of revising the
+calculations of avoided energy costs used in the determination of maximum achievable
+cost-effective energy efficiency resources pursuant to section 10110, subsection 4‑A
+or section 10111, subsection 2 upon a showing that, subsequent to the publication of
+the avoided energy cost study relied upon, changes in price forecasts would result in
+more than a 25% change in the value of avoided energy cost affecting a significant
+portion of the program activity in the triennial plan.
+Sec. A-56. 37-B MRSA §742, sub-§2, ¶B, as amended by PL 2011, c. 655, Pt.
+MM, §19 and affected by §26, is further amended to read:
+B. Upon the issuance of an energy emergency proclamation and after consulting with
+the Governor's Energy Office Department of Energy Resources, the Governor may
+exercise all the powers granted in this chapter, except as specifically limited by
+paragraph C. The powers of the Governor include, without limitation, the authority to:
+(1) Establish and implement programs, controls, standards, priorities and quotas
+for the allocation, conservation and consumption of energy resources;
+(2) Regulate the hours and days during which nonresidential buildings may be
+open and the temperatures at which they may be maintained;
+(3) Regulate the use of gasoline and diesel-powered land vehicles, watercraft and
+aircraft;
+(4) After consulting, when appropriate, with the New England governors and upon
+the recommendations of the Public Utilities Commission, regulate the generation,
+distribution and consumption of electricity;
+(5) Establish temporary state and local boards and agencies;
+(6) Establish and implement programs and agreements for the purposes of
+coordinating the emergency energy response of the State with those of the Federal
+Government and of other states and localities;
+(7) Temporarily suspend truck weight and size regulations, but not in conflict with
+federal regulations;
+(8) Regulate the storage, distribution and consumption of home heating oil; and
+(9) If the energy emergency was caused by a lack of electric grid reliability in this
+State resulting from insufficient capacity resources, take appropriate action, in
+consultation with the Public Utilities Commission, to procure sufficient capacity
+resources including generation capacity and interruptible, demand response or
+energy efficiency capacity resources.
+Sec. A-57. 38 MRSA §480-HH, sub-§3, ¶H, as amended by PL 2011, c. 655, Pt.
+MM, §20 and affected by §26 and amended by c. 657, Pt. W, §5 and c. 682, §38, is further
+amended to read:
+Page 22 - 132LR2953(03)
+
+H. Documentation that, in developing each plan required under paragraphs E to G, the
+applicant consulted with: the Department of Marine Resources, the Department of
+Inland Fisheries and Wildlife and the Department of Agriculture, Conservation and
+Forestry; the Maine Land Use Planning Commission and the Governor's Energy Office
+Department of Energy Resources; the United States Army Corps of Engineers, the
+United States Coast Guard, the National Marine Fisheries Service, the National Park
+Service and the United States Fish and Wildlife Service; the lobster management policy
+council established under Title 12, section 6447 for the lobster management zone in
+which the offshore wind energy demonstration project is proposed; each municipality
+in which or adjacent to which the project is proposed; and any other local, state or
+federal agency the applicant considers appropriate. This documentation must include
+copies of these agencies' comments and recommendations on the plan, if any, and
+specific descriptions of how the agencies' comments are accommodated by the plan,
+including the applicant's reasons, based on project-specific information, for any agency
+recommendation not adopted. The applicant shall allow a minimum of 60 days for the
+agencies to review and make comments and recommendations on each draft plan
+before it is filed with the department. No more than 30 days prior to its initiation, the
+applicant shall notify each municipality within or adjacent to which it intends to site
+and operate an offshore wind energy demonstration project and invite its participation
+in the consultation required under this paragraph;
+Sec. A-58. 38 MRSA §484, sub-§10, as repealed and replaced by PL 2021, c. 293,
+Pt. A, §51, is amended by amending the first blocked paragraph to read:
+The Department of Labor, the Governor's Energy Office Department of Energy Resources
+and the Public Utilities Commission shall provide review comments if requested by the
+primary siting authority.
+Sec. A-59. 38 MRSA §484-C, sub-§2, as enacted by PL 2023, c. 448, §1, is
+amended to read:
+2. Calculating fee. The compensation fee under this section must be calculated by
+the department, in consultation with the Department of Agriculture, Conservation and
+Forestry, using the square footage of the impacted area and applying a per square foot
+compensation fee set by the department. The fee must be based upon the fair market value
+of the impacted area and include reasonable costs, including stewardship costs, for a
+compensation project, as defined by the department by rule, that is completed in whole or
+in part with the compensation fee. Square footage of the impacted area that is already
+subject to the compensation fee under section 484‑D may not be included in calculating the
+compensation fee under this subsection. The compensation fee may be reduced by the
+department, in consultation with the Department of Agriculture, Conservation and Forestry,
+if the applicant proposes mitigation strategies, including, but not limited to, dual-use
+agricultural and solar production. The fee may be increased by the department, in
+consultation with the Department of Agriculture, Conservation and Forestry, based on the
+severity of the adverse impacts on the impacted area. For purposes of this subsection, "dual-
+use agricultural and solar production" means the productive use of land for agricultural
+production and solar energy production in accordance with standards established by rule
+adopted by the Department of Agriculture, Conservation and Forestry, in consultation with
+the department and the Governor's Energy Office Department of Energy Resources.
+Page 23 - 132LR2953(03)
+
+Sec. A-60. 38 MRSA §577, sub-§8, as enacted by PL 2019, c. 476, §8, is amended
+to read:
+8. Use of existing data. In updating the climate action plan under subsection 1, the
+council shall draw upon existing state data and studies, including, but not limited to,
+analyses and data from the 2004 climate action plan and the 2010 adaptation plan developed
+by the department, the evaluations of the State's progress toward meeting greenhouse gas
+emissions levels under section 578, the comprehensive state energy plan pursuant to Title
+2, section 9, subsection 3, paragraph C 35-A, section 10305, subsection 1 and the Efficiency
+Maine Trust's triennial plan pursuant to Title 35‑A, section 10104, subsection 4.
+Sec. A-61. 38 MRSA §577-A, sub-§1, ¶O, as enacted by PL 2019, c. 476, §9, is
+amended to read:
+O. The Director of the Governor's Energy Office Commissioner of Energy Resources,
+or the director's commissioner's designee;
+Sec. A-62. 38 MRSA §634, sub-§3, as amended by PL 2011, c. 655, Pt. MM, §21
+and affected by §26 and amended by c. 657, Pt. W, §5 and c. 682, §38, is further amended
+by amending the first blocked paragraph to read:
+The commissioner shall circulate the application among the Department of Environmental
+Protection, Department of Agriculture, Conservation and Forestry, Department of Energy
+Resources, Department of Inland Fisheries and Wildlife, Department of Marine Resources,
+Department of Transportation, Maine Historic Preservation Commission, Governor's
+Energy Office, Public Utilities Commission and the municipal officials of the municipality
+in which the project is located. The Governor's Energy Office Department of Energy
+Resources and the Public Utilities Commission shall submit written comments on section
+636, subsection 7, paragraph F. For projects within the jurisdiction of the Maine Land Use
+Planning Commission, the director may request and obtain technical assistance and
+recommendations from the staff of the department. The Commissioner of Environmental
+Protection shall respond to the requests in a timely manner. The recommendations of the
+Commissioner of Environmental Protection must be considered by the commission in
+acting upon a project application.
+Sec. A-63. 38 MRSA §640, first ¶, as amended by PL 2011, c. 655, Pt. MM, §22
+and affected by §26 and amended by c. 657, Pt. W, §5, is further amended to read:
+Unless otherwise provided in accordance with regulations promulgated by the Federal
+Energy Regulatory Commission, for all existing hydropower projects located in Maine
+currently licensed under the Federal Power Act, and for all proposed hydropower projects
+requiring a license to operate under the Federal Power Act, all state agencies that review,
+comment on and consult in the proposed studies, plans, terms and conditions in the course
+of licensing or relicensing these projects, including the Department of Agriculture,
+Conservation and Forestry, the Governor's Energy Office Department of Energy
+Resources, the Department of Environmental Protection, the Department of Inland
+Fisheries and Wildlife and the Department of Marine Resources, shall cooperatively take
+the following steps to ensure that interested members of the public are informed of, and
+allowed to participate in, the review and comment process.
+Sec. A-64. 38 MRSA §1480-A, as amended by PL 2011, c. 655, Pt. MM, §23 and
+affected by §26, is further amended to read:
+Page 24 - 132LR2953(03)
+
+§1480-A. Joint hearings; intervention
+The Department of Health and Human Services or the Governor's Energy Office
+Department of Energy Resources may intervene in any federal licensing proceeding to
+carry out the purpose of this chapter.
+Sec. A-65. 38 MRSA §3201, sub-§1, as enacted by PL 2023, c. 448, §3 and
+affected by §5, is amended to read:
+1. High-value agricultural land. "High-value agricultural land" means land that has
+a high value for agricultural use, as determined in accordance with rules adopted by the
+Department of Agriculture, Conservation and Forestry, in consultation with the department
+and the Governor's Energy Office Department of Energy Resources.
+PART B
+Sec. B-1. 3 MRSA §959, sub-§1, ¶P, as amended by PL 2021, c. 617, §1, is further
+amended by enacting a new subparagraph (2-A) to read:
+(2-A) The Department of Energy Resources in 2027;
+Sec. B-2. 5 MRSA §1591, sub-§10 is enacted to read:
+10. Department of Energy Resources. Any All Other balance remaining in the
+General Fund account in the Department of Energy Resources at the end of any fiscal year
+must be carried forward for use in the next fiscal year.
+Sec. B-3. 5 MRSA §1764-A, sub-§2, as amended by PL 2017, c. 475, Pt. C, §1, is
+further amended to read:
+2. Rules. The Bureau of General Services, in consultation with the Public Utilities
+Commission Department of Energy Resources, shall by rule require that all planning and
+design for the construction of new or substantially renovated state-owned or state-leased
+buildings and buildings built with state funds, including buildings funded through state
+bonds or the Maine Municipal Bond Bank:
+A. Involve consideration of architectural designs and energy systems that show the
+greatest net benefit over the life of the building by minimizing long-term energy and
+operating costs;
+B. Include an energy-use target that exceeds by at least 20% the energy efficiency
+standards in effect for commercial and institutional buildings pursuant to the Maine
+Uniform Building and Energy Code under Title 10, chapter 1103; and
+C. Include a life-cycle cost analysis that explicitly considers cost and benefits over a
+minimum of 30 years and that explicitly includes the public health and environmental
+benefits associated with energy-efficient building design and construction, to the extent
+they can be reasonably quantified.
+Rules adopted pursuant to this section apply to all new or substantially renovated state-
+owned or state-leased buildings and buildings built with state funds, including buildings
+funded through state bonds or the Maine Municipal Bond Bank, regardless of whether the
+planning and design for construction is subject to approval by the department.
+Page 25 - 132LR2953(03)
+
+Rules adopted pursuant to this section may provide for exemptions, waivers or other
+appropriate consideration for buildings with little or no energy usage, such as unheated
+sheds or warehouses.
+The Bureau of General Services shall adopt rules pursuant to this section by July 1, 2004.
+Rules adopted pursuant to this section are routine technical rules as defined in Title 5,
+chapter 375, subchapter 2‑A.
+Sec. B-4. 5 MRSA §11052, sub-§1, ¶D-1 is enacted to read:
+D-1. The Department of Energy Resources;
+Sec. B-5. 12 MRSA §405-A, sub-§4, as amended by PL 2011, c. 655, Pt. MM,
+§11 and affected by §26, is further amended to read:
+4. Review. The Governor's Energy Office By January 1, 2028, and every 5 years
+thereafter, the Department of Energy Resources shall review the status of hydropower
+development on the St. Croix River and. If, as a result of that review, the department
+identifies any significant developments or develops recommendations concerning
+hydropower development on the St. Croix River, the department shall report information
+regarding those developments or recommendations to the joint standing committee of the
+Legislature having jurisdiction over energy and natural resources by January 1, 2013 and
+every 5 years thereafter matters. The report must include any recommendations for changes
+in the provisions of this section together with the justification for the changes. If the St.
+Croix River is included in any legislative Act or regulation that directly or indirectly has as
+its effect the essential prohibition of construction of new dams or development or
+redevelopment of existing dams on the St. Croix River, this section is repealed on the
+effective date of that Act or regulation.
+Sec. B-6. 35-A MRSA §3408, sub-§6, as enacted by PL 2023, c. 481, §6, is
+amended to read:
+6. Rulemaking; protective orders biannual reports. The commission department
+shall adopt rules to implement this section. Rules adopted under this subsection are routine
+technical rules pursuant to Title 5, chapter 375, subchapter 2‑A. The rules must include,
+but are not limited to, procedures for monitoring, measuring and enforcing ongoing
+compliance by responsible entities with the requirements of this section.
+A. The rules must require the responsible entity to provide biannual reports to the
+commission department regarding its compliance with the plans submitted as part of
+its bid under subsection 2. The rules must require a report submitted by the responsible
+entity to exclude personally identifying information to the greatest extent practicable.
+If the report includes confidential or proprietary information, trade secrets or similar
+matters as provided by the Maine Rules of Civil Procedure, Rule 26(c), the commission
+may issue appropriate protective orders in accordance with section 1311‑A with respect
+to those portions of the report and shall make available to the public an appropriately
+redacted copy of the report. The commission department shall provide to the office the
+redacted copy, which the office shall post on the office's post a redacted copy on the
+department's publicly accessible website.
+B. The commission department shall establish by rule a process for the review, in
+coordination with the office commission, of the biannual reports provided by the
+Page 26 - 132LR2953(03)
+
+responsible entity and a mechanism for public participation regarding the contents of
+the report.
+Sec. B-7. 35-A MRSA §10312, sub-§1, ¶B, as enacted by PL 2025, c. 476, Pt. A,
+§16, is amended to read:
+B. "Primary storage facility" means a facility that receives petroleum products into the
+State by pipeline, rail, truck or by ship.
+Sec. B-8. 35-A MRSA §10312, sub-§5, as enacted by PL 2025, c. 476, Pt. A, §16,
+is amended to read:
+5. Department reports. If the department determines, based on available information,
+that there is or may be a significant shortfall in supply inventories or anticipated deliveries
+into the State of home heating oil or kerosene petroleum products, the department shall
+provide a report to the joint standing committee of the Legislature having jurisdiction over
+energy matters including:
+A. The information that suggests a supply shortfall;
+B. Current and anticipated inventories of home heating oil and kerosene petroleum
+product storage supplies;
+C. Any recommendations of the department for actions by the State in response to the
+anticipated supply shortfall; and
+D. A report on inventories, deliveries, curtailments, shortfalls or other matters relating
+to the availability of petroleum products in this State, at the request of the joint standing
+committee of the Legislature having jurisdiction over energy matters.
+Sec. B-9. 35-A MRSA §10313, sub-§7, as enacted by PL 2025, c. 476, Pt. A, §16,
+is amended by amending the first blocked paragraph to read:
+The commission shall approve or reject a contract within 120 calendar days, unless a longer
+period is requested by the department. If the commission approves a contract, the
+commission shall issue an order directing a transmission and distribution utility to act with
+respect to the contract within 120 calendar days, unless a longer period is requested by the
+department. If the commission does not approve a contract, the commission may direct
+that the contract be amended and resubmitted to the commission for approval.
+Sec. B-10. 35-A MRSA §10313, sub-§9, as enacted by PL 2025, c. 476, Pt. A,
+§16, is amended to read:
+9. Confidentiality. Proposals submitted in response to a solicitation and materials
+created or submitted during contract negotiations pursuant to this section are confidential
+and may not be disclosed, except the department may share proposals and contract
+negotiation materials with the commission as necessary for the commission to approve a
+contract pursuant to subsection 7 and the department may make public certain information
+regarding submitted proposals at the conclusion of a solicitation, including, but not limited
+to, the identity of the bidder awarded a contract and the bid price.
+Sec. B-11. 38 MRSA §580-B, sub-§4, ¶F, as enacted by PL 2007, c. 317, §17, is
+amended by amending subparagraph (7) to read:
+(7) Guarantee that the Attorney General, the Public Utilities Commission
+Commissioner of Energy Resources and the commissioner have access to all
+Page 27 - 132LR2953(03)
+
+auction information and information concerning allowance trading activity,
+including reports provided to the regional organization by a market monitor.
+Sec. B-12. 38 MRSA §580-B, sub-§6, ¶A, as enacted by PL 2007, c. 317, §17, is
+amended to read:
+A. If the regional greenhouse gas initiative results in price levels for allowances that
+will result in immediate and irreparable harm to the operations of a carbon dioxide
+budget unit regulated under this chapter, including but not limited to the termination of
+business at that location, the commissioner may, in consultation with the Attorney
+General and the chair of the Public Utilities Commission Commissioner of Energy
+Resources, grant a temporary waiver of enforcement not to exceed one year for any
+violation by an individual regulated carbon dioxide budget unit of a requirement of this
+chapter.
+Sec. B-13. 38 MRSA §580-B, sub-§10, as amended by PL 2013, c. 369, Pt. D, §7,
+is further amended to read:
+10. Annual report. The department, the Public Utilities Commission Commissioner
+of Energy Resources and the trustees of the Efficiency Maine Trust established pursuant to
+Title 35‑A, section 10103 shall submit a joint report to the joint standing committees of the
+Legislature having jurisdiction over natural resources matters and utilities and energy
+matters by March 15th annually. The report must assess and address:
+A. The reductions of greenhouse gas emissions from carbon dioxide budget units,
+conservation programs funded by the Regional Greenhouse Gas Initiative Trust Fund
+pursuant to Title 35‑A, section 10109 and carbon dioxide emissions offset projects;
+B. The improvements in overall carbon dioxide emissions and energy efficiency from
+sources that emit greenhouse gases including electrical generation and fossil fuel fired
+units;
+C. The maximization of savings through systemic energy improvements statewide;
+D. Research and support of new carbon dioxide offset allowance categories for
+development in the State;
+E. Management and cost-effectiveness of the State's energy conservation and carbon
+reduction programs and efforts funded by the Regional Greenhouse Gas Initiative Trust
+Fund, established pursuant to Title 35‑A, section 10109;
+F. The extent to which funds from the Regional Greenhouse Gas Initiative Trust Fund,
+established pursuant to Title 35‑A, section 10109, serve customers from all classes of
+the State's transmission and distribution utilities; and
+G. The revenues and expenditures of the Regional Greenhouse Gas Initiative Trust
+Fund, established pursuant to Title 35‑A, section 10109.
+The department, the Public Utilities Commission Commissioner of Energy Resources and
+the trustees of the Efficiency Maine Trust may include in the report any proposed changes
+to the program established under this chapter.
+The joint standing committee of the Legislature having jurisdiction over natural resources
+matters may submit legislation relating to areas within the committee's jurisdiction in
+connection with the program. The joint standing committee of the Legislature having
+Page 28 - 132LR2953(03)
+
+jurisdiction over utilities and energy matters may submit legislation relating to areas within
+the committee's jurisdiction in connection with the program.
+Sec. B-14. PL 2025, c. 476, Pt. B, §2, sub-§6, is repealed.
+Page 29 - 132LR2953(03)

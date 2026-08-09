@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 752
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 16, 2026 752
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 444 - L.D. 705
+An Act to Correct Technical Errors in Public Law 2025, Chapter 650
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 36 MRSA §5124-C, sub-§1-B, ¶A, as enacted by PL 2023, c. 412, Pt.
+ZZZ, §5, is amended by amending subparagraph (1) to read:
+(1) For single individuals and married persons filing separate returns, $12,000
+$15,000;
+Sec. 2. PL 2025, c. 650, Part N, section 8 is amended to read:
+Sec. N-8. Application. This Act Part applies to taxable years beginning on or after
+January 1, 2026.
+Sec. 3. PL 2025, c. 650, Part FF, section 4 is amended to read:
+Sec. FF-4. Cost-of-living adjustment for essential support workers;
+MaineCare rates. Notwithstanding any provision of law to the contrary, the Department
+of Health and Human Services shall submit a request to seek approval from the United
+States Department of Health and Human Services, Centers for Medicare and Medicaid
+Services to implement a cost-of-living adjustment of 3.07% for reimbursement rates
+subject to rule Chapter 101: MaineCare Benefits Manual, Chapter II, Sections 13, 65 and
+92 and rule Chapter 101: MaineCare Benefits Manual, Chapter III, Sections 2, 12, 17, 18,
+19, 20, 21, 26, 28, 29, 40, 67, 96 and 97 Appendix C effective January 1, 2027 and for
+reimbursement rates subject to rule Chapter 101: MaineCare Benefits Manual, Chapter III,
+Section 97 Appendix B and Section 97 Appendix D effective July 1, 2026. The department
+shall submit the request required to seek approval under this section to implement the cost-
+of-living adjustment as soon as practicable.
+Sec. 4. Transfer from MaineCare Stabilization Fund; General Fund.
+Notwithstanding any provision of law to the contrary, on or before June 30, 2027, the State
+Controller shall transfer $1,653,131 from the MaineCare Stabilization Fund Other Special
+Revenue Funds account within the Department of Health and Human Services to the
+unappropriated surplus of the General Fund.
+Page 1 - 132LR2321(03)
+
+Sec. 5. Funds to address unmet needs of older adults; distribution to area
+agencies on aging. Funds appropriated in the amount of $3,000,000 to the Department
+of Health and Human Services, Office of Aging and Disability Services Central Office
+program in Public Law 2025, chapter 650, Part A, section 17 to address unmet needs of
+older adults through community-based services and programs delivered by the area agency
+in each of the State's coordinated community program areas must be distributed to the area
+agencies, based on priorities identified by local advisory councils to meet regional needs,
+through the intrastate funding formula to develop programs and deliver services necessary
+for the general well-being of older adults, including, but not limited to, in-home services,
+case management services, meals programs, wellness services, respite for caregivers,
+public education and outreach, volunteer services and information and referral services.
+Sec. 6. Appropriations and allocations. The following appropriations and
+allocations are made.
+EDUCATION, DEPARTMENT OF
+Early Childhood Nutrition Grant Program N583
+Initiative: Provides ongoing, nonlapsing funding for a grant program to allow school
+administrative units to enter into agreements with providers of off-site public preschool
+programs to provide students in those programs with breakfast, lunch and a snack.
+GENERAL FUND 2025-26 2026-27
+All Other $0 $375,000
+__________ __________
+GENERAL FUND TOTAL $0 $375,000
+Early Childhood Nutrition Grant Program N583
+Initiative: Deappropriates one-time, nonlapsing funding for a grant program to allow school
+administrative units to enter into agreements with providers of off-site public preschool
+programs to provide students in those programs with breakfast, lunch and a snack.
+GENERAL FUND 2025-26 2026-27
+All Other $0 ($375,000)
+__________ __________
+GENERAL FUND TOTAL $0 ($375,000)
+EDUCATION, DEPARTMENT OF
+DEPARTMENT TOTALS 2025-26 2026-27
+GENERAL FUND $0 $0
+__________ __________
+DEPARTMENT TOTAL - ALL FUNDS $0 $0
+HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+Medical Care - Payments to Providers 0147
+Initiative: Provides funding to implement a cost-of-living adjustment for direct care
+services subject to rule Chapter 101: MaineCare Benefits Manual, Chapter III, Section 28.
+GENERAL FUND 2025-26 2026-27
+Page 2 - 132LR2321(03)
+
+All Other $0 $841,377
+__________ __________
+GENERAL FUND TOTAL $0 $841,377
+FEDERAL EXPENDITURES FUND 2025-26 2026-27
+All Other $0 $1,235,634
+__________ __________
+FEDERAL EXPENDITURES FUND TOTAL $0 $1,235,634
+FEDERAL BLOCK GRANT FUND 2025-26 2026-27
+All Other $0 $122,894
+__________ __________
+FEDERAL BLOCK GRANT FUND TOTAL $0 $122,894
+Medical Care - Payments to Providers 0147
+Initiative: Provides funding to implement a cost-of-living adjustment for direct care
+services subject to rule Chapter 101: MaineCare Benefits Manual, Chapter III, Section 97
+Appendix B and Section 97 Appendix D.
+FEDERAL EXPENDITURES FUND 2025-26 2026-27
+All Other $0 $1,598,732
+__________ __________
+FEDERAL EXPENDITURES FUND TOTAL $0 $1,598,732
+FEDERAL BLOCK GRANT FUND 2025-26 2026-27
+All Other $0 $36,304
+__________ __________
+FEDERAL BLOCK GRANT FUND TOTAL $0 $36,304
+Mental Health Services - Child Medicaid Z207
+Initiative: Provides funding to implement a cost-of-living adjustment for direct care
+services subject to rule Chapter 101: MaineCare Benefits Manual, Chapter III, Section 97
+Appendix B and Section 97 Appendix D.
+GENERAL FUND 2025-26 2026-27
+All Other $0 $811,754
+__________ __________
+GENERAL FUND TOTAL $0 $811,754
+HEALTH AND HUMAN SERVICES,
+DEPARTMENT OF
+DEPARTMENT TOTALS 2025-26 2026-27
+GENERAL FUND $0 $1,653,131
+FEDERAL EXPENDITURES FUND $0 $2,834,366
+FEDERAL BLOCK GRANT FUND $0 $159,198
+Page 3 - 132LR2321(03)
+
+__________ __________
+DEPARTMENT TOTAL - ALL FUNDS $0 $4,646,695
+HOUSING AUTHORITY, MAINE STATE
+Low-income Home Energy Assistance - MSHA 0708
+Initiative: Provides ongoing funding for low-income electric ratepayer assistance.
+GENERAL FUND 2025-26 2026-27
+All Other $0 $7,500,000
+__________ __________
+GENERAL FUND TOTAL $0 $7,500,000
+Low-income Home Energy Assistance - MSHA 0708
+Initiative: Deappropriates one-time funding for low-income electric ratepayer assistance.
+GENERAL FUND 2025-26 2026-27
+All Other $0 ($7,500,000)
+__________ __________
+GENERAL FUND TOTAL $0 ($7,500,000)
+HOUSING AUTHORITY, MAINE STATE
+DEPARTMENT TOTALS 2025-26 2026-27
+GENERAL FUND $0 $0
+__________ __________
+DEPARTMENT TOTAL - ALL FUNDS $0 $0
+SECTION TOTALS 2025-26 2026-27
+GENERAL FUND $0 $1,653,131
+FEDERAL EXPENDITURES FUND $0 $2,834,366
+FEDERAL BLOCK GRANT FUND $0 $159,198
+__________ __________
+SECTION TOTAL - ALL FUNDS $0 $4,646,695
+Page 4 - 132LR2321(03)

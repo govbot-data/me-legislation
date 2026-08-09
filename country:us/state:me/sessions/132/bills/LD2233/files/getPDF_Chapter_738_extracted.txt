@@ -1,0 +1,2057 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 738
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 16, 2026 738
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1509 - L.D. 2233
+An Act to Combine the Board of Licensure in Medicine and Board of
+Osteopathic Licensure into a Single Licensing Board for All Physicians and
+Physician Associates
+Be it enacted by the People of the State of Maine as follows:
+PART A
+Sec. A-1. 3 MRSA §959, sub-§1, ¶R, as amended by PL 2021, c. 617, §1, is further
+amended to read:
+R. The joint standing committee of the Legislature having jurisdiction over
+professional licensing of health care professions matters shall use the following list as
+a guideline for scheduling reviews:
+(1) Board of Dental Practice in 2027;
+(2) Board of Osteopathic Licensure in 2027;
+(3) Board of Licensure in Maine Board of Medicine in 2027 2029;
+(4) State Board of Nursing in 2027; and
+(5) State Board of Optometry in 2027.
+Sec. A-2. 5 MRSA §12004-A, sub-§24, as amended by PL 1999, c. 687, Pt. B, §1,
+is repealed.
+Sec. A-3. 5 MRSA §12004-A, sub-§24-A is enacted to read:
+24-A.
+Maine Board of Medicine $1,250/Year-Member 32 MRSA §20111
+$1,500/Year-Chair
+$1,500/Year-Vice-Chair
+$7,500/Year-Secretary
+Sec. A-4. 5 MRSA §12004-A, sub-§29, as amended by PL 1999, c. 687, Pt. B, §1,
+is repealed.
+Sec. A-5. 32 MRSA c. 36, as amended, is repealed.
+Page 1 - 132LR3058(05)
+
+Sec. A-6. 32 MRSA c. 48, as amended, is repealed.
+Sec. A-7. 32 MRSA c. 153 is enacted to read:
+CHAPTER 153
+MAINE BOARD OF MEDICINE MEDICAL PRACTICE ACT
+SUBCHAPTER 1
+GENERAL PROVISIONS
+§20101. Short title
+This chapter may be known and cited as "the Maine Board of Medicine Medical
+Practice Act."
+§20102. Definitions
+As used in this chapter, unless the context otherwise indicates, the following terms
+have the following meanings.
+1. Allopathic physician. "Allopathic physician" means a physician who graduated
+from medical school with an M.D. degree.
+2. Board. "Board" means the Maine Board of Medicine established in Title 5, section
+12004‑A, subsection 24-A.
+3. Collaborative agreement. "Collaborative agreement" means a document agreed
+to by a physician associate and a physician that describes the scope of practice for the
+physician associate as determined by practice setting and describes the decision-making
+process for a health care team, including communication and consultation among health
+care team members.
+4. Consultation. "Consultation" means engagement in a process in which members
+of a health care team use their complementary training, skill, knowledge and experience to
+provide the best care for a patient.
+5. General business. "General business" means all board actions conducting public
+business, with the exception of disciplinary investigations, complaints and adjudicatory
+hearings resolving disciplinary matters involving licensees or applicants.
+6. Health care team. "Health care team" means 2 or more health care professionals
+working in a coordinated, complementary and agreed-upon manner to provide quality, cost-
+effective, evidence-based care to a patient and may include a physician, physician
+associate, advanced practice nurse, nurse, physical therapist, occupational therapist, speech
+therapist, social worker, nutritionist, psychotherapist, counselor or other licensed
+professional.
+7. License. "License" means a license, certificate, certification, registration, permit,
+approval or other similar document issued by the board to qualified individuals granting
+authority to engage in the practice of medicine.
+Page 2 - 132LR3058(05)
+
+8. Osteopathic physician. "Osteopathic physician" means a physician who graduated
+from medical school with a D.O. degree.
+9. Physician. "Physician" means an allopathic or osteopathic physician or surgeon
+licensed by the board.
+10. Physician associate. "Physician associate" means a physician associate licensed
+or privileged under chapter 145-A by the board.
+11. Practice of medicine. "Practice of medicine" means diagnosing, relieving in any
+degree or curing, or professing or attempting to diagnose, relieve or cure a human disease,
+ailment, defect or complaint, whether physical or mental, or of physical or mental origin,
+by attendance, surgery or advice or by prescribing or furnishing a drug, medicine,
+appliance, manipulation, method or therapeutic agent, including, but not limited to:
+A. Advertising, holding out to the public or representing in any manner that an
+individual is authorized to practice medicine in this State;
+B. Offering or undertaking to prescribe, order, give or administer any drug or medicine
+for use by any other person;
+C. Offering or undertaking to prevent or to diagnose, correct or treat in any manner or
+by any means, methods or devices any disease, illness, pain, wound, fracture, infirmity,
+defect or abnormal physical or mental condition of any person;
+D. Offering or undertaking to perform any surgical operation upon any person;
+E. Rendering a written or otherwise documented medical opinion concerning the
+diagnosis or treatment of a patient or the actual rendering of treatment to a patient
+within a state by a physician located outside the state as a result of transmission of
+individual patient data by electronic or other means from within a state to the physician
+or the physician's agent;
+F. Rendering a determination of medical necessity or a decision affecting the diagnosis
+or treatment of a patient;
+G. Using the designation doctor, doctor of medicine, doctor of osteopathic medicine,
+doctor of osteopathy, physician, surgeon, physician and surgeon, Dr., M.D., D.O. or
+any combination of those designations in the conduct of any occupation or profession
+pertaining to the prevention, diagnosis or treatment of human disease or condition
+unless such a designation additionally contains the description of another branch of the
+healing arts for which an individual holds a valid license in the jurisdiction where the
+patient is located; and
+H. Maintaining adequate medical records pursuant to the standard of care.
+12. Prescription or legend drug. "Prescription or legend drug" has the same meaning
+as "prescription drug" in section 13702‑A, subsection 30 and includes schedule II to
+schedule V drugs or other substances regulated under the federal Controlled Substances
+Act, 21 United States Code, Section 812.
+13. Render medical services. "Render medical services" means to render health care
+services for the diagnosis, prevention, treatment, cure or relief of a health condition, injury
+or disease, including, but not limited to:
+Page 3 - 132LR3058(05)
+
+A. Advertising, holding out to the public or representing in any manner that an
+individual is authorized to render medical services in this State;
+B. Offering or undertaking to prescribe, order, give or administer any drug or medicine
+for use by any other person;
+C. Offering or undertaking to prevent or to diagnose, correct or treat in any manner or
+by any means, methods or devices any disease, illness, pain, wound, fracture, infirmity,
+defect or abnormal physical or mental condition of any person;
+D. Offering or undertaking to perform any surgical operation upon any person;
+E. Rendering a written or otherwise documented medical opinion concerning the
+diagnosis or treatment of a patient or the actual rendering of treatment to a patient
+within a state by a physician associate located outside the state as a result of
+transmission of individual patient data by electronic or other means from within a state
+to the physician associate or the physician associate's agent;
+F. Rendering a determination of medical necessity or a decision affecting the diagnosis
+or treatment of a patient;
+G. Using the designation physician associate, physician assistant or P.A. or any
+combination of those designations in the conduct of any occupation or profession
+pertaining to the prevention, diagnosis or treatment of human disease or condition in
+the jurisdiction where the patient is located; and
+H. Maintaining adequate medical records pursuant to the standard of care.
+§20103. Individual license
+Only an individual may be licensed or privileged by the board and only an individual
+licensed or privileged by the board may practice medicine or render medical services to
+patients in this State, unless exempted in statutory provision or appropriately licensed by
+and practicing within the individual's legal scope of practice under the authority of another
+state licensing board. This section may not be construed to affect or prevent the practice
+of the religious tenets of a church in the ministration to the sick or suffering by mental or
+spiritual means.
+§20104. License required
+1. Unlicensed practice. The following provisions apply.
+A. A person may not engage in the practice of medicine without a license or during
+any period when that person's license has expired or has been suspended, surrendered
+or revoked.
+B. A person may not render medical services as a physician associate without a license
+or privilege from the board and may not render medical services during any period
+when that person's license or privilege has expired or has been suspended, surrendered
+or revoked.
+2. Penalties. A person who violates this section may be subject to action pursuant to
+Title 10, section 8003-C.
+SUBCHAPTER 2
+Page 4 - 132LR3058(05)
+
+MAINE BOARD OF MEDICINE
+§20111. Creation; declaration of policy
+The Maine Board of Medicine, as established in Title 5, section 12004‑A, subsection
+24-A, is created within this subchapter. The board recognizes the unique philosophical and
+educational differences between allopathic physicians, osteopathic physicians and
+physician associates. This subchapter is not intended to combine these into one profession.
+The purpose of this subchapter is to protect the people of this State by efficiently setting
+licensing standards for the 3 separate professions with one licensing board.
+§20112. Membership
+1. Membership; terms; removal. The board consists of 22 members who are legal
+residents of this State and are appointed by the Governor as follows:
+A. Six allopathic physicians, all of whom must hold a valid license under this chapter
+and have been in the clinical practice of medicine in this State for a continuous period
+of 5 years immediately preceding the appointment;
+B. Six osteopathic physicians, all of whom must hold a valid license under this chapter
+and have been in the clinical practice of medicine in this State for a continuous period
+of 5 years immediately preceding the appointment;
+C. Four physician associates, all of whom must hold a valid license under this chapter
+and have been in the clinical practice of rendering medical services in this State for a
+continuous period of 5 years immediately preceding the appointment; and
+D. Six members of the public, all of whom must have no financial interest in the
+medical profession and have never been licensed, certified or given a permit in this
+State or any other state to practice medicine or render medical services.
+The Governor may accept nominations from consumer or patient advocacy groups,
+professional associations and other organizations and individuals. An individual who has
+been disciplined by a medical regulatory body in any jurisdiction or who has been convicted
+of a crime that is related to the practice of medicine or the rendering of medical services or
+that is punishable by more than one year's imprisonment is not eligible for appointment to
+the board. Appointment of members must comply with Title 10, section 8009.
+2. Terms. Terms of the members of the board are for 5 years. An individual who has
+served 10 years or more on the board is not eligible for reappointment to the board. A
+board member may be removed by the Governor for cause.
+3. Quorum. The following provisions apply.
+A. A majority of the members of the board constitutes a quorum for the transaction of
+official general business, rulemaking, policy making, guidelines and legislation.
+B. Five members of the board constitute a quorum for the conduct of adjudicatory
+hearings pursuant to this chapter.
+C. Five members of an investigative committee under section 20141 constitute a
+quorum for all investigative committee meetings.
+4. Meetings. The board shall hold a minimum of 2 regular meetings a year and any
+additional special meetings at a time and place the chair may designate.
+Page 5 - 132LR3058(05)
+
+5. Board officers. Beginning on the 2nd Tuesday of July in 2027 and every 2nd
+Tuesday in July in odd-numbered years, the members of the board shall meet at the time
+and place the board may determine and shall elect a chair, a vice-chair and a secretary, who
+hold their respective offices for a term of 2 years. The secretary shall perform such duties
+as delegated by the board through rule. The board through its executive director shall
+receive all fees, charges and assessments payable to the board and account for and pay over
+the same according to law. The board shall hold regular meetings at times and places as it
+may determine. The board shall cause a seal to be engraved and shall keep a record of all
+its proceedings.
+6. Compensation. Members of the board are compensated according to the provisions
+of Title 5, chapter 379, subchapter 1. If the fees to be collected under any of the provisions
+of this chapter are insufficient to pay the salaries and expenses provided by this section, the
+members of the board are entitled only to a pro rata payment for salary in any years in
+which such fees are insufficient.
+7. Oath. Each member of the board shall, before entering upon the duties of the
+member's office, take the constitutional oath of office.
+§20113. Powers and duties
+The board has the following powers and duties in addition to all other powers and
+duties imposed by this chapter.
+1. Powers. The board may:
+A. Establish standards of eligibility for examinations for candidates desiring admission
+to medical practice as physicians or physician associates in this State;
+B. Design or adopt an examination and other suitable criteria for establishing a
+candidate's knowledge in medicine and its related skills;
+C. License and establish standards of practice for physicians and physician associates
+practicing medicine or rendering medical services in this State;
+D. Conduct adjudicatory hearings, administer oaths, compel the testimony of witnesses
+and compel the production of books, records and documents relevant to inquiry
+pursuant to a subpoena and take evidence in all matters relating to the exercise and
+performance of the powers and duties vested in the board;
+E. Issue subpoenas in accordance with Title 10, section 8003-A and Title 5, section
+9060 for the production of documents, records and the testimony of witnesses in the
+course of an investigation or an adjudicatory hearing. This authority applies to any
+stage of an investigation and is not limited to an adjudicatory proceeding. During
+investigation, this power is delegated to investigative committees pursuant to section
+20141 or, outside of regular meetings of the investigative committees, to the executive
+director or, in the executive director's absence, to the assistant executive director;
+F. Engage legal counsel, to be approved by the Attorney General, and investigative
+assistants of the board's own choosing to advise the board generally and specifically
+and to represent the board in hearings before the board and in appeals taken from a
+decision of the board;
+G. Except as provided in paragraph M and subsection 2, paragraph E, employ and
+prescribe the duties of other personnel as the board determines necessary. Except as
+Page 6 - 132LR3058(05)
+
+prescribed in paragraph M, the appointment and compensation of that staff is subject
+to the Civil Service Law;
+H. Mandate, conduct and operate, or contract with other agencies, individuals, firms
+or associations for the conduct and operation of, programs of medical education,
+including statewide programs of health education for the general public and for the
+disbursement of funds accumulated through the receipt of licensure fees for this
+purpose, as long as the funds are not disbursed for this purpose for out-of-state travel,
+meals or lodging for a physician being educated under this program;
+I. Conduct and operate, or contract with other agencies or nonprofit organizations for
+the conduct and operation of, a program of financial assistance to medical students
+indicating an intent to engage in family practice in rural areas of this State, under which
+the students may be provided with interest-free grants or interest-bearing loans in an
+amount not to exceed $5,000 per student per year on terms and conditions as the board
+may determine;
+J. Conduct examinations relevant to licensure;
+K. Provide services and carry out functions necessary to fulfill the board's statutory
+responsibilities;
+L. Set reasonable fees for services such as providing license certifications and
+verifications, providing copies of board law and rules and providing copies of
+documents. The board may also set reasonable fees to defray its costs in administering
+examinations for special purposes that it may from time to time require and for
+admitting courtesy candidates from other states to its examinations;
+M. Appoint an executive director who serves at the pleasure of the board and who
+shall assist the board in carrying out its administrative duties and responsibilities under
+this chapter. The salary range for the executive director must be set by the board within
+the range established by Title 2, section 6‑C;
+N. Direct staff to review and approve applications for licensure or renewal in
+accordance with criteria established in law or in rules adopted by the board. Licensing
+decisions made by staff may be appealed to the board or one of its investigative
+committees pursuant to section 20141;
+O. Establish protocols for the operation of a professional review committee as defined
+in Title 24, section 2502, subsection 4‑A. The protocols must include the committee
+reporting information the board considers appropriate regarding reports received,
+contracts or investigations made and the disposition of each report, as long as the
+committee is not required to disclose any personally identifiable information. The
+protocols may not prohibit an impaired licensee under this chapter from seeking
+alternative forms of treatment;
+P. At the direction of the board or one of its investigative committees pursuant to
+section 20141, order a licensee or applicant for licensure or relicensure to undergo a
+mental or physical examination. An individual examined pursuant to the direction of
+the board or one of its investigative committees may not prevent the testimony of the
+examining individual or prevent the acceptance into evidence of the report of an
+examining individual in any proceeding before the committee or board;
+Page 7 - 132LR3058(05)
+
+Q. When there is a finding of a violation, assess the licensee for all or part of the actual
+expenses incurred by the board or its agents for investigations and enforcement duties
+performed. For the purposes of this paragraph, "actual expenses" includes, but is not
+limited to, travel expenses and the proportionate part of the salaries and other expenses
+of investigators or inspectors, hourly costs of hearing officers, costs associated with
+record retrieval and the costs of transcribing or reproducing the administrative record;
+R. Issue a license limited to the practice of administrative medicine, or any other
+special license, as defined by rules adopted by the board; and
+S. Adopt rules as the board determines necessary and proper to carry out this chapter.
+Rules adopted pursuant to this paragraph are routine technical rules as defined in Title
+5, chapter 375, subchapter 2‑A.
+2. Duties. The board shall:
+A. Investigate complaints in a timely fashion on the board's own motion and those
+filed with the board regarding the potential violation of this chapter or the violation of
+rules adopted by the board pursuant to its authority;
+B. Open investigations following receipt of reports required by law to be filed with the
+board or other information and reports made to the board regarding a licensee or
+applicant for licensure;
+C. Keep a record of the names and residences of all individuals licensed under this
+chapter and a record of all money received and disbursed by the board. Records or
+duplicates must always be open to inspection in the office of the secretary during
+regular office hours. The board shall annually make a report to the Commissioner of
+Professional and Financial Regulation and to the Legislature containing a full and
+complete account of all its official acts during the preceding year and a statement of its
+receipts and disbursements and comments or suggestions as the board determines
+essential;
+D. Submit to the Commissioner of Professional and Financial Regulation the board's
+budgetary requirements in the same manner as is provided in Title 5, section 1665. The
+Commissioner of Professional and Financial Regulation shall in turn transmit these
+requirements to the Bureau of the Budget without revision, alteration or change, unless
+alterations are mutually agreed upon by the department and the board or the board's
+designee; and
+E. Ensure that the budget submitted by the board to the Commissioner of Professional
+and Financial Regulation is sufficient, if approved, to provide for adequate legal and
+investigative personnel on the board's staff and that of the Attorney General to ensure
+that professional liability complaints described in Title 24, section 2607 and complaints
+regarding this chapter may be resolved in a timely fashion. The board's staff must
+include one position staffed by an individual who is primarily a consumer assistant.
+Within the limit set by this chapter, the board shall charge sufficient licensure fees to
+finance this budget provision. The board shall submit legislation to request an increase
+in these fees should they prove inadequate to the provisions of this paragraph. Within
+the limit of funds provided to it by the board, the Department of the Attorney General
+shall make available to the board sufficient legal and investigative staff to enable all
+complaints mentioned in this paragraph to be resolved in a timely fashion.
+Page 8 - 132LR3058(05)
+
+3. Annual report. Beginning March 1, 2028 and annually thereafter, the board shall
+submit to the Legislature a report consisting of statistics on the following for the preceding
+year and in comparison to prior years:
+A. The number and type of complaints against licensees received from the public or
+filed on the board's own motion, in the aggregate and for each type of licensee;
+B. The number and type of complaints dismissed for lack of merit or insufficient
+evidence of grounds for discipline, in the aggregate and for each type of licensee;
+C. The number and type of cases in process of investigation or hearing carried over at
+year-end, in the aggregate and for each type of licensee; and
+D. The number and type of disciplinary actions finalized during the report year, in the
+aggregate and for each type of licensee.
+§20114. Role of commissioner
+The Commissioner of Professional and Financial Regulation shall act as a liaison
+between the board and the Governor. The Commissioner of Professional and Financial
+Regulation does not have the authority to exercise or interfere with the exercise of
+discretionary, regulatory or licensing authority granted by statute to the board. The
+Commissioner of Professional and Financial Regulation may require the board to be
+accessible to the public for complaints and questions during regular business hours and to
+provide any information the Commissioner of Professional and Financial Regulation
+requires in order to ensure that the board is operating administratively within the
+requirements of this chapter.
+§20115. Inspection or copying of record; procedure
+1. Request for record; redaction. When the board receives a request to inspect or
+copy all or part of the record of an applicant or licensee, the board shall redact information
+that is not public before making the record available for inspection or copying.
+2. Notice. When the board acknowledges a request to inspect or copy an applicant's
+or a licensee's record as required by Title 1, section 408‑A, subsection 3, the board shall
+send a notice to the applicant or licensee at the applicant's or licensee's last address on file
+with the board explaining that the request has been made.
+3. Application. This section does not apply to requests for records from other
+governmental licensing or disciplinary authorities or from any health care providers located
+within or outside this State that are concerned with granting, limiting or denying an
+applicant's or licensee's employment or privileges.
+SUBCHAPTER 3
+LICENSURE
+§20121. Individual license
+Only an individual may be licensed under this chapter and only a licensed individual
+may provide services for which a license is required under this chapter.
+§20122. Licensure or privilege required
+Page 9 - 132LR3058(05)
+
+1. Unlicensed practice. The following provisions apply.
+A. Unless licensed or privileged by the board, an individual may not practice medicine
+or render medical services to any patient located in this State. A person may not engage
+in the practice of medicine or render medical services without a license or during any
+period when that person's license is in inactive status, has expired or has been
+suspended, surrendered or revoked.
+B. An individual who practices medicine, renders medical services or holds that
+individual out as doing so when the individual does not hold a valid, active license or
+privilege to do so may be subject to disciplinary action by the board or legal action by
+the Department of the Attorney General under Title 10, section 8003-C.
+2. Penalties. An individual who violates this section commits a Class E crime.
+Violation of this section is a strict liability crime as defined in Title 17‑A, section 34,
+subsection 4‑A.
+§20123. Exemption for licensed individual accompanying visiting athletic team
+1. Licensed individual accompanying visiting athletic team. This chapter does not
+apply to an individual who holds a current unrestricted license to practice medicine and
+surgery in another state when the individual, pursuant to a written agreement with an
+athletic team located in the state in which the individual holds the license, provides medical
+services to any of the following while the athletic team is traveling to or from or
+participating in a sporting event in this State:
+A. A member of the athletic team;
+B. A member of the athletic team's coaching, communications, equipment or sports
+medicine staff;
+C. A member of a band or cheerleading squad accompanying the athletic team; and
+D. The athletic team's mascot.
+2. Restrictions. An individual authorized to provide medical services in this State
+pursuant to subsection 1 may not provide medical services at a health care facility,
+including a hospital, ambulatory surgical facility or any other facility where medical care,
+diagnosis or treatment is provided on an inpatient or outpatient basis.
+§20124. Application; fees; general requirements
+1. Application. An applicant seeking a license from the board must submit an
+administratively complete application, licensure or application fee established by rule
+adopted by the board and any other materials required by the board.
+2. Fees. All fees set forth in this chapter are nonrefundable application fees or
+administrative processing fees payable to the board at the time of application or at the time
+board action is requested. The board shall establish by rule the fees for each license issued
+by the board. The maximum fees for each license issued by the board are provided in this
+subchapter.
+3. Confidentiality of personal contact and health information. A personal
+residence address, personal telephone number or personal e-mail address submitted to the
+board as part of an application, complaint or investigation under this chapter is confidential
+and may not be disclosed except as permitted under this section or as otherwise required
+Page 10 - 132LR3058(05)
+
+by law unless the applicant who submitted the information has indicated that the applicant
+is willing to have the applicant's personal residence address, personal telephone number or
+personal e-mail address treated as a public record. Personal health information submitted
+to the board as part of an application under this chapter is confidential and may not be
+disclosed except as otherwise permitted under this section or otherwise required by law.
+The board and its staff may disclose personal health information about and the personal
+residence address, personal telephone number or personal e-mail address of a licensee or
+an applicant for a license under this chapter to a government licensing or disciplinary
+authority or to a health care provider located within or outside this State that is concerned
+with granting, limiting or denying a license or employment or privileges to the applicant or
+licensee.
+4. Public contact information required. An applicant or licensee shall provide the
+board with a current professional address and telephone number, which will be the
+applicant's or licensee's public contact address. An applicant or licensee who does not have
+a public contact address and telephone number must use the applicant's or licensee's
+personal address and telephone number as the public contact information.
+5. Consent to physical or mental examination; objections to admissibility of
+examiner's testimony waived. For the purposes of this section, a physician or physician
+associate licensed or privileged by the board who accepts the privilege of practicing
+medicine or rendering medical services in this State by the filing of an application and of
+biennial license renewal:
+A. Is deemed to have consented to a mental or physical examination by an individual
+or entity selected or approved by the board when directed in writing by the board or an
+investigative committee pursuant to section 20141; and
+B. Is deemed to have waived all objections to the admissibility of testimony based on
+the examination under paragraph A or reports from that examination on the ground that
+these constitute a privileged communication.
+Pursuant to Title 4, section 184, subsection 6, the District Court shall immediately suspend
+the license of a physician or physician associate who can be shown, through the results of
+the medical or physical examination conducted under this section or through other
+competent evidence, to be unable to practice medicine or render medical services with
+reasonable skill and safety to patients by reason of mental illness, alcohol intemperance or
+excessive use of drugs or narcotics or as a result of a mental or physical condition
+interfering with the competent provision of medical services.
+6. License must be displayed. A physician or physician associate licensed under this
+chapter is entitled to receive a license under the seal of the board and signed by the chair
+and the secretary. The license must be publicly displayed at the individual's principal place
+of practice as long as the individual continues the practice of medicine.
+§20125. Licensure of physician associates
+1. Qualification for licensure. The board may issue to an individual a license to
+practice as a physician associate under the following conditions.
+A. A license may be issued to an individual who:
+(1) Graduated from a physician assistant or physician associate program approved
+by the board;
+Page 11 - 132LR3058(05)
+
+(2) Passed a physician assistant or physician associate national certifying
+examination administered by the National Commission on Certification of
+Physician Assistants or its successor organization;
+(3) Demonstrates current clinical competency either by having engaged in the
+clinical rendering of medical services during the preceding 24 months, or by
+providing a plan to practically demonstrate to the board's satisfaction the
+individual's clinical competency, the requirements of which may be set by
+rulemaking;
+(4) Does not have a license, certificate of registration or privilege that is the subject
+of disciplinary action such as probation, restriction, suspension, revocation or
+surrender;
+(5) Completes an application approved by the board;
+(6) Pays an application fee of up to $400; and
+(7) Passes an examination approved by the board.
+B. An applicant may not be licensed unless the board finds that the applicant is
+qualified and no cause exists, as set forth in section 20144, that may be considered
+grounds for disciplinary action against a licensed physician associate.
+2. Rules. The board may adopt rules regarding the licensure and practice of physician
+associates. These rules may pertain to, but are not limited to, the following matters:
+A. Information to be contained in the application for a license;
+B. Education requirements for the physician associate;
+C. Requirements for collaborative agreements, including uniform standards and forms;
+D. Requirements for a physician associate to notify the board regarding certain
+circumstances, including, but not limited to, any change in address of the physician
+associate, the permanent departure of the physician associate from this State, any
+criminal convictions of the physician associate and any discipline by other jurisdictions
+of the physician associate;
+E. Issuance of temporary physician associate licenses;
+F. Continuing education requirements as a precondition to continued licensure or
+licensure renewal;
+G. Fees for the application for an initial physician associate license, which may not
+exceed $400; and
+H. Fees for the biennial renewal of a physician associate license in an amount not to
+exceed $350.
+3. Privileging of physician associates. The board shall issue a privilege to a physician
+associate as permitted under chapter 145-A. The application fee to obtain a privilege
+through the Physician Assistants Licensure Compact may not be higher than the application
+fee for a physician associate license, and any fee for renewal of a Physician Assistants
+Licensure Compact privilege may not exceed $350.
+4. Renewal of Physician Assistants Licensure Compact privilege. A physician
+associate exercising the physician associate's compact privilege in this State must renew
+Page 12 - 132LR3058(05)
+
+that compact privilege timely and consistent with all requirements of chapter 145-A and of
+the participating state that issued the physician associate's qualifying license and shall pay
+all fees required by the board.
+§20126. Physician associate criminal history record information; fees
+1. Background check. The board shall request a background check for an individual
+who submits an application for initial licensure or licensure by endorsement as a physician
+associate under this chapter. The board shall request a background check for each licensed
+physician associate who applies for an initial compact privilege and designates this State
+as the applicant's participating state in accordance with chapter 145-A. The background
+check must include criminal history record information obtained from the Maine Criminal
+Justice Information System established in Title 16, section 631 and the Federal Bureau of
+Investigation.
+A. The criminal history record information obtained from the Maine Criminal Justice
+Information System must include public criminal history record information as defined
+in Title 16, section 703, subsection 8.
+B. The criminal history record information obtained from the Federal Bureau of
+Investigation must include other state and national criminal history record information.
+C. An applicant or licensee shall submit to having fingerprints taken. The Department
+of Public Safety, Bureau of State Police, upon payment by the applicant or licensee of
+a fee established by the board, shall take or cause to be taken the applicant's or licensee's
+fingerprints and shall forward the fingerprints to the Department of Public Safety,
+Bureau of State Police, State Bureau of Identification so that the State Bureau of
+Identification can conduct state and national criminal history record checks. Except
+for the portion of the payment, if any, that constitutes the processing fee charged by
+the Federal Bureau of Investigation, all money received by the Bureau of State Police
+for purposes of this paragraph must be paid to the Treasurer of State. The money must
+be applied to the expenses of administration incurred by the Department of Public
+Safety. An individual who fails to transmit criminal fingerprint records to the State
+Bureau of Identification pursuant to this paragraph is subject to the provisions of Title
+25, section 1550.
+D. The subject of a Federal Bureau of Investigation criminal history record check may
+obtain a copy of the criminal history record check by following the procedures outlined
+in 28 Code of Federal Regulations, Sections 16.32 and 16.33. The subject of a state
+criminal history record check may inspect and review the criminal history record
+information pursuant to Title 16, section 709.
+E. State and federal criminal history record information of an applicant for a physician
+associate license may be used by the board for the purpose of screening the applicant.
+State and federal criminal history record information of a licensed physician associate
+seeking an initial compact privilege may be used by the board for the purpose of taking
+disciplinary action against the licensee. A board action against an applicant for
+licensure or a licensee under this subsection is subject to the provisions of Title 5,
+chapter 341.
+F. Information obtained pursuant to this subsection is confidential. The results of
+background checks received by the board are for official use only and may not be
+Page 13 - 132LR3058(05)
+
+disseminated to the Physician Assistants Licensure Compact Commission established
+under section 18537 or to any other person.
+G. An individual whose license has expired and who has not applied for renewal may
+request in writing that the Department of Public Safety, Bureau of State Police, State
+Bureau of Identification remove the individual's fingerprints from the bureau's
+fingerprint file. In response to a written request, the bureau shall remove the
+individual's fingerprints from the fingerprint file and provide written confirmation of
+that removal.
+2. Rules. The board, following consultation with the Department of Public Safety,
+Bureau of State Police, State Bureau of Identification, may adopt rules to implement this
+section. Rules adopted pursuant to this subsection are routine technical rules as defined in
+Title 5, chapter 375, subchapter 2-A.
+§20127. Licensure of allopathic physicians
+Except as otherwise specified by this chapter, all applicants for licensure as an
+allopathic physician or surgeon in this State must satisfy the following requirements.
+1. Medical education. Each applicant must:
+A. Graduate from a medical school designated as accredited by the Liaison Committee
+on Medical Education or the Committee on Accreditation of Canadian Medical
+Schools;
+B. Graduate from an unaccredited medical school, be evaluated by the Educational
+Commission for Foreign Medical Graduates and hold a current certificate from the
+Educational Commission for Foreign Graduates; or
+C. Graduate from an unaccredited medical school and achieve a passing score on a
+comprehensive examination determined by the board to be substantially equivalent to
+the United States Medical Licensing Examination or other examinations designated by
+the board as the qualifying examination or examinations for licensure.
+2. Postgraduate training. Each applicant who has graduated from an accredited
+medical school on or after January 1, 1970 but before July 1, 2004 must have satisfactorily
+completed at least 24 months in a medical graduate educational program accredited by the
+Accreditation Council on Graduate Medical Education, the Canadian Medical Association
+or the Royal College of Physicians and Surgeons of Canada. Notwithstanding other
+requirements of postgraduate training, an applicant is eligible for licensure when the
+candidate has satisfactorily graduated from a combined postgraduate training program in
+which each of the contributing programs is accredited by the Accreditation Council on
+Graduate Medical Education and the applicant is eligible for accreditation by the American
+Board of Medical Specialties in both specialties. Each applicant who has graduated from
+an accredited medical school prior to January 1, 1970 must have satisfactorily completed
+at least 12 months in a medical graduate educational program accredited by the
+Accreditation Council on Graduate Medical Education, the Canadian Medical Association
+or the Royal College of Physicians and Surgeons of Canada. Each applicant who has
+graduated from an accredited medical school on or after July 1, 2004 or an unaccredited
+medical school must have satisfactorily completed at least 36 months in a medical graduate
+educational program accredited by the Accreditation Council on Graduate Medical
+Education or be licensed or registered to practice medicine according to the laws and rules
+Page 14 - 132LR3058(05)
+
+of Canada, the United Kingdom of Great Britain and Northern Ireland or Ireland. An
+applicant who has completed 24 months of postgraduate training and has received an
+unrestricted endorsement from the director of an accredited graduate education program in
+this State is considered to have satisfied the postgraduate training requirements of this
+subsection if the applicant continues in that program and completes 36 months of
+postgraduate training. Notwithstanding this subsection, an applicant who is board certified
+by the American Board of Medical Specialties is deemed to meet the postgraduate training
+requirements of this subsection. Notwithstanding this subsection, in the case of
+subspecialty or clinical fellowship programs, the board may accept in fulfillment of the
+requirements of this subsection postgraduate training at a hospital in which the subspecialty
+clinical program, such as a training program accredited by the American Dental
+Association Commission on Dental Accreditation or its successor organization, is not
+accredited but the parent specialty program is accredited by the Accreditation Council on
+Graduate Medical Education, including training that occurs following graduation from a
+dental school accredited by the American Dental Association Commission on Dental
+Accreditation or its successor organization but before graduation from a medical school
+accredited by the Liaison Committee on Medical Education or its successor organization.
+3. Current clinical competency. An applicant must have engaged in active clinical
+practice in the previous 24 months or provided a plan to practically demonstrate to the
+board's satisfaction the applicant's clinical competency, the requirements of which may be
+set by rulemaking.
+4. National board certification not required. The board may not require an applicant
+for initial licensure or license renewal as an allopathic physician under this section to obtain
+certification from a specialty medical board or to obtain a maintenance of certification as a
+condition of licensure. For the purposes of this subsection, "maintenance of certification"
+means a program that requires an allopathic physician to engage in periodic examination,
+self-assessment, peer evaluation or other activities to maintain certification from a specialty
+medical board.
+5. Examination. Each applicant must achieve a passing score on each component of
+the uniform examination of the Federation of State Medical Boards or other examinations
+designated by the board as the qualifying examination or examinations for licensure. Each
+applicant must additionally achieve a passing score on a State of Maine jurisprudence
+examination administered by the board.
+6. Fees. Each applicant shall pay a fee of up to $700 plus the cost of the qualifying
+examination or examinations.
+7. Board action. An applicant may not be licensed unless the board finds that the
+applicant is qualified and no cause exists, as set forth in section 20144, that may be
+considered grounds for disciplinary action against a licensed physician or surgeon.
+8. Waiver for exceptional circumstances. The board may waive the requirements of
+subsection 2 for a physician who does not meet the postgraduate training requirements but
+who meets the requirements of this subsection.
+A. To be considered for a waiver under this subsection, the physician must:
+(1) Be a graduate of a foreign medical school, not including a medical school in
+Canada or Great Britain;
+Page 15 - 132LR3058(05)
+
+(2) Be licensed in another state; and
+(3) Have at least 3 years of clinical experience in the area of expertise.
+B. If the physician meets the requirements of paragraph A, the board shall use the
+following qualifications of the physician to determine whether to grant a waiver:
+(1) Completion of a 3-year clinical fellowship in the United States in the area of
+expertise. The burden of proof as to the quality and content of the fellowship is
+placed on the applicant;
+(2) Appointment to a clinical academic position at a licensed medical school in the
+United States;
+(3) Publication in peer-reviewed clinical medical journals recognized by the board;
+(4) The number of years in clinical practice; and
+(5) Other criteria demonstrating expertise, such as awards or other recognition.
+C. The costs associated with the board's determination of licensing eligibility in regard
+to paragraph B may be assessed for payment by the applicant upon completion of the
+determination under paragraph A. The application cost must reflect and not exceed the
+actual cost of the final determination.
+§20128. Licensure of osteopathic physicians
+Except as otherwise specified by this chapter, all applicants for licensure as an
+osteopathic physician or surgeon in this State must satisfy the following requirements.
+1. Osteopathic education. An applicant must graduate from an osteopathic medical
+school designated as accredited by the American Osteopathic Association's Commission
+on Osteopathic College Accreditation.
+2. Postgraduate training. An applicant who has graduated from an accredited
+osteopathic medical school prior to January 1, 2026 must have satisfactorily completed at
+least 12 months in a medical graduate educational program accredited by the Accreditation
+Council on Graduate Medical Education or the American Osteopathic Association. An
+applicant who has graduated from an accredited osteopathic medical school on or after
+January 1, 2026 must have satisfactorily completed at least 36 months in a graduate
+educational program accredited by the Accreditation Council on Graduate Medical
+Education or the American Osteopathic Association. The board may not require an
+applicant for initial licensure or license renewal as an osteopathic physician under this
+chapter to obtain certification from a specialty medical board or to complete maintenance
+of certification as a condition of licensure. For the purposes of this subsection,
+"maintenance of certification" means a program that requires a physician to engage in
+periodic examination, self-assessment, peer evaluation or other activities to maintain
+certification from a specialty medical board.
+3. Current clinical competency. An applicant must have engaged in active clinical
+practice in the previous 24 months or provided a plan to practically demonstrate to the
+board's satisfaction the applicant's clinical competency, the requirements of which may be
+set by rulemaking.
+4. Examination. An applicant must achieve a passing score on each component of
+the National Board of Osteopathic Medical Examiners' Comprehensive Osteopathic
+Page 16 - 132LR3058(05)
+
+Medical Licensing Examination of the United States, known as the COMLEX-USA
+examination, or other examinations designated by the board as the qualifying examination
+or examinations for licensure.
+5. Fees. An applicant shall pay a fee of up to $700 plus the cost of the qualifying
+examination or examinations.
+6. No cause for disciplinary action. An applicant may not be licensed unless the
+board finds that the applicant is qualified and no cause exists, as set forth in section 20144,
+that may be considered grounds for disciplinary action against a licensed physician.
+§20129. Background check for expedited physician licensure through Interstate
+Medical Licensure Compact
+1. Background check. The board shall request a background check for an individual
+licensed under this chapter who applies for an expedited license under section 18506. The
+background check must include criminal history record information obtained from the
+Maine Criminal Justice Information System and the Federal Bureau of Investigation.
+A. The criminal history record information obtained from the Maine Criminal Justice
+Information System must include a record of public criminal history record information
+as defined in Title 16, section 703, subsection 8.
+B. The criminal history record information obtained from the Federal Bureau of
+Investigation must include other state and national criminal history record information.
+C. An applicant shall submit to having fingerprints taken. The State Police, upon
+payment by the applicant, shall take or cause to be taken the applicant's fingerprints
+and shall forward the fingerprints to the State Bureau of Identification so that the
+bureau can conduct state and national criminal history record checks. Except for the
+portion of the payment, if any, that constitutes the processing fee charged by the
+Federal Bureau of Investigation, all money received by the State Police for purposes
+of this paragraph must be paid over to the Treasurer of State. The money must be
+applied to the expenses of administration incurred by the Department of Public Safety.
+D. The subject of a Federal Bureau of Investigation criminal history record check may
+obtain a copy of the criminal history record check by following the procedures outlined
+in 28 Code of Federal Regulations, Sections 16.32 and 16.33. The subject of a state
+criminal history record check may inspect and review the criminal history record
+information pursuant to Title 16, section 709.
+E. State and federal criminal history record information of an applicant may be used
+by the board for the purpose of screening that applicant.
+F. Information obtained pursuant to this subsection is confidential. The results of
+background checks received by the board are for official use only and may not be
+disseminated to the Interstate Medical Licensure Compact Commission, established in
+section 18512, or to any other person or entity.
+G. An individual whose expedited licensure through the Interstate Medical Licensure
+Compact under chapter 145 has expired and who has not applied for renewal may
+request in writing that the State Bureau of Identification remove the individual's
+fingerprints from the bureau's fingerprint file. In response to a written request, the
+Page 17 - 132LR3058(05)
+
+bureau shall remove the individual's fingerprints from the fingerprint file and provide
+written confirmation of that removal.
+2. Rules. The board, following consultation with the State Bureau of Identification,
+shall adopt rules to implement this section. Rules adopted pursuant to this subsection are
+routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+§20130. Other physician license types
+1. Temporary licensure. A physician who is qualified under section 20127 or 20128
+may, without examination, be granted a temporary license for a period not to exceed one
+year when the board determines that this action is necessary in order to provide relief for
+local or national emergencies or for situations in which the number of physicians is
+insufficient to supply adequate medical services or for the purpose of permitting the
+physician to serve as locum tenens for another physician who is licensed to practice
+medicine in this State. The fee for this temporary license may not be more than $400.
+2. Youth camp physicians. A physician who is qualified under section 20127 or
+20128 may, at the discretion of the board, be temporarily licensed as a youth camp
+physician so that the physician may care for the campers in that particular youth camp
+licensed under Title 22, section 2495 for which the physician was hired and retained as a
+youth camp physician. That physician is entitled to practice only on patients in the youth
+camp. The temporary license must be obtained each year. Application for this temporary
+license must be made in the same form and manner as for regular licensure. An
+examination may not be exacted from applicants for these temporary licenses. The fee for
+temporary licensure may not be more than $400 annually.
+3. Emergency 100-day license. A physician who presents a current active
+unconditioned license from another United States licensing jurisdiction and who can
+provide reasonable proof of meeting qualifications for licensure in this State must be issued
+a license to serve temporarily for declared emergencies in this State or for other appropriate
+reasons as determined by the board. The license is effective for not more than 100 days.
+The fee for this license may not be more than $400.
+4. Temporary educational certificate. The board may issue a temporary educational
+certificate in accordance with the following.
+A. An applicant who is qualified under this subchapter may receive a temporary
+educational certificate from the board to act as a hospital resident. A certificate to a
+hospital resident may be renewed every 3 years at the discretion of the board for not
+more than 8 years.
+B. An applicant who is enrolled in a program of medical and graduate medical training
+conducted jointly by a medical school accredited by the Liaison Committee on Medical
+Education and a graduate medical education program approved by the Accreditation
+Council on Graduate Medical Education may receive a temporary educational
+certificate from the board to act as a hospital resident as part of that graduate medical
+education program if the applicant is concurrently enrolled in the final year of medical
+training and the initial year of graduate medical education. The board may not issue a
+certificate pursuant to this paragraph for a period longer than that required to obtain the
+M.D. or D.O. degree. The period during which the certificate is in force may not be
+Page 18 - 132LR3058(05)
+
+considered in determining satisfaction of the requirement for postgraduate medical
+education under this subchapter.
+C. An applicant for a temporary educational certificate may not be certified unless the
+board finds that the applicant is qualified and that there exists no cause, as set forth in
+section 20144, that would be considered grounds for disciplinary action against a
+licensed physician or surgeon. The board, in its discretion, may require an examination
+for applicants for temporary educational certificates. Recipients of these certificates
+are entitled to all the rights granted to physicians who are licensed to practice medicine
+and surgery, except that their practice is limited to the training programs in which they
+are enrolled. A temporary educational certificate may be suspended or revoked, or the
+board may refuse to renew the certificate, for the reasons stated in section 20144 or if
+the hospital resident has violated the limitations placed upon the temporary educational
+certificate. The fee for this license may not be more than $300.
+5. Visiting instructors. A physician who has an unrestricted license to practice
+medicine or surgery in another state may practice medicine or surgery in this State when
+the physician is performing medical procedures as part of a course of instruction in graduate
+medical education in a hospital located in this State. The right of a visiting medical
+instructor to practice medicine in this State may be suspended or revoked for the reasons
+stated in section 20144 or if the visiting medical instructor has performed medical
+procedures that are not a part of a course of instruction. A visiting medical instructor shall
+apply for authorization from the board to practice under this subsection. The fee for this
+authorization may not be more than $300.
+§20131. Biennial renewal of physician and physician associate licenses; qualification;
+fees; reinstatement after lapse
+1. Renewal of licenses. Except as otherwise provided in this chapter, a physician or
+physician associate with a license issued by the board, including Interstate Medical
+Licensure Compact licenses, shall apply to the board for relicensure using application
+forms and submitting supporting documents required by the board. Except as provided in
+paragraph A for initial proration of expiration dates, the board shall provide to every
+licensee whose renewal application is approved and accepted proof of license renewal that
+is valid for no longer than 2 years.
+A. Regardless of the date of initial licensure or last license renewal, the license of
+every physician and physician associate born in an odd-numbered year expires at
+midnight on the last day of the month of the individual's birth in every odd-numbered
+year. The license of every physician and physician associate born in an even-numbered
+year expires at midnight on the last day of the month of the individual's birth in every
+even-numbered year. Prior to expiration, a physician or physician associate must
+renew the license issued pursuant to this section by means of application to the board,
+on forms prescribed and supplied by the board.
+B. At least 60 days prior to expiration of a current license, the board shall notify each
+licensee of the requirement to renew the license. If an administratively complete
+license renewal application, as determined pursuant to this section, has not been
+submitted prior to the expiration date of the existing license, the license immediately
+and automatically expires. A license may be reinstated within 90 days after the date of
+expiration upon submission of an administratively complete application and payment
+Page 19 - 132LR3058(05)
+
+of the renewal fee and late fee. If an administratively complete renewal application is
+not submitted within 90 days of the date of the expiration of the license, the license
+immediately and automatically lapses. The board may reinstate a license that has
+lapsed pursuant to subsection 4.
+2. Criteria for license renewal. Prior to renewing a license:
+A. The board may pose any question to the licensee or other sources that the board
+determines appropriate related to qualification for relicensure. These matters may
+include, but are not limited to, confirmation of health status, professional standing and
+conduct, professional liability claims history and license status in other jurisdictions.
+The board shall, after affording the licensee due process, deny license renewal if the
+board finds cause that may be considered grounds for refusal to renew the license
+pursuant to section 20144, including, but not limited to, a determination that an
+outstanding financial obligation to the board exists; and
+B. A licensee seeking renewal of a license with the intent of conducting active clinical
+medical practice or rendering medical services in this State shall submit evidence,
+satisfactory to the board, of successful completion of a course of continuing medical
+education within the preceding 24 months, as prescribed by rule. A licensee may not
+engage in the clinical practice of medicine or render medical services in this State in
+any degree, unless the board has found the licensee qualified by continuing medical
+education and has marked the current license with the designation "active."
+3. Fees. The following fees apply to licensure.
+A. The board may charge a license renewal application fee of not more than $600 to
+all applicants for full license renewal.
+B. In addition to the application processing fee, the board may require payment of a
+late application fee of not more than $100 from all licensees, regardless of age, from
+whom the board has not received an administratively complete license renewal
+application prior to the license expiration date. An application is not administratively
+complete if it is not signed and dated by the licensee or does not provide full
+information and responses of sufficient detail to permit board review, evaluation and
+decision on renewal qualification. An application received without the required license
+renewal application fee is considered incomplete and the applicant is subject to a late
+fee.
+C. The board may prorate the fee for biennial relicensure for individuals who have
+been issued a full license within the past 12 months. The manner of proration, if done,
+must be explained in the board's published schedule of fees. The board may waive all
+or a portion of the established license renewal application fee upon receipt of a request
+for waiver based on hardship or other special circumstance. Any waiver request
+granted and the basis for the waiver must be recorded in the minutes of the board's
+proceedings.
+D. Unless received and deposited to the board's account in error and in violation of
+this section or the board's rules, a license renewal application fee or late fee paid to the
+board is not refundable if the board or the board's staff has commenced processing the
+application, regardless of the board's action on the application.
+Page 20 - 132LR3058(05)
+
+4. Reinstatement after lapse. A license may be reinstated after the lapse of a license
+under the following conditions.
+A. A license that has lapsed pursuant to subsection 1, paragraph A or B may be
+reinstated upon application by the individual on forms provided by the board. An
+individual whose license has lapsed for more than 5 years shall apply for a new license.
+B. When applying for reinstatement, the licensee must state the reason why the license
+lapsed and pay all fees in arrears at the time of lapse plus the current license renewal
+application fee and a nonrefundable reinstatement application processing fee of $100.
+C. The board may not reinstate a lapsed full license if the board finds any cause that
+may be considered a ground for discipline pursuant to section 20144 if the license had
+been in force. Prior to concluding that no cause exists, the board shall conduct the
+inquiries required by subsection 2, paragraph A for applications for renewal. In
+addition, the board may not reinstate the license of any individual who has not provided
+evidence satisfactory to the board of having actively engaged in the clinical practice of
+medicine or rendering of medical services during the past 24 months under the license
+of another jurisdiction of the United States or Canada unless the applicant has first
+satisfied the board of the applicant's current clinical competency by providing a plan
+to practically demonstrate to the board's satisfaction the applicant's clinical
+competency, the requirements of which may be set through rulemaking.
+§20132. Withdrawal of license
+A licensee who notifies the board in writing of the withdrawal of the individual's
+license is not required to pay licensure fees or penalties beyond those due at the time of the
+holder's withdrawal, but after a holder gives this notice, the holder's license to practice is
+not valid until reinstated by the board.
+§20133. Inactive license status
+A licensee who wants to retain licensure while not practicing or rendering medical
+services may apply for an inactive status license. During inactive status, the licensee must
+renew the license and pay the renewal fee set by rule. Inactive status licensees may not
+engage in the clinical practice of medicine and may not engage in the clinical rendering of
+medical services. Continuing medical education hours and the jurisprudence examination
+are not required for an inactive status licensee unless the inactive status licensee seeks
+reinstatement or conversion to active status.
+SUBCHAPTER 4
+COMPLAINTS AND INVESTIGATIONS
+§20141. Investigative committees
+Separate investigative committees are established within the board with the power and
+authority to conduct and act upon investigations in accordance with this subchapter.
+1. Composition. The chair of the board shall divide the membership of the board into
+2 investigative committees of 11 members. Each investigative committee must include 3
+allopathic physicians, 3 osteopathic physicians, 2 physician associates and 3 public
+Page 21 - 132LR3058(05)
+
+members. The chair or vice-chair of the board shall chair each investigative committee,
+and each investigative committee may choose an alternate to chair individual meetings in
+the absence of the chair and vice-chair. Each investigative committee has the power to act
+as an investigative committee or a hearing panel.
+2. Powers and duties of investigative committee. An investigative committee of the
+board has the following powers and duties:
+A. The duty to investigate complaints, mandated reports, other reports and licensing
+matters in a timely fashion regarding potential violation of this chapter or the violation
+of rules adopted by the board pursuant to its authority;
+B. The power to issue subpoenas for the production of documents and records;
+C. The power to direct that a licensee or applicant for licensure or relicensure undergo
+a mental or physical examination. An individual examined pursuant to the direction of
+the committee may not prevent testimony or prevent the acceptance into evidence of a
+report based on that examination in any proceeding before the committee or board;
+D. The power to dismiss complaints;
+E. The power to dismiss complaints and issue letters of guidance or concern. A letter
+of guidance or concern may be used to educate, reinforce knowledge regarding legal
+or professional obligations and express concern over action or inaction by the licensee
+or applicant that does not rise to the level of misconduct sufficient to merit disciplinary
+action. The issuance of a letter of guidance or concern is not a formal proceeding and
+does not constitute an adverse disciplinary action of any form. Notwithstanding any
+provision of law to the contrary, a letter of guidance or concern is not confidential. The
+board may place a letter of guidance or concern, together with any underlying
+complaint, report and investigation materials, in a licensee's or applicant's file for a
+specified amount of time, not to exceed 10 years. Any letters, complaints and materials
+placed on file may be accessed and considered by the board in any subsequent action
+commenced against the licensee or applicant within the specified time frame.
+Complaints, reports and investigation materials placed on file are confidential only to
+the extent that confidentiality is required pursuant to Title 24, chapter 21;
+F. The power to hold an informal conference with a licensee or applicant for licensure
+or relicensure. The committee shall provide the licensee with adequate notice of the
+informal conference and the issues to be discussed. The complainant may attend and
+may be accompanied by up to 2 individuals, including legal counsel. The informal
+conference must be conducted in executive session of the committee, pursuant to Title
+1, section 405, unless otherwise requested by the licensee. Before the committee
+decides what action to take at the informal conference or as a result of the informal
+conference, the committee shall give the complainant a reasonable opportunity to
+speak. Statements made at the informal conference may not be introduced at a
+subsequent formal hearing unless all parties consent. The complainant, the licensee
+and the complainant's and the licensee's representatives, if any, shall maintain the
+confidentiality of the informal conference;
+G. The power, with the consent of the licensee, to enter into a consent agreement that
+resolves an investigation and that fixes the period and terms of probation best adapted
+to protect the public health and safety and rehabilitate or educate the licensee. Consent
+Page 22 - 132LR3058(05)
+
+agreements may be entered into only with the consent of the applicant or licensee, the
+investigative committee and the Department of the Attorney General. Any remedy,
+penalty or fine or cost recovery that is otherwise available by law, even if only in the
+jurisdiction of the District Court, may be achieved by consent agreement, including
+long-term suspension or permanent revocation of a professional license. A consent
+agreement is not subject to review or appeal and may be modified only by a writing
+executed by all parties to the original consent agreement. A consent agreement is
+enforceable by the board and by an action in Superior Court;
+H. The power to accept a voluntary surrender of a license or privilege, in consideration
+of which the committee may negotiate stipulations, including terms and conditions for
+reinstatement, that ensure protection of the public health and safety and serve to
+rehabilitate or educate the licensee. These stipulations may be set forth only in a
+consent agreement signed by the board, the licensee and the Office of the Attorney
+General;
+I. If the committee concludes that modification or nonrenewal of the license is in order,
+the power to hold an adjudicatory hearing in accordance with Title 5, chapter 375,
+subchapter 4;
+J. The power to refer the investigation to an adjudicatory hearing before the board or
+to the Office of the Attorney General to file a complaint in the District Court in
+accordance with Title 4, chapter 5; and
+K. The power to conduct adjudicatory hearings referred by the other investigative
+committee under this section.
+3. Adjudicatory hearings. The following provisions apply to adjudicatory hearings.
+A. Adjudicatory hearings must be conducted by an adjudicatory hearing panel
+composed solely of a subset of board members taken from among one of the 2
+investigative committees, with a minimum quorum of 5 members serving as an
+adjudicatory hearing panel, as long as at least one member serving on an adjudicatory
+hearing panel holds the same license as a licensee or applicant for licensure whose case
+is being adjudicated and is present for purposes of a quorum when a decision is made
+by an adjudicatory hearing panel. A board member may not serve on an adjudicatory
+hearing panel if the board member participated in the review and investigation of the
+licensee or applicant for licensure whose case is being adjudicated.
+B. Adjudicatory hearings held by adjudicatory hearing panels must be conducted
+consistent with Title 5, chapter 375, subchapter 4.
+C. A presiding officer shall conduct each board hearing, as determined by the
+adjudicatory hearing panel or by board rule.
+D. The board may adopt rules governing its adjudicatory hearings in accordance with
+section 20113, subsection 1, paragraph S.
+§20142. Complaints; reports; investigations
+The board, acting through an investigative committee of the board pursuant to section
+20141, shall investigate a complaint, on its own motion or upon receipt of a written
+complaint filed with the board, regarding alleged noncompliance with or violation of this
+chapter or any rules adopted by the board. The board shall notify the licensee of the content
+Page 23 - 132LR3058(05)
+
+of a complaint filed against the licensee as soon as possible, but not later than 60 days after
+receipt of this information. The licensee shall respond within 30 days. The board shall
+share the licensee's response with the complainant, unless the board determines that it
+would be detrimental to the health of the complainant, the licensee or a patient related to
+the complaint to obtain the response or that the complainant is not legally entitled to the
+confidential medical information contained in the response. Board staff shall ensure that
+the complaint is referred to one of the investigative committees described in section 20141
+for review. When a complaint has been filed against a licensee and the licensee moves or
+has moved to another state, the board may report to the appropriate licensing board in that
+state the complaint that has been filed, other complaints in the physician's record on which
+action was taken and disciplinary actions of the board with respect to that physician. When
+an individual applies for a license under this chapter and any issue arises during the
+application review that may constitute grounds for discipline, the board, acting through the
+investigative committee, may investigate the professional or criminal record of that
+individual, including professional records that the individual may have as a licensee in
+other states. The board may deny a license or authorize a restricted license based on the
+record of the applicant in other states or for any reason enumerated in this chapter that
+constitutes grounds for discipline. When the board receives a report pursuant to Title 24,
+section 2505 or 2506 regarding a licensee, board staff shall ensure that the report is referred
+to one of the investigative committees for review. Following review, the investigative
+committee may close the matter without action, further investigate or open a complaint.
+§20143. Emergency action
+Upon its own motion or upon complaint, the board, or an investigative committee of
+the board pursuant to section 20141, in the interests of public health, safety and welfare,
+shall treat as an emergency a complaint or allegation that an individual licensed under this
+chapter is or may be unable to practice medicine with reasonable skill and safety to patients
+by reason of mental illness, alcohol intemperance or excessive use of drugs or narcotics or
+as a result of a mental or physical condition interfering with the competent practice of
+medicine. In enforcing this section, the board, or an investigative committee of the board
+pursuant to section 20141, may compel a licensee to submit to a mental or physical
+examination directed by the board. Failure of a licensee to submit to this examination when
+directed constitutes an admission of the allegations against the physician, unless the failure
+was due to circumstances beyond the physician's control, upon which a final order of
+disciplinary action may be entered without the taking of testimony or presentation of
+evidence. A licensee affected under this section must, at reasonable intervals, be afforded
+an opportunity to demonstrate that the licensee can resume the competent practice of
+medicine with reasonable skill and safety to patients. For the purposes of this chapter, by
+practicing or by making and filing a biennial license to practice medicine in this State, a
+licensee licensed under this chapter who accepts the privilege to practice medicine in this
+State is deemed to have given consent to a mental or physical examination when directed
+in writing by the board and to have waived all objections to the admissibility of the
+examiner's testimony or examination reports on the grounds that the testimony or reports
+constitute a privileged communication. Injunctions must issue immediately to enjoin the
+practice of medicine by an individual licensed to practice under this chapter when that
+individual's continued practice may cause irreparable damage to the public health or safety
+prior to the time proceedings under this chapter could be instituted and completed. In a
+petition for injunction pursuant to this section, there must be set forth with particularity the
+Page 24 - 132LR3058(05)
+
+facts that make it appear that irreparable damage to the public health or safety may occur
+prior to the time proceedings under this chapter could be instituted and completed. The
+petition must be filed in the name of the board on behalf of this State.
+§20144. Disciplinary action; judicial review
+1. Disciplinary action. The board may suspend or revoke a license or privilege issued
+by the board pursuant to Title 5, section 10004. In addition to the powers under Title 10,
+section 8003, subsection 5, the board may suspend, revoke or refuse to issue or renew a
+license or privilege or impose license or privilege restrictions, conditions and periods of
+probation based on the following grounds for discipline:
+A. The practice of fraud, deceit or misrepresentation in obtaining a license or authority
+from the board or in connection with services within the scope of the license or
+authority;
+B. Misuse of alcohol, drugs or other substances that has resulted or may result in the
+licensee performing services in a manner that endangers the health or safety of patients;
+C. A professional diagnosis of a mental or physical condition that has resulted or may
+result in the licensee performing services in a manner that endangers the health or
+safety of patients;
+D. Aiding or abetting the practice of medicine or rendering of medical services by an
+individual who is not licensed under this chapter and who has not been properly
+delegated the task and who claims to be legally licensed;
+E. Incompetence in the practice for which the licensee is licensed or authorized by the
+board. A licensee is considered incompetent in the practice if the licensee has engaged
+in conduct that evidences a lack of ability or fitness to perform the duties owed by the
+licensee to a client or patient or the general public; or engaged in conduct that evidences
+a lack of knowledge or inability to apply principles or skills to carry out the practice
+for which the licensee is licensed;
+F. Unprofessional conduct. A licensee is considered to have engaged in unprofessional
+conduct if the licensee violates a standard of professional behavior, including engaging
+in disruptive behavior, that has been established in the practice for which the licensee
+is licensed. For purposes of this paragraph, "disruptive behavior" means aberrant
+behavior that interferes with or is likely to interfere with the delivery of care;
+G. Subject to the limitations of Title 5, chapter 341, conviction of a crime that involves
+dishonesty or false statement or that relates directly to the practice for which the
+licensee is licensed or authorized by the board, or conviction of a crime for which
+incarceration for one year or more may be imposed;
+H. A violation of this chapter or a rule adopted by the board;
+I. Engaging in false, misleading or deceptive advertising;
+J. Prescribing drugs listed as controlled substances by the United States Department
+of Justice, Drug Enforcement Administration for other than accepted therapeutic
+purposes;
+Page 25 - 132LR3058(05)
+
+K. Failure to report to the board a physician or physician associate licensed under this
+chapter or a physician associate privileged under chapter 145-A, in accordance with
+Title 24, section 2505;
+L. Failure to comply with the requirements of Title 24, section 2905‑A;
+M. Revocation, suspension or restriction of a license to practice medicine or other
+disciplinary action; denial of an application for a license; or surrender of a license to
+practice medicine following the institution of disciplinary action by another state or a
+territory of the United States or a foreign country if the conduct resulting in the
+disciplinary or other action involving the license would, if committed in this State,
+constitute grounds for discipline under the laws or rules of this State;
+N. Engaging in any activity requiring a license under the governing law of the board
+that is beyond the scope of acts authorized by the license held;
+O. Continuing to act in a capacity requiring a license or authority under this chapter or
+a rule adopted by the board after expiration, suspension or revocation of that license or
+authority;
+P. Noncompliance with an order of the board or a consent agreement executed by the
+board;
+Q. Failure to produce any requested documents in the licensee's possession or under
+the licensee's control relevant to a pending complaint, proceeding or matter under
+investigation by the board;
+R. Failure to timely respond to a complaint notification sent by the board;
+S. Failure to comply with the requirements of Title 22, section 7253; or
+T. Advertising, offering or administering conversion therapy to a minor.
+2. Judicial review. Notwithstanding any provision of Title 10, section 8003,
+subsection 5 to the contrary, any nonconsensual revocation pursuant to Title 10, section
+8003, subsection 5 of a license or authority issued by the board may be imposed only after
+a hearing conforming to the requirements of Title 5, chapter 375, subchapter 4 and is
+subject to judicial review exclusively in the Superior Court in accordance with Title 5,
+chapter 375, subchapter 7.
+3. Letters of guidance. In addition to the authority conferred under Title 10, section
+8003, subsection 5, the board may issue a letter of guidance or concern to a licensee or
+applicant. A letter of guidance or concern may be used to educate, reinforce knowledge
+regarding legal or professional obligations and express concern over action or inaction by
+the licensee or applicant that does not rise to the level of misconduct sufficient to merit
+disciplinary action. The issuance of a letter of guidance or concern is not a formal
+proceeding and does not constitute an adverse disciplinary action of any form.
+Notwithstanding any provision of law to the contrary, a letter of guidance or concern is not
+confidential. The board may place a letter of guidance or concern, together with any
+underlying complaint, report and investigation materials, in a licensee's or applicant's file
+for a specified amount of time, not to exceed 10 years. Any letters, complaints and
+materials placed on file may be accessed and considered by the board in any subsequent
+action commenced against the licensee or applicant within the specified time frame.
+Page 26 - 132LR3058(05)
+
+Complaints, reports and investigation materials placed on file are confidential only to the
+extent that confidentiality is required pursuant to Title 24, chapter 21.
+SUBCHAPTER 5
+DELEGATION; SCOPE OF PRACTICE; REQUIREMENTS; STANDARDS
+§20151. Delegation by physicians and physician associates
+A physician or physician associate may delegate to the physician's or physician
+associate's employees or support staff or members of a health care team, including medical
+assistants, certain activities relating to medical care and treatment carried out by custom
+and usage when the activities are under the control of the physician or physician associate;
+the activities being delegated do not, unless otherwise provided by law, require a license,
+privilege, registration or certification to perform; the physician or physician associate
+ensures that the employees or support staff or members of a health care team have the
+appropriate training, education and experience to perform these delegated activities; and
+the physician or physician associate ensures that the employees or support staff perform
+these delegated activities competently and safely. The physician or physician associate
+who delegates an activity permitted under this section to employees or support staff, to
+program graduates or to participants in an approved training program is legally liable for
+the activity performed by these individuals, and any individual in this relationship is
+considered the physician's or physician associate's agent. This section may not be
+construed to apply to registered nurses acting pursuant to chapter 31 or physician associates
+acting pursuant to this chapter.
+If the delegated activities are part of the practice of optometry as defined in chapter
+151, the individual to whom these activities are delegated must possess a valid license to
+practice optometry in this State, or otherwise may perform only as a technician within the
+established office of a physician, and otherwise acting solely on the order of and under the
+responsibility of a physician skilled in the treatment of eyes as designated by the proper
+professional board, and without assuming evaluation or interpretation of examination
+findings by prescribing corrective procedures to preserve, restore or improve vision.
+§20152. Physician associates; scope of practice and agreement requirements
+1. Scope of practice. A physician associate may render any medical service for which
+the physician associate has been prepared by education, training and experience and is
+competent to perform. The scope of practice of a physician associate is determined by
+practice setting, including, but not limited to, a physician employer setting, physician group
+practice setting or independent private practice setting, or, in a health care facility setting,
+by a system of credentialing and granting of privileges.
+2. Dispensing drugs. Except for distributing a professional sample of a prescription
+or legend drug, a physician associate who dispenses a prescription or legend drug:
+A. Shall comply with all relevant federal and state laws and federal regulations and
+state rules; and
+B. May dispense the prescription or legend drug only when:
+(1) A pharmacy service is not reasonably available;
+Page 27 - 132LR3058(05)
+
+(2) Dispensing the drug is in the best interests of the patient; or
+(3) An emergency exists.
+3. Consultation. A physician associate may, as indicated by a patient's condition, the
+education, competencies and experience of the physician associate and the standards of
+care, consult with, collaborate with or refer the patient to an appropriate physician or other
+health care professional. The level of consultation under this subsection is determined by
+the practice setting, including a physician employer, physician group practice or private
+practice, or by the system of credentialing and granting of privileges of a health care
+facility. Consultation may occur electronically or through telecommunication and includes
+communication, task sharing and education among all members of a health care team.
+4. Collaborative agreement requirements. A physician associate with less than
+4,000 hours of clinical practice documented to the board shall work in accordance with a
+collaborative agreement with an active physician that describes the physician associate's
+scope of practice, except that a physician associate working in a physician group practice
+setting or a health care facility setting under a system of credentialing and granting of
+privileges and scope of practice agreement may use that system of credentialing and
+granting of privileges and scope of practice agreement in lieu of a collaborative agreement.
+A physician associate is legally responsible and assumes legal liability for any medical
+service provided by the physician associate in accordance with the physician associate's
+scope of practice under subsection 1 and a collaborative agreement under this subsection.
+Under a collaborative agreement, collaboration may occur through electronic means and
+does not require the physical presence of the physician at the time or place that the medical
+services are provided. A physician associate shall submit the collaborative agreement, or,
+if appropriate, the scope of practice agreement, to the board for approval and the agreement
+must be kept on file at the main location of the place of practice and be made available to
+the board or the board's representative upon request. Upon submission to the board of
+documentation of 4,000 hours of clinical practice, a physician associate is no longer subject
+to the requirements of this subsection.
+5. Construction. To address the need for affordable, high-quality health care services
+throughout this State and to expand, in a safe and responsible manner, access to health care
+providers such as physician associates, this section must be liberally construed to authorize
+physician associates to provide health care services to the full extent of their education,
+training and experience in accordance with their scopes of practice as determined by their
+practice settings.
+§20153. Review committee member immunity
+A physician or physician associate licensed under this chapter who is a member of a
+utilization review committee, medical review committee, surgical review committee, peer
+review committee or disciplinary committee that is a requirement of accreditation by the
+Joint Commission on accreditation of hospitals or is established and operated under the
+auspices of the physician's or physician associate's respective state or county professional
+society or the board is immune from civil liability for undertaking or failing to undertake
+an act within the scope of the function of the committee.
+§20154. Records of proceedings of medical staff review committees confidential
+Page 28 - 132LR3058(05)
+
+All proceedings and records of proceedings concerning medical staff reviews, hospital
+reviews and other reviews of medical care conducted by committees of physicians and
+other health care personnel on behalf of hospitals located within this State or on behalf of
+individual physicians, when the reviews are required by state or federal law or rule or as a
+condition of accreditation by the Joint Commission on accreditation of hospitals or the
+American Osteopathic Association Healthcare Facilities Accreditation Program or are
+conducted under the auspices of the state or county professional society to which the
+physician belongs, are confidential and are exempt from discovery. Provision of
+information protected by this section to the board pursuant to Title 24, section 2506 does
+not waive or otherwise affect the confidentiality of the records or the exemption from
+discovery provided by this section for any other purpose.
+§20155. Lyme disease treatment
+1. Definitions. As used in this section, unless the context otherwise indicates, the
+following terms have the following meanings.
+A. "Long-term antibiotic therapy" means the administration of oral, intramuscular or
+intravenous antibiotics, singly or in combination, for a period of time in excess of 4
+weeks.
+B. "Lyme disease" means:
+(1) The presence of signs or symptoms compatible with acute infection with
+Borrelia burgdorferi;
+(2) Late stage, persistent or chronic infection with Borrelia burgdorferi;
+(3) Complications related to an infection under subparagraph (1) or (2); or
+(4) The presence of signs or symptoms compatible with acute infection or late
+stage, persistent or chronic infection with other strains of Borrelia that are
+identified or recognized by the United States Department of Health and Human
+Services, Centers for Disease Control and Prevention as a cause of disease.
+"Lyme disease" includes an infection that meets the surveillance criteria for Lyme
+disease established by the United States Department of Health and Human Services,
+Centers for Disease Control and Prevention or a clinical diagnosis of Lyme disease that
+does not meet the surveillance criteria for Lyme disease set by the United States
+Department of Health and Human Services, Centers for Disease Control and
+Prevention but presents other acute and chronic signs or symptoms of Lyme disease as
+determined by a patient's treating physician.
+2. Lyme disease treatment. A physician licensed under this chapter may prescribe,
+administer or dispense long-term antibiotic therapy for a therapeutic purpose to eliminate
+infection or to control a patient's symptoms upon making a clinical diagnosis that the
+patient has Lyme disease or displays symptoms consistent with a clinical diagnosis of Lyme
+disease. The physician shall document the clinical diagnosis and treatment in the patient's
+medical record. The clinical diagnosis must be based on knowledge obtained through
+medical history and physical examination only or in conjunction with testing that provides
+supportive data for the clinical diagnosis.
+§20156. Treatment of minors
+Page 29 - 132LR3058(05)
+
+An individual licensed under this chapter who renders medical care to a minor for the
+prevention or treatment of a sexually transmitted infection or treatment of substance use
+disorder or for the collection of sexual assault evidence through a sexual assault forensic
+examination is under no obligation to obtain the consent of the minor's parent or guardian
+or to inform the parent or guardian of the prevention or treatment or collection. This section
+may not be construed to prohibit the licensed individual rendering the prevention services
+or treatment or collection from informing the parent or guardian. For purposes of this
+section, "substance use disorder" means the use of drugs or alcohol solely for their
+stimulant, depressant or hallucinogenic effect upon the higher functions of the central
+nervous system and not as a therapeutic agent recommended by a practitioner in the course
+of medical treatment.
+§20157. Posting of policy regarding acceptance of Medicare assignment
+An individual licensed to practice medicine or render medical services under this
+chapter, or privileged under chapter 145-A, a chiropractor licensed pursuant to chapter 9
+or a podiatrist licensed pursuant to chapter 51 who treats Medicare-eligible individuals
+shall post in a conspicuous place that professional's policy regarding the acceptance of
+Medicare assignment. This posting must state the policy on accepting assignment and
+name the individual with whom the patient should communicate regarding the policy. The
+Maine Board of Medicine, the Board of Licensure of Podiatric Medicine and the Board of
+Chiropractic Licensure shall enforce the provisions of this section and inform each licensee
+of the licensee's obligation under this section. Each board may discipline a licensee under
+its jurisdiction for failing to comply with this section and impose a monetary penalty of not
+less than $100 and not more than $1,000 for each violation.
+§20158. Release of contact lens prescription
+After contact lenses have been adequately fitted and the patient released from
+immediate follow-up care by the physician, the patient may request a copy of the contact
+lens specifications from the physician. The physician shall provide a copy of the
+prescription at no cost, which must contain the information necessary to properly duplicate
+the current prescription. The contact lens prescription must contain an expiration date not
+to exceed 24 months from the date of issue. The prescription may contain fitting guidelines
+and may also contain specific instructions for use by the patient. The prescribing physician
+is not liable for an injury to or a condition of a patient that results from negligence in
+packaging, manufacturing or dispensing lenses by anyone other than the prescribing
+physician. The dispensing party may dispense contact lenses only upon receipt of a written
+prescription, except that a physician may fill a prescription of an optometrist or another
+physician without a copy of the prescription. Mail order contact lens suppliers must be
+licensed by and register with the Maine Board of Pharmacy pursuant to section 13751,
+subsection 3‑A and are subject to discipline by that board for violations of that board's rules
+and the laws governing the board. An individual who fills a contact lens prescription shall
+maintain a file of that prescription for a period of 5 years. An individual, a corporation or
+any other entity, other than a mail order contact lens supplier, that improperly fills a contact
+lens prescription or fills an expired prescription commits a civil violation for which a fine
+of not less than $250 nor more than $1,000 may be adjudged. An individual may file a
+complaint with the board seeking disciplinary action concerning violations of this section.
+§20159. Expedited partner therapy
+Page 30 - 132LR3058(05)
+
+An individual licensed under this chapter may not be disciplined for providing
+expedited partner therapy in accordance with Title 22, chapter 251, subchapter 3, article 5.
+§20160. Issuance of prescription for ophthalmic lenses
+A physician licensed by the board may not issue a prescription for ophthalmic lenses,
+as defined in section 19101, subsection 19, solely in reliance on a measurement of the eye
+by a kiosk, as defined in section 19101, subsection 14, without conducting an eye
+examination, as defined in section 19101, subsection 11.
+§20161. Requirements regarding prescription of opioid medication
+1. Limits on opioid medication prescribing. Except as provided in subsection 2, an
+individual licensed under this chapter or privileged under chapter 145-A and whose scope
+of practice includes prescribing opioid medication may not prescribe:
+A. To a patient any combination of opioid medication in an aggregate amount in excess
+of 100 morphine milligram equivalents of opioid medication per day;
+B. To a patient who, on the effective date of this section, has an active prescription for
+opioid medication in excess of 100 morphine milligram equivalents of an opioid
+medication per day, an opioid medication in an amount that would cause that patient's
+total amount of opioid medication to exceed 300 morphine milligram equivalents of
+opioid medication per day; except that, on or after July 1, 2017, the aggregate amount
+of opioid medication prescribed may not be in excess of 100 morphine milligram
+equivalents of opioid medication per day;
+C. Within a 30-day period, more than a 30-day supply of an opioid medication to a
+patient under treatment for chronic pain. For the purposes of this paragraph, "chronic
+pain" has the same meaning as in Title 22, section 7246, subsection 1‑C; or
+D. Within a 7-day period, more than a 7-day supply of an opioid medication to a patient
+under treatment for acute pain unless the opioid product is labeled by the federal Food
+and Drug Administration to be dispensed only in a stock bottle that exceeds a 7-day
+supply as prescribed, in which case the amount dispensed may not exceed a 14-day
+supply. For the purposes of this paragraph, "acute pain" has the same meaning as in
+Title 22, section 7246, subsection 1‑A.
+2. Exceptions. An individual licensed under this chapter or privileged under chapter
+145-A whose scope of practice includes prescribing opioid medication is exempt from the
+limits on opioid medication prescribing established in subsection 1 only:
+A. When prescribing opioid medication to a patient for:
+(1) Pain associated with active and aftercare cancer treatment;
+(2) Palliative care, as defined in Title 22, section 1726, subsection 1, paragraph A,
+in conjunction with a serious illness, as defined in Title 22, section 1726,
+subsection 1, paragraph B;
+(3) End-of-life and hospice care; or
+(4) Medication-assisted treatment for substance use disorder; and
+B. When directly ordering or administering a benzodiazepine or opioid medication to
+an individual in an emergency room setting, an inpatient hospital setting, a long-term
+care facility or a residential care facility or in connection with a surgical procedure. As
+Page 31 - 132LR3058(05)
+
+used in this paragraph, "administer" has the same meaning as in Title 22, section 7246,
+subsection 1‑B.
+3. Electronic prescribing. An individual licensed under this chapter or privileged
+under chapter 145-A and whose scope of practice includes prescribing opioid medication
+with the capability to electronically prescribe shall prescribe all opioid medication
+electronically by July 1, 2017. An individual who does not have the capability to
+electronically prescribe must request a waiver from this requirement from the
+Commissioner of Health and Human Services stating the reasons for the lack of capability,
+the availability of broadband infrastructure and a plan for developing the ability to
+electronically prescribe opioid medication. The commissioner may grant a waiver
+including circumstances in which exceptions are appropriate, including prescribing outside
+of the individual's usual place of business and technological failures.
+4. Continuing education. By December 31, 2017, an individual licensed under this
+chapter or privileged under chapter 145-A must successfully complete 3 hours of
+continuing education every 2 years on the prescription of opioid medication. The board
+shall adopt rules to implement this subsection. Rules adopted pursuant to this subsection
+are routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+5. Penalties. An individual who violates this section commits a civil violation for
+which a fine of $250 per violation, not to exceed $5,000 per calendar year, may be
+adjudged. The Department of Health and Human Services is responsible for the
+enforcement of this section.
+6. Opioid medication policy. No later than January 1, 2018, a health care entity that
+includes an individual licensed under this chapter or privileged under chapter 145-A whose
+scope of practice includes prescribing opioid medication must have in place an opioid
+medication prescribing policy that applies to all prescribers of opioid medications
+employed by the health care entity. The policy must include, but is not limited to,
+procedures and practices related to risk assessment, informed consent and counseling on
+the risk of opioid use. For the purposes of this subsection, "health care entity" has the same
+meaning as in Title 22, section 1718‑B, subsection 1, paragraph B.
+§20162. Prohibition on providing conversion therapy to minors
+An individual licensed, registered or certified under this chapter may not advertise,
+offer or administer conversion therapy to a minor.
+§20163. Duty to warn and protect
+1. Duty. A licensee has a duty to warn of or to take reasonable precautions to provide
+protection from a patient's violent behavior if the licensee has a reasonable belief based on
+communications with the patient that the patient is likely to engage in physical violence
+that poses a serious risk of harm to self or others. The duty imposed under this subsection
+may not be interpreted to require the licensee to take any action that in the reasonable
+professional judgment of the licensee would endanger the licensee or increase the threat of
+danger to a potential victim.
+2. Discharge of duty. A licensee subject to a duty to warn or provide protection under
+subsection 1 may discharge that duty if the licensee makes reasonable efforts to
+communicate the threat to a potential victim, notifies a law enforcement agency or seeks
+Page 32 - 132LR3058(05)
+
+involuntary hospitalization of the patient under Title 34‑B, chapter 3, subchapter 4, article
+3.
+3. Immunity. No monetary liability and no cause of action may arise concerning
+patient privacy or confidentiality against a licensee for information disclosed to 3rd parties
+in an effort to discharge a duty under subsection 2.
+SUBCHAPTER 6
+TELEHEALTH SERVICES
+§20181. Definitions
+As used in this subchapter, unless the context otherwise indicates, the following terms
+have the following meanings.
+1. Asynchronous encounter. "Asynchronous encounter" means an interaction
+between a patient and a person licensed under this chapter through a system that has the
+ability to store digital information, including, but not limited to, still images, video files,
+audio files, text files and other relevant data, and to transmit such information without
+requiring the simultaneous presence of the patient and the person licensed under this
+chapter.
+2. Store and forward transfer. "Store and forward transfer" means the transmission
+of a patient's records through a secure electronic system to a person licensed under this
+chapter.
+3. Synchronous encounter. "Synchronous encounter" means a real-time interaction
+conducted with an interactive audio or video connection between a patient and a person
+licensed under this chapter or between a person licensed under this chapter and another
+health care provider.
+4. Telehealth services. "Telehealth services" means health care services delivered
+through the use of information technology and includes synchronous encounters,
+asynchronous encounters, store and forward transfers and telemonitoring.
+5. Telemonitoring. "Telemonitoring" means the use of information technology to
+remotely monitor a patient's health status via electronic means, allowing the person licensed
+under this chapter to track the patient's health data over time. Telemonitoring may be
+synchronous or asynchronous.
+§20182. Telehealth services permitted
+A person licensed under this chapter may provide telehealth services as long as the
+licensee acts within the scope of practice of the licensee's license, in accordance with any
+requirements and restrictions imposed by this subchapter and in accordance with standards
+of practice.
+§20183. Confidentiality
+When providing telehealth services, a person licensed under this chapter shall comply
+with all state and federal confidentiality and privacy laws.
+§20184. Professional responsibility
+Page 33 - 132LR3058(05)
+
+All laws and rules governing professional responsibility, unprofessional conduct and
+generally accepted standards of practice that apply to a person licensed under this chapter
+also apply to that licensee while that licensee is providing telehealth services.
+§20185. Rulemaking
+The board shall adopt rules governing telehealth services by persons licensed under
+this chapter. These rules must establish standards of practice and appropriate restrictions
+for the various types and forms of telehealth services. Rules adopted pursuant to this
+section are routine technical rules as defined by Title 5, chapter 375, subchapter 2‑A.
+Sec. A-8. Transition. The following provisions apply to the reassignment of the
+duties and responsibilities related to the licensing and regulation of allopathic physicians,
+osteopathic physicians and physician associates in this State.
+1. The Maine Board of Medicine is created and established by law. All other statutory
+references to, responsibilities of and authority conferred upon the Board of Licensure in
+Medicine and the Board of Osteopathic Licensure are deemed to refer to and vest in the
+Maine Board of Medicine created by this Part. The Maine Board of Medicine is the
+successor in every way to the powers, duties and functions related to the licensure and
+regulation of physicians and physician associates in this State.
+2. All licenses issued by the Board of Licensure in Medicine and the Board of
+Osteopathic Licensure that are in effect on the effective date of this Part remain in effect
+until those licenses expire. The authority over those licenses is transferred to the Maine
+Board of Medicine on the effective date of this Part.
+3. Notwithstanding the provisions of the Maine Revised Statutes, Title 5, all accrued
+expenditures, assets, liabilities, balances of appropriations, allocations, transfers, revenues
+or other available funds in an account or subdivision of an account of the Board of
+Licensure in Medicine and the Board of Osteopathic Licensure must be transferred to the
+proper accounts of the Maine Board of Medicine by the State Controller or by financial
+order upon the request of the State Budget Officer and with the approval of the Governor.
+4. All rules of the Board of Licensure in Medicine and the Board of Osteopathic
+Licensure that are in effect on the effective date of this Part remain in effect until rescinded,
+revised or amended.
+5. All contracts, agreements and compacts of the Board of Licensure in Medicine and
+the Board of Osteopathic Licensure as they pertain to the duties set forth in this Part that
+are in effect on the effective date of this Part remain in effect until they expire or are altered
+by the parties involved in the contracts or agreements. The Maine Board of Medicine is
+the successor agency for all contracts, agreements and compacts of the Board of Licensure
+in Medicine and the Board of Osteopathic Licensure.
+6. All records of the Board of Licensure in Medicine and the Board of Osteopathic
+Licensure as they pertain to the duties set forth in this Part must be transferred to the Maine
+Board of Medicine as necessary to implement this Part.
+7. All property and equipment of the Board of Licensure in Medicine and the Board of
+Osteopathic Licensure pertaining to the duties set forth in this Part are transferred to the
+Maine Board of Medicine as necessary to implement this Part.
+Page 34 - 132LR3058(05)
+
+8. Employees of the Board of Licensure in Medicine and the Board of Osteopathic
+Licensure who were employees of those respective boards immediately prior to the
+effective date of this Part retain all their employee rights, privileges and benefits, including
+sick leave, vacation and seniority, provided under the Civil Service Law or collective
+bargaining agreements. The Department of Administrative and Financial Services, Bureau
+of Human Resources shall provide assistance to the affected employees and the Maine
+Board of Medicine and shall assist with the orderly implementation of this subsection.
+9. The Department of Administrative and Financial Services, Bureau of the Budget
+shall work with employees of the Maine Board of Medicine with regard to the duties
+transferred to it as set forth in this Part to develop the budget for the Maine Board of
+Medicine.
+10. All complaints and investigations in progress at the time this Part takes effect must
+be assigned to one of the Maine Board of Medicine's investigative committees, and a
+licensee with a pending matter at the time of the merger is not entitled to challenge any
+member of that committee who previously heard the matter when sitting as a member of
+the Board of Licensure in Medicine or the Board of Osteopathic Licensure.
+11. Notwithstanding the Maine Revised Statutes, Title 32, section 20112, subsection 1,
+the appointments of current board members of both the Board of Licensure in Medicine
+and the Board of Osteopathic Licensure carry over, and all sitting members appointed by
+the Governor as of the effective date of the merger serve on the Maine Board of Medicine
+until their existing appointment terms expire.
+12. Notwithstanding the Maine Revised Statutes, Title 32, section 20112, subsection 5,
+the members of the Maine Board of Medicine shall meet on the 2nd Tuesday in January
+2027 at the time and place the board may determine and shall elect a chair, vice-chair and
+a secretary, who hold their respective offices until the 2nd Tuesday in July 2027.
+13. Notwithstanding the Maine Revised Statutes, Title 32, section 20112, subsection 2,
+of the initial members appointed to the Maine Board of Medicine pursuant to Title 32,
+section 20112, subsection 1, 2 members appointed pursuant to paragraphs A, B and D must
+be appointed to a term of 3 years; 2 members appointed pursuant to paragraphs A, B and
+D must be appointed to a term of 4 years; 2 members appointed pursuant to paragraphs A,
+B and D must be appointed to a term of 5 years; one member appointed pursuant to
+paragraph C must be appointed to a term of 3 years; one member appointed pursuant to
+paragraph C must be appointed to a term of 4 years; and 2 members appointed pursuant to
+paragraph C must be appointed to a term of 5 years.
+Sec. A-9. Effective date. This Part takes effect January 1, 2027.
+PART B
+Sec. B-1. Report on planning for merger and additional recommendations
+for statutory changes. No later than January 31, 2027, the Board of Licensure in
+Medicine, jointly with the Board of Osteopathic Licensure, shall submit a report on the
+planning completed by the board prior to the establishment of the Maine Board of Medicine
+as set forth in Part A, including recommendations for any suggested legislation necessary
+to further implement the merger, to the Governor and to the joint standing committee of
+the Legislature having jurisdiction over professional licensing board matters. The joint
+Page 35 - 132LR3058(05)
+
+standing committee having jurisdiction over professional licensing board matters may
+report out a bill to the 133rd Legislature in 2027.
+PART C
+Sec. C-1. 22 MRSA §20, sub-§1, ¶A, as enacted by PL 2019, c. 523, §1, is
+amended to read:
+A. Be licensed, or eligible for licensure, as a physician under Title 32, chapter 36 or
+48 153 or as an advanced practice registered nurse under Title 32, chapter 31; or
+Sec. C-2. 22 MRSA §264, sub-§3, ¶H, as amended by PL 2025, c. 127, §2, is
+further amended to read:
+H. An advanced practice registered nurse who is licensed under Title 32, chapter 31
+or a health care provider who is licensed under Title 32, chapter 36 or 48 153 and who
+has experience in delivering services to individuals with intellectual disabilities or
+autism;
+Sec. C-3. 22 MRSA §264, sub-§3, ¶H-1, as corrected by RR 2025, c. 1, Pt. A,
+§28, is amended to read:
+H-1. An advanced practice registered nurse who is licensed under Title 32, chapter 31
+or a health care provider who is licensed under Title 32, chapters 36 or 48 chapter 153
+and who has experience as a primary care provider;
+Sec. C-4. 22 MRSA §1241, sub-§3, as amended by PL 2019, c. 627, Pt. B, §5 and
+PL 2025, c. 316, §3, is further amended to read:
+3. Health care professional. "Health care professional" means an allopathic
+physician licensed pursuant to Title 32, chapter 48 153, an osteopathic physician licensed
+pursuant to Title 32, chapter 36 153, a physician associate licensed pursuant to Title 32,
+chapter 36 or 48 153, an advanced practice registered nurse who has a written collaborative
+agreement with a collaborating physician that authorizes the provision of sexually
+transmitted disease therapy or expedited partner therapy or an advanced practice registered
+nurse who possesses appropriate clinical privileges in accordance with Title 32, chapter 31.
+Sec. C-5. 22 MRSA §1502, first ¶, as amended by PL 2017, c. 407, Pt. A, §70, is
+further amended to read:
+In addition to the ability to consent to treatment for health services as provided in
+sections 1823 and 1908 and Title 32, sections 2595, 3292, 3817, 6221 and, 7004 and 20156,
+a minor may consent to treatment for substance use disorder or for emotional or
+psychological problems.
+Sec. C-6. 22 MRSA §1508, sub-§1, ¶C, as enacted by PL 2023, c. 413, §1, is
+amended to read:
+C. "Health care professional" means a person qualified by training and experience to
+provide and monitor the provision of gender-affirming hormone therapy who is
+authorized by law to prescribe medication and who is:
+(1) Licensed by the Maine Board of Licensure in Medicine under Title 32, chapter
+48 153; or
+(2) Licensed by the Board of Osteopathic Licensure under Title 32, chapter 36; or
+Page 36 - 132LR3058(05)
+
+(3) Licensed by the State Board of Nursing as an advanced practice registered
+nurse under Title 32, chapter 31.
+Sec. C-7. 22 MRSA §1531, sub-§1, as amended by PL 2019, c. 613, §1, is further
+amended to read:
+1. Prophylactic ophthalmic ointment and reporting requirement. Every
+physician, midwife or nurse in charge shall instill or cause to be instilled into the eyes of
+an infant within 24 hours after its birth prophylactic ophthalmic ointment. If one or both
+eyes of an infant become reddened or inflamed at any time within 4 weeks after birth, the
+midwife, nurse or person having charge of the infant shall report the condition of the eyes
+at once to the infant's primary care provider licensed under Title 32, chapter 36 or 48 153.
+Sec. C-8. 22 MRSA §1596, sub-§1, ¶C, as enacted by PL 2019, c. 262, §1 and
+amended by PL 2025, c. 316, §3, is further amended to read:
+C. "Health care professional" means a physician or physician associate licensed under
+Title 32, chapter 36 or 48 153 or a person licensed under Title 32, chapter 31 to practice
+as an advanced practice registered nurse.
+Sec. C-9. 22 MRSA §1597-A, sub-§1, ¶B, as amended by PL 2019, c. 627, Pt. B,
+§6 and PL 2025, c. 316, §3, is further amended by amending subparagraph (5) to read:
+(5) A physician associate licensed by the Maine Board of Licensure in Medicine,
+Title 32, chapter 48 153;
+Sec. C-10. 22 MRSA §1597-A, sub-§1, ¶B, as amended by PL 2019, c. 627, Pt.
+B, §6 and PL 2025, c. 316, §3, is further amended by amending subparagraph (6) to read:
+(6) A nurse practitioner registered by the Maine Board of Licensure in Medicine,
+Title 32, chapter 48 153;
+Sec. C-11. 22 MRSA §1598, sub-§1-B, as enacted by PL 2023, c. 416, §3 and
+reallocated by RR 2023, c. 1, Pt. A, §8, is amended to read:
+1-B. Abortion after viability. After viability, an abortion may be performed only
+when it is necessary in the professional judgment of a physician licensed pursuant to Title
+32, chapter 36 or 48 153. The physician shall apply the applicable standard of care in
+making a professional judgment under this subsection.
+Sec. C-12. 22 MRSA §1598, sub-§3, ¶A, as amended by PL 2023, c. 416, §4 and
+PL 2025, c. 316, §3, is further amended to read:
+A. Only a person licensed under Title 32, chapter 36 or 48 153 to practice in the State
+as an osteopathic or medical physician or physician associate or a person licensed under
+Title 32, chapter 31 to practice in the State as an advanced practice registered nurse
+may perform an abortion on another person. Nothing in this This paragraph limits does
+not limit the applicability of Title 32, section 3270 20104 or any other civil or criminal
+law that may apply.
+Sec. C-13. 22 MRSA §1711-C, sub-§1, ¶E, as amended by PL 1999, c. 512, Pt.
+A, §5 and affected by §7 and c. 790, Pt. A, §§58 and 60, is further amended by amending
+the first blocked paragraph to read:
+Page 37 - 132LR3058(05)
+
+"Health care information" does not include information that is created or received by a
+member of the clergy or other person using spiritual means alone for healing as
+provided in Title 32, sections 2103 and 3270 20103.
+Sec. C-14. 22 MRSA §1711-C, sub-§6, ¶A, as amended by PL 2013, c. 326, §1,
+is further amended by amending subparagraph (2), division (e) to read:
+(e) A physician specializing in psychiatry licensed under the provisions of
+Title 32, chapter 36 or 48 153.
+Sec. C-15. 22 MRSA §1823, first ¶, as amended by PL 2019, c. 236, §1, is further
+amended to read:
+Any hospital licensed under this chapter or alcohol or drug treatment facility licensed
+pursuant to section 7801 that provides facilities to a minor in connection with the
+prevention of a sexually transmitted infection or the treatment of that minor for a sexually
+transmitted infection or treatment of that minor for substance use or for the collection of
+sexual assault evidence through a sexual assault forensic examination is not under no an
+obligation to obtain the consent of that minor's parent or guardian or to inform that parent
+or guardian of the provision of such facilities so, as long as such facilities have been
+provided at the direction of the person or persons referred to in Title 32, sections 2595,
+3292, section 3817, 6221 or, 7004 or 20156. The hospital shall notify and obtain the
+consent of that minor's parent or guardian if that hospitalization continues for more than 16
+hours.
+Sec. C-16. 22 MRSA §2383-B, sub-§3, ¶B-1, as enacted by IB 1999, c. 1, §8, is
+amended to read:
+B-1. "Physician" means a person licensed as an osteopathic physician by the Board of
+Osteopathic Licensure pursuant to Title 32, chapter 36 or a person licensed as a
+physician or surgeon by the Maine Board of Licensure in Medicine pursuant to Title
+32, chapter 48 153.
+Sec. C-17. 22 MRSA §2421-A, sub-§37, as enacted by PL 2023, c. 679, Pt. A, §3,
+is amended to read:
+37. Physician. "Physician" means an individual licensed as an osteopathic physician
+by the Board of Osteopathic Licensure pursuant to Title 32, chapter 36 or an individual
+licensed as a physician or surgeon by the Maine Board of Licensure in Medicine pursuant
+to Title 32, chapter 48 153 who is in good standing and who holds a valid federal Drug
+Enforcement Administration license to prescribe drugs.
+Sec. C-18. 22 MRSA §2421-A, sub-§38, as enacted by PL 2023, c. 679, Pt. A, §3
+and amended by PL 2025, c. 316, §3, is further amended to read:
+38. Physician associate. "Physician associate" means an individual licensed as a
+physician associate by the Board of Osteopathic Licensure pursuant to Title 32, chapter 36
+or an individual licensed as a physician associate by the Maine Board of Licensure in
+Medicine pursuant to Title 32, chapter 48 153 who is in good standing and who holds a
+valid federal Drug Enforcement Administration license to prescribe drugs.
+Sec. C-19. 22 MRSA §3174-III, sub-§1, as enacted by PL 2021, c. 708, §1 and
+amended by PL 2025, c. 316, §3, is further amended to read:
+Page 38 - 132LR3058(05)
+
+1. Reimbursement. The department shall provide reimbursement under the
+MaineCare program for pasteurized donor breast milk provided to an infant receiving
+benefits under this chapter if a physician or physician associate licensed under Title 32,
+chapter 36 or 48 153 or an advanced practice registered nurse licensed under Title 32,
+chapter 31 signs an order stating that:
+A. The infant is medically or physically unable to receive maternal breast milk or
+participate in breastfeeding or the infant's mother is medically or physically unable to
+produce maternal breast milk in quantities sufficient for the infant; and
+B. The infant:
+(1) Was born at a birth weight of less than 1,500 grams;
+(2) Has a gastrointestinal anomaly or metabolic or digestive disorder or is
+recovering from intestinal surgery and the infant's digestive needs require
+additional support;
+(3) Is not appropriately gaining weight or growing;
+(4) Has formula intolerance and is experiencing weight loss or difficulty feeding;
+(5) Has low blood sugar;
+(6) Has congenital heart disease;
+(7) Has received or will receive an organ transplant; or
+(8) Has another serious medical condition for which donor breast milk is medically
+necessary.
+Sec. C-20. 24 MRSA §2505, 2nd ¶, as amended by PL 2015, c. 429, §8 and PL
+2025, c. 316, §3, is further amended to read:
+Except for specific protocols developed by a board pursuant to Title 32, section
+2596‑A, 3298 or 18323 or Title 32, section 20113, subsection 1, paragraph O, a physician
+or physician associate, dentist or committee is not responsible for reporting misuse of
+alcohol, drugs or other substances or professional incompetence or malpractice as a result
+of physical or mental infirmity or by the misuse of alcohol, drugs or other substances
+discovered by the physician, physician associate, dentist or committee as a result of
+participation or membership in a professional review committee or with respect to any
+information acquired concerning misuse of alcohol, drugs or other substances or
+professional incompetence or malpractice as a result of physical or mental infirmity or by
+the misuse of alcohol, drugs or other substances, as long as that information is reported to
+the professional review committee. This section does not prohibit an impaired physician,
+physician associate or dentist from seeking alternative forms of treatment.
+Sec. C-21. 24 MRSA §2510, sub-§6, as amended by PL 2011, c. 190, §6, is further
+amended to read:
+6. Disciplinary action. Disciplinary action by the Maine Board of Licensure in
+Medicine is in accordance with Title 32, chapter 48; disciplinary action by the Board of
+Osteopathic Licensure is in accordance with Title 32, chapter 36; 153 and disciplinary
+action by the State Board of Veterinary Medicine is in accordance with Title 32, chapter
+71‑A.
+Page 39 - 132LR3058(05)
+
+Sec. C-22. 24 MRSA §2510-A, first ¶, as enacted by PL 1997, c. 697, §7, is
+amended to read:
+Except as otherwise provided by this chapter, all professional competence review
+records are privileged and confidential and are not subject to discovery, subpoena or other
+means of legal compulsion for their release to any person or entity and are not admissible
+as evidence in any civil, judicial or administrative proceeding. Information contained in
+professional competence review records is not admissible at trial or deposition in the form
+of testimony by an individual who participated in the written professional competence
+review process. Nothing in this This section may not be read to abrogate the obligations to
+report and provide information under section 2506, nor or the application of Title 32,
+sections 2599 and 3296 section 20154.
+Sec. C-23. 24 MRSA §2607, first ¶, as corrected by RR 2017, c. 2, §8, is amended
+to read:
+When 3 notices of professional liability claims are made within a 10-year period
+regarding any person licensed by the Maine Board of Licensure in Medicine or the Board
+of Osteopathic Licensure and one or more of the claims, following an initial review,
+potentially may rise to a level of misconduct sufficient to merit board action, the board
+shall treat that situation as a complaint against the licensee or practitioner and shall initiate
+a review consistent with Title 32, sections 3282‑A to 3289 chapter 153, subchapter 4. Any
+claims that lack merit or fail to rise to a level of board action may be dismissed by the board
+for the purpose of this section.
+Sec. C-24. 24-A MRSA §4303-G, sub-§1, ¶B, as enacted by PL 2023, c. 40, §1
+and affected by §2, is amended to read:
+B. "Maintenance of certification program" means satisfactory participation in a
+program beyond the continuing medical education requirements currently in place by
+the Maine Board of Licensure in Medicine or Board of Osteopathic Licensure, or initial
+board certification by a national or regional medical specialty board.
+Sec. C-25. 24-A MRSA §4303-G, sub-§1, ¶D, as enacted by PL 2023, c. 40, §1
+and affected by §2, is amended to read:
+D. "Physician" means an individual licensed under Title 32, chapter 36 or 48 153.
+Sec. C-26. 24-A MRSA §4306, first ¶, as amended by PL 2019, c. 627, Pt. A, §1
+and affected by §3 and amended by PL 2025, c. 316, §3, is further amended to read:
+A carrier offering or renewing a managed care plan shall allow enrollees to choose their
+own primary care providers, as allowed under the managed care plan's rules, from among
+the panel of participating providers made available to enrollees under the managed care
+plan's rules. A carrier shall allow physicians, including, but not limited to, pediatricians
+and physicians who specialize in obstetrics and gynecology, and physician associates
+licensed pursuant to Title 32, section 2594‑E or section 3270‑E 20125 and certified nurse
+practitioners who have been approved by the State Board of Nursing to practice advanced
+practice registered nursing without the supervision of a physician pursuant to Title 32,
+section 2102, subsection 2‑A to serve as primary care providers for managed care plans. A
+carrier is not required to contract with certified nurse practitioners, physician associates or
+physicians as primary care providers in any manner that exceeds the access and provider
+network standards required in this chapter or chapter 56, or any rules adopted pursuant to
+Page 40 - 132LR3058(05)
+
+those chapters. A carrier shall allow enrollees in a managed care plan to change primary
+care providers without good cause at least once annually and to change with good cause as
+necessary. When an enrollee fails to choose a primary care provider, the carrier may assign
+the enrollee a primary care provider located in the same geographic area in which the
+enrollee resides.
+Sec. C-27. 24-A MRSA §4314, sub-§1, ¶A, as amended by PL 2023, c. 580, §3,
+is further amended to read:
+A. "Eye care provider" means a participating provider who is an optometrist licensed
+to practice optometry pursuant to Title 32, chapter 151, or an ophthalmologist licensed
+to practice medicine pursuant to Title 32, chapter 36, 48 or 145 or 153.
+Sec. C-28. 24-A MRSA §4320-O, sub-§1, as enacted by PL 2019, c. 627, Pt. A,
+§2 and affected by §3 and amended by PL 2025, c. 316, §3, is further amended to read:
+1. Services provided by a physician associate. A carrier offering a health plan in
+this State shall provide coverage for health care services performed by a physician associate
+licensed under Title 32, section 2594‑E or 3270‑E 20125 when those services are covered
+services under the health plan when performed by any other health care provider and when
+those services are within the lawful scope of practice of the physician associate.
+Sec. C-29. 24-A MRSA §4320-V, sub-§1, as enacted by PL 2023, c. 229, §1 and
+affected by §2 and amended by PL 2025, c. 316, §3, is further amended to read:
+1. Required coverage. A carrier offering a health plan in this State shall provide
+coverage for pasteurized donor breast milk provided to an infant eligible for coverage under
+the health plan if a physician or physician associate licensed under Title 32, chapter 36 or
+48 153 or an advanced practice registered nurse licensed under Title 32, chapter 31 signs
+an order stating that:
+A. The infant is medically or physically unable to receive maternal breast milk or
+participate in breastfeeding or the infant's parent is medically or physically unable to
+produce maternal breast milk in quantities sufficient for the infant; and
+B. The infant:
+(1) Was born at a birth weight of less than 1,500 grams;
+(2) Has a gastrointestinal anomaly or metabolic or digestive disorder or is
+recovering from intestinal surgery and the infant's digestive needs require
+additional support;
+(3) Is not appropriately gaining weight or growing;
+(4) Has formula intolerance and is experiencing weight loss or difficulty feeding;
+(5) Has low blood sugar;
+(6) Has congenital heart disease;
+(7) Has received or will receive an organ transplant; or
+(8) Has another serious medical condition for which donor breast milk is medically
+necessary.
+Page 41 - 132LR3058(05)
+
+Sec. C-30. 25 MRSA §1542-A, sub-§1, ¶N, as amended by PL 2017, c. 457, §12,
+is further amended to read:
+N. Who is licensed under Title 32, chapter 48 153 and has applied for an expedited
+license under Title 32, section 18506;
+Sec. C-31. 25 MRSA §1542-A, sub-§1, ¶P, as repealed and replaced by PL 2019,
+c. 399, §2 and c. 402, §2, is repealed.
+Sec. C-32. 25 MRSA §1542-A, sub-§1, ¶DD, as enacted by PL 2025, c. 366, §2
+and amended by c. 316, §3, is further amended to read:
+DD. Who is an applicant for licensure as a physician associate with the Maine Board
+of Osteopathic Licensure Medicine, or who is a licensed physician associate seeking a
+compact privilege, as required under Title 32, section 2594‑G 20126.
+Sec. C-33. 25 MRSA §1542-A, sub-§1, ¶EE, as enacted by PL 2025, c. 366, §3
+and amended by c. 316, §3, is repealed.
+Sec. C-34. 25 MRSA §1542-A, sub-§3, ¶M, as enacted by PL 2017, c. 253, §3,
+is amended to read:
+M. The State Police shall take or cause to be taken the fingerprints of the person named
+in subsection 1, paragraph N at the request of that person and upon payment of the
+expenses by that person as required by Title 32, section 3275‑A 20129.
+Sec. C-35. 25 MRSA §1542-A, sub-§3, ¶O, as repealed and replaced by PL 2021,
+c. 293, Pt. A, §36, is repealed.
+Sec. C-36. 25 MRSA §1542-A, sub-§3, ¶CC, as enacted by PL 2025, c. 366, §9,
+is repealed.
+Sec. C-37. 25 MRSA §1542-A, sub-§3, ¶DD, as enacted by PL 2025, c. 366, §10,
+is amended to read:
+DD. The State Police shall take or cause to be taken the fingerprints of the person
+named in subsection 1, paragraph EE DD at the request of that person or the Maine
+Board of Licensure in Medicine and upon payment of the fee by that person as required
+by Title 32, section 3270‑H 20129.
+Sec. C-38. 25 MRSA §1542-A, sub-§4, as repealed and replaced by PL 2021, c.
+293, Pt. A, §42, is amended to read:
+4. Duty to submit to State Bureau of Identification. It is the duty of the law
+enforcement agency taking the fingerprints as required by subsection 3, paragraphs A, B
+and G to transmit immediately to the State Bureau of Identification the criminal fingerprint
+record. Fingerprints taken pursuant to subsection 1, paragraph C, D, E or F or pursuant to
+subsection 5 may not be submitted to the State Bureau of Identification unless an express
+request is made by the commanding officer of the State Bureau of Identification.
+Fingerprints taken pursuant to subsection 1, paragraph G must be transmitted immediately
+to the State Bureau of Identification to enable the bureau to conduct state and national
+criminal history record checks for the Department of Education. The bureau may not use
+the fingerprints for any purpose other than that provided for under Title 20‑A, section 6103.
+The bureau shall retain the fingerprints, except as provided under Title 20‑A, section 6103,
+subsection 9. Fingerprints taken pursuant to subsection 1, paragraph I and subsection 3,
+Page 42 - 132LR3058(05)
+
+paragraph I must be transmitted immediately to the State Bureau of Identification to enable
+the bureau to conduct state and national criminal history record checks for the court and
+the Department of Public Safety, Gambling Control Board, respectively. Fingerprints
+taken pursuant to subsection 1, paragraph J or S must be transmitted immediately to the
+State Bureau of Identification to enable the bureau to conduct state and national criminal
+history record checks for the Department of Administrative and Financial Services.
+Fingerprints taken pursuant to subsection 1, paragraph P must be transmitted immediately
+to the State Bureau of Identification to enable the bureau to conduct state and national
+criminal history record checks for the Board of Osteopathic Licensure, established in Title
+32, chapter 36. Fingerprints taken pursuant to subsection 1, paragraph N must be
+transmitted immediately to the State Bureau of Identification to enable the bureau to
+conduct state and national criminal history record checks for the Maine Board of Licensure
+in Medicine, established in Title 32, chapter 48 153. Fingerprints taken pursuant to
+subsection 1, paragraph Q must be transmitted immediately to the State Bureau of
+Identification to enable the bureau to conduct state and national criminal history record
+checks for the State Board of Nursing, established in Title 32, chapter 31. Fingerprints
+taken pursuant to subsection 1, paragraph O must be transmitted immediately to the State
+Bureau of Identification to enable the bureau to conduct state and national criminal history
+record checks under Title 28‑B, section 204. Fingerprints taken pursuant to subsection 1,
+paragraph R, T or W must be transmitted immediately to the State Bureau of Identification
+to enable the bureau to conduct state and national criminal history record checks for the
+Department of Health and Human Services. Fingerprints taken pursuant to subsection 1,
+paragraph V must be transmitted immediately to the State Bureau of Identification to enable
+the bureau to conduct state and national criminal history record checks for the Office of the
+State Auditor.
+Sec. C-39. 26 MRSA §599-A, sub-§5, as enacted by PL 2019, c. 513, §1, is
+amended to read:
+5. Effective date of a noncompete agreement. Except for a noncompete agreement
+between an employer and an allopathic physician or an osteopathic physician licensed
+under Title 32, chapter 48 or chapter 36, respectively 153, the terms of a noncompete
+agreement do not take effect until after one year of the employee's employment with the
+employer or a period of 6 months from the date the agreement was signed, whichever is
+later.
+Sec. C-40. 30-A MRSA §1559, sub-§6, as amended by PL 2001, c. 667, Pt. A,
+§48, is further amended to read:
+6. Administration of medication not a violation. The administration of medication
+to prisoners, as provided in this section, is not a violation of Title 32, section 2102,
+subsection 2, paragraph F, or Title 32, section 3270, 20104 or any other law.
+Sec. C-41. 32 MRSA §85, sub-§7, as repealed and replaced by PL 2025, c. 70, §1,
+is amended to read:
+7. Delegation. A person acting under delegated authority pursuant to chapter 36 or 48
+153 may not use or be governed by a license issued pursuant to this chapter while acting
+under that delegated authority, and a person acting under a license issued pursuant to this
+chapter may not be governed by delegated authority or engage in any activities delegated
+pursuant to chapter 36 or 48 153 while acting under a license issued pursuant to this chapter.
+Page 43 - 132LR3058(05)
+
+Sec. C-42. 32 MRSA §3811, sub-§3, as amended by PL 1977, c. 564, §124, is
+further amended to read:
+3. Limitation. Nothing in this This chapter shall may not be construed as permitting
+the practice of medicine as defined in section 3270 20102, subsection 11 by psychological
+examiners or psychologists.
+Sec. C-43. 32 MRSA §3837-A, sub-§1, ¶D, as enacted by PL 2007, c. 402, Pt. Q,
+§14, is amended to read:
+D. Practice of medicine without a license to do so in violation of section 3270 chapter
+153;
+Sec. C-44. 32 MRSA §4329, first ¶, as enacted by PL 1997, c. 206, §1, is amended
+to read:
+This chapter does not restrict the activities of a physician or surgeon licensed under
+chapter 48 153.
+Sec. C-45. 32 MRSA §9855, sub-§4, as repealed and replaced by PL 2005, c. 511,
+§6 and amended by PL 2025, c. 316, §3, is further amended to read:
+4. Limited radiographer license. For those applicants wishing to be licensed only
+for the limited purpose of using ionizing radiation for imaging purposes in the office of a
+licensed practitioner or for physician associates practicing under section 3270‑A 20151 or
+nurses practicing under section 2102, subsection 2, paragraph C in a clinic not required to
+be licensed under Title 22, chapter 405, the board shall grant a limited license and shall, in
+approving a course of study, training and examination for these applicants, consider the
+limited scope of practice of the various disciplines. Those aspects of study, training and
+examination relating to patient safety must be identical to the requirements for a full
+license.
+Sec. C-46. 32 MRSA §13786-C, first ¶, as enacted by PL 2015, c. 488, §31, is
+amended to read:
+A pharmacist who dispenses opioid medication in good faith is immune from any civil
+liability that might otherwise result from dispensing medication in excess of the limit
+established in section 2210, subsection 1, paragraphs A and B; section 2600‑C, subsection
+1, paragraphs A and B; section 3300‑F, subsection 1, paragraphs A and B; section 3657,
+subsection 1, paragraphs A and B; or section 18308, subsection 1, paragraphs A and B,; or
+section 20161, subsection 1, paragraphs A and B, if the medication was dispensed in
+accordance with a prescription issued by a practitioner. In a proceeding regarding
+immunity from liability, there is a rebuttable presumption of good faith.
+Sec. C-47. 32 MRSA §13810, sub-§2, as enacted by PL 1997, c. 109, §1, is
+amended to read:
+2. Administration. Administer, in the course of employment, such drugs as are
+approved under subsection 1 according to written protocols approved annually by the
+employer's professional advisory committee, which must include a physician licensed
+under chapter 36 or chapter 48 153.
+Sec. C-48. 32 MRSA §19101, sub-§25, as enacted by PL 2023, c. 580, §8, is
+amended to read:
+Page 44 - 132LR3058(05)
+
+25. Provider. "Provider" means an individual licensed as an optometrist under this
+chapter or an individual licensed as an osteopathic physician or medical doctor under
+chapter 36, 48 or 145 or 153 who has also completed a residency in ophthalmology.
+Sec. C-49. 34-B MRSA §7003, sub-§6, as enacted by PL 1983, c. 459, §7, is
+amended to read:
+6. Physician. "Physician" means any person licensed to practice medicine under Title
+32, chapter 48, subchapter II, or under Title 32, chapter 36, subchapters II and IV 153.
+Sec. C-50. 34-B MRSA §7003, sub-§7, as enacted by PL 1983, c. 459, §7, is
+amended to read:
+7. Psychiatrist. "Psychiatrist" means a physician licensed to practice medicine under
+Title 32, chapter 48, subchapter II 153, who specializes in the diagnosis and treatment of
+mental disorders.
+Sec. C-51. 36 MRSA §5122, sub-§2, ¶SS, as amended by PL 2021, c. 635, Pt. H,
+§17 and affected by §18, is further amended to read:
+SS. For taxable years beginning on or after January 1, 2020, to the extent included in
+federal adjusted gross income, student loan payments made by the taxpayer's employer
+directly to a lender on behalf of a qualified health care employee. As used in this
+paragraph, "qualified health care employee" means an individual who is employed by
+a hospital located in this State and who is licensed under Title 32, chapter 31,
+subchapter 3 or 4; chapter 36, subchapter 4; or Title 32, chapter 48 153, subchapter 2
+3.
+Sec. C-52. 36 MRSA §5219-LL, sub-§1, ¶A, as amended by PL 2015, c. 108, §1
+and affected by §2, is further amended to read:
+A. "Eligible primary care professional" means a person licensed under Title 32, chapter
+31, subchapter 3 or subchapter 4; Title 32, chapter 36, subchapter 4; or Title 32, chapter
+48 153, subchapter 2 3 and who, on or after January 1, 2013:
+(1) Practices primary care medicine in the State as part of an existing health care
+practice in an underserved area or establishes a new health care practice or
+purchases an existing health care practice in an underserved area;
+(2) Agrees to practice full time for at least 5 years following certification under
+subsection 3 in an underserved area;
+(3) Is certified under subsection 3 to be eligible by the Department of Health and
+Human Services; and
+(4) Has an unpaid student loan owed to an institution for course work directly
+related to that person's training in primary care medicine.
+Sec. C-53. 37-B MRSA §185, sub-§1-A, as amended by PL 2019, c. 627, Pt. B,
+§21 and PL 2025, c. 316, §3, is further amended to read:
+1-A. Immunity from civil and criminal liability for collaborating or consulting
+physician. Subsection 1 applies to a collaborating or consulting physician of a physician
+associate under Title 32, section 2594‑F or 3270‑G 20152:
+Page 45 - 132LR3058(05)
+
+A. With regard to any act of the physician associate in providing services to individuals
+not on active state service;
+B. When the physician associate is on active state service in the performance of the
+physician associate's duty; and
+C. When the collaborating or consulting physician is not on active state service.
+Sec. C-54. Effective date. This Part takes effect January 1, 2027.
+PART D
+Sec. D-1. Appropriations and allocations. The following appropriations and
+allocations are made.
+ATTORNEY GENERAL, DEPARTMENT OF THE
+Administration - Attorney General 0310
+Initiative: Provides funding for 2 Assistant Attorney General positions and related costs to
+handle increased hearing boards, hearing panels and disciplinary cases and hearing panels
+convened simultaneously.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+POSITIONS - LEGISLATIVE COUNT 0.000 2.000
+Personal Services $0 $410,984
+All Other $0 $147,403
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $558,387
+ATTORNEY GENERAL, DEPARTMENT OF THE
+DEPARTMENT TOTALS 2025-26 2026-27
+OTHER SPECIAL REVENUE FUNDS $0 $558,387
+__________ __________
+DEPARTMENT TOTAL - ALL FUNDS $0 $558,387
+PROFESSIONAL AND FINANCIAL REGULATION, DEPARTMENT OF
+Licensure in Medicine - Board of 0376
+Initiative: Provides one-time allocation for transition and implementation costs.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+All Other $0 $200,000
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $200,000
+Maine Board of Medicine N581
+Initiative: Establishes one Assistant Executive Director position, one Consumer Assistance
+Supervisor position, one Consumer Assistance Specialist position, one Physician III
+position, one Comprehensive Health Planner II position, 0.5 Office Assistant I position, 5
+Office Specialist II positions, one Office Specialist II position, one Secretary position, one
+Secretary Associate position and one Public Service Executive III position and provides
+funding for related All Other costs.
+Page 46 - 132LR3058(05)
+
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+POSITIONS - LEGISLATIVE COUNT 0.000 14.500
+Personal Services $0 $865,921
+All Other $0 $549,552
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $1,415,473
+Maine Board of Medicine N581
+Initiative: Establishes FTE count and Personal Services for 22 commission board members.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+POSITIONS - FTE COUNT 0.000 1.692
+Personal Services $0 $17,125
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $17,125
+Maine Board of Medicine N581
+Initiative: Provides funding to reimburse the Office of the Attorney General for legal costs.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+All Other $0 $558,387
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $558,387
+PROFESSIONAL AND FINANCIAL
+REGULATION, DEPARTMENT OF
+DEPARTMENT TOTALS 2025-26 2026-27
+OTHER SPECIAL REVENUE FUNDS $0 $2,190,985
+__________ __________
+DEPARTMENT TOTAL - ALL FUNDS $0 $2,190,985
+SECTION TOTALS 2025-26 2026-27
+OTHER SPECIAL REVENUE FUNDS $0 $2,749,372
+__________ __________
+SECTION TOTAL - ALL FUNDS $0 $2,749,372
+Page 47 - 132LR3058(05)

@@ -1,0 +1,388 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 688
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 688
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 867 - L.D. 2149
+An Act to Protect Affordability in Mobile Home Parks and Manufactured
+Housing Communities
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 10 MRSA §9081, sub-§4 is enacted to read:
+4. Controlling interest. "Controlling interest" means:
+A. In the case of a corporation, more than 50% of the total combined voting power of
+all classes of stock of the corporation entitled to vote or more than 50% of the capital,
+profits or beneficial interest in the voting stock of the corporation; and
+B. In the case of a partnership, association, trust or other entity, more than 50% of the
+capital, profits or beneficial interest in the partnership, association, trust or other entity.
+For the purposes of this subchapter, to determine whether a purchase or acquisition of a
+controlling interest has taken place, all actions of persons acting in concert are aggregated.
+Persons must be treated as acting in concert when they have a relationship with each other
+such that one person influences or controls the actions of another through common
+ownership.
+Sec. 2. 10 MRSA §9081, sub-§5 is enacted to read:
+5. Purchase of manufactured housing community. "Purchase of a manufactured
+housing community" means the purchase or acquisition of a manufactured housing
+community or of the direct or indirect controlling interest in the owner of a manufactured
+housing community.
+Sec. 3. 10 MRSA §9081, sub-§6 is enacted to read:
+6. Purchaser of manufactured housing community. "Purchaser of a manufactured
+housing community" means a person that purchases or acquires a manufactured housing
+community or a direct or indirect controlling interest in the owner of a manufactured
+housing community.
+Sec. 4. 10 MRSA §9081, sub-§7 is enacted to read:
+Page 1 - 132LR2701(05)
+
+7. Sale of manufactured housing community. "Sale of a manufactured housing
+community" means any sale or transfer of a manufactured housing community or of the
+direct or indirect controlling interest in the owner of a manufactured housing community.
+Sec. 5. 10 MRSA §9082, 2nd ¶, as amended by PL 2017, c. 210, Pt. B, §29, is
+further amended to read:
+Any person desiring a license or license renewal shall submit satisfactory evidence, in
+a form acceptable to the board, of that person's ability to comply with the minimum
+standards of this subchapter and all rules adopted under this subchapter.
+Sec. 6. 10 MRSA §9082, 3rd ¶, as enacted by PL 2025, c. 365, §1, is amended to
+read:
+An applicant for a license or license renewal to operate a manufactured housing
+community shall include the following information with the license or license renewal
+application:
+Sec. 7. 10 MRSA §9082, sub-§3, as enacted by PL 2025, c. 365, §1, is amended to
+read:
+3. Number of sites in manufactured housing community to be licensed or
+relicensed. The number of sites in the manufactured housing community to be licensed or
+relicensed;
+Sec. 8. 10 MRSA §9090-A, as enacted by PL 2025, c. 398, §1, is amended to read:
+§9090-A. Transfer assessment
+1. Fee payment required. The purchaser of a manufactured housing community shall
+pay to the registry of deeds of the county where all or a majority of the acreage of the
+purchased real property associated with the manufactured housing community is located a
+fee equal to $10,000 for each licensed manufactured housing community lot in the
+manufactured housing community occupied or developed to be occupied by a
+manufactured home. The money must be paid to the registry of deeds when the deed of
+the manufactured housing community is offered for recordation in accordance with
+subsection 4.
+2. Exceptions Exemptions. The following entities persons are not required exempt
+from the obligation to pay the fee under subsection 1:
+A. The Maine State Housing Authority;
+B. A municipal housing authority as defined in Title 30‑A, section 4702, subsection
+10‑A, or any affiliate under the municipal housing authority's control;
+C. A cooperative or other entity in which membership is limited to manufactured home
+owners; and
+D. Entities, together with affiliated and related entities, that have a net worth of less
+than $50,000,000.
+E. A person that purchases a manufactured housing community from a family member,
+or from a trust of which the beneficiary is a family member. For purposes of this
+paragraph, "family member" means a person identified in Title 18-C, section 2-102 as
+eligible for intestate share; and
+Page 2 - 132LR2701(05)
+
+F. An entity that, together with any affiliated and related entities, has a net worth of
+less than $75,000,000. For purposes of this paragraph, "affiliated and related entities"
+means:
+(1) Any entity directly or indirectly controlling, controlled by or under common
+control with the entity;
+(2) Any general partner of the entity; or
+(3) Any entity or natural person that is a general partner or holder of 20% or more
+of the voting or economic interests of any entity described in subparagraph (1) or
+(2).
+For purposes of this paragraph, "controlling, controlled by or under common control"
+means the possession, direct or indirect, of the power to direct or cause the direction of
+the management and policies of a person, whether through the ownership of voting
+securities, by contract or otherwise. For purposes of this paragraph, "net worth" means
+total assets less total liabilities, except that for purposes of this calculation, debts to
+affiliated or related persons are not considered liabilities.
+3. Attestation of net worth. An entity claiming an exemption under subsection 2,
+paragraph D shall provide the register of deeds with an attestation of net worth when the
+deed for the manufactured housing community is offered for recordation and any other
+information or documentation as required by the Department of Professional and Financial
+Regulation by rule.
+3-A. Sworn affirmation of exemption. If the purchaser of a manufactured housing
+community seeks an exemption under subsection 2, it shall provide to the Maine State
+Housing Authority, on a form provided by the Maine State Housing Authority, a sworn
+affirmation no later than 15 days after a notice required pursuant to section 9094-A is
+provided. The sworn affirmation must include all information necessary to determine
+whether the purchaser qualifies for an exemption. The sworn affirmation and the
+information submitted to the Maine State Housing Authority under this subsection is a
+public record, except that the person seeking the exemption may clearly designate specific
+information as proprietary information not subject to disclosure on the basis that the
+information contains a trade secret or that disclosure of the designated proprietary
+information contains commercial or financial information that would impair the
+competitive position of the person seeking the exemption. The designation must be clearly
+indicated on each page of the sworn affirmation containing the designated proprietary
+information. The Maine State Housing Authority shall establish procedures to ensure that
+designated proprietary information is kept confidential and is segregated from public
+records maintained by the authority. The Maine State Housing Authority shall, within 45
+days of receipt of the sworn affirmation, provide to the purchaser a determination of
+whether the purchaser is exempt under subsection 2 and, if the purchaser is determined not
+to be exempt, a determination of the amount of the fee that the purchaser must pay pursuant
+to subsection 1.
+4. Evidence of payment or exemption; disposition of fee. A purchaser of a
+manufactured housing community shall pay the fee required under subsection 1, or provide
+a written statement from the Maine State Housing Authority exempting the purchaser from
+the fee under subsection 2, to the registry of deeds of the county where all or a majority of
+the acreage of the manufactured housing community is located at the time of the offering
+Page 3 - 132LR2701(05)
+
+for recording of the deed for the purchase of the manufactured housing community or, if
+no deed is offered for recording for the purchase of the manufactured housing community,
+no later than 3 business days after the purchase. Evidence of the fee payment under
+subsection 1 or an exception exemption to the fee requirement under subsection 2 on the
+form provided by the Maine State Housing Authority must be retained by the registry of
+deeds of the county where all or a majority of the acreage of the purchased real property
+associated with the manufactured housing community is located in a manner established
+by the register of deeds. The register of deeds shall, on or before the 10th day of each
+month, pay to the Treasurer of State 95% of the fee collected pursuant to this section during
+the previous month. The remaining 5% must be retained for the county by the register of
+deeds and accounted for to the county treasurer as reimbursement for services rendered by
+the registry of deeds in collecting the fee.
+5. Distribution of State's share of proceeds. The State Controller shall credit all fees
+received pursuant to this section to the Manufactured Housing Community and Mobile
+Home Park Preservation and Assistance Fund established in Title 30‑A, section 4754‑B.
+6. Violations. A person who knowingly or intentionally fails to pay the fee required
+under subsection 1 or provides false or misleading information on a sworn affirmation or
+documents associated with a sworn affirmation submitted to the Maine State Housing
+Authority pursuant to subsection 3-A is liable for damages in an amount equal to 3 times
+the amount of the fee required under subsection 1 and the forfeiture of that person's license
+to operate any manufactured housing community under section 9082. The damages plus
+interest on the damages may be recovered in a civil action brought by the Attorney General
+in the name of the State Controller, and all amounts recovered in that civil action, excluding
+costs, must be credited to the Manufactured Housing Community and Mobile Home Park
+Preservation and Assistance Fund established in Title 30-A, section 4754-B. The Attorney
+General has the authority to investigate possible violations enforced under this subsection
+pursuant to the provisions of the Maine Unfair Trade Practices Act and is entitled to recover
+reasonable attorney's fees incurred in any action for damages brought under this subsection.
+For purposes of this section, "purchase" does not mean acquiring ownership of a
+manufactured housing community by inheritance.
+Sec. 9. 10 MRSA §9091, sub-§2-A is enacted to read:
+2-A. Controlling interest. "Controlling interest" means:
+A. In the case of a corporation, more than 50% of the total combined voting power of
+all classes of stock of the corporation entitled to vote or more than 50% of the capital,
+profits or beneficial interest in the voting stock of the corporation; and
+B. In the case of a partnership, association, trust or other entity, more than 50% of the
+capital, profits or beneficial interest in the partnership, association, trust or other entity.
+For the purposes of this subchapter, to determine whether a purchase or acquisition of a
+controlling interest has taken place, all actions of persons acting in concert are aggregated.
+Persons must be treated as acting in concert when they have a relationship with each other
+such that one person influences or controls the actions of another through common
+ownership.
+Sec. 10. 10 MRSA §9091, sub-§3-A is enacted to read:
+Page 4 - 132LR2701(05)
+
+3-A. Purchase of mobile home park. "Purchase of a mobile home park" means the
+purchase or acquisition of a mobile home park or of the direct or indirect controlling interest
+in the owner of a mobile home park.
+Sec. 11. 10 MRSA §9091, sub-§3-B is enacted to read:
+3-B. Purchaser of mobile home park. "Purchaser of a mobile home park" means a
+person that purchases or acquires a mobile home park or a direct or indirect controlling
+interest in the owner of a mobile home park.
+Sec. 12. 10 MRSA §9091, sub-§3-C is enacted to read:
+3-C. Sale of mobile home park. "Sale of a mobile home park" means any sale or
+transfer of a mobile home park or of the direct or indirect controlling interest in the owner
+of a mobile home park.
+Sec. 13. 10 MRSA §9093-B, sub-§5 is enacted to read:
+5. Exemption. Resident-owned manufactured housing communities are not subject
+to the requirements of this section. For the purposes of this subsection, "resident-owned
+manufactured housing community" means a manufactured housing community in which
+the residents are part of a cooperative of manufactured home owners who control, manage
+and operate the manufactured housing community, including, but not limited to,
+establishing community rules and lot rent and fees.
+Sec. 14. 10 MRSA §9094-B, as enacted by PL 2025, c. 398, §2, is amended to read:
+§9094-B. Transfer assessment
+1. Fee payment required. The purchaser of a mobile home park shall pay to the
+registry of deeds of the county where all or a majority of the acreage of the purchased real
+property associated with the mobile home park is located a fee equal to $10,000 for each
+licensed mobile home park lot within the mobile home park occupied or developed to be
+occupied by a mobile home. The money must be paid to the registry of deeds when the
+deed of the mobile home park is offered for recordation in accordance with subsection 4.
+2. Exceptions Exemptions. The following entities persons are not required exempt
+from the obligation to pay the fee under subsection 1:
+A. The Maine State Housing Authority;
+B. A municipal housing authority as defined in Title 30‑A, section 4702, subsection
+10‑A, or any affiliate under the municipal housing authority's control;
+C. A cooperative or other entity in which membership is limited to mobile home
+owners; and
+D. Entities, together with affiliated and related entities, that have a net worth of less
+than $50,000,000.
+E. A person that purchases a mobile home park from a family member, or from a trust
+of which the beneficiary is a family member. For purposes of this paragraph, "family
+member" means a person identified in Title 18-C, section 2-102 as eligible for intestate
+share; and
+Page 5 - 132LR2701(05)
+
+F. An entity that, together with any affiliated and related entities, has a net worth of
+less than $75,000,000. For purposes of this paragraph, "affiliated and related entities"
+means:
+(1) Any entity directly or indirectly controlling, controlled by or under common
+control with the entity;
+(2) Any general partner of the entity; or
+(3) Any entity or natural person that is a general partner or holder of 20% or more
+of the voting or economic interests of any entity described in subparagraph (1) or
+(2).
+For purposes of this paragraph, "controlling, controlled by or under common control"
+means the possession, direct or indirect, of the power to direct or cause the direction of
+the management and policies of a person, whether through the ownership of voting
+securities, by contract or otherwise. For purposes of this paragraph, "net worth" means
+total assets less total liabilities, except that for purposes of this calculation, debts to
+affiliated or related persons are not considered liabilities.
+3. Attestation of net worth. An entity claiming an exemption under subsection 2,
+paragraph D shall provide the register of deeds with an attestation of net worth when the
+deed for the mobile home park is offered for recordation and any other information or
+documentation as required by the Department of Professional and Financial Regulation by
+rule.
+3-A. Sworn affirmation of exemption. If the purchaser of a mobile home park seeks
+an exemption under subsection 2, it shall provide to the Maine State Housing Authority, on
+a form provided by the Maine State Housing Authority, a sworn affirmation no later than
+15 days after a notice required pursuant to section 9094-A is provided. The sworn
+affirmation must include all information necessary to determine whether the purchaser
+qualifies for an exemption. The sworn affirmation and the information submitted to the
+Maine State Housing Authority under this subsection is a public record, except that the
+person seeking the exemption may clearly designate specific information as proprietary
+information not subject to disclosure on the basis that the information contains a trade secret
+or that disclosure of the designated proprietary information contains commercial or
+financial information that would impair the competitive position of the person seeking the
+exemption. The designation must be clearly indicated on each page of the sworn
+affirmation containing the designated proprietary information. The Maine State Housing
+Authority shall establish procedures to ensure that designated proprietary information is
+kept confidential and is segregated from public records maintained by the authority. The
+Maine State Housing Authority shall, within 45 days of receipt of the sworn affirmation,
+provide to the purchaser a determination of whether the purchaser is exempt under
+subsection 2 and, if the purchaser is determined not to be exempt, a determination of the
+amount of the fee that the purchaser must pay pursuant to subsection 1.
+4. Evidence of payment or exemption; disposition of fee. A purchaser of a mobile
+home park shall pay the fee required under subsection 1, or provide a written statement
+from the Maine State Housing Authority exempting the purchaser from the fee under
+subsection 2, to the registry of deeds of the county where all or a majority of the acreage
+of the mobile home park is located at the time of the offering for recording of the deed for
+the purchase of the mobile home park or, if no deed is offered for recording for the purchase
+Page 6 - 132LR2701(05)
+
+of the mobile home park, no later than 3 business days after the purchase. Evidence of the
+fee payment under subsection 1 or an exception exemption to the fee requirement under
+subsection 2 on the form provided by the Maine State Housing Authority must be retained
+by the registry of deeds of the county where all or a majority of the acreage of the mobile
+home park is located in a manner established by the register of deeds. The register of deeds
+shall, on or before the 10th day of each month, pay to the Treasurer of State 95% of the
+fees collected pursuant to this section during the previous month. The remaining 5% must
+be retained for the county by the register of deeds and accounted for to the county treasurer
+as reimbursement for services rendered by the county in collecting the fee.
+5. Distribution of State's share of proceeds. The State Controller shall credit all fees
+received pursuant to this section to the Manufactured Housing Community and Mobile
+Home Park Preservation and Assistance Fund established in Title 30‑A, section 4754‑B.
+6. Violations. A person who knowingly or intentionally fails to pay the fee required
+under subsection 1 or provides false or misleading information on a sworn affirmation or
+documents associated with a sworn affirmation submitted to the Maine State Housing
+Authority pursuant to subsection 3-A is liable for damages in an amount equal to 3 times
+the amount of the fee required under subsection 1 and the forfeiture of that person's license
+to operate under section 9082. The damages plus interest on the damages may be recovered
+in a civil action brought by the Attorney General in the name of the State Controller, and
+all amounts recovered in that civil action, excluding costs, must be credited to the
+Manufactured Housing Community and Mobile Home Park Preservation and Assistance
+Fund established in Title 30-A, section 4754-B. The Attorney General has the authority to
+investigate possible violations enforced under this subsection pursuant to the provisions of
+the Maine Unfair Trade Practices Act and is entitled to recover reasonable attorney's fees
+incurred in any action for damages brought under this subsection.
+For purposes of this section, "purchase" does not mean acquiring ownership of a mobile
+home park by inheritance.
+Sec. 15. 30-A MRSA §4754-B, sub-§1, as enacted by PL 2025, c. 398, §3, is
+amended to read:
+1. Purpose. The Maine State Housing Authority shall administer the fund to maintain
+housing affordability in manufactured housing communities and mobile home parks,
+regulated by Title 10, chapter 951, subchapter 6 and chapter 953, respectively, to support
+ownership of manufactured housing communities and mobile home parks by homeowners,
+homeowners' associations, resident-owned housing cooperatives or other nonprofit entities
+representing the interests of homeowners in manufactured housing communities or mobile
+home parks. The Maine State Housing Authority may use up to 5% of the fund to pay
+administrative costs associated with the use of outside contractors to accomplish the
+purpose of the fund.
+Sec. 16. 36 MRSA §5122, sub-§2, ¶AAA, as enacted by PL 2025, c. 455, §1, is
+amended to read:
+AAA. For taxable years beginning on or after January 1, 2025, to the extent included
+in federal adjusted gross income and to the extent otherwise subject to state income
+tax, an amount equal to any capital gain recognized on the sale by the taxpayer of an
+ownership interest greater than 50% in a qualified business if the business provides
+housing and, for taxable years beginning on or after January 1, 2026, any capital gain
+Page 7 - 132LR2701(05)
+
+recognized on the sale by the taxpayer of an ownership interest greater than 50% in a
+qualified property, if the qualified business or qualified property was transferred to a
+cooperative affordable housing corporation organized under Title 13, chapter 85,
+subchapter 1-A or a municipal housing authority, as defined in Title 30‑A, section
+4702, subsection 10-A, or an affiliate of a municipal housing authority.
+(1) The deduction allowed pursuant to this paragraph may not exceed $750,000.
+If the capital gain from the sale or related sales is recognized by multiple taxpayers
+or over multiple tax years, the capital gain must be aggregated for the purpose of
+applying the $750,000 limitation.
+(2) For purposes of this paragraph, "qualified business" means a business whose
+securities are not publicly traded on any stock exchange, including a corporation,
+an S corporation, a limited liability company, a limited liability partnership, a sole
+proprietorship and all entities that are not publicly traded and are related by
+common majority ownership or control, and:
+(a) That is registered with the Secretary of State; or
+(b) Whose principal place of business is within the State.
+(3) For purposes of this paragraph, "qualified property" means real estate for which
+the primary purpose is housing consisting of one or more mobile home parks,
+including any mobile homes located on, and being sold with, the park or parks.
+For purposes of this paragraph, "mobile home" has the same meaning as in Title
+10, section 9091, subsection 1 and includes a manufactured home as defined in
+Title 10, section 9081, subsection 1. For purposes of this paragraph, "mobile home
+park" has the same meaning as Title 10, section 9091, subsection 2 and includes a
+manufactured housing community as defined in Title 10, section 9081, subsection
+2.
+Sec. 17. 36 MRSA §5200-A, sub-§2, ¶JJ, as enacted by PL 2025, c. 455, §2, is
+amended to read:
+JJ. For taxable years beginning on or after January 1, 2025, to the extent included in
+federal taxable income and to the extent otherwise subject to state income tax, an
+amount equal to any capital gain recognized on the sale by the taxpayer of an ownership
+interest greater than 50% in a qualified business if the business provides housing and,
+for taxable years beginning on or after January 1, 2026, any capital gain recognized on
+the sale by the taxpayer of an ownership interest greater than 50% in a qualified
+property, if the qualified business or qualified property was transferred to a cooperative
+affordable housing corporation organized under Title 13, chapter 85, subchapter 1‑A
+or a municipal housing authority, as defined in Title 30‑A, section 4702, subsection
+10‑A, or an affiliate of a municipal housing authority.
+(1) The deduction allowed pursuant to this paragraph may not exceed $750,000.
+If the capital gain from the sale or related sales is recognized by multiple taxpayers
+or over multiple tax years, the capital gain must be aggregated for the purpose of
+applying the $750,000 limitation.
+(2) For purposes of this paragraph, "qualified business" means a business whose
+securities are not publicly traded on any stock exchange, including a corporation,
+an S corporation, a limited liability company, a limited liability partnership, a sole
+Page 8 - 132LR2701(05)
+
+proprietorship and all entities that are not publicly traded and are related by
+common majority ownership or control, and:
+(a) That is registered with the Secretary of State; or
+(b) Whose principal place of business is within the State.
+(3) For purposes of this paragraph, "qualified property" means real estate for which
+the primary purpose is housing consisting of one or more mobile home parks,
+including any mobile homes located on, and being sold with, the park or parks.
+For purposes of this paragraph, "mobile home" has the same meaning as in Title
+10, section 9091, subsection 1 and includes a manufactured home as defined in
+Title 10, section 9081, subsection 1. For purposes of this paragraph, "mobile home
+park" has the same meaning as Title 10, section 9091, subsection 2 and includes a
+manufactured housing community as defined in Title 10, section 9081, subsection
+2.
+Sec. 18. PL 2025, c. 398, §4 is amended to read:
+Sec. 4. Department of Professional and Financial Regulation Maine State
+Housing Authority; rules. The Department of Professional and Financial Regulation
+shall Maine State Housing Authority may adopt rules to establish a method for determining
+the net worth of an entity, together with affiliated and related entities, claiming an
+exemption from the fees required by the Maine Revised Statutes, Title 10, section 9090-A,
+subsection 1 and 9094-B, subsection 1. The rules must include the evidence and
+documentation necessary for a purchaser of a manufactured housing community or a
+mobile home park to provide to the register of deeds when offering a deed for recordation
+and the record-keeping obligations of the register of deeds. When developing rules, the
+department authority shall consider whether information on the incorporation of the entity
+is useful. Rules adopted pursuant to this section are routine technical rules as defined in
+Title 5, chapter 375, subchapter 2-A.
+Page 9 - 132LR2701(05)

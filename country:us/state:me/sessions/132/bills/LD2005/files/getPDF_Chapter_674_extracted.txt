@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 674
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 674
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 821 - L.D. 2005
+An Act Regarding Mail Order Delivery of Prescription Drugs
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 24-A MRSA §4349, sub-§7 is enacted to read:
+7. Covered persons using mail order pharmacy; access to prescription drugs. If
+a covered person is using a mail order pharmacy, the pharmacy benefits manager shall
+allow for the dispensing of the covered person's prescription drug at a network pharmacy
+under the following circumstances to ensure that the covered person has access to
+prescription drugs.
+A. If the prescription is delayed by more than one day after the expected delivery date
+provided by the mail order pharmacy, the network pharmacy shall provide the covered
+person up to a 7-day supply or the smallest prepackaged unit supply of the prescription
+drug.
+B. If the prescription drug arrives in an unusable condition, the network pharmacy
+shall provide the prescription drug in accordance with the covered person’s
+prescription.
+A covered person that receives a prescription drug pursuant to paragraph A or B may not
+be subject to any payment that exceeds the total of one copayment, coinsurance payment
+or other out-of-pocket payment for the dispensing of that prescription drug.
+Page 1 - 132LR2906(03)

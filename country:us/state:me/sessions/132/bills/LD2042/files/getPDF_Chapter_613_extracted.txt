@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 613
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 3, 2026 613
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 831 - L.D. 2042
+An Act to Clarify the Requirement for Municipalities to Provide Public
+Notice in a Newspaper
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 30-A MRSA §2007 is enacted to read:
+§2007. Public notice
+Notwithstanding any provision of law to the contrary, a municipality required by this
+Title to place a notice in a newspaper may meet this requirement by placing the notice on
+the newspaper's publicly accessible website or the statewide repository for legal notices as
+described in Title 1, section 603, subsection 2, as long as either action is followed by
+placement of the notice in the next available print edition of the newspaper. The notice on
+the newspaper's publicly accessible website must contain all information required to be
+published in a newspaper.
+Page 1 - 132LR2804(03)

@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-A to C-B (S-618)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2157
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1446,
+9 L.D. 2157, “An Act to Prohibit the Unauthorized Use of Drones on or over the Premises of
+10 Correctional Facilities and Jails”
+11 Amend the amendment by striking out all of subsection 1 (page 1, lines 14 to 23 in
+12 amendment) and inserting the following:
+13 '1. A person is guilty of unauthorized use of a drone on or over the premises of a
+14 correctional facility or jail if the person:
+15 A. Intentionally or knowingly flies a drone over the premises of a correctional facility
+16 or jail at or below a height of 400 feet above the ground, lands a drone on the premises
+17 or flies a drone from the premises. Violation of this paragraph is a Class E crime;
+18 B. Violates paragraph A and at the time of the offense has one prior conviction for
+19 violating paragraph A or one prior conviction for engaging in conduct substantially
+20 similar to that prohibited in paragraph A in another jurisdiction. Violation of this
+21 paragraph is a Class D crime; or
+22 C. Violates paragraph A and at the time of the offense has more than one prior
+23 conviction for violating paragraph A or more than one prior conviction for engaging in
+24 conduct substantially similar to that prohibited in paragraph A in another jurisdiction.
+25 Violation of this paragraph is a Class C crime.
+26 Section 9-A governs the use of prior convictions when determining a sentence.'
+27 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+28 section number to read consecutively.
+29 SUMMARY
+3300 This amendment changes the penalty structure established in Committee Amendment
+3311 "B" by:
+32 1. Decreasing the penalty for a first-time violation for unauthorized use of a drone on
+33 or over the premises of a correctional facility or jail to a Class E crime;
+34 2. Decreasing the penalty for a 2nd violation to a Class D crime; and
+Page 1 - 132LR2663(06)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “B” to H.P. 1446, L.D. 2157
+1 3. Providing that a violation after a 2nd conviction is a Class C crime.
+22 SPONSORED BY: ___________________________________
+33 (Senator CURRY, C.)
+44 COUNTY: Waldo
+Page 2 - 132LR2663(06)
+SENATE AMENDMENT

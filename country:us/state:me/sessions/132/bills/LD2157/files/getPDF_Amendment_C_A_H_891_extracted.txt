@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-891)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2157
+2 Date: (Filing No. H- )
+3 CRIMINAL JUSTICE AND PUBLIC SAFETY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1446, L.D. 2157, “An Act to Prohibit
+10 the Unauthorized Use of Drones on or over the Premises of Correctional Facilities and
+11 Jails”
+12 Amend the bill in section 1 in §761 by striking out all of subsections 1 and 2 (page 1,
+13 lines 4 to 10 in L.D.) and inserting the following:
+14 '1. A person is guilty of unauthorized use of a drone on or over the premises of a
+15 correctional facility or jail if the person intentionally or knowingly flies a drone over the
+16 premises of a correctional facility or jail at or below a height of 400 feet above the ground,
+17 lands a drone on the premises or flies a drone from the premises.
+18 A. Except as provided in paragraph B, a person who violates this subsection commits
+19 a civil violation for which a fine of not less than $500 may be adjudged.
+20 B. A person who violates this subsection after having been previously adjudicated as
+21 violating this subsection or has been previously adjudicated of committing a violation
+22 for conduct substantially similar to that prohibited in this subsection in another
+23 jurisdiction commits a Class D crime. Section 9-A governs the use of prior convictions
+24 when determining a sentence.'
+25 Amend the bill in section 1 in §761 by striking out all of subsection 5 (page 1, lines 21
+26 and 22 in L.D.).
+27 Amend the bill in section 1 in §761 by renumbering the subsections to read
+28 consecutively.
+29 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+30 number to read consecutively.
+31 SUMMARY
+3322 This amendment, which is the majority report of the committee, does the following.
+33 1. It removes a provision from the bill regarding the use of a drone to convey or attempt
+34 to convey prison contraband in correctional facilities or jails.
+Page 1 - 132LR2663(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1446, L.D. 2157
+1 2. It removes a provision from the bill that establishes a Class C crime for unauthorized
+2 use of a drone on or over the premises of a correctional facility or jail.
+3 3. It creates a mens rea requirement that a person must intentionally or knowingly
+4 operate a drone on or over the premises of a correctional facility or jail to be found liable
+5 for unauthorized use of a drone. A person who violates this provision commits a civil
+6 violation for which a fine of not less than $500 may be adjudged.
+7 4. It adds a provision that if a person has previously been adjudicated for unauthorized
+8 use of a drone on or over the premises of a correctional facility or jail or has been
+9 adjudicated for substantially similar conduct in another jurisdiction, and the person
+10 subsequently flies a drone on or over the premises of a correctional facility or jail without
+11 authorization, the person is guilty of a Class D crime.
+1122 FISCAL NOTE REQUIRED
+1133 (See attached)
+Page 2 - 132LR2663(02)
+COMMITTEE AMENDMENT

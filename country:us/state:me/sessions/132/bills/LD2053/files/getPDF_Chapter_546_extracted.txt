@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 546
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 3, 2026 546
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1377 - L.D. 2053
+An Act to Improve Safety by Allowing the Use of Variable-message Signs on
+Certain Vehicles
+Emergency preamble. Whereas, acts and resolves of the Legislature do not
+become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, vehicles that assist with traffic incidents and improve roadway safety that
+are equipped with variable-message signs mounted on the vehicle are prepared to begin
+using variable-message signs immediately; and
+Whereas, a delay in allowing vehicles that assist with traffic incidents and improve
+roadway safety to use variable-message signs could allow for a greater number of traffic-
+related injuries to occur; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within
+the meaning of the Constitution of Maine and require the following legislation as
+immediately necessary for the preservation of the public peace, health and safety; now,
+therefore,
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 29-A MRSA §2054, sub-§1, ¶K is enacted to read:
+K. “Safety service patrol vehicle” means a vehicle, equipped with a variable-message
+sign, used or contracted by the department or the Maine Turnpike Authority to assist
+with traffic incidents and improve roadway safety.
+Sec. 2. 29-A MRSA §2054, sub-§1, ¶L is enacted to read:
+L. "Variable-message sign" means a traffic control device on which a message can be
+displayed and changed manually, electronically, mechanically, electromechanically or
+by other means to provide information about traffic congestion, traffic accidents,
+maintenance operations, adverse weather conditions, roadway conditions or organized
+events or other necessary roadway safety information.
+Sec. 3. 29-A MRSA §2054, sub-§12 is enacted to read:
+Page 1 - 132LR2864(03)
+
+12. Variable-message signs. A variable-message sign may be used on a wrecker,
+police vehicle, fire department vehicle, safety service patrol vehicle or highway
+maintenance vehicle in the manner prescribed in this subsection. The variable-message sign
+may not exceed the width of the vehicle on which it is mounted and may be displayed only
+facing traffic behind the vehicle. The operator of a vehicle under this subsection may use a
+variable-message sign as follows.
+A. The operator of a wrecker may use a variable-message sign on that vehicle while it
+is stationary and engaged in repair, loading or unloading a vehicle or performing a
+vehicle recovery. A variable-message sign mounted on a wrecker must display amber
+lights that create right or left arrows or the words “slow down” or “move over.”
+B. The operator of a police vehicle, fire department vehicle, safety service patrol
+vehicle or highway maintenance vehicle may use a variable-message sign on that
+vehicle to provide information about traffic congestion, traffic accidents, maintenance
+operations, adverse weather conditions, roadway conditions or organized events or
+other necessary roadway safety information. The variable-message sign must display
+right or left arrows or the words “slow down,” “move over,” “accident ahead,” “crash
+ahead” or other similar language. Other messages not described in this paragraph may
+be displayed on a variable-message sign if the additional messages are established by
+rule and in line with standards in accordance with the latest edition of the Manual on
+Uniform Traffic Control Devices published by the United States Department of
+Transportation, Federal Highway Administration.
+The Commissioner of Public Safety or the commissioner’s designee may adopt rules
+as necessary for the purpose of implementing this paragraph. Rules adopted pursuant
+to this paragraph are routine technical rules as defined in Title 5, chapter 375,
+subchapter 2-A.
+Emergency clause. In view of the emergency cited in the preamble, this legislation
+takes effect when approved.
+Page 2 - 132LR2864(03)

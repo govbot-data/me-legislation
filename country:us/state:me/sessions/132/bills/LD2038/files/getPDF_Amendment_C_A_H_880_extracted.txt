@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-880)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2038
+2 Date: (Filing No. H- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1368, L.D. 2038, “An Act to Require
+10 Maine Transmission and Distribution Utility Participation in a Regional Transmission
+11 Organization”
+12 Amend the bill by striking out everything after the enacting clause and before the
+13 emergency clause and inserting the following:
+14 'Sec. 1. 35-A MRSA §3133-B is enacted to read:
+15 §3133-B. Mandatory participation in regional transmission organization
+16 1. Regional transmission organization; definition. For the purposes of this section,
+17 "regional transmission organization" has the same meaning as in section 10102, subsection
+18 8.
+19 2. Participation mandatory. Except as provided in subsection 3, a transmission and
+20 distribution utility may not own or control a transmission and distribution plant located in
+21 the State unless the transmission and distribution utility participates in a regional
+22 transmission organization.
+23 3. Exceptions. The provisions of this section do not apply to:
+24 A. A consumer-owned transmission and distribution utility as defined in section 3501,
+25 subsection 1; or
+26 B. A transmission and distribution utility that owns or controls a transmission and
+27 distribution plant located in an area of this State in which the retail electricity market
+28 is administered by the independent system administrator for northern Maine.'
+29 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+30 number to read consecutively.
+31 SUMMARY
+3322 This amendment strikes and replaces the bill. The amendment makes it mandatory for
+3333 transmission and distribution utilities to participate in a regional transmission organization.
+Page 1 - 132LR2638(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1368, L.D. 2038
+314 The amendment provides an exception for consumer-owned utilities and for utilities
+325 located in an area of the State in which the retail electricity market is administered by the
+336 independent system administrator for northern Maine.
+Page 2 - 132LR2638(02)
+COMMITTEE AMENDMENT

@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-B (H-911)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2163
+2 Date: (Filing No. H- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1452, L.D. 2163, “An Act to Improve
+10 the Response to Complaints by Victims of Crime and Enhance Victims' Rights”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Enhance Crime Victims' Rights'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 5 MRSA §200-E, sub-§2, ¶B is enacted to read:
+16 B. At least 15 days before sending a written request for medical records under this
+17 subsection, the Attorney General, the Attorney General's designee, the district attorney
+18 or the district attorney's designee shall provide the victim with a written notice of intent
+19 to send a written request for medical records under this subsection and of the victim's
+20 right to object under this paragraph. If the victim objects in writing within 15 days, the
+21 Attorney General, the Attorney General's designee, the district attorney or the district
+22 attorney's designee may not submit a written request under this subsection but may file
+23 a motion pursuant to Rule 17A(f) of the Maine Rules of Unified Criminal Procedure
+24 for access to the medical records.
+25 Sec. 2. 17-A MRSA §2102, sub-§1, ¶F-2, as enacted by PL 2021, c. 330, §6 and
+26 reallocated by RR 2021, c. 1, Pt. A, §14, is amended to read:
+27 F-2. The final disposition of the charges against the defendant, including the amount
+28 of deductions to time served that a defendant has accumulated as of the date of
+29 sentencing. On or before the date of sentencing, the attorney for the State shall obtain
+30 information about the deductions to time served from each correctional facility at
+31 which a defendant was detained prior to sentencing on the relevant charges; and
+32 Sec. 3. 17-A MRSA §2102, sub-§1, ¶G, as enacted by PL 2019, c. 113, Pt. A, §2,
+33 is amended to read:
+Page 1 - 132LR2691(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1452, L.D. 2163
+1 G. The right to comment on the proposed early termination of probation, early
+2 termination of administrative release or conversion of probation to administrative
+3 release, pursuant to section 2105.;
+4 Sec. 4. 17-A MRSA §2102, sub-§1, ¶H is enacted to read:
+5 H. Any written request submitted under Title 5, section 200-E, subsection 2 or any
+6 request made for a subpoena for the victim's records within the meaning of section
+7 2110; the date and time of any criminal hearing or criminal court proceeding
+8 concerning the request and that the victim must be given an opportunity to be heard at
+9 that hearing or proceeding; and
+10 Sec. 5. 17-A MRSA §2102, sub-§1, ¶I is enacted to read:
+11 I. The filing, scheduling and outcome of an appeal of a decision of the court by a
+12 defendant or the State involving a crime against the victim.
+13 Sec. 6. 17-A MRSA §2110 is enacted to read:
+14 §2110. Requests for victim's records
+15 A victim has the right to timely notice pursuant to section 2102, subsection 1, paragraph
+16 H and must be given an opportunity to be heard at any criminal hearing or criminal court
+17 proceeding concerning a written request submitted under Title 5, section 200-E, subsection
+18 2 or a subpoena issued to a person other than the victim for any record that implicates a
+19 privilege or a confidentiality or privacy protection for the benefit of the victim as described
+20 in Rule 17A(f) of the Maine Rules of Unified Criminal Procedure, including, but not limited
+21 to, the victim's medical records, mental health counseling or treatment records, educational
+22 records, electronic device content information and electronic device location information.
+23 For purposes of this paragraph, "electronic device content information" has the same
+24 meaning as in Title 16, chapter 3, subchapter 10 and "electronic device location
+25 information" has the same meaning as in Title 16, chapter 3, subchapter 11.
+26 Sec. 7. 17-A MRSA §2111 is enacted to read:
+27 §2111. Presence of victim's attorney or advocate
+28 At any court proceeding in a criminal case in which a victim has a right to be heard,
+29 the victim may retain an attorney who may be present and speak on the victim's behalf or
+30 the victim may elect to have a victim witness advocate or victim witness coordinator speak
+31 on the victim's behalf. Except as required to comply with Rule 4.2 of the Maine Rules of
+32 Professional Conduct governing communications with persons represented by counsel,
+33 treatment of the victim may not be affected or altered in any way due to the victim's
+34 decision to exercise this right. For purposes of this section, "victim witness advocate" or
+35 "victim witness coordinator" has the same meaning as in Title 16, section 53-C, subsection
+36 1, paragraph C.
+37 Sec. 8. Appropriations and allocations. The following appropriations and
+38 allocations are made.
+39 ATTORNEY GENERAL, DEPARTMENT OF THE
+40 District Attorneys Salaries 0409
+41 Initiative: Provides funding for one Assistant Attorney General position to send
+42 notifications regarding medical records.
+Page 2 - 132LR2691(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1452, L.D. 2163
+1 GENERAL FUND 2025-26 2026-27
+2 POSITIONS - LEGISLATIVE COUNT 0.000 1.000
+3 Personal Services $0 $190,492
+4 __________ __________
+5 GENERAL FUND TOTAL $0 $190,492
+61 '
+7 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+8 number to read consecutively.
+9 SUMMARY
+1100 This amendment, which is the minority report of the committee, replaces the bill and
+1111 changes the title. The amendment removes the provisions of the bill directing the Office
+1122 of the Attorney General to create a centralized complaint process and procedures for
+1133 investigations of violations of crime victim rights.
+14 Under current law, a crime victim may file a motion to quash any subpoena served on
+15 the victim. The bill provides that a victim has a right to receive timely notice and an
+16 opportunity to be heard when a party to a court proceeding requests a subpoena granting
+17 that party access to certain types of records about or concerning the victim. The amendment
+18 clarifies that the attorney for the State has responsibility for making a good faith effort to
+19 notify the victim of the existence of a subpoena request; the date and time any proceeding
+20 or hearing related to the subpoena; and that the victim must be given the opportunity to be
+21 heard at that proceeding or hearing when a party to a criminal proceeding seeks a subpoena
+22 from someone other than the victim for any record that implicates a privilege or a
+23 confidentiality or privacy protection for the benefit of the victim as described in Rule
+24 17A(f) of the Maine Rules of Unified Criminal Procedure, including, but not limited to, the
+25 victim's medical records, mental health counseling or treatment records, educational
+26 records, electronic device content information and electronic device location information.
+27 Under the amendment, the attorney for the State also has the same responsibility with
+28 respect to a written request for the victim's medical records pursuant to the Maine Revised
+29 Statutes, Title 5, section 200-E, subsection 2.
+30 The amendment also provides that, before the Attorney General, the Attorney General's
+31 designee, the district attorney or the district attorney's designee sends a written request for
+32 copies of medical records related to the examination or treatment of the victim related to
+33 an alleged criminal act as permitted in current law, the relevant official must notify the
+34 victim of the official's intent to send the written request and of the victim's right to object.
+35 If the victim objects in writing within 15 days, the official may not obtain the medical
+36 records through a written request but may file a motion for access to the relevant records
+37 pursuant to Rule 17A(f) of the Maine Rules of Unified Criminal Procedure.
+38 The amendment also clarifies that, in any court proceeding in a criminal case in which
+39 a victim has a right to be heard, the victim may retain an attorney to speak on the victim's
+40 behalf or may elect to have a victim witness advocate or victim witness coordinator speak
+41 on the victim's behalf. Treatment of the victim may not be affected in any way based on
+42 the victim's decision to retain an attorney, except as required to comply with the Maine
+Page 3 - 132LR2691(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1452, L.D. 2163
+413 Rules of Professional Conduct governing attorney communications with persons who are
+424 represented by counsel.
+435 FISCAL NOTE REQUIRED
+446 (See attached)
+Page 4 - 132LR2691(03)
+COMMITTEE AMENDMENT

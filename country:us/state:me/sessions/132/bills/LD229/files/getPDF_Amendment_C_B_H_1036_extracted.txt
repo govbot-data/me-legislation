@@ -1,0 +1,362 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-B (H-1036)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 229
+2 Date: (Filing No. H- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 152, L.D. 229, “An Act to Bring
+10 Fairness in Income Taxes to Maine Families by Adjusting the Tax Brackets and Tax Rates”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Bring Fairness in Income Taxes to Maine Families by Adjusting the Tax
+13 Brackets and Tax Rates and Bring Tax Relief to Maine Families by Changing Certain
+14 Tax Laws'
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 36 MRSA §683, sub-§1-B, as amended by PL 2019, c. 343, Pt. H, §2, is
+18 further amended to read:
+19 1-B. Additional exemption. A homestead eligible for an exemption under subsection
+20 1 is eligible for an additional exemption of $5,000 of the just value of the homestead for
+21 property tax years beginning on April 1, 2016, $10,000 of the just value of the homestead
+22 for property tax years beginning on April 1, 2017, April 1, 2018 and April 1, 2019 and,
+23 $15,000 of the just value of the homestead for property tax years beginning on or after
+24 April 1, 2020 and each April 1st to April 1, 2026 and $22,000 of the just value of the
+25 homestead for property tax years beginning on or after April 1, 2027.
+26 Sec. 2. 36 MRSA §1760, sub-§9-B, as amended by PL 2021, c. 713, §§1 to 3 and
+27 affected by §4, is further amended to read:
+28 9-B. Residential electricity. Sale and delivery of residential electricity as follows:
+29 A. The Before October 1, 2026, the first 750 kilowatt hours kilowatt-hours of
+30 residential electricity per month;
+31 B. Off-peak Before October 1, 2026, off-peak residential electricity used for space
+32 heating or water heating by means of an electric thermal storage device. For the
+33 purpose of this paragraph, "off-peak residential electricity" means the off-peak delivery
+34 of residential electricity pursuant to tariffs on file with the Public Utilities Commission
+35 and the electricity supplied; and
+Page 1 - 132LR0424(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 152, L.D. 229
+1 C. Residential Before October 1, 2026, residential electricity consumed by eligible
+2 customers enrolled in a low-income assistance program implemented pursuant to Title
+3 35‑A, section 3214, subsection 2 or an arrearage management program implemented
+4 pursuant to Title 35‑A, section 3214, subsection 2‑A.; and
+5 D. Beginning October 1, 2026, the sale and delivery of all residential electricity.
+6 For the purpose of this subsection, "residential electricity" means electricity furnished to
+7 buildings designed and used for both human habitation and sleeping, with the exception of
+8 hotels. When residential electricity is furnished through one meter to more than one
+9 residential unit and when the transmission and distribution utility applies its tariff on a per
+10 unit basis, the furnishing of electricity is considered a separate sale for each unit to which
+11 the tariff applies. For the purpose of this subsection, "delivery" means transmission and
+12 distribution.
+13 Sec. 3. 36 MRSA §1760, sub-§121 is enacted to read:
+14 121. Diapers. Beginning January 1, 2027, sales of disposable and reusable diapers,
+15 including diaper covers, wraps and diaper fasteners that are used with reusable diapers. For
+16 the purposes of this subsection, "diaper" means an absorbent garment worn by humans who
+17 are incapable of or having difficulty controlling their bladders or bowel movements that is
+18 marketed to be worn by adults or children.
+19 Sec. 4. 36 MRSA §5111, sub-§1-F, as enacted by PL 2015, c. 267, Pt. DD, §3, is
+20 amended to read:
+21 1-F. Single individuals and married persons filing separate returns; tax years
+22 beginning from 2017 to 2025. For tax years beginning on or after January 1, 2017 but
+23 before January 1, 2026, for single individuals and married persons filing separate returns:
+24 If Maine taxable income is: The tax is:
+25 Less than $21,050 5.8% of the Maine taxable income
+26 At least $21,050 but less than $50,000 $1,221 plus 6.75% of the excess over
+27 $21,050
+28 $50,000 or more $3,175 plus 7.15% of the excess over
+29 $50,000
+3204 Sec. 5. 36 MRSA §5111, sub-§1-G is enacted to read:
+31 1-G. Single individuals and married persons filing separate returns; tax years
+32 beginning 2026. For tax years beginning on or after January 1, 2026, for single individuals
+33 and married persons filing separate returns:
+34 If Maine taxable income is: The tax is:
+35 Less than $27,450 5.5% of the Maine taxable income
+36 At least $27,450 but less than $64,950 $1,510 plus 6.75% of the excess over
+37 $27,450
+38 At least $64,950 but less than $144,500 $4,041 plus 7.15% of the excess over
+39 $64,950
+40 At least $144,500 but less than $500,000 $9,729 plus 7.75% of the excess over
+41 $144,500
+42 $500,000 or more $37,280 plus 8.95% of the excess over
+43 $500,000
+Page 2 - 132LR0424(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 152, L.D. 229
+11 Sec. 6. 36 MRSA §5111, sub-§2-F, as enacted by PL 2015, c. 267, Pt. DD, §5, is
+22 amended to read:
+3 2-F. Heads of households; tax years beginning from 2017 to 2025. For tax years
+4 beginning on or after January 1, 2017 but before January 1, 2026, for unmarried individuals
+5 or legally separated individuals who qualify as heads of households:
+6 If Maine taxable income is: The tax is:
+7 Less than $31,550 5.8% of the Maine taxable income
+8 At least $31,550 but less than $75,000 $1,830 plus 6.75% of the excess over
+9 $31,550
+10 $75,000 or more $4,763 plus 7.15% of the excess over
+11 $75,000
+126 Sec. 7. 36 MRSA §5111, sub-§2-G is enacted to read:
+13 2-G. Heads of households; tax years beginning 2026. For tax years beginning on or
+14 after January 1, 2026, for unmarried individuals or legally separated individuals who
+15 qualify as heads of households:
+16 If Maine taxable income is: The tax is:
+17 Less than $41,150 5.5% of the Maine taxable income
+18 At least $41,150 but less than $97,450 $2,263 plus 6.75% of the excess over
+19 $41,150
+20 At least $97,450 but less than $216,750 $6,063 plus 7.15% of the excess over
+21 $97,450
+22 At least $216,750 but less than $750,000 $14,593 plus 7.75% of the excess over
+23 $216,750
+24 $750,000 or more $55,921 plus 8.95% of the excess over
+25 $750,000
+2166 Sec. 8. 36 MRSA §5111, sub-§3-F, as enacted by PL 2015, c. 267, Pt. DD, §7, is
+2177 amended to read:
+28 3-F. Individuals filing married joint returns or surviving spouses; tax years
+29 beginning from 2017 to 2025. For tax years beginning on or after January 1, 2017 but
+30 before January 1, 2026, for individuals filing married joint returns or surviving spouses
+31 permitted to file a joint return:
+32 If Maine taxable income is: The tax is:
+33 Less than $42,100 5.8% of the Maine taxable income
+34 At least $42,100 but less than $100,000 $2,442 plus 6.75% of the excess over
+35 $42,100
+36 $100,000 or more $6,350 plus 7.15% of the excess over
+37 $100,000
+3382 Sec. 9. 36 MRSA §5111, sub-§3-G is enacted to read:
+39 3-G. Individuals filing married joint returns or surviving spouses; tax years
+40 beginning 2026. For tax years beginning on or after January 1, 2026, for individuals filing
+41 married joint returns or surviving spouses permitted to file a joint return:
+42 If Maine taxable income is: The tax is:
+43 Less than $54,900 5.5% of the Maine taxable income
+Page 3 - 132LR0424(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 152, L.D. 229
+1 At least $54,900 but less than $129,900 $3,020 plus 6.75% of the excess over
+2 $54,900
+3 At least $129,900 but less than $289,000 $8,083 plus 7.15% of the excess over
+4 $129,900
+5 At least $289,000 but less than $1,000,000 $19,459 plus 7.75% of the excess over
+6 $289,000
+7 $1,000,000 or more $74,562 plus 8.95% of the excess over
+8 $1,000,000
+91 Sec. 10. 36 MRSA §5213-A, sub-§1, ¶A-1, as enacted by PL 2017, c. 474, Pt. B,
+102 §9, is amended to read:
+11 A-1. For tax years beginning on or after January 1, 2018 and before January 1, 2026,
+12 "base credit" means:
+13 (1) For single individuals, $125; and
+14 (2) For individuals filing joint returns or as heads of households, $175 plus an
+15 additional amount equal to:
+16 (a) For individuals filing joint returns, $25 if they can claim the federal child
+17 tax credit pursuant to the Code, Section 24 for no more than one qualifying
+18 child or dependent or $50 if they can claim the credit for more than one
+19 qualifying child or dependent; or
+20 (b) For individuals filing as heads of households, $25 if they can claim the
+21 federal child tax credit pursuant to the Code, Section 24 for 2 qualifying
+22 children or dependents or $50 if they can claim the credit for more than 2
+23 qualifying children or dependents.
+24 Sec. 11. 36 MRSA §5213-A, sub-§1, ¶A-2 is enacted to read:
+25 A-2. For tax years beginning on or after January 1, 2026, "base credit" means:
+26 (1) For single individuals, $170; and
+27 (2) For individuals filing joint returns or as heads of households, $240 plus an
+28 additional amount equal to:
+29 (a) For individuals filing joint returns, $40 if they can claim the federal child
+30 tax credit pursuant to the Code, Section 24 for no more than one qualifying
+31 child or dependent or $75 if they can claim the credit for more than one
+32 qualifying child or dependent; or
+33 (b) For individuals filing as heads of households, $40 if they can claim the
+34 federal child tax credit pursuant to the Code, Section 24 for 2 qualifying
+35 children or dependents or $75 if they can claim the credit for more than 2
+36 qualifying children or dependents.
+37 Sec. 12. 36 MRSA §5213-A, sub-§4, as enacted by PL 2015, c. 267, Pt. DD, §19,
+38 is amended to read:
+39 4. Phase-out of credit. The credit allowed under this section is phased out as follows.
+40 A. For single individuals, the credit is reduced by $10 for every $500 or portion thereof
+41 that exceeds $20,000 of the income.
+Page 4 - 132LR0424(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 152, L.D. 229
+1 B. For unmarried individuals or legally separated individuals who qualify as heads of
+2 households, the credit is reduced by $15 for every $750 or portion thereof that exceeds
+3 $30,000 of the income.
+4 C. For individuals filing married joint returns or surviving spouses permitted to file
+5 joint returns, the credit is reduced by $20 for every $1,000 or portion thereof that
+6 exceeds $40,000 of the income.
+7 D. For tax years beginning before January 1, 2026:
+8 (1) For single individuals, the credit is reduced by $10 for every $500 or portion
+9 thereof that exceeds $20,000 of the income;
+10 (2) For unmarried individuals or legally separated individuals who qualify as
+11 heads of households, the credit is reduced by $15 for every $750 or portion thereof
+12 that exceeds $30,000 of the income; and
+13 (3) For individuals filing married joint returns or surviving spouses permitted to
+14 file joint returns, the credit is reduced by $20 for every $1,000 or portion thereof
+15 that exceeds $40,000 of the income.
+16 E. For tax years beginning on or after January 1, 2026:
+17 (1) For single individuals, the credit is reduced by $10 for every $500 or portion
+18 thereof that exceeds $34,000 of the income;
+19 (2) For unmarried individuals or legally separated individuals who qualify as
+20 heads of households, the credit is reduced by $15 for every $750 or portion thereof
+21 that exceeds $51,000 of the income; and
+22 (3) For individuals filing married joint returns or surviving spouses permitted to
+23 file joint returns, the credit is reduced by $20 for every $1,000 or portion thereof
+24 that exceeds $68,000 of the income.
+25 Sec. 13. 36 MRSA §5219-KK, sub-§2-D, as amended by PL 2023, c. 412, Pt. S,
+26 §4, is repealed and the following enacted in its place:
+27 2-D. Credit in 2022 and after. For tax years beginning on or after January 1, 2022,
+28 a resident individual is allowed a credit against the taxes imposed under this Part equal to
+29 the amount by which the benefit base for the resident individual exceeds 4% of the resident
+30 individual's income, except that, for tax years beginning on or after January 1, 2027, a
+31 resident individual who is 65 years of age or older with an annual income at or below
+32 $36,000 is allowed a credit against the taxes imposed under this Part equal to the amount
+33 by which the benefit base for the resident individual exceeds 3% of the resident individual's
+34 income. The amount of the credit may not exceed:
+35 A. For tax years beginning on or after January 1, 2022 and before January 1, 2026,
+36 $1,000 for resident individuals under 65 years of age as of the last day of the taxable
+37 year;
+38 B. For tax years beginning on or after January 1, 2026, $1,500 for resident individuals
+39 under 65 years of age as of the last day of the taxable year;
+40 C. For tax years beginning on or after January 1, 2022 and before January 1, 2024,
+41 $1,500 for resident individuals 65 years of age and older as of the last day of the taxable
+42 year; and
+Page 5 - 132LR0424(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 152, L.D. 229
+1 D. For tax years beginning on or after January 1, 2024, $2,000 for resident individuals
+2 65 years of age and older as of the last day of the taxable year.
+3 In the case of married individuals filing a joint return, only one spouse is required to be 65
+4 years of age or older to qualify for the credit applicable to individuals who are 65 years of
+5 age and older as established by this subsection or to qualify for the limitation specified in
+6 paragraphs C and D. Married individuals filing separate returns do not qualify for the credit
+7 under this section.
+8 Sec. 14. 36 MRSA §5403, sub-§1, as enacted by PL 2015, c. 267, Pt. DD, §33, is
+9 repealed and the following enacted in its place:
+10 1. Individual income tax rate tables. Beginning in 2026 and each year thereafter, by
+11 the dollar amounts of the tax rate tables specified in section 5111, subsections 1-G, 2-G
+12 and 3-G, except that for the purposes of this subsection, notwithstanding section 5402,
+13 subsection 1-B, the "cost-of-living adjustment" is the Chained Consumer Price Index for
+14 the 12-month period ending June 30th of the preceding calendar year divided by the
+15 Chained Consumer Price Index for the 12-month period ending June 30, 2025;
+16 Sec. 15. 36 MRSA §5403, sub-§5, as amended by PL 2017, c. 474, Pt. B, §22, is
+17 further amended to read:
+18 5. Sales tax fairness credit. For the sales tax fairness credit:
+19 A. Beginning in 2018 and each year thereafter, by the base credit amounts in section
+20 5213‑A, subsection 1, paragraph A‑1, including the additional amounts in section
+21 5213-A, subsection 1, paragraph A-1, subparagraph (2), divisions (a) and (b), except
+22 that for the purposes of this paragraph, notwithstanding section 5402, subsection 1‑B,
+23 the "cost-of-living adjustment" is the Chained Consumer Price Index for the 12-month
+24 period ending June 30th of the preceding calendar year divided by the Chained
+25 Consumer Price Index for the 12-month period ending June 30, 2017. If the base credit
+26 amount, adjusted by application of the cost-of-living adjustment, is not a multiple of
+27 $5, any increase must be rounded to the next lowest multiple of $5; and
+28 C. Beginning in 2016 and each year thereafter prior to 2026, by the dollar amount of
+29 the income threshold set forth in section 5213‑A, subsection 4, paragraph D, except
+30 that for the purposes of this paragraph, notwithstanding section 5402, subsection 1‑B,
+31 the "cost-of-living adjustment" is the Chained Consumer Price Index for the 12-month
+32 period ending June 30th of the preceding calendar year divided by the Chained
+33 Consumer Price Index for the 12-month period ending June 30, 2015;
+34 D. Beginning in 2026 and each year thereafter, by the base credit amounts in section
+35 5213-A, subsection 1, paragraph A-2, including the additional amounts in section
+36 5213-A, subsection 1, paragraph A-2, subparagraph (2), divisions (a) and (b), except
+37 that for the purposes of this paragraph, notwithstanding section 5402, subsection 1-B,
+38 the "cost-of-living adjustment" is the Chained Consumer Price Index for the 12-month
+39 period ending June 30th of the preceding calendar year divided by the Chained
+40 Consumer Price Index for the 12-month period ending June 30, 2025. If the base credit
+41 amount, adjusted by application of the cost-of-living adjustment, is not a multiple of
+42 $5, any increase must be rounded to the next lowest multiple of $5; and
+43 E. Beginning in 2026 and each year thereafter, by the dollar amount of the income
+44 threshold set forth in section 5213-A, subsection 4, paragraph E, except that for the
+Page 6 - 132LR0424(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 152, L.D. 229
+415 purposes of this paragraph, notwithstanding section 5402, subsection 1-B, the "cost-of-
+426 living adjustment" is the Chained Consumer Price Index for the 12-month period
+437 ending June 30th of the preceding calendar year divided by the Chained Consumer
+448 Price Index for the 12-month period ending June 30, 2025;
+5 Sec. 16. 36 MRSA §5403, sub-§6, as repealed and replaced by PL 2023, c. 412,
+6 Pt. S, §5, is amended to read:
+7 6. Property tax fairness credit. For the property tax fairness credit:
+8 A. Beginning in 2018 and each year thereafter, by the benefit base amounts in section
+9 5219‑KK, subsection 1, paragraph A‑1, subparagraphs (1) to (3), except that for the
+10 purposes of this subsection, notwithstanding section 5402, subsection 1‑B, the "cost-
+11 of-living adjustment" is the Chained Consumer Price Index for the 12-month period
+12 ending June 30th of the preceding calendar year divided by the Chained Consumer
+13 Price Index for the 12-month period ending June 30, 2017; and
+14 B. Beginning in 2024 and each year thereafter, by the benefit base amount in section
+15 5219‑KK, subsection 1, paragraph A‑1, subparagraph (4), except that for the purposes
+16 of this subsection, notwithstanding section 5402, subsection 1‑B, the "cost-of-living
+17 adjustment" is the Chained Consumer Price Index for the 12-month period ending June
+18 30th of the preceding calendar year divided by the Chained Consumer Price Index for
+19 the 12-month period ending June 30, 2023; and
+20 C. Beginning in 2026 and each year thereafter, by the income amount at or below
+21 which a resident individual who is 65 years of age or older is allowed the credit
+22 provided in section 5219-KK, subsection 2-D that is equal to the amount by which the
+23 benefit base for the resident individual exceeds 3% of the resident individual's income,
+24 except that for the purposes of this subsection, notwithstanding section 5402,
+25 subsection 1-B, the "cost-of-living adjustment" is the Chained Consumer Price Index
+26 for the 12-month period ending June 30th of the preceding calendar year divided by
+27 the Chained Consumer Price Index for the 12-month period ending June 30, 2025;
+28 Sec. 17. Appropriations and allocations. The following appropriations and
+29 allocations are made.
+30 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+31 Revenue Services, Bureau of 0002
+32 Initiative: Provides one-time funding for administrative expenses, including printing and
+33 mailing, temporary services and computer system changes and related testing.
+34 GENERAL FUND 2025-26 2026-27
+35 All Other $0 $193,270
+36 __________ __________
+37 GENERAL FUND TOTAL $0 $193,270
+3384 '
+39 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+40 number to read consecutively.
+Page 7 - 132LR0424(04)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 152, L.D. 229
+1 SUMMARY
+22 This amendment replaces the bill and changes the title. The amendment makes the
+33 following changes to the tax laws.
+4 1. It changes, beginning in 2026, the current income tax brackets by increasing the
+5 threshold amount of income subject to the current tax rates of 6.75% and 7.15%. It reduces
+6 the tax rate of the lowest tax bracket from 5.8% to 5.5%. It adds 2 new tax brackets and
+7 establishes rates of tax on the 2 new brackets of 7.75% and 8.95%, respectively.
+8 2. It provides that, for tax years beginning on or after January 1, 2027, for resident
+9 individuals who are 65 years of age and older filing individually or as a married individual
+10 filing jointly, with an annual income of $36,000 or less, indexed for inflation, the property
+11 tax fairness credit is equal to the amount by which the benefit base for the resident
+12 individual exceeds 3% of the resident individual's income. In the case of married
+13 individuals filing jointly, only one spouse is required to be 65 years of age or older to
+14 qualify for the tax credit. The amendment does not eliminate the property tax fairness
+15 credit available under current law.
+16 3. It increases, for tax years beginning on or after January 1, 2026, the property tax
+17 fairness credit for individuals under 65 years of age from $1,000 to $1,500.
+18 4. It provides, beginning January 1, 2027, a sales tax exemption for disposable and
+19 reusable diapers, including diaper covers, wraps and diaper fasteners, that are marketed to
+20 be worn by adults or children.
+21 5. It expands the sales tax exemption for the sale and delivery of residential electricity
+22 to cover all sales and deliveries of residential electricity beginning October 1, 2026.
+23 6. It provides an increase of $7,000 in the homestead exemption for property tax years
+24 beginning on or after April 1, 2027, for a total of up to $32,000.
+25 7. It updates the sales tax fairness credit for tax years beginning on or after January 1,
+26 2026. The maximum credit allowed under the updated credit is $170 for single filers, $240
+27 for individuals filing jointly with no qualifying children or dependents or as heads of
+28 households with no more than one qualifying child or dependent, $280 for individuals filing
+29 jointly with no more than one qualifying child or dependent or as heads of households with
+30 no more than 2 qualifying children or dependents and $315 for individuals filing jointly
+31 with 2 or more qualifying children or dependents or as heads of households with 3 or more
+32 qualifying children or dependents. The updated credit begins to phase out at $34,000 for
+33 single filers, $51,000 for heads of households and $68,000 for married joint filers. The
+34 updated credit is adjusted annually for inflation.
+3355 FISCAL NOTE REQUIRED
+3366 (See attached)
+Page 8 - 132LR0424(04)
+COMMITTEE AMENDMENT

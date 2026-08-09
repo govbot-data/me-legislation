@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-540)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1980
+2 Date: (Filing No. S- )
+3 CRIMINAL JUSTICE AND PUBLIC SAFETY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 775, L.D. 1980, “An Act to Implement
+10 the Recommendations of the Stakeholder Group to Examine and Improve the Recruitment,
+11 Retention and Wellness of Law Enforcement Officers”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 5 MRSA §12004-I, sub-§74-M is enacted to read:
+15 74-M.
+16 Public Safety Law Enforcement Retention Advisory Not Authorized 25 MRSA
+17 Council §3891
+1186 Sec. 2. 22 MRSA §2842, sub-§1-B is enacted to read:
+19 1-B. Designation of status as first responder. A death certificate for an individual
+20 must include whether the decedent had previously worked as a law enforcement officer,
+21 firefighter, dispatcher or emergency medical services person. For purposes of this
+22 subsection, "law enforcement officer" has the same meaning as in Title 17-A, section 2,
+23 subsection 17, "firefighter" has the same meaning as in Title 17-A, section 752-E,
+24 subsection 2, "dispatcher" has the same meaning as in Title 5, section 18313, subsection 1
+25 and "emergency medical services person" has the same meaning as in Title 32, section 83,
+26 subsection 12.
+27 Sec. 3. 25 MRSA §2804-E, sub-§2, as amended by PL 2013, c. 147, §34, is
+28 repealed and the following enacted in its place:
+29 2. Role of board; recertification. The board shall establish in-service recertification
+30 training requirements, consistent with subsection 1, and coordinate delivery of in-service
+31 training. The in-service recertification training requirements must include:
+32 A. Information on new laws and court decisions;
+33 B. Information on new enforcement practices demonstrated to reduce crime or increase
+34 officer safety; and
+Page 1 - 132LR2532(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 775, L.D. 1980
+1 C. Wellness training that prepares law enforcement officers for the psychological,
+2 emotional and physical stress associated with service. The training must be evidence-
+3 based and provided in person by a law enforcement officer and a licensed mental health
+4 professional. The training must be completed within the first 3 years of a law
+5 enforcement officer's receiving certification pursuant to section 2803-A. For the
+6 purposes of this paragraph, "law enforcement officer" means a law enforcement officer
+7 that has successfully completed the basic law enforcement training program under
+8 section 2804-C, has received a basic law enforcement training program waiver under
+9 section 2803-A or has successfully completed the basic corrections training under
+10 section 2804-D.
+11 The board shall consider and encourage the use of telecommunications technology in the
+12 development and delivery of in-service training programs. In establishing the
+13 recertification training requirements, the board shall cooperate with the state and local
+14 departments and agencies to which the in-service requirements apply to ensure that the
+15 standards are appropriate. In-service training may not be applied to satisfy in-service
+16 recertification training requirements unless it is approved by the board.
+17 Sec. 4. 25 MRSA §2804-F, sub-§2, as amended by PL 2013, c. 147, §35, is
+18 repealed and the following enacted in its place:
+19 2. Role of board. The board shall establish in-service training requirements,
+20 consistent with subsection 1, and coordinate delivery of in-service training. The in-service
+21 recertification training requirements must include information on:
+22 A. New laws and court decisions; and
+23 B. Wellness training that prepares corrections officers for the psychological, emotional
+24 and physical stress associated with service. The training must be evidence-based and
+25 provided in person by a law enforcement officer and a licensed mental health
+26 professional. The training must be completed once within the first 3 years of a
+27 corrections officer's receiving certification pursuant to section 2803-A.
+28 The board shall consider and encourage the use of telecommunications technology in the
+29 development and delivery of in-service training programs. In establishing the
+30 recertification training requirements, the board shall cooperate with the state and local
+31 departments and agencies to which the in-service requirements apply to ensure that the
+32 standards are appropriate. In-service training may not be applied to satisfy in-service
+33 recertification training requirements unless it is approved by the board.
+34 Sec. 5. 25 MRSA §2809, sub-§4, as enacted by PL 1989, c. 521, §§14 and 17, is
+35 amended to read:
+36 4. Training for exempt law enforcement officers. An explanation and evaluation of
+37 the training provided by the state agencies for their law enforcement officers who are
+38 exempt from the requirements of this chapter under section 2801‑B; and
+39 Sec. 6. 25 MRSA §2809, sub-§5, as enacted by PL 1989, c. 521, §§14 and 17, is
+40 amended to read:
+41 5. Other information. Any other information the Legislature may request or the
+42 board determines is appropriate.; and
+43 Sec. 7. 25 MRSA §2809, sub-§6 is enacted to read:
+Page 2 - 132LR2532(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 775, L.D. 1980
+1 6. Law Enforcement Retention Advisory Council reports. Any reports produced
+2 by the Law Enforcement Retention Advisory Council pursuant to its duties under chapter
+3 415.
+4 Sec. 8. 25 MRSA c. 415 is enacted to read:
+5 CHAPTER 415
+6 LAW ENFORCEMENT RETENTION ADVISORY COUNCIL
+7 §3891. Law Enforcement Retention Advisory Council
+8 1. Law Enforcement Retention Advisory Council; established; duties. The Law
+9 Enforcement Retention Advisory Council, as established by Title 5, section 12004-I,
+10 subsection 74-M and referred to in this chapter as "the advisory council," shall advise the
+11 Commissioner of Public Safety, referred to in this chapter as "the commissioner," on the
+12 development and implementation of state and local policies and programs for the purposes
+13 of improving the recruitment, retention and wellness of law enforcement officers, as
+14 defined in Title 17-A, section 2, subsection 17. The advisory council may submit reports
+15 with recommendations to the commissioner, the joint standing committee of the Legislature
+16 having jurisdiction over public safety matters and any other organization.
+17 2. Membership. The advisory council consists of the commissioner. or the
+18 commissioner's designee, and, at a minimum, the following members appointed by the
+19 commissioner:
+20 A. An individual representing a statewide chapter of a national fraternal order of
+21 police;
+22 B. An individual representing a statewide association of police;
+23 C. An individual representing a statewide association advocating for law enforcement
+24 officials within the Bureau of State Police;
+25 D. An individual representing a statewide law enforcement association;
+26 E. An individual representing the Maine Criminal Justice Academy;
+27 F. An individual representing a coalition of mental health providers in the State who
+28 specialize in treating first responders as the coalition's sole practice;
+29 G. An individual representing a postsecondary educational institution in the State with
+30 programs focused on law enforcement or mental health;
+31 H. An individual representing a statewide association of chiefs of police;
+32 I. An individual representing a statewide association of sheriffs;
+33 J. A student representing a secondary school program focused on law enforcement
+34 education in the State; and
+35 K. An individual representing retired law enforcement officers in the State.
+36 The commissioner may appoint additional members to the advisory council in consultation
+37 with members of the advisory council.
+Page 3 - 132LR2532(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 775, L.D. 1980
+1 3. Terms; vacancies. Members of the advisory council serve 3-year terms and may be
+2 reappointed by the commissioner. When a vacancy occurs, the commissioner shall fill the
+3 vacancy by appointing a member from the same category under subsection 2 as the member
+4 who vacated the advisory council, and that member continues to serve for the remainder of
+5 the term.
+6 Sec. 9. Appropriations and allocations. The following appropriations and
+7 allocations are made.
+8 PUBLIC SAFETY, DEPARTMENT OF
+9 Criminal Justice Academy 0290
+10 Initiative: Provides funding for one MCJA Law Enforcement Wellness Coordinator
+11 position and All Other costs.
+12 GENERAL FUND 2025-26 2026-27
+13 POSITIONS - LEGISLATIVE COUNT 0.000 1.000
+14 Personal Services $0 $125,356
+15 All Other $0 $5,000
+16 __________ __________
+17 GENERAL FUND TOTAL $0 $130,356
+1182 '
+19 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+20 number to read consecutively.
+21 SUMMARY
+2222 This amendment replaces the bill. The amendment implements the recommendations
+2233 of the Stakeholder Group to Examine and Improve the Recruitment, Retention and
+2244 Wellness of Law Enforcement Officers. The amendment:
+25 1. Creates the Law Enforcement Retention Advisory Council;
+26 2. Requires the Maine Criminal Justice Academy's annual report to include any report
+27 produced by the advisory council;
+28 3. Requires a death certificate to reflect whether the decedent had previously worked
+29 as a first responder;
+30 4. Requires the board of trustees of the academy to incorporate in-service law
+31 enforcement training that includes law enforcement officer wellness training for full-time
+32 law enforcement officers that have successfully completed the basic law enforcement
+33 training program, received a basic law enforcement training program waiver or
+34 successfully completed the basic corrections training; and
+35 5. Provides funding for one MCJA Law Enforcement Wellness Coordinator position
+36 within the Department of Public Safety.
+3377 FISCAL NOTE REQUIRED
+3388 (See attached)
+Page 4 - 132LR2532(02)
+COMMITTEE AMENDMENT

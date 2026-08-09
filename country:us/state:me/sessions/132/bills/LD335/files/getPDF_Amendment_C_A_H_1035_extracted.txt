@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-1035)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 335
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 235, L.D. 335, “An Act to Safeguard
+10 Reproductive Rights”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Protect Funding for Family Planning Services'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 22 MRSA §1902, sub-§5-B is enacted to read:
+16 5-B. Maine Title X grantee. "Maine Title X grantee" means a provider of family
+17 planning services as defined in 42 Code of Federal Regulations, Section 59.2 that is based
+18 in the State; is licensed, certified or otherwise legally authorized to deliver services in the
+19 State; is engaged primarily in the delivery of reproductive health care and family planning
+20 services as described in 42 United States Code, Section 1396d(a)(4)(C); and has previously
+21 received funding under the Title X program.
+22 Sec. 2. 22 MRSA §1902, sub-§7 is enacted to read:
+23 7. Title X program. "Title X program" means the program of grants for voluntary
+24 family planning projects described in Title X of the federal Public Health Service Act, 42
+25 United States Code, Section 300.
+26 Sec. 3. 22 MRSA §1912 is enacted to read:
+27 §1912. Funding for Maine Title X grantees; substitute funding
+28 For any fiscal year after state fiscal year 2024-25, if the funding previously received
+29 by a Maine Title X grantee under the Title X program is reduced relative to the funds
+30 received in fiscal year 2024-25 or is eliminated as a result of action by the Federal
+31 Government or of a decision by the grantee to withdraw from receiving funding under the
+32 Title X program due to the imposition of conditions attached to the funding, the department
+33 shall grant state funds to the Maine Title X grantee equal to the difference between the
+Page 1 - 132LR1127(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 235, L.D. 335
+314 amount the grantee received from the Title X program in fiscal year 2024-25 and the
+325 amount the grantee receives and accepts in any subsequent fiscal year.
+3 Sec. 4. 22 MRSA §1913 is enacted to read:
+4 §1913. Access to family planning services
+5 1. Access to services. In accordance with this chapter, the department shall provide
+6 funding to maintain statewide access to family planning services. The department shall
+7 issue a request for proposals from qualified providers of family planning services. The
+8 department shall select one provider to provide management and oversight of the delivery
+9 of family planning services in this State, including, but not limited to, the coordination and
+10 management of any grants to subrecipients, and shall distribute funds appropriated for that
+11 purpose.
+12 2. Fund established. The Fund to Maintain Access to Statewide Family Planning
+13 Services, referred to in this section as "the fund," is established as a dedicated, nonlapsing
+14 fund within the department to provide family planning services under this section. The
+15 department may accept funds into the fund from any public or private source for the
+16 purpose of awarding a grant under this section. Any funds appropriated to the fund may
+17 not supplant other sources of funding. It is the intent of the Legislature that, beginning in
+18 fiscal year 2027-28, $5,000,000 in ongoing funding be appropriated from the General Fund
+19 to the fund to be distributed to a single grantee.
+20 3. Grant. The department shall make funds available from the fund in the form of a
+21 grant and may not distribute any funds under a fee-for-service basis.
+22 Sec. 5. 22 MRSA §3196-A is enacted to read:
+23 §3196-A. Services provided by federally unfunded providers
+24 1. Federally unfunded provider; definition. For the purposes of this section,
+25 "federally unfunded provider" means a health care provider:
+26 A. That is licensed, certified or otherwise authorized by state law to deliver health care
+27 services; and
+28 B. That, pursuant to any federal law, the department may not pay using federal funds
+29 provided to carry out the state plan under Title XIX of the United States Social Security
+30 Act, for items or services provided on or after July 1, 2025 pursuant to federal law.
+31 2. State funding for services. Family planning services, as defined by section 1902,
+32 subsection 4, and any other Medicaid-covered items or services lawfully provided to
+33 MaineCare members by a federally unfunded provider during any period for which federal
+34 funds may not be used to pay that provider, including any services provided between July
+35 1, 2025 and the effective date of this section, must be reimbursed with state funds. The
+36 department shall reimburse the federally unfunded provider at no less than the MaineCare
+37 rate established by the department for those services on the date the service was provided.
+38 If any federal funds were used to pay a federally unfunded provider prior to the effective
+39 date of this section, state funds must be used to substitute for any federal funds that the
+40 department is required to reimburse or adjust in its transactions with the United States
+41 Department of Health and Human Services.
+Page 2 - 132LR1127(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 235, L.D. 335
+1 3. Discrimination prohibited. The department may not discriminate against, exclude,
+2 limit the participation of or modify the payment plan of a provider in the MaineCare
+3 program because the provider is a federally unfunded provider for any period of time.
+4 4. Rulemaking. The department shall adopt rules to implement this section. Rules
+5 adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter
+6 375, subchapter 2-A. Rules adopted pursuant to this subsection may be effective
+7 retroactively to July 1, 2025, but any subsequent amendments to these rules may be
+8 retroactive only as permitted by section 42, subsection 8.
+9 Sec. 6. Emergency rulemaking. The Department of Health and Human Services
+10 may adopt rules pursuant to the Maine Revised Statutes, Title 22, section 3196-A,
+11 subsection 4 as emergency rules without making findings as to the existence of any
+12 emergency required by the Maine Revised Statutes, Title 5, section 8054, subsection 2.
+13 Sec. 7. Appropriations and allocations. The following appropriations and
+14 allocations are made.
+15 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+16 Medical Care - Payments to Providers 0147
+17 Initiative: Provides one-time funding to cover MaineCare members who received services
+18 from a prohibited provider under federal Public Law 119-21, Section 71113, with
+19 reimbursement for services provided after July 1, 2025 paid retroactively.
+20 GENERAL FUND 2025-26 2026-27
+21 All Other $0 $2,249,459
+22 __________ __________
+23 GENERAL FUND TOTAL $0 $2,249,459
+2240 '
+25 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+26 number to read consecutively.
+27 SUMMARY
+2288 This amendment replaces the bill, which is a concept draft, and changes the title. The
+2299 amendment, which is the majority report of the committee, does the following.
+30 1. It establishes the Fund to Maintain Access to Statewide Family Planning Services to
+31 provide a grant to a single qualified provider to provide management and oversight of the
+32 delivery of family planning services. It is the intent of the Legislature that, beginning in
+33 fiscal year 2027-28, $5,000,000 be appropriated from the General Fund to the fund each
+34 year.
+35 2. It requires the Department of Health and Human Services to provide funding to
+36 family planning services providers in the State if funding under Title X of the federal Public
+37 Health Service Act has been reduced or eliminated by the Federal Government or the
+38 provider has withdrawn from Title X funding due to the imposition of conditions attached
+39 to the funding.
+40 3. It requires the Department of Health and Human Services to cover family planning
+41 services for MaineCare members who receive services from a provider that is a prohibited
+Page 3 - 132LR1127(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 235, L.D. 335
+412 provider under Section 71113 of federal Public Law 119-21 (2025) and any future similar
+423 federal law. Services provided after July 1, 2025 are reimbursed retroactively.
+434 FISCAL NOTE REQUIRED
+445 (See attached)
+Page 4 - 132LR1127(02)
+COMMITTEE AMENDMENT

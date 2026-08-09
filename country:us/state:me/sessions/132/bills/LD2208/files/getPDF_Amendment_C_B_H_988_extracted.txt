@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-B (H-988)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2208
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1487, L.D. 2208, “An Act to Offset
+10 Federal Cuts to Health Insurance for Certain Maine Families and Seniors”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Offset the Loss of Federal Health Insurance Premium Assistance and to
+13 Provide Ongoing Funding for the Maine Guaranteed Access Reinsurance
+14 Association'
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 22 MRSA §3198 is enacted to read:
+18 §3198. Health Care Premium Stabilization Fund
+19 1. Fund established. The Health Care Premium Stabilization Fund, referred to in this
+20 section as "the fund," is established as a dedicated, nonlapsing fund administered by the
+21 department to maintain coverage for residents of the State through the Maine Health
+22 Insurance Marketplace, established in chapter 1479.
+23 2. Sources of fund. The fund consists of amounts appropriated or allocated by the
+24 State. The department may receive money from any gift, grant, contribution, legislative
+25 appropriation, allocation or transfer or bond proceeds.
+26 3. Uses of fund. The department shall use the fund to establish a state subsidy to offset
+27 the financial impact of the expiration of the enhanced premium tax credits under the
+28 American Rescue Plan Act of 2021, Public Law 117-2. The subsidy must be used to
+29 increase the amount of assistance available to those previously eligible for subsidies under
+30 the federal Affordable Care Act, Public Law 111-148 and to expand assistance to those
+31 with an income at or above 400% of the federal poverty level if the recipient's monthly
+32 premium cost of the second lowest cost silver health plan, as described in the United States
+33 Internal Revenue Code of 1986, Section 36B(b)(3)(B), would, prior to the receipt of a
+34 subsidy under this section, exceed 8.5% of the recipient's monthly household income.
+Page 1 - 132LR2772(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1487, L.D. 2208
+1 4. State subsidy; treatment for tax purposes. The department shall implement this
+2 section in a manner that minimizes the impact of any subsidy on a recipient's income for
+3 federal tax purposes to the greatest extent permissible under federal law and the law of this
+4 State. Notwithstanding any provision of law to the contrary, for Maine income tax
+5 purposes, the amount of any subsidy provided to a recipient may not be considered income.
+6 5. Rulemaking. The department may adopt rules to implement this section. Rules
+7 adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter
+8 375, subchapter 2-A.
+9 Sec. 2. Appropriations and allocations. The following appropriations and
+10 allocations are made.
+11 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+12 Miscellaneous Acts and Resolves - Finance 0306
+13 Initiative: Appropriates ongoing funding to be distributed to the Maine Guaranteed Access
+14 Reinsurance Association to support the reinsurance program.
+15 GENERAL FUND 2025-26 2026-27
+16 All Other $0 $40,000,000
+17 __________ __________
+18 GENERAL FUND TOTAL $0 $40,000,000
+1195
+20 ADMINISTRATIVE AND FINANCIAL
+21 SERVICES, DEPARTMENT OF
+22 DEPARTMENT TOTALS 2025-26 2026-27
+23
+24 GENERAL FUND $0 $40,000,000
+25 __________ __________
+26 DEPARTMENT TOTAL - ALL FUNDS $0 $40,000,000
+2270 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+28 Health Care Premium Stabilization Fund N566
+29 Initiative: Provides one-time funding for the Health Care Premium Stabilization Fund,
+30 including one-time funds for equipment and technology costs. The technology funds will
+31 be used to implement changes in the enrollment and eligibility system for state subsidy
+32 program eligibility determination, as well as changes to premium, coverage and billing
+33 information.
+34 GENERAL FUND 2025-26 2026-27
+35 All Other $0 $17,300,000
+36 Capital Expenditures $0 $8,000,000
+37 __________ __________
+38 GENERAL FUND TOTAL $0 $25,300,000
+3394
+40 HEALTH AND HUMAN SERVICES,
+41 DEPARTMENT OF
+42 DEPARTMENT TOTALS 2025-26 2026-27
+Page 2 - 132LR2772(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1487, L.D. 2208
+1
+2 GENERAL FUND $0 $25,300,000
+3 __________ __________
+4 DEPARTMENT TOTAL - ALL FUNDS $0 $25,300,000
+51
+6 SECTION TOTALS 2025-26 2026-27
+7
+8 GENERAL FUND $0 $65,300,000
+9 __________ __________
+10 SECTION TOTAL - ALL FUNDS $0 $65,300,000
+116 '
+12 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+13 number to read consecutively.
+14 SUMMARY
+1155 This amendment, which is the minority report of the committee, replaces the bill,
+1166 changes the title and does the following.
+17 1. It establishes the Health Care Premium Stabilization Fund to provide $17.3 million
+18 in one-time funding to establish a state subsidy to offset the financial impact of the
+19 expiration of the enhanced premium tax credits under the American Rescue Plan Act of
+20 2021 to those residents of the State who receive health care coverage under the Maine
+21 Health Insurance Marketplace who were previously eligible for subsidies under the federal
+22 Affordable Care Act.
+23 2. It provides ongoing funding of $40 million to the Maine Guaranteed Access
+24 Reinsurance Association to increase the reinsurance program.
+2255 FISCAL NOTE REQUIRED
+2266 (See attached)
+Page 3 - 132LR2772(03)
+COMMITTEE AMENDMENT

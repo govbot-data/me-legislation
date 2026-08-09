@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-921)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2177
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1465, L.D. 2177, “An Act to Update and
+10 Improve the MaineCare Reimbursement System”
+11 Amend the bill in section 1 in subsection 3 by striking out all of paragraph G (page 2,
+12 lines 6 to 8 in L.D.) and inserting the following:
+13 'G. Establish that nursing facility reimbursement will be rebased for rates effective
+14 January 1, 2028, and thereafter rebasing must occur in accordance with section 3173-J.'
+15 Amend the bill in section 3 in §3173-J in subsection 2 in paragraph A in subparagraph
+16 (1) in the first line (page 3, line 25 in L.D.) by inserting after the following: "website" the
+17 following: ', including the date of the most recent rate review and any discussion of issues
+18 related to member access by section of MaineCare policy and a description of how the most
+19 recent rate review and discussion of issues related to member access impacted the proposed
+20 and final rate determination schedule'
+21 Amend the bill in section 3 in §3173-J in subsection 2 in paragraph C in subparagraph
+22 (6) in the 3rd line (page 5, line 5 in L.D.) by striking out the following: ", and" and inserting
+23 the following: ', '
+24 Amend the bill in section 3 in §3173-J in subsection 2 in paragraph C in subparagraph
+25 (6) in the 6th line (page 5, line 8 in L.D.) by striking out the following: "; and" and inserting
+26 the following: '; and'
+27 Amend the bill in section 3 in §3173-J in subsection 2 in paragraph C in subparagraph
+28 (6) in the last line (page 5, line 10 in L.D.) by inserting after the following: "determination;"
+29 the following: 'and report on the overall fiscal cost associated with implementation under
+30 this subparagraph;'
+31 Amend the bill in section 3 in §3173-J in subsection 2 in paragraph D in subparagraph
+32 (3) in the 2nd line (page 5, line 25 in L.D.) by striking out the following: "and subject to
+33 available funds as set forth in subsection 4,"
+34 Amend the bill in section 3 in §3173-J in subsection 2 in paragraph D in subparagraph
+35 (3) by inserting after division (b), subdivision (ii) the following:
+Page 1 - 132LR2803(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1465, L.D. 2177
+1 '(c) Publish, by January 1st, on the department's publicly accessible website,
+2 based on available data, the estimated cost of the cost-of-living adjustments to
+3 be applied in the subsequent fiscal year.'
+4 Amend the bill in section 3 in §3173-J in subsection 3 in the 2nd blocked paragraph in
+5 the 4th line (page 6, line 43 in L.D.) by striking out the following: "subsection 1" and
+6 inserting the following: 'subsection 2-A'
+7 Amend the bill in section 3 in §3173-J in subsection 4 by striking out all of the first
+8 blocked paragraph (page 7, lines 10 to 13 in L.D.).
+9 Amend the bill in section 3 in §3173-J in subsection 4 by striking out all of the 2nd
+10 blocked paragraph (page 7, lines 14 to 17 in L.D.).
+11 Amend the bill in section 3 in §3173-J in subsection 4 by striking out all of paragraph
+12 A (page 7, lines 18 to 20 in L.D.).
+13 Amend the bill in section 3 in §3173-J in subsection 4 by striking out all of paragraph
+14 B (page 7, lines 21 and 22 in L.D.).
+15 Amend the bill in section 3 in §3173-J in subsection 7 in the 3rd line (page 8, line 33
+16 in L.D.) by striking out the following: "must may" and inserting the following: 'must'
+17 Amend the bill in section 3 in §3173-J in subsection 7 in the 4th line (page 8, line 34
+18 in L.D.) by striking out the following: ", as applicable"
+19 Amend the bill in section 3 in §3173-J in subsection 7 in paragraph D in the first line
+20 (page 8, line 40 in L.D.) by striking out the following: "base" and inserting the following:
+21 'base'
+22 Amend the bill in section 3 in §3173-J in subsection 7 in the first blocked paragraph in
+23 the last line (page 9, line 7 in L.D.) by striking out the following: "reimbursement"
+24 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+25 number to read consecutively.
+26 SUMMARY
+2277 This amendment does the following.
+28 1. It removes references in the requirement to increase reimbursement rates, to apply
+29 cost-of-living increases or in response to a rate review, to the requirement's being subject
+30 to available funds.
+31 2. It requires the Department of Health and Human Services, when developing the
+32 annual schedule of rate determination, to include the date of the most recent rate review
+33 and any discussion of issues related to MaineCare member access.
+34 3. It corrects the cross-reference for rules that are adopted by reference.
+35 4. It removes the changes in the bill to the index of MaineCare rates by service code
+36 that is maintained on the department's publicly accessible website.
+Page 2 - 132LR2803(02)
+COMMITTEE AMENDMENT

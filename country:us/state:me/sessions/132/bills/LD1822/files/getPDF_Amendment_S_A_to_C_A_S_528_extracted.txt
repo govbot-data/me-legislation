@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-A to C-A (S-528)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1822
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1220,
+9 L.D. 1822, “An Act to Enact the Maine Online Data Privacy Act”
+10 Amend the amendment by inserting after the first instructional paragraph the
+11 following:
+12 'Amend the bill in section 1 in c. 1057 in §9602 in subsection 6 in the last line (page 1,
+13 line 35 in L.D.) by striking out the following: "data" and inserting the following: 'data,
+14 except that "collect" does not include such activities between a controller and a processor
+15 or between a processor and its subcontractors' '
+16 Amend the amendment on page 2 by striking out all of the 2nd instructional paragraph
+17 (page 2, lines 4 to 6 in amendment) and inserting the following:
+18 'Amend the bill in section 1 in c. 1057 in §9602 in subsection 28 in the first line (page
+19 4, line 19 in L.D.) by inserting after the following: "that" the following: 'collects or' '
+20 Amend the amendment on page 2 in subsection 31 in paragraph B in subparagraph (3)
+21 in the last line (page 2, line 19 in amendment) by inserting after the following: "consumer;"
+22 the following: 'or'
+23 Amend the amendment on page 2 in subsection 31 in paragraph B by striking out all
+24 of subparagraphs (4) to (6).
+25 Amend the amendment on page 2 in subsection 31 in paragraph B by renumbering the
+26 subparagraphs to read consecutively.
+27 Amend the amendment on page 3 by striking out the 3rd instructional paragraph (page
+28 3, lines 9 to 11 in amendment) and inserting the following:
+29 'Amend the bill in section 1 in c. 1057 in §9603 in subsection 1 in the first line (page
+30 6, line 28 in L.D.) by striking out the following: "July 1, 2026" and inserting the following:
+31 'September 1, 2027' '
+32 Amend the amendment on page 3 by inserting after the 3rd instructional paragraph the
+33 following:
+34 'Amend the bill in section 1 in c. 1057 in §9604 in subsection 1 in paragraph G in the
+35 last line (page 7, line 19 in L.D.) by striking out the following: "or"
+Page 1 - 132LR0014(09)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1220, L.D. 1822
+1 Amend the bill in section 1 in c. 1057 in §9604 in subsection 1 in paragraph H in the
+2 last line (page 7, line 22 in L.D.) by striking out the following: "service." and inserting the
+3 following: 'service; or'
+4 Amend the bill in section 1 in c. 1057 in §9604 in subsection 1 by inserting after
+5 paragraph H the following:
+6 'I. A political organization, defined as a party, committee, association, fund or other
+7 organization, whether or not incorporated, that is organized and operated primarily for
+8 the purpose of influencing or attempting to influence the selection, nomination,
+9 election or appointment of any individual to any federal, state or local public office or
+10 office in a political organization or the election of a presidential or vice-presidential
+11 elector, whether or not the individual or elector is selected, nominated, elected or
+12 appointed.' '
+13 Amend the amendment on page 5 in paragraph C in subparagraph (2) in the first line
+14 (page 5, line 39 in amendment) by striking out the following: "2026" and inserting the
+15 following: '2027'
+16 Amend the amendment on page 6 by inserting after the first instructional paragraph the
+17 following:
+18 'Amend the bill in section 1 in c. 1057 in §9609 in subsection 1 in the first line (page
+19 15, line 18 in L.D.) by inserting after the following: "to" the following: 'collect or' '
+20 Amend the amendment on page 7 in subsection 8 in the last line (page 7, line 36 in
+21 amendment) by striking out the following: "2026" and inserting the following: '2027'
+22 Amend the amendment on page 9 by inserting after subsection 8 the following:
+23 'Amend the bill in section 1 in c. 1057 in §9614 in subsection 2 in the 3rd line (page
+24 21, line 32 in L.D.) by striking out the following: "2027" and inserting the following: '2028'
+25 '
+26 Amend the amendment on page 9 in §9615 in the first indented paragraph in the first
+27 line (page 9, line 9 in amendment) by striking out the following: "February 1, 2027 and
+28 annually thereafter" and inserting the following: 'January 5th annually'
+29 Amend the amendment on pages 9 and 10 by striking out all of sections 2 and 3 and
+30 inserting the following:
+31 'Sec. 2. Report by Attorney General in 2028. Notwithstanding the Maine Revised
+32 Statutes, Title 10, section 9614, the Attorney General shall submit the first report required
+33 by Title 10, section 9614 no later than February 1, 2028.
+34 Sec. 3. Appropriations and allocations. The following appropriations and
+35 allocations are made.
+36 ATTORNEY GENERAL, DEPARTMENT OF THE
+37 Administration - Attorney General 0310
+38 Initiative: Provides funding for one Assistant Attorney General position, one Paralegal
+39 position, one Technician position and related costs to administer and enforce the Maine
+40 Online Data Privacy Act.
+41 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+Page 2 - 132LR0014(09)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 1220, L.D. 1822
+1 POSITIONS - LEGISLATIVE COUNT 0.000 3.000
+2 Personal Services $0 $420,508
+3 All Other $0 $20,000
+4 __________ __________
+5 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $440,508
+61 Sec. 4. Effective date. That section of this Act that enacts the Maine Revised
+72 Statutes, Title 10, chapter 1057 takes effect September 1, 2027.'
+8 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+9 section number to read consecutively.
+10 SUMMARY
+1111 This amendment amends Committee Amendment "A" to:
+12 1. Exempt from the definition of "collect" activities between a controller and a
+13 processor and between a processor and its subcontractors;
+14 2. Remove from the definition of "process" the exclusion of the collection of personal
+15 data;
+16 3. Add to the definition of "processor" the collection of personal data;
+17 4. Remove from the definition of "publicly available information" the exclusion of
+18 information used to create a consumer profile that is publicly available, information
+19 available for sale and inferences related to such information;
+20 5. Add as an exempt entity a political organization;
+21 6. Delay the effective date of the Maine Online Data Privacy Act from September 1,
+22 2026, as proposed in Committee Amendment "A," to September 1, 2027 and make other
+23 date changes to accommodate that delay, including:
+24 A. The date by which a consumer must be allowed to opt out of the collection or
+25 processing of data, September 1, 2027;
+26 B. The cutoff date for a violation that the controller or processor may cure without
+27 enforcement by the Attorney General, April 1, 2028; and
+28 C. The date the Attorney General is first required to submit a report to the joint standing
+29 committee of the Legislature having jurisdiction over judiciary matters, February 1,
+30 2028. Subsequent reports are due annually by January 5th; and
+31 7. Replace the appropriation and allocation section in Committee Amendment "A" to
+32 change the source of the funding.
+3333 SPONSORED BY: ___________________________________
+3344 (Senator CARNEY, A.)
+3355 COUNTY: Cumberland
+Page 3 - 132LR0014(09)
+SENATE AMENDMENT

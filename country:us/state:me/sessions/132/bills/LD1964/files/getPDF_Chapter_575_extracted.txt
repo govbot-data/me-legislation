@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 575
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 19, 2026 575
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 771 - L.D. 1964
+An Act to Establish Additional Requirements Related to the Sale or Lease of
+Net Energy Billing Interests and Solar Energy Equipment
+Emergency preamble. Whereas, acts and resolves of the Legislature do not
+become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, the Office of the Public Advocate receives inquiries nearly every day from
+Maine consumers who are struggling to understand who their solar provider is or how to
+contact their provider with questions about their account; and
+Whereas, the sale or lease of solar energy equipment involves significant consumer
+investment and long-term contracts, which may be complex; and
+Whereas, recent federal tax changes may increase the likelihood of door-to-door
+solicitations for the lease of solar energy equipment, and this legislation must take effect
+as soon as possible to clarify and improve upon existing consumer protection laws; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within
+the meaning of the Constitution of Maine and require the following legislation as
+immediately necessary for the preservation of the public peace, health and safety; now,
+therefore,
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 10 MRSA §1250-M is enacted to read:
+§1250-M. False representation in sale of electricity product
+1. Definitions. As used in this section, unless the context otherwise indicates, the
+following terms have the following meanings.
+A. "Competitive electricity provider" has the same meaning as in Title 35-A, section
+3201, subsection 5.
+B. "Distributed generation resource" has the same meaning as in Title 35-A, section
+3481, subsection 5.
+C. "Electricity product" means a distributed generation resource, energy supply by a
+competitive electricity provider or a similar resource. "Electricity product" does not
+Page 1 - 132LR1248(05)
+
+include an electrical appliance, machinery or equipment or building efficiency services
+or products.
+D. "Electric utility" means a transmission and distribution utility as defined in Title
+35-A, section 102, subsection 20-B.
+2. False representation in sale of electricity product. A person may not falsely
+represent the person as a representative of, as an affiliate of or as being in any way affiliated
+with an electric utility or as a representative of, as an official of or acting in an official
+capacity on behalf of a governmental agency or program, unless expressly permitted by the
+electric utility or governmental agency or program, when selling, offering to sell, leasing,
+installing or entering into any other financial arrangement regarding an electricity product.
+3. Unfair trade practice. A violation of this section constitutes a violation of the
+Maine Unfair Trade Practices Act.
+Sec. 2. 32 MRSA §4661, sub-§2, as enacted by PL 1969, c. 395, is amended to
+read:
+2. Merchandise. "Merchandise" includes any objects, wares, goods, commodities,
+intangibles or services. "Merchandise" also includes a contract for a shared financial
+interest in a distributed generation resource that has a net energy billing arrangement in
+accordance with Title 35-A, section 3209-A or 3209-B and solar energy equipment as
+defined in Title 35-A, section 3218, subsection 1.
+Sec. 3. 32 MRSA §14701, sub-§4, as amended by PL 2005, c. 347, Pt. E, §1, is
+further amended to read:
+4. Merchandise. "Merchandise" includes any objects, wares, goods, promises,
+commodities, intangibles, services or other things of value but does not include food or
+technical or vocational schools located outside of the State that are registered pursuant to
+Title 20‑A, section 9501. "Merchandise" also includes a contract for a shared financial
+interest in a distributed generation resource that has a net energy billing arrangement in
+accordance with Title 35-A, section 3209-A or 3209-B and solar energy equipment as
+defined in Title 35-A, section 3218, subsection 1. "Merchandise" does not include
+securities that are registered or exempt from registration pursuant to chapter 135, the Maine
+Uniform Securities Act and rules adopted pursuant to that Act or insurance products that
+are regulated under Title 24‑A.
+Sec. 4. 35-A MRSA §3209-A, sub-§5, ¶G-1 is enacted to read:
+G-1. As applicable, must comply with the requirements of Title 32, chapter 69,
+subchapter 5 and Title 32, chapter 128, subchapter 2;
+Sec. 5. 35-A MRSA §3218 is enacted to read:
+§3218. Standard written disclosure for sale or lease of solar energy equipment
+1. Definition. For the purposes of this section, "solar energy equipment" means all
+controls, tanks, pumps, heat exchangers, collectors and other equipment necessary for the
+collection, transfer and storage of solar energy. "Solar energy equipment" includes
+photovoltaic modules, inverters and racking and electronic control systems. "Solar energy
+equipment" does not include passive solar energy systems or those systems using natural
+Page 2 - 132LR1248(05)
+
+means to collect, store and transfer solar energy or equipment owned by a transmission and
+distribution utility.
+2. Standard written disclosure. Beginning June 1, 2026, a person that sells or leases
+solar energy equipment that is installed on the customer side of the meter shall, prior to a
+sale or lease, provide to the customer a completed standard written disclosure. The
+completed standard written disclosure must be provided to the customer in a form that the
+customer may keep. The completed disclosures may be provided to the customer in
+electronic form, subject to compliance with the consumer consent and other applicable
+provisions of federal law, including, but not limited to, the federal Electronic Signatures in
+Global and National Commerce Act, 15 United States Code, Chapter 96, as amended. The
+standard written disclosure must include the following:
+A. The name of the seller or lessor and contact information of the seller or lessor or a
+representative of the seller or lessor;
+B. The name of the primary installer and contact information of the primary installer;
+C. A plain language summary of design, cost and warranty information, including the
+average cost of system interconnection by project size based on the previous calendar
+year's range of interconnection costs as published annually by the interconnection
+ombudsman appointed pursuant to section 107, subsection 1 on the commission's
+publicly accessible website pursuant to subsection 4;
+D. A checklist of the responsibilities of the seller or lessor, primary installer, customer
+and transmission and distribution utility related to the transaction;
+E. A description of any dispute resolution mechanisms, including information relating
+to the interconnection ombudsman under section 3474, subsection 4, available to the
+seller or lessor, primary installer, customer and transmission and distribution utility;
+F. Clearly described terms and conditions of any financial agreement or contract
+associated with the sale or lease of solar energy equipment, including information
+about contract termination and a description of the parties' obligations under the
+contract if the customer moves or if the replacement or repair of the customer's roof is
+required; and
+G. Signature lines for the seller or lessor and customer to attest that the seller or lessor
+provided, and the customer received, the standard written disclosure prior to the sale
+or lease of the solar energy equipment.
+3. Violation. A violation of subsection 2 is a violation of the Maine Unfair Trade
+Practices Act.
+4. Interconnection costs; reporting. By March 1, 2026, and annually thereafter, each
+large, investor-owned transmission and distribution utility shall provide the interconnection
+ombudsman appointed pursuant to section 107, subsection 1 with the average
+interconnection costs for the previous calendar year by project size. By May 1, 2026, and
+annually thereafter, the interconnection ombudsman shall publish on the commission's
+publicly accessible website the average interconnection costs by project size along with
+disclaimer language regarding the range and factors associated with the cost of
+interconnection pursuant to subsection 2, paragraph C.
+Page 3 - 132LR1248(05)
+
+Sec. 6. Department of Energy Resources; model forms. By June 1, 2026, the
+Department of Energy Resources shall develop 2 model standard written disclosure forms
+for the sale and for the lease of solar energy equipment described in the Maine Revised
+Statutes, Title 35-A, section 3218, informed by stakeholder input. The department shall
+make the disclosure forms available on its publicly accessible website.
+Emergency clause. In view of the emergency cited in the preamble, this legislation
+takes effect when approved.
+Page 4 - 132LR1248(05)

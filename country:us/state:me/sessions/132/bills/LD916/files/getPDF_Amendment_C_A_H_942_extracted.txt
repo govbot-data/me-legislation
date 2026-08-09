@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-942)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 916
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 581, L.D. 916, “An Act to Promote
+10 Investment in Housing”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 30-A MRSA §4722, sub-§1, ¶GG, as amended by PL 2021, c. 322, §2, is
+14 further amended by amending subparagraph (3) to read:
+15 (3) Perform other functions and duties necessary for the proper administration of
+16 the credit, including providing any necessary certifications and notices to taxpayers
+17 and to the Department of Administrative and Financial Services, Bureau of
+18 Revenue Services containing information required by the State Tax Assessor
+19 necessary for determining eligibility and the amount of the credit for each taxable
+20 year; and.
+21 Sec. 2. 30-A MRSA §4722, sub-§1, ¶GG, as amended by PL 2021, c. 322, §2, is
+22 further amended by amending the first blocked paragraph to read:
+23 Rules adopted under this paragraph are routine technical rules.;
+24 Sec. 3. 30-A MRSA §4722, sub-§1, ¶HH, as enacted by PL 2021, c. 322, §3, is
+25 amended to read:
+26 HH. Provide the joint standing committee of the Legislature having jurisdiction over
+27 housing matters copies of any reports required to be submitted to the United States
+28 Department of the Treasury or the Governor regarding the administration of the
+29 emergency rental assistance programs established by Section 501 of Division N of the
+30 federal Consolidated Appropriations Act, 2021 and Section 3201(a) of the federal
+31 American Rescue Plan Act of 2021. Copies of any reports required to be submitted to
+32 the United States Department of the Treasury or the Governor must be submitted to the
+33 joint standing committee of the Legislature having jurisdiction over housing matters
+34 no later than 7 days after the reports are submitted to the United States Department of
+35 the Treasury or the Governor. If no such reports are required to be submitted to the
+Page 1 - 132LR2227(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 581, L.D. 916
+316 United States Department of the Treasury or the Governor, the Maine State Housing
+327 Authority shall submit, beginning January 15, 2022 and annually thereafter, to the joint
+338 standing committee of the Legislature having jurisdiction over housing matters a report
+349 on any rental assistance distributed by the Maine State Housing Authority.; and
+5 Sec. 4. 30-A MRSA §4722, sub-§1, ¶II is enacted to read:
+6 II. Administer the Middle-income Housing Support Program and Middle-income
+7 Housing Support Fund established in subchapter 10-B.
+8 Sec. 5. 30-A MRSA c. 201, sub-c. 10-B is enacted to read:
+9 SUBCHAPTER 10-B
+10 MIDDLE-INCOME HOUSING SUPPORT PROGRAM
+11 §4946. Middle-income Housing Support Program
+12 1. Definitions. For the purposes of this section, unless the context otherwise indicates,
+13 the following terms have the following meanings.
+14 A. "Authority" means the Maine State Housing Authority.
+15 B. "Fund" means the Middle-income Housing Support Fund established in subsection
+16 3.
+17 C. "Middle income" means income of an individual or household that does not exceed
+18 200% of the area median income, as defined by the United States Department of
+19 Housing and Urban Development, for the area in which the individual or household is
+20 located as published by the United States Department of Housing and Urban
+21 Development.
+22 D. "Program" means the Middle-income Housing Support Program established in
+23 subsection 2.
+24 2. Middle-income Housing Support Program established. The Middle-income
+25 Housing Support Program is established within and administered by the authority.
+26 3. Middle-income Housing Support Fund established. The Middle-income
+27 Housing Support Fund is established within and administered by the authority as a
+28 revolving, nonlapsing fund. The fund may receive money from any available state, federal
+29 or private source.
+30 4. Purpose of program and fund. The authority shall administer the program and
+31 the fund to provide financial assistance in the form of loans or grants to cover the capital
+32 costs to construct new dwelling units or rehabilitate existing dwelling units that will provide
+33 to middle-income individuals and households who meet the criteria described in paragraphs
+34 A and B the following:
+35 A. Rental housing for individuals and households whose incomes are at or below 120%
+36 of the area median income based on income limits published by the United States
+37 Department of Housing and Urban Development; and
+Page 2 - 132LR2227(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 581, L.D. 916
+1 B. Homeownership options for individuals and households whose incomes are at or
+2 below 180% of the area median income based on income limits published by the United
+3 States Department of Housing and Urban Development.
+4 5. Revolving loan fund; sliding scale. Whenever possible, the authority shall provide
+5 financial assistance in the form of short-term loans to establish and maintain the fund as a
+6 revolving loan fund. The authority shall develop a sliding scale of financial assistance
+7 available per dwelling unit based on the income level of the intended occupant of the
+8 dwelling unit.
+9 6. Reporting. By January 15th of each year, beginning in 2027, the authority shall
+10 submit a report to the joint standing committee of the Legislature having jurisdiction over
+11 housing matters. The report must include details on program activity during the preceding
+12 year and the use of funds received pursuant to subsection 3. The committee may report out
+13 legislation in response to the report to any session in the year the report was due.
+14 7. Guidance; rules. The authority shall develop written guidance and may adopt rules
+15 to implement the program and the fund. Rules adopted pursuant to this subsection are
+16 routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+17 Sec. 6. Appropriations and allocations. The following appropriations and
+18 allocations are made.
+19 HOUSING AUTHORITY, MAINE STATE
+20 Middle-income Housing Support Fund N572
+21 Initiative: Establishes base allocations to authorize expenditures of funds received from
+22 public or private sources.
+23 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+24 All Other $0 $500
+25 __________ __________
+26 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $500
+2273 '
+28 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+29 number to read consecutively.
+30 SUMMARY
+3311 This amendment replaces the bill, which is a concept draft. It establishes the Middle-
+3322 income Housing Support Program and Middle-income Housing Support Fund in the Maine
+3333 State Housing Authority. The program and fund provide loans or grants to cover the capital
+3344 costs to construct new dwelling units or rehabilitate existing dwelling units for rent by
+3355 individuals and households whose incomes are at or below 120% of the area median income
+3366 based on income limits published by the United States Department of Housing and Urban
+3377 Development and for homeownership by individuals and households whose incomes are at
+3388 or below 180% of the area median income.
+3399 FISCAL NOTE REQUIRED
+4400 (See attached)
+Page 3 - 132LR2227(02)
+COMMITTEE AMENDMENT

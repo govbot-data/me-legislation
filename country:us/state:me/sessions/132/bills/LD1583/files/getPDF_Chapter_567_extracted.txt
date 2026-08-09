@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 567
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 19, 2026 567
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1041 - L.D. 1583
+An Act Regarding Home Health Care Services Ordered by a Physician
+Licensed Outside of Maine
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA §2145-A is enacted to read:
+§2145-A. Home health care services ordered by physician licensed in another state
+1. Requirements; home health care provider. A home health care provider that is
+licensed pursuant to this chapter and certified by the United States Department of Health
+and Human Services, Centers for Medicare and Medicaid Services as a home health agency
+may provide home health care services for up to 90 days to a patient who resides in this
+State based on an order from a physician who is licensed in another state as long as the
+following requirements are met:
+A. The physician holds a license in good standing conferred by the appropriate medical
+board in the physician’s jurisdiction of practice. The home health care provider must
+verify that the physician’s license is in good standing, and the verification must be
+maintained on file for review by the department;
+B. The physician issued the order pursuant to an in-person physical examination of the
+patient performed in the state where the physician is licensed. Home health care
+services ordered by the physician are limited to the medical purpose and clinical scope
+from the results of the in-person physical examination; and
+C. The physician and home health care provider comply with standards established in
+rules adopted by the department pursuant to subsection 5 and comply with regulations
+adopted by the United States Department of Health and Human Services, Centers for
+Medicare and Medicaid Services under conditions of participation for home health
+agencies pursuant to 42 Code of Federal Regulations, Part 484.
+2. Exemption from medical license in this State. A physician who is licensed in
+another state and who issues an order for home health care services in accordance with this
+section is exempt from the requirement of licensure by the Board of Licensure in Medicine
+in Title 32, chapter 48 or the Board of Osteopathic Licensure in Title 32, chapter 36 solely
+Page 1 - 132LR0566(03)
+
+for the purpose of ordering home health care services for a patient, as long as the following
+requirements are met:
+A. The order for the provision of home health care services is for up to 90 days;
+B. The physician provides telehealth services only to the patient for which the order
+has been issued;
+C. The physician orders home health care services from a home health care provider
+that is certified by the United States Department of Health and Human Services,
+Centers for Medicare and Medicaid Services as a home health agency; and
+D. The physician only orders home health care services while the patient is receiving
+home health care services.
+3. Violation. If, during the department’s home health care services licensing process
+or during the United States Department of Health and Human Services, Centers for
+Medicare and Medicaid Services survey and certification process, a physician is found to
+be acting in violation of this section, the department shall, in consultation with the Board
+of Licensure in Medicine under Title 32, chapter 48 or the Board of Osteopathic Licensure
+under Title 32, chapter 36, determine if the physician may no longer be exempt from
+licensure in this State under subsection 2.
+4. Limitation on physician providing telehealth services or in-person medical
+care. A physician acting under subsection 2 is not authorized to provide telehealth services
+or in-person medical care to any patient in this State except as expressly outlined in this
+section.
+5. Rulemaking. The department may adopt rules to implement this section. Rules
+adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter
+375, subchapter 2-A.
+Page 2 - 132LR0566(03)

@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 599
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 599
+MARCH 31, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1261 - L.D. 1890
+An Act to Facilitate the Development of Ambulatory Surgical Facilities by
+Increasing the Monetary Threshold for Certain Facilities Under the
+Requirement to Obtain a Certificate of Need and to Index the Threshold
+Annually Thereafter
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 22 MRSA §329, sub-§4-A, ¶B, as enacted by PL 2011, c. 424, Pt. A, §5
+and affected by Pt. E, §1, is amended by amending subparagraph (1) to read:
+(1) If it requires a capital expenditure of more than $3,000,000 $7,500,000.
+Beginning January 1, 2027 and annually thereafter, the threshold amount for
+review must be updated by the commissioner to reflect the change in the United
+States Department of Labor, Bureau of Labor Statistics Consumer Price Index
+medical care services index, with an effective date of January 1st each year; or
+Page 1 - 132LR2124(04)

@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 686
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 686
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1348 - L.D. 2018
+An Act to Amend the Requirements Governing Self-insurance Plans in the
+Paid Family and Medical Leave Benefits Program
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 26 MRSA §850-H, sub-§2, ¶A, as enacted by PL 2023, c. 412, Pt. AAA,
+§7, is repealed and the following enacted in its place:
+A. If the private plan is in the form of self-insurance:
+(1) The employer must furnish a bond to the State with a surety company
+authorized to transact business in the State, in the form, amount and manner
+required by the department;
+(2) The department may not allow the pooling of risk among multiple employers;
+and
+(3) The department shall allow multiple employers to share the cost of legal,
+accounting and 3rd-party administrator expenses as long as the arrangements do
+not result in pooling of risk;
+Sec. 2. 26 MRSA §850-H, sub-§3, ¶E, as enacted by PL 2023, c. 412, Pt. AAA,
+§7, is amended to read:
+E. Failure to submit reports or comply with other requirements as required by the
+commissioner by rule; or
+Sec. 3. 26 MRSA §850-H, sub-§3, ¶F, as enacted by PL 2023, c. 412, Pt. AAA,
+§7, is amended to read:
+F. Failure to comply with this subchapter or the rules adopted pursuant to this
+subchapter.; or
+Sec. 4. 26 MRSA §850-H, sub-§3, ¶G is enacted to read:
+G. In the case of a private plan in the form of self-insurance, the pooling of risk among
+multiple employers.
+Sec. 5. Retroactivity. Notwithstanding the Maine Revised Statutes, Title 1, section
+302, this Act applies retroactively to April 1, 2025.
+Page 1 - 132LR2791(04)

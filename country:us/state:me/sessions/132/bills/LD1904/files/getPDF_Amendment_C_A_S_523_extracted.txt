@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-523)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1904
+2 Date: (Filing No. S- )
+3 ENVIRONMENT AND NATURAL RESOURCES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 745, L.D. 1904, “An Act to Establish the
+10 Municipal Shoreline Protection Legal Fund”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 38 MRSA §450 is enacted to read:
+14 §450. Municipal Shoreline Protection Legal Fund
+15 1. Fund established. The Municipal Shoreline Protection Legal Fund, referred to in
+16 this section as "the fund," is established within the department to provide financial
+17 assistance to municipalities that have incurred or expect to incur legal costs in pursuing
+18 shoreland zoning violations. The fund consists of money received from any public or
+19 private source, including, but not limited to, any monetary penalties deposited in the fund
+20 in accordance with section 480-R, subsection 1. The fund must be held separate and apart
+21 from all other money, funds and accounts. Interest earned by the fund must be credited to
+22 the fund. Any unexpended balances remaining in the fund at the end of any fiscal year do
+23 not lapse and must be carried forward to the next fiscal year.
+24 2. Administration; use of money in fund. The department shall administer the fund.
+25 In accordance with rules adopted by the department pursuant to subsection 4, the
+26 department shall use money in the fund to provide financial assistance to municipalities
+27 that have incurred or expect to incur legal costs in pursuing shoreland zoning violations.
+28 The department may use money in the fund to cover the department's actual costs incurred
+29 in administering the fund.
+30 3. Reimbursement. In accordance with rules adopted by the department pursuant to
+31 subsection 4, a municipality that receives financial assistance from the fund under
+32 subsection 2 may be required to reimburse the fund following the settlement or final
+33 adjudication of the legal claim for which the financial assistance was received.
+34 4. Rules. The department shall adopt rules necessary for the implementation and
+35 administration of the fund, including, but not limited to, rules establishing standards for the
+36 provision of financial assistance from the fund to a municipality pursuant to subsection 2
+Page 1 - 132LR1507(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 745, L.D. 1904
+317 and rules establishing standards for municipal reimbursement of financial assistance
+328 received from the fund pursuant to subsection 3. Rules adopted pursuant to this subsection
+339 are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+4 Sec. 2. 38 MRSA §480-R, sub-§1, as enacted by PL 1987, c. 809, §2, is amended
+5 by enacting at the end a new first blocked paragraph to read:
+6 Notwithstanding any provision of law to the contrary, of the total penalties paid by all
+7 persons found to have violated this article in any fiscal year, the commissioner shall ensure
+8 that $100,000 of that amount, or the total amount of penalties paid in the fiscal year if that
+9 amount is less than $100,000, is deposited in the Municipal Shoreline Protection Legal
+10 Fund established in section 450.
+11 Sec. 3. Transfer from General Fund unappropriated surplus; Department
+12 of Environmental Protection, Municipal Shoreline Protection Legal Fund. On
+13 or before September 1, 2026, the State Controller shall transfer $100,000 from the
+14 unappropriated surplus of the General Fund to the Department of Environmental
+15 Protection, Municipal Shoreline Protection Legal Fund, Other Special Revenue Funds
+16 account to provide financial assistance to municipalities that have incurred or expect to
+17 incur legal costs in pursuing shoreland zoning violations in accordance with the provisions
+18 of the Maine Revised Statutes, Title 38, section 450.
+19 Sec. 4. Appropriations and allocations. The following appropriations and
+20 allocations are made.
+21 ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+22 Land Resources Z188
+23 Initiative: Provides funding for one Environmental Specialist III position and associated
+24 All Other costs.
+25 GENERAL FUND 2025-26 2026-27
+26 POSITIONS - LEGISLATIVE COUNT 0.000 1.000
+27 Personal Services $0 $79,114
+28 All Other $0 $22,767
+29 __________ __________
+30 GENERAL FUND TOTAL $0 $101,881
+3215 Municipal Shoreline Protection Legal Fund N528
+32 Initiative: Provides ongoing allocations to allow for the provision of financial assistance to
+33 municipalities that have incurred or expect to incur legal costs in pursuing shoreland zoning
+34 violations in accordance with the Maine Revised Statutes, Title 38, section 450.
+35 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+36 All Other $0 $100,000
+37 __________ __________
+38 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $100,000
+3395
+40 ENVIRONMENTAL PROTECTION,
+41 DEPARTMENT OF
+42 DEPARTMENT TOTALS 2025-26 2026-27
+Page 2 - 132LR1507(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 745, L.D. 1904
+1
+2 GENERAL FUND $0 $101,881
+3 OTHER SPECIAL REVENUE FUNDS $0 $100,000
+4 __________ __________
+5 DEPARTMENT TOTAL - ALL FUNDS $0 $201,881
+61 '
+7 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+8 number to read consecutively.
+9 SUMMARY
+1100 This amendment, which is the majority report of the committee, replaces the bill. It
+1111 establishes the Municipal Shoreline Protection Legal Fund within the Department of
+1122 Environmental Protection to provide financial assistance to municipalities that have
+1133 incurred or expect to incur legal costs in pursuing shoreland zoning violations. In
+1144 accordance with rules adopted by the department, a municipality that receives financial
+1155 assistance from the fund may be required to reimburse the fund following the settlement or
+1166 final adjudication of the legal claim for which the financial assistance was received.
+17 The amendment also amends the Natural Resources Protection Act to direct that, of the
+18 total penalties paid by all persons found to have violated that Act in any fiscal year, the
+19 Commissioner of Environmental Protection shall ensure that $100,000 of that amount, or
+20 the total amount of penalties paid in the fiscal year if that amount is less than $100,000, is
+21 deposited in the Municipal Shoreline Protection Legal Fund. It also directs the State
+22 Controller, on or before September 1, 2026, to transfer $100,000 from the unappropriated
+23 surplus of the General Fund to the Department of Environmental Protection, Municipal
+24 Shoreline Protection Legal Fund, Other Special Revenue Funds account and provides a
+25 corresponding allocation.
+2266 FISCAL NOTE REQUIRED
+2277 (See attached)
+Page 3 - 132LR1507(02)
+COMMITTEE AMENDMENT

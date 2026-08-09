@@ -1,0 +1,227 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-624)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 378
+2 Date: (Filing No. S- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 135, L.D. 378, “An Act to Strengthen
+10 the Health Care System in Maine”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Clarify That Health Insurers Must Comply with Plan Sponsors' Statutory
+13 Rights to Audit Claims and Data Requests Related to Those Audits'
+14 Amend the bill by inserting after the title and before the enacting clause the following:
+15 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+16 become effective until 90 days after adjournment unless enacted as emergencies; and
+17 Whereas, current law requires 3rd-party administrators of health plans to grant plan
+18 sponsors certain audit rights and to provide the requisite medical and pharmacy data to
+19 conduct those audits; and
+20 Whereas, this legislation clarifies that law to ensure that health insurers administering
+21 health plans on behalf of plan sponsors are considered administrators and must comply
+22 with a plan sponsor's statutory right to audit claims and data requests related to those audits;
+23 and
+24 Whereas, this legislation needs to take effect without delay so that plan sponsors can
+25 include these audit rights in contracts with administrators that are being renewed, amended
+26 or entered into prior to the 2027 plan year; and
+27 Whereas, in the judgment of the Legislature, these facts create an emergency within
+28 the meaning of the Constitution of Maine and require the following legislation as
+29 immediately necessary for the preservation of the public peace, health and safety; now,
+30 therefore,'
+31 Amend the bill by striking out everything after the enacting clause and inserting the
+32 following:
+33 'Sec. 1. 24-A MRSA §1914, sub-§2, as enacted by PL 2025, c. 487, §1, is amended
+34 to read:
+Page 1 - 132LR0726(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 135, L.D. 378
+1 2. Claims data; right to audit. An administrator that contracts with a plan sponsor
+2 to provide health coverage shall permit a plan sponsor to perform a post-payment audit of
+3 all claims paid to ensure compliance with the contract at least once in a calendar year as
+4 long as the request is not earlier than 6 months following a previously requested audit.
+5 Upon request of a plan sponsor as part of an audit, an administrator shall disclose within
+6 30 business days to a plan sponsor that has certified its compliance with the use and
+7 disclosure requirements of 45 Code of Federal Regulations, Section 164.504(f) or, to the
+8 extent permitted by law and if requested by the plan sponsor, to the plan sponsor's plan's
+9 designated business associate the following information specific to the plan sponsor
+10 sponsor's plans:
+11 A. Claims data received by the administrator via electronic claims transactions on any
+12 current standardized claim form approved by the Federal Government for professional
+13 services or institutional services. The form or transaction may be modified only as
+14 necessary to comply with the federal Health Insurance Portability and Accountability
+15 Act of 1996, Public Law 104-191;
+16 B. Claims payments, electronic funds transfers or remittance advice notices provided
+17 by the administrator as electronic files compliant with the federal Health Insurance
+18 Portability and Accountability Act of 1996, Public Law 104-191, including, but not
+19 limited to, electronic claims transactions for both the billed amount and the paid
+20 amount for professional services and both the billed amount and the paid amount for
+21 institutional services. The files may be modified only as necessary to comply with the
+22 federal Health Insurance Portability and Accountability Act of 1996, Public Law
+23 104‑191, and the federal Health Information Technology for Economic and Clinical
+24 Health Act of 2009, Title XIII, Subtitle D, Public Law 111-5, and any regulations
+25 promulgated under those laws;
+26 C. Any fees charged to the plan sponsor related to plan administration and claims
+27 processing, including renegotiation fees, access fees, repricing fees or enhanced review
+28 fees; and
+29 D. Any out-of-network fees or out-of-network negotiated discounts, aligned incentive
+30 program fees, pay-for-performance payments and recoveries, cost-containment
+31 program fees, overpayment recovery program fees, subrogation fees and any other
+32 special program fees and discounts.
+33 Sec. 2. 24-A MRSA §1914, sub-§4, as enacted by PL 2025, c. 487, §1, is amended
+34 to read:
+35 4. Nondisclosure and data use agreement. An administrator may require that the
+36 plan sponsor and the plan sponsor's designated business associate execute a nondisclosure
+37 and data use agreement that protects the confidentiality of the administrator's trade secrets,
+38 proprietary information or information otherwise confidential by law, rule or regulation
+39 before data is provided in accordance with this section and that reasonably restricts the
+40 auditor's use of such data provided by the administrator to the sole purpose of conducting
+41 an audit on behalf of a plan sponsor. The coverage limits of any cybersecurity insurance or
+42 liability insurance policy required under the nondisclosure and data use agreement may not
+43 exceed the administrator's limit of liability under the services agreement between the plan
+44 sponsor and the administrator, if such limit applies. Except for the coverage limits of any
+45 cybersecurity insurance or liability insurance policy, this subsection is not intended to limit
+Page 2 - 132LR0726(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 135, L.D. 378
+416 the inclusion in a nondisclosure and data use agreement of reasonable requirements
+427 regarding notice, indemnification or liability for the unauthorized disclosure or security
+438 breach of data in the possession of the plan sponsor or its designated business associate
+449 pursuant to this section. In addition, an administrator is not required to provide data to an
+550 auditor selected by a plan sponsor if the auditor has previously breached a nondisclosure
+561 and data use agreement with that administrator or refuses to execute a nondisclosure and
+572 data use agreement.
+8 Sec. 3. 24-A MRSA §1914, sub-§4-A is enacted to read:
+9 4-A. Liability for disclosure of protected information. A plan sponsor or a plan
+10 sponsor's designated business associate who receives information from an administrator
+11 pursuant to this section shall notify the administrator of any unauthorized disclosure or
+12 security breach of the following information in the possession of the plan sponsor or its
+13 designated business associate immediately upon discovery of the unauthorized disclosure
+14 or security breach of:
+15 A. Personal information as defined in Title 10, section 1347, subsection 6;
+16 B. Protected health information in violation of any applicable requirements of the
+17 federal Health Insurance Portability and Accountability Act of 1996, Public Law
+18 104-191, and any regulations promulgated under that law;
+19 C. Electronic protected health information as defined in the federal Health Information
+20 Technology for Economic and Clinical Health Act of 2009, Title XIII, Subtitle D,
+21 Public Law 111-5, and any regulations promulgated under that law; or
+22 D. Nonpublic information as defined in section 2263, subsection 10.
+23 Sec. 4. 24-A MRSA §1914, sub-§5-A is enacted to read:
+24 5-A. Certain persons acting as administrators included. Notwithstanding section
+25 1901, subsection 1, paragraphs D and E, for the purposes of this section, an administrator
+26 subject to the requirements of this section includes any person who, on behalf of a plan
+27 sponsor, receives or collects charges, contributions or premiums for or adjusts or settles
+28 claims on residents of this State in connection with any type of health benefit.
+29 Sec. 5. 24-A MRSA §4347, sub-§1-A is enacted to read:
+30 1-A. Administrator. "Administrator" includes, notwithstanding section 1901,
+31 subsection 1, paragraphs D and E, any person who, on behalf of a plan sponsor, receives or
+32 collects charges, contributions or premiums for or adjusts or settles claims on residents of
+33 this State in connection with any type of health benefit.
+34 Sec. 6. 24-A MRSA §4347, sub-§18-A, as enacted by PL 2025, c. 487, §2, is
+35 amended to read:
+36 18-A. Plan sponsor. "Plan sponsor" has the same meaning as in section 1901,
+37 subsection 8, except that "plan sponsor" does not include an employer a person that offers
+38 or provides a health plan benefit that is fully insured by an insurer authorized to do transact
+39 insurance business in this State.
+40 Sec. 7. 24-A MRSA §4349-B, sub-§2, as enacted by PL 2025, c. 487, §3 and
+41 reallocated by RR 2025, c. 1, Pt. A, §34, is amended to read:
+Page 3 - 132LR0726(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 135, L.D. 378
+1 2. Claims data; right to audit. Notwithstanding section 4350‑C, a pharmacy benefits
+2 manager that contracts with a plan sponsor to provide prescription drug coverage shall
+3 permit a plan sponsor to perform a post-payment audit of claims paid to ensure compliance
+4 with the contract at least once in a calendar year as long as the request is not earlier than 6
+5 months following a previously requested audit. Upon request of a plan sponsor as part of
+6 an audit, a pharmacy benefits manager shall disclose within 30 business days to a plan
+7 sponsor who has certified its compliance with the use and disclosure requirements of 45
+8 Code of Federal Regulations, Section 164.504(f), or, to the extent permitted by law and if
+9 requested by the plan sponsor, to the plan sponsor's plan's designated business associate the
+10 following information specific to the plan sponsor sponsor's plans:
+11 A. Rebate amounts, identified by the drug and therapeutic category, secured on
+12 prescription drugs provided by a pharmaceutical manufacturer that are generated by
+13 claims processed through the plan maintained by the plan sponsor and administered by
+14 the pharmacy benefits manager;
+15 B. Prescription drug and device claims received by the pharmacy benefits manager via
+16 electronic claims transactions on any current standardized claim form approved by the
+17 Federal Government for these services. The form or transaction may be modified only
+18 as necessary to comply with the federal Health Insurance Portability and
+19 Accountability Act of 1996, Public Law 104-191, and the federal Health Information
+20 Technology for Economic and Clinical Health Act of 2009, Title XIII, Subtitle D,
+21 Public Law 111‑5, and any regulations promulgated under those laws;
+22 C. Prescription drug and device claims payments, electronic funds transfers or
+23 remittance advice notices provided by the pharmacy benefits manager as electronic
+24 files. The files may be modified only as necessary to comply with the federal Health
+25 Insurance Portability and Accountability Act of 1996, Public Law 104-191, and the
+26 federal Health Information Technology for Economic and Clinical Health Act of 2009,
+27 Title XIII, Subtitle D, Public Law 111-5, and any regulations promulgated under those
+28 laws; and
+29 D. Any other revenue and fees derived by the pharmacy benefits manager from the
+30 contract, including all direct or indirect remuneration from pharmaceutical
+31 manufacturers regardless of whether the remuneration is classified as a rebate, fee or
+32 other classification.
+33 Sec. 8. 24-A MRSA §4349-B, sub-§4, as enacted by PL 2025, c. 487, §3 and
+34 reallocated by RR 2025, c. 1, Pt. A, §34, is amended to read:
+35 4. Nondisclosure and data use agreement. A pharmacy benefits manager may
+36 require that the plan sponsor and the plan sponsor's designated business associate execute
+37 a nondisclosure and data use agreement that protects the confidentiality of the pharmacy
+38 benefits manager's trade secrets, proprietary information or information otherwise
+39 confidential by law, rule or regulation before data is provided in accordance with this
+40 section and that reasonably restricts the auditor's use of such data provided by the pharmacy
+41 benefits manager to the sole purpose of conducting an audit on behalf of a plan sponsor.
+42 The coverage limits of any cybersecurity insurance or liability insurance policy required
+43 under the nondisclosure and data use agreement may not exceed the pharmacy benefits
+44 manager's limit of liability under the services agreement between the plan sponsor and the
+45 pharmacy benefits manager, if such limit applies. Except for the coverage limits of any
+Page 4 - 132LR0726(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 135, L.D. 378
+416 cybersecurity insurance or liability insurance policy, this subsection is not intended to limit
+427 the inclusion in a nondisclosure and data use agreement of reasonable requirements
+438 regarding notice, indemnification or liability for the unauthorized disclosure or security
+449 breach of data in the possession of the plan sponsor or its designated business associate
+550 pursuant to this section. In addition, a pharmacy benefits manager is not required to provide
+561 data to an auditor selected by a plan sponsor if the auditor has previously breached a
+572 nondisclosure and data use agreement with that pharmacy benefits manager or refuses to
+583 execute a nondisclosure and data use agreement.
+9 Sec. 9. 24-A MRSA §4349-B, sub-§4-A is enacted to read:
+10 4-A. Liability for disclosure of protected information. A plan sponsor or a plan
+11 sponsor's designated business associate who receives information from a pharmacy benefits
+12 manager pursuant to this section shall notify the pharmacy benefits manager of any
+13 unauthorized disclosure or security breach of the following information in the possession
+14 of the plan sponsor or its designated business associate immediately upon discovery of the
+15 unauthorized disclosure or security breach of:
+16 A. Personal information as defined in Title 10, section 1347, subsection 6;
+17 B. Protected health information in violation of any applicable requirements of the
+18 federal Health Insurance Portability and Accountability Act of 1996, Public Law
+19 104-191, and any regulations promulgated under that law;
+20 C. Electronic protected health information as defined in the federal Health Information
+21 Technology for Economic and Clinical Health Act of 2009, Title XIII, Subtitle D,
+22 Public Law 111-5, and any regulations promulgated under that law; or
+23 D. Nonpublic information as defined in section 2263, subsection 10.
+24 Sec. 10. Effective date. This Act takes effect July 1, 2026.
+25 Emergency clause. In view of the emergency cited in the preamble, this legislation
+26 takes effect when approved.'
+27 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+28 number to read consecutively.
+29 SUMMARY
+3300 This amendment replaces the bill, which is a concept draft, changes the title and adds
+3311 an emergency preamble and an emergency clause. It clarifies current law to ensure that
+3322 health insurers administering health plans on behalf of plan sponsors are considered
+3333 administrators and must comply with a plan sponsor's statutory right to audit claims and
+3344 data requests related to those audits. The amendment also clarifies the responsibilities of
+3355 plan sponsors related to the security of data shared by an administrator for the purposes of
+3366 an audit. The requirements take effect July 1, 2026.
+Page 5 - 132LR0726(02)
+COMMITTEE AMENDMENT

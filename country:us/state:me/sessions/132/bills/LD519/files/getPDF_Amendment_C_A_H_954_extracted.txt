@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-954)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 519
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 337, L.D. 519, “An Act to Remove the
+10 Requirement That Individual and Small Group Health Plans Be Offered Through a Pooled
+11 Market and to Eliminate the Provision of Law Establishing a Pooled Market for Those
+12 Plans”
+13 Amend the bill by striking out the title and substituting the following:
+14 'An Act to Address the Long-term Sustainability of the Maine Guaranteed Access
+15 Reinsurance Association'
+16 Amend the bill by striking out everything after the enacting clause and inserting the
+17 following:
+18 'Sec. 1. 24-A MRSA §3955, sub-§4, as enacted by PL 2011, c. 90, Pt. B, §8, is
+19 amended to read:
+20 4. Review for solvency. An annual review of the association for solvency must be
+21 performed by an independent certified public accountant using generally accepted
+22 accounting principles. The association shall submit the annual review to the superintendent
+23 and to the joint standing committee of the Legislature having jurisdiction over health
+24 insurance matters as part of the annual report required to be submitted in subsection 5. If
+25 the superintendent determines that the funds of the association are insufficient to support
+26 the need for reinsurance, the superintendent may order the association to increase its
+27 assessments. If the superintendent determines that the funds of the association are
+28 insufficient, the superintendent may order the association to charge additional assessments
+29 and shall notify the joint standing committee of the Legislature having jurisdiction over
+30 health insurance matters.
+31 Sec. 2. 24-A MRSA §3955, sub-§5, as enacted by PL 2011, c. 90, Pt. B, §8, is
+32 amended to read:
+33 5. Annual report. The association shall report annually to the joint standing
+34 committee of the Legislature having jurisdiction over health insurance matters by March
+35 15th. The report must include information on the financial solvency of the association and,
+Page 1 - 132LR1965(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 337, L.D. 519
+316 the administrative expenses of the association and, beginning March 15, 2027 and annually
+327 thereafter, the recommendations of the board related to whether to continue, modify or
+338 eliminate the assessment authorized under section 3957, subsection 2 or whether additional
+349 statutory or structural changes are necessary to support the need for reinsurance. The joint
+450 standing committee of the Legislature having jurisdiction over health insurance matters
+461 shall conduct an evaluation of the recommendations made by the board pursuant to this
+472 subsection and may report out a bill based on that evaluation to any regular or special
+483 session of the Legislature.
+9 Sec. 3. 24-A MRSA §3964 is enacted to read:
+10 §3964. Funding based on premium assessment
+11 1. Calculation of premium assessment. No later than March 1, 2027 and annually
+12 thereafter, the superintendent shall calculate, but not assess, the amount that would be
+13 payable if all insurers that provide medical insurance on a fully insured basis paid a 1.5%
+14 assessment on premiums for the preceding calendar year. As soon as practicable, the
+15 superintendent shall notify the association and the State Controller of the amount of the
+16 premium assessment calculated pursuant to this subsection.
+17 2. Maine Guaranteed Access Reinsurance Sustainability Fund. The Maine
+18 Guaranteed Access Reinsurance Sustainability Fund is established as a nonlapsing Other
+19 Special Revenue Funds account administered by the superintendent. The fund must receive
+20 money transferred in accordance with subsection 3 and may receive additional money from
+21 any legislative appropriation, allocation or transfer from any public or private source. Upon
+22 receipt of a transfer by the State Controller pursuant to subsection 3, the superintendent
+23 shall immediately remit the funds to the association.
+24 3. Transfer of funding. No later than July 1, 2027 and annually thereafter, the State
+25 Controller shall transfer funds from the unappropriated surplus of the General Fund to the
+26 Maine Guaranteed Access Reinsurance Sustainability Fund in an amount equal to the
+27 premium assessment calculated by the superintendent under subsection 1.
+28 4. Use of fund. The association shall use the funds remitted by the superintendent
+29 pursuant to this section to operate a reinsurance program as required by this chapter.'
+30 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+31 number to read consecutively.
+32 SUMMARY
+3333 This amendment replaces the bill and changes the title. The amendment requires the
+3344 Maine Guaranteed Access Reinsurance Association to submit its annual review of solvency
+3355 to the joint standing committee of the Legislature having jurisdiction over health insurance
+3366 matters as part of its annual report and also requires the Superintendent of Insurance to
+3377 notify the committee if the superintendent determines that the funds of the association are
+3388 insufficient to support reinsurance.
+39 Beginning March 15, 2027 and annually thereafter, the amendment directs the
+40 association to include in its annual report the recommendations of the association's board
+41 of directors related to whether to continue, modify or eliminate the assessment authorized
+42 under current law or whether additional statutory changes are necessary to support the need
+43 for reinsurance. After conducting an evaluation of the recommendations, the joint standing
+Page 2 - 132LR1965(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 337, L.D. 519
+414 committee may report out a bill based on that evaluation to any regular or special session
+425 of the Legislature.
+3 The amendment also directs the Superintendent of Insurance to calculate, by March 1,
+4 2027 and annually thereafter, the amount that would be payable if all insurers that provide
+5 medical insurance on a fully insured basis paid a 1.5% assessment on premiums for the
+6 preceding calendar year. The amendment requires that the State provide funding in that
+7 amount to the association on an annual basis beginning July 1, 2027.
+88 FISCAL NOTE REQUIRED
+99 (See attached)
+Page 3 - 132LR1965(02)
+COMMITTEE AMENDMENT

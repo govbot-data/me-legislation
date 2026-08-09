@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-623)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2192
+2 Date: (Filing No. S- )
+3 EDUCATION AND CULTURAL AFFAIRS
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 893, L.D. 2192, “An Act to Protect
+10 Students by Ensuring Schools Have Complete Information About School Employees and
+11 Applicants for Employment”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act Regarding School Employee Investigations'
+14 Amend the bill by inserting after the title and before the enacting clause the following:
+15 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+16 become effective until 90 days after adjournment unless enacted as emergencies; and
+17 Whereas, this legislation directs the Department of Education to convene a working
+18 group to further examine the issue of investigations into the conduct of school employees
+19 and determine whether additional procedures are necessary; and
+20 Whereas, the working group must begin its work before the 90-day period expires in
+21 order that the work may be completed and a report submitted in time for submission to the
+22 next legislative session; and
+23 Whereas, schools will benefit from timely receipt of information related to
+24 procedures for employee investigations; and
+25 Whereas, in the judgment of the Legislature, these facts create an emergency within
+26 the meaning of the Constitution of Maine and require the following legislation as
+27 immediately necessary for the preservation of the public peace, health and safety; now,
+28 therefore,'
+29 Amend the bill by striking out everything after the enacting clause and inserting the
+30 following:
+31 'Sec. 1. 20-A MRSA §13025, sub-§1, ¶D is enacted to read:
+32 D. "Student" includes a student who has attained at least 18 years of age.
+33 Sec. 2. 20-A MRSA §13025, sub-§2-A is enacted to read:
+Page 1 - 132LR2853(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 893, L.D. 2192
+1 2-A. Duties of superintendents. Upon receipt of a complaint related to alleged
+2 misconduct by a credential holder, a superintendent of a school entity shall conduct a
+3 preliminary investigation to determine whether a covered investigation is necessary. The
+4 superintendent shall notify the department immediately upon initiating a preliminary
+5 investigation and if a covered investigation is determined to not be necessary.
+6 Sec. 3. 20-A MRSA §13025, sub-§3, as amended by PL 2019, c. 403, §1, is further
+7 amended to read:
+8 3. Duties of school entities. A school entity shall immediately place on paid leave a
+9 credential holder who is the subject of a covered investigation. A school entity shall notify
+10 the department immediately if a credential holder who is the subject of a covered
+11 investigation leaves the school entity's employment for any reason prior to the conclusion
+12 of the covered investigation. A school entity shall complete a covered investigation,
+13 including, but not limited to, if the subject of the covered investigation resigns from, is
+14 terminated from or otherwise leaves employment with the school entity prior to the
+15 conclusion of the covered investigation. A school entity shall notify the department
+16 immediately of the findings and final outcome of any covered investigation, including, but
+17 not limited to, if the school entity determines that the allegations of misconduct were false
+18 or unsubstantiated or if a credential holder is disciplined, suspended or terminated as a
+19 result of a covered investigation in which the school entity determined that a student's
+20 health, safety or welfare was endangered. The school entity shall provide to the department
+21 any final report produced in support of the school entity's decision to discipline, suspend
+22 or terminate the credential holder. The credential holder who is the subject of the report
+23 may submit to the department a written rebuttal to the report. The written rebuttal must be
+24 placed in the department's investigative file.
+25 Sec. 4. 20-A MRSA §13025, sub-§8 is enacted to read:
+26 8. Nondisclosure and resignation agreements prohibited. A school entity may not
+27 enter into a nondisclosure agreement or a resignation agreement with a credential holder
+28 that prohibits disclosure of information related to a covered investigation if the covered
+29 investigation determined that the credential holder engaged in conduct that involves
+30 alcohol, illegal drugs, physical abuse, emotional abuse, inappropriate contact between the
+31 credential holder and a student, stalking or similar behavior that endangers the health,
+32 safety or welfare of a student.
+33 Sec. 5. Department of Education to convene working group; report. The
+34 Department of Education shall convene a working group to review the procedures for
+35 investigations of credential holders in schools in accordance with this section.
+36 1. The working group shall review how the investigation procedures established in the
+37 Maine Revised Statutes, Title 20-A, section 13025 are being used in approved private
+38 schools, school administrative units, public charter schools, education service centers,
+39 schools in the unorganized territory and schools operated by the State. The working group
+40 shall make recommendations to improve reporting requirements and the process by which
+41 investigations are conducted.
+42 2. The working group must include, but is not limited to, the following members:
+43 A. A member representing the Maine School Management Association;
+44 B. A member representing the Maine Education Association;
+Page 2 - 132LR2853(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 893, L.D. 2192
+1 C. A member who is a licensed attorney in the State and has expertise in employment
+2 law;
+3 D. A member representing the Maine Children's Alliance;
+4 E. A member representing the Maine Coalition Against Sexual Assault; and
+5 F. Any other stakeholders the department considers appropriate.
+6 3. The department shall submit a report to the joint standing committee of the
+7 Legislature having jurisdiction over education matters by January 15, 2027. The report
+8 must include the number of investigations reported to the department, the outcomes of those
+9 investigations, the number of preliminary and covered investigations, a summary of how
+10 mandated reporting requirements impact covered investigations, whether consequences for
+11 not reporting should be established, a summary of how the department identifies
+12 individuals during the employment process who have been subjects of covered
+13 investigations, a summary and recommendations on training for school employees to
+14 conduct investigations, a summary of findings related to current practices for investigations
+15 of credential holders and recommendations of the working group, including any suggested
+16 legislation, to improve those practices. The joint standing committee may report out a bill
+17 related to the report to the 133rd Legislature in 2027.'
+18 Amend the bill by adding before the summary the following:
+19 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+20 takes effect when approved.'
+21 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+22 number to read consecutively.
+23 SUMMARY
+2244 This amendment replaces the bill and changes the title. The amendment clarifies that
+2255 a covered investigation includes conduct that endangers the health, safety or welfare of a
+2266 student, including a student who has attained 18 years of age.
+27 The amendment provides that, upon learning of allegations of misconduct by a
+28 credential holder, a superintendent must conduct a preliminary investigation to determine
+29 whether a covered investigation is necessary and requires a superintendent to notify the
+30 Department of Education immediately upon initiating a covered investigation. The
+31 amendment requires a school entity to immediately place the subject of a covered
+32 investigation on paid leave and complete any covered investigation, regardless of whether
+33 the subject resigns, is terminated or otherwise leaves employment with the school entity.
+34 The amendment requires a school entity to report the findings of any covered investigation
+35 to the department and prohibits a school entity from entering into a nondisclosure
+36 agreement with a credential holder that prohibits the disclosure of information related to a
+37 covered investigation if the covered investigation determined that the credential holder
+38 engaged in conduct that involves alcohol, illegal drugs, physical abuse, emotional abuse,
+39 inappropriate contact between a credential holder and a student, stalking or similar behavior
+40 that endangers the health, safety or welfare of a student, including a student who has
+41 attained 18 years of age.
+Page 3 - 132LR2853(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 893, L.D. 2192
+1 The amendment also directs the department to convene a working group to examine
+2 investigation procedures and make recommendations to improve the investigation process.
+3 The working group must include certain stakeholders and is required to submit a report to
+4 the Legislature by January 15, 2027. The amendment also adds an emergency preamble
+5 and emergency clause.
+66 FISCAL NOTE REQUIRED
+77 (See attached)
+Page 4 - 132LR2853(02)
+COMMITTEE AMENDMENT

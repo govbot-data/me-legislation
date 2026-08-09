@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-B to C-A (S-709)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 299
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 199,
+9 L.D. 299, “An Act to Support Investment in Agriculture”
+10 Amend the amendment by striking out the substitute title and inserting the following:
+11 'An Act to Authorize a General Fund Bond Issue to Support Maine's Agricultural
+12 and Forestry Sectors and Expand Grant Eligibility Under the Farmers Drought
+13 Resilience Program Fund'
+14 Amend the amendment by inserting after the substitute title the following:
+15 'Amend the bill by inserting before the enacting clause the following:
+16 'Preamble. Two thirds of both Houses of the Legislature deeming it necessary in
+17 accordance with the Constitution of Maine, Article IX, Section 14 to authorize the issuance
+18 of bonds on behalf of the State of Maine to provide funds as described in Part B of this
+19 Act,' '
+20 Amend the amendment by striking out all of sections 1 to 5 and inserting the following:
+21 'PART A
+22 Sec. A-1. 7 MRSA §220-A, sub-§2, as enacted by PL 2021, c. 729, §1, is amended
+23 to read:
+24 2. Eligibility. A farmer in the State may apply for a grant under the program if the
+25 farmer needs to establish a source for irrigation water to alleviate the risk of crop losses,
+26 including hay, or livestock stress due to drought. The source for irrigation water must be
+27 sustainable, environmentally sound and affordable.
+28 Sec. A-2. 7 MRSA §320-C, sub-§2, as enacted by PL 2021, c. 483, Pt. KK, §2, is
+29 amended to read:
+30 2. Membership. The board consists of the commissioner or the commissioner's
+31 designee, the Commissioner of Economic and Community Development or the
+32 commissioner's designee and 15 17 members appointed jointly by the commissioner and
+33 the Commissioner of Economic and Community Development as follows:
+34 A. One member of a statewide industry group representing conventional nondairy
+35 farming;
+Page 1 - 132LR0844(07)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 199, L.D. 299
+1 B. One member of a statewide industry group representing organic nondairy farming;
+2 C. One member of a statewide industry group representing dairy producers;
+3 D. One member of a statewide industry group representing the forest products
+4 industry;
+5 E. Two members from relevant financial institutions with experience in the
+6 agricultural and forest products industries;
+7 F. One manufacturer of forest products;
+8 G. One manufacturer of value-added agricultural products or representative of the
+9 value-added agricultural products industry;
+10 H. Two members representing the supply chain in processing, manufacturing or
+11 distribution;
+12 I. One member actively engaged in providing marketing assistance, market
+13 development or business and financial planning;
+14 J. One member from a statewide group representing the logging and trucking industry;
+15 K. One member who is a member of a federally recognized Indian nation, tribe or band
+16 in this State; and
+17 L. Two members who represent historically underserved racial populations in nondairy
+18 farming.;
+19 M. One member who represents the farming or forestry industries in the State's rural
+20 communities; and
+21 N. One member who represents the potato industry in the State's rural communities.
+22 Board membership must reflect a diversity of skills and experience relevant to investment
+23 in agricultural, food and forest products processing and manufacturing industries and
+24 represent the racial diversity of the food system in the State with specific representation by
+25 Indian tribes, communities of color and other underserved communities and populations.
+26 PART B
+27 Sec. B-1. Authorization of bonds. The Treasurer of State is authorized, under the
+28 direction of the Governor, to issue bonds in the name and on behalf of the State in an
+29 amount not exceeding $45,000,000 for the purposes described in section 5 of this Part. The
+30 bonds are a pledge of the full faith and credit of the State. The bonds may not run for a
+31 period longer than 10 years from the date of the original issue of the bonds.
+32 Sec. B-2. Records of bonds issued; Treasurer of State. The Treasurer of State
+33 shall ensure that an account of each bond is kept showing the number of the bond, the name
+34 of the successful bidder to whom sold, the amount received for the bond, the date of sale
+35 and the date when payable.
+36 Sec. B-3. Sale; how negotiated; proceeds appropriated. The Treasurer of State
+37 may negotiate the sale of the bonds by direction of the Governor, but no bond may be
+38 loaned, pledged or hypothecated on behalf of the State. The proceeds of the sale of the
+39 bonds, which must be held by the Treasurer of State and paid by the Treasurer of State
+40 upon warrants drawn by the State Controller, are appropriated solely for the purposes set
+Page 2 - 132LR0844(07)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 199, L.D. 299
+411 forth in this Part. Any unencumbered balances remaining at the completion of the project
+422 in this Part lapse to the Office of the Treasurer of State to be used for the retirement of
+433 general obligation bonds.
+4 Sec. B-4. Interest and debt retirement. The Treasurer of State shall pay interest
+5 due or accruing on any bonds issued under this Part and all sums coming due for payment
+6 of bonds at maturity.
+7 Sec. B-5. Disbursement of bond proceeds from General Fund bond issue.
+8 The proceeds of the sale of the bonds authorized under this Part must be expended as
+9 designated in the following schedule under the direction and supervision of the agencies
+10 and entities set forth in this section.
+11 DEPARTMENT OF AGRICULTURE, CONSERVATION AND FORESTRY
+12 Maine Agriculture, Food and Forest Products Investment Fund
+13 Provides funds to strengthen the State's agricultural, food and forest products economy
+14 and expand infrastructure investments in the agricultural, food and forest products
+15 economy pursuant to the Maine Revised Statutes, Title 7, section 320-A.
+16 Provides funds to support the activities of the fund as follows.
+17 Forestry $12,000,000
+18 Agriculture (other than dairy) $8,500,000
+19 Dairy $4,000,000
+20 Livestock $2,000,000
+21 Total $26,500,000
+2127 Farmers Drought Resilience Program Fund
+23 Provides funds to support the activities of the fund as follows.
+24 Crops $2,000,000
+25 Livestock stress $2,000,000
+26 Total $4,000,000
+2274 Maine Healthy Soils Fund
+28 Provides funds to support the activities of the fund.
+29 Total $4,000,000
+3209 Maine Working Farmland Access and Protection Fund
+31 Provides funds to support the activities of the fund.
+32 Total $5,000,000
+3332 FINANCE AUTHORITY OF MAINE
+34 Dairy Improvement Fund
+35 Provides funds to support the activities of the fund.
+36 Total $3,000,000
+3376 Improvements to Logging and Fishing Enterprises Loan Fund
+38 Provides funds to support the activities of the fund.
+Page 3 - 132LR0844(07)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 199, L.D. 299
+1 Total $2,500,000
+21 Sec. B-6. Contingent upon ratification of bond issue. Sections 1 to 5 of this
+32 Part do not become effective unless the people of the State ratify the issuance of the bonds
+43 as set forth in this Part.
+5 Sec. B-7. Appropriation balances at year-end. At the end of each fiscal year,
+6 all unencumbered appropriation balances representing state money carry forward. Bond
+7 proceeds that have not been expended within 10 years after the date of the sale of the bonds
+8 lapse to the Office of the Treasurer of State to be used for the retirement of general
+9 obligation bonds.
+10 Sec. B-8. Bonds authorized but not issued. Any bonds authorized but not issued
+11 within 5 years of ratification of this Part are deauthorized and may not be issued, except
+12 that the Legislature may, within 2 years after the expiration of that 5-year period, extend
+13 the period for issuing any remaining unissued bonds for an additional amount of time not
+14 to exceed 5 years.
+15 Sec. B-9. Referendum for ratification; submission at election; form of
+16 question; effective date. This Part must be submitted to the legal voters of the State at
+17 a statewide election held in the month of November following passage of this Act. The
+18 municipal officers of this State shall notify the inhabitants of their respective cities, towns
+19 and plantations to meet, in the manner prescribed by law for holding a statewide election,
+20 to vote on the acceptance or rejection of this Part by voting on the following question:
+21 "Do you favor a $45,000,000 bond issue to support the agricultural and
+22 forestry sectors in Maine?"
+23 The legal voters of each city, town and plantation shall vote by ballot on this question
+24 and designate their choice by a cross or check mark placed within a corresponding square
+25 below the word "Yes" or "No." The ballots must be received, sorted, counted and declared
+26 in open ward, town and plantation meetings and returns made to the Secretary of State in
+27 the same manner as votes for members of the Legislature. The Governor shall review the
+28 returns. If a majority of the legal votes are cast in favor of this Part, the Governor shall
+29 proclaim the result without delay and this Part becomes effective 30 days after the date of
+30 the proclamation.
+31 The Secretary of State shall prepare and furnish to each city, town and plantation all
+32 ballots, returns and copies of this Part necessary to carry out the purposes of this
+33 referendum.'
+34 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+35 section number to read consecutively.
+36 SUMMARY
+3377 This amendment replaces Committee Amendment "A" and does the following.
+38 1. Part A expands the purposes for which a farmer may apply for a grant under the
+39 Farmers Drought Resilience Program to include livestock stress and losses of hay. Part A
+40 also adds 2 members to the Maine Agriculture, Food System and Forest Products
+41 Infrastructure Investment Advisory Board, one representing the farming and forestry
+Page 4 - 132LR0844(07)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 199, L.D. 299
+412 industries in the State's rural communities and one representing the potato industry in the
+423 State's rural communities.
+3 2. Part B provides funds by a bond issue in the amount of $45,000,000, which will be
+4 used to support the State's agricultural and forestry sectors through various funds, including
+5 the Maine Agriculture, Food and Forest Products Investment Fund, the Farmers Drought
+6 Resilience Program Fund, the Maine Healthy Soils Fund, the Maine Working Farmland
+7 Access and Protection Fund, the Dairy Improvement Fund and the Improvements to
+8 Logging and Fishing Enterprises Loan Fund.
+99 SPONSORED BY: ___________________________________
+1100 (Senator TALBOT ROSS, R.)
+1111 COUNTY: Cumberland
+Page 5 - 132LR0844(07)
+SENATE AMENDMENT

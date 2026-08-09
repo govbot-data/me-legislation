@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-878)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2227
+2 Date: (Filing No. H- )
+3 ENVIRONMENT AND NATURAL RESOURCES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1504, L.D. 2227, “An Act to Update
+10 Financial Assurance Requirements for Certain Solid Waste Facilities”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 38 MRSA §1310-Y, as amended by PL 2023, c. 517, §§7 and 8, is further
+14 amended to read:
+15 §1310-Y. Financial assurance
+16 An owner or operator of a solid waste processing facility that processes plastic waste
+17 through chemical plastic processing that is licensed under section 1310‑N or of a solid
+18 waste disposal facility that is licensed under section 1310‑N shall provide the department
+19 assurance of its financial ability to satisfy the estimated cost of corrective action for known
+20 releases from the facility and its financial capacity to satisfy the estimated cost of closure
+21 and postclosure care and maintenance at the facility for a period of at least 30 years after
+22 closure. The board may adopt rules that increase or decrease that postclosure care period,
+23 as long as those rules are consistent with applicable federal rules. The department may
+24 consider the use of more than one acceptable form of financial assurance per facility to
+25 satisfy the financial assurance requirement of this section. This section applies to all
+26 privately owned solid waste disposal facilities licensed by the department, including
+27 facilities licensed by the department before June 16, 1993, and to all solid waste processing
+28 facilities that process plastic waste through chemical plastic processing. This section does
+29 not apply to a municipally owned or operated solid waste disposal facility that accepts
+30 exclusively special waste, construction and demolition debris, land-clearing debris or any
+31 combination of those types of waste or to a municipally owned or operated solid waste
+32 disposal facility licensed before June 16, 1993.
+33 1. Acceptable forms of financial assurance. Acceptable forms of financial assurance
+34 are under this section must include at least one of the following:
+35 A. A letter of credit;
+36 B. A surety bond;
+Page 1 - 132LR3069(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1504, L.D. 2227
+1 C. An escrow account;
+2 D. A reserve account calculated in a manner consistent with the United States Internal
+3 Revenue Code;
+4 E. An irrevocable trust account; or
+5 F. In the case of a municipal solid waste disposal facility, any of the allowable financial
+6 assurance mechanisms set forth in applicable federal rules.
+7 G. A corporate financial test that satisfies the requirements of 40 Code of Federal
+8 Regulations, Section 258.74(e);
+9 H. A local government financial test that satisfies the requirements of 40 Code of
+10 Federal Regulations, Section 258.74(f);
+11 I. A corporate guarantee that satisfies the requirements of 40 Code of Federal
+12 Regulations, Section 258.74(g); or
+13 J. A local government guarantee that satisfies the requirements of 40 Code of Federal
+14 Regulations, Section 258.74(h).
+15 1-A. Substitute requirements. The department may substitute part of the acceptable
+16 forms of financial assurance under subsection 1 with one or more of the following
+17 requirements:
+18 A. A current rating for its senior unsubordinated debt of AAA, AA, A or BBB as issued
+19 by Standard and Poor's Corporation or Aaa, Aa, A or Baa as issued by Moody's
+20 Investors Services, Inc.;
+21 B. A ratio of less than 1.5 comparing total liabilities to net worth; or
+22 C. A ratio of greater than 0.10 comparing the sum of net income plus depreciation,
+23 depletion and amortization, minus $10,000,000, to total liabilities.
+24 1-B. Review of financial assurance. A licensee subject to the requirements of this
+25 section shall annually review and, as necessary and in accordance with department rule,
+26 update its financial assurance mechanisms under this section. The department may require
+27 an applicant or licensee subject to the requirements of this section to conduct and submit
+28 to the department an independent 3rd-party financial review of any proposed form of
+29 financial assurance.
+30 2. Report. An owner or operator of a solid waste processing facility that processes
+31 plastic waste through chemical plastic processing or of a solid waste disposal facility shall
+32 annually prepare a report containing a sworn statement providing the year-end balance or
+33 value of any escrow, trust or reserve account form of financial assurance established under
+34 this section. That report must be submitted to the commissioner by March 31st of each
+35 year or such other date as the commissioner may designate.'
+36 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+37 number to read consecutively.
+38 SUMMARY
+3399 This amendment replaces the bill. It amends financial assurance requirements for
+4400 certain solid waste processing facilities and solid waste disposal facilities to align with
+4411 federal regulations governing financial assurance criteria for solid waste facilities adopted
+Page 2 - 132LR3069(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1504, L.D. 2227
+412 by the United States Environmental Protection Agency. It also provides that a licensee
+423 subject to those financial assurance requirements must annually review and, as necessary
+434 and in accordance with Department of Environmental Protection rule, update its financial
+445 assurance mechanisms. The amendment also provides that the department may require an
+456 applicant or licensee subject to those financial assurance requirements to conduct and
+467 submit to the department an independent 3rd-party financial review of any proposed form
+478 of financial assurance.
+489 FISCAL NOTE REQUIRED
+590 (See attached)
+Page 3 - 132LR3069(02)
+COMMITTEE AMENDMENT

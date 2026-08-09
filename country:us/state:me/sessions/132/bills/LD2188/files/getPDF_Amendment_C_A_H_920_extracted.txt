@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-920)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2188
+2 Date: (Filing No. H- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1469, L.D. 2188, “An Act to Amend
+10 Certain State Tax Laws”
+11 Amend the bill in Part A by inserting before section 1 the following:
+12 'Sec. A-1. 36 MRSA §111, sub-§2, as repealed and replaced by PL 2011, c. 380,
+13 Pt. J, §1, is amended to read:
+14 2. Notice. "Notice" means written notification served personally, sent by certified
+15 mail or sent by first-class mail to the last known address of the person for whom the
+16 notification is intended. A person's last known address is the person's address as reported
+17 on the person's most recently filed Maine tax return or as otherwise specified by the person
+18 in written correspondence on file with the bureau, unless the bureau determines that a
+19 different address is the most current address for the person, in which case the bureau must
+20 use that address. Notice by first-class mail is deemed to be received 3 7 days after the
+21 mailing, excluding Sundays and legal holidays. If the State Tax Assessor is required by a
+22 provision of this Title to give notice by certified mail and attempts to do so but the mailing
+23 is returned with the notation "unclaimed" or "refused" or a similar notation, the assessor
+24 may then give notice by sending the notification by first-class mail. In the case of a joint
+25 income tax return, notice may be a single joint notice except that, if the assessor is notified
+26 by either spouse that separate residences have been established, the assessor must mail a
+27 joint notice to each spouse. If the person for whom notification is intended is deceased or
+28 under a legal disability, and the assessor knows of the existence of a fiduciary relationship
+29 with respect to that person, notice must be sent by first-class mail to the last known address
+30 of the fiduciary.'
+31 Amend the bill in Part A by striking out all of section 3 and inserting the following:
+32 'Sec. A-3. 36 MRSA §5122, sub-§2, ¶M-3, as corrected by RR 2025, c. 1, Pt. A,
+33 §55, is amended by amending subparagraph (1) to read:
+34 (1) For individuals filing as single individuals and for married individuals filing
+35 separate returns, $125,000;
+Page 1 - 132LR2671(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1469, L.D. 2188
+1 Sec. A-4. 36 MRSA §5122, sub-§2, ¶M-3, as corrected by RR 2025, c. 1, Pt. A,
+2 §55, is amended by amending subparagraph (2) to read:
+3 (2) For individuals filing as heads of households, $187,500; or
+4 Sec. A-5. 36 MRSA §5122, sub-§2, ¶M-3, as corrected by RR 2025, c. 1, Pt. A,
+5 §55, is amended by amending subparagraph (3) to read:
+6 (3) For individuals filing married joint returns or as surviving spouses, $250,000;
+7 or
+8 Sec. A-6. 36 MRSA §5122, sub-§2, ¶M-3, as corrected by RR 2025, c. 1, Pt. A,
+9 §55, is amended by repealing subparagraph (4).'
+10 Amend the bill in Part B by inserting before section 1 the following:
+11 'Sec. B-1. 36 MRSA §1752, sub-§6-K, as enacted by PL 2025, c. 388, Pt. G, §22
+12 and affected by §48, is amended by amending the first blocked paragraph to read:
+13 "Mobility-enhancing equipment" does not include durable medical equipment. "Mobility-
+14 enhancing equipment" includes crutches and wheelchairs.'
+15 Amend the bill in Part C in section 2 in the indented paragraph in the 3rd line (page 4,
+16 line 40 in L.D.) by striking out the following: "due" and inserting the following: 'due
+17 assessed for the tax year subject to the lien pursuant to a written property tax proration
+18 agreement'
+19 Amend the bill in Part C in section 2 in the indented paragraph in the last line (page 5,
+20 line 11 in L.D.) by inserting after the following: "paragraph." the following: 'This section
+21 does not limit a municipality's remedies to collect unpaid real estate taxes through other
+22 means.'
+23 Amend the bill in Part D by striking out all of section 1.
+24 Amend the bill in Part D by striking out all of section 5.
+25 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+26 number to read consecutively.
+27 SUMMARY
+2288 This amendment makes the following changes to the bill:
+29 1. It amends the definition of "notice" to increase from 3 to 7 the number of days after
+30 which a notice by first-class mail is deemed to be received;
+31 2. It removes the changes proposed to the computation of taxable income of resident
+32 individuals for the purposes of reductions to federal adjusted gross income;
+33 3. It includes crutches and wheelchairs in the definition of "mobility-enhancing
+34 equipment" to ensure that they are exempt from sales tax under the Maine Revised Statutes,
+35 Title 36, section 1760, subsection 117;
+36 4. It updates provisions regarding the procedure for documenting that a seller of real
+37 property has paid the seller's pro rata share of taxes owed on property that is still the subject
+38 of a lien reflecting taxes due from someone else, adds language regarding proof of payment
+Page 2 - 132LR2671(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1469, L.D. 2188
+319 pursuant to a written property tax proration agreement and clarifies that a municipality may
+420 collect unpaid real estate taxes through means not specified in the bill; and
+3 5. It removes sections of the bill that changed the taxpayer advocate and experience
+4 officer's annual reporting requirement start date from January 15, 2026 to January 15, 2027
+5 and applied that change retroactively to January 1, 2026, in their entirety.
+Page 3 - 132LR2671(02)
+COMMITTEE AMENDMENT

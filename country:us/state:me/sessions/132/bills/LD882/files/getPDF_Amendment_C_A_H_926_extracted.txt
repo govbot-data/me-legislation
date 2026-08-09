@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-926)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 882
+2 Date: (Filing No. H- )
+3 CRIMINAL JUSTICE AND PUBLIC SAFETY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 568, L.D. 882, “An Act to Protect
+10 Communication with Providers of Critical Incident Stress Management Peer Support”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Protect Communication with Providers of Critical Incident Stress
+13 Management and Peer Support'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 25 MRSA c. 501, headnote is amended to read:
+17 CHAPTER 501
+18 CRITICAL INCIDENT STRESS MANAGEMENT TEAMS AND PEER
+19 SUPPORT
+20 Sec. 2. 25 MRSA §4201, as amended by PL 2019, c. 89, §§1 to 5, is repealed.
+21 Sec. 3. 25 MRSA §4201-A is enacted to read:
+22 §4201-A. Definitions
+23 As used in this chapter, unless the context otherwise indicates, the following terms
+24 have the following meanings.
+25 1. Affected person. "Affected person" means a member or employee of a provider or
+26 a person providing emergency care or response services on behalf of a provider.
+27 2. Critical incident. "Critical incident" means a work-related incident that causes or
+28 has the potential to cause an affected person to experience emotional or physical stress.
+29 "Critical incident" includes, but is not limited to, use-of-force encounters that may result in
+30 the death of or serious injury to another person or an affected person, fatal motor vehicle
+Page 1 - 132LR1263(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 568, L.D. 882
+311 accidents, child abuse investigations, emergency care or response operations and death
+322 investigations.
+3 3. Critical incident stress management. "Critical incident stress management" means
+4 services provided in an individual or group setting and facilitated by a peer support person
+5 or licensed mental health clinician to an affected person, or a group of affected persons,
+6 when the affected person has been involved in a critical incident that can reasonably have
+7 a devastating, long‑lasting effect on the affected person. "Critical incident stress
+8 management" includes assisting the affected person to appropriately process the trauma
+9 and stress associated with a critical incident and connecting the affected person to
+10 appropriate resources.
+11 4. Critical incident stress management team. "Critical incident stress management
+12 team" means either of the following persons or groups of persons that has an established
+13 relationship with a licensed mental health clinician who is available for consultation, as the
+14 team members determine to be necessary, and for at least one meeting annually:
+15 A. A team of peer support persons designated by the chief or director of a public safety
+16 agency, private safety agency or public safety answering point or of an organization
+17 involved in emergency care or response; the sheriff of a county jail; or the chief
+18 administrative officer of a correctional facility as defined in Title 34-A, section 1001,
+19 subsection 6, or any such person's designee; or
+20 B. A volunteer team coordinator from a nonprofit entity that is trained to assist and
+21 provide critical incident stress management or peer support.
+22 5. Peer support. "Peer support" means the provision of emotional support to an
+23 affected person by a member of a peer team or a peer support person for the purpose of
+24 addressing issues resulting from or related to a critical incident experienced by the affected
+25 person.
+26 6. Peer support person. "Peer support person" means a person who provides critical
+27 incident stress management or peer support and is trained in accordance with accepted best
+28 practices.
+29 7. Peer team. "Peer team" means a team of active or retired-in-good-standing members
+30 or employees of one or more providers that provides peer support to affected persons that
+31 have been involved in a critical incident and that is trained through an organized peer
+32 support training program that meets or exceeds peer support training standards adopted by
+33 the International Association of Fire Fighters or the International Association of Chiefs of
+34 Police, or their successor organizations.
+35 8. Private safety agency. "Private safety agency" has the same meaning as in section
+36 2921, subsection 6-A.
+37 9. Provider. "Provider" means a public safety agency, private safety agency or public
+38 safety answering point; an organization involved in emergency care or response; a
+39 correctional facility as defined in Title 34-A, section 1001, subsection 6; a sheriff's office;
+40 or a county jail.
+41 10. Public safety agency. "Public safety agency" has the same meaning as in section
+42 2921, subsection 6‑B.
+Page 2 - 132LR1263(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 568, L.D. 882
+1 11. Public safety answering point. "Public safety answering point" has the same
+2 meaning as in section 2921, subsection 7.
+3 Sec. 4. 25 MRSA §4202, as amended by PL 2019, c. 89, §6, is repealed.
+4 Sec. 5. 25 MRSA §4203 is enacted to read:
+5 §4203. Critical incident stress management and peer support; testimony;
+6 confidentiality; disclosure
+7 1. Consent to testify. A peer support person, peer team or member of a peer team or
+8 an individual who participates in a structured critical incident stress management or peer
+9 support activity may not be compelled to testify in any civil or criminal action, suit or
+10 proceeding at law or in equity regarding any information that may have been acquired in
+11 providing, receiving or participating in critical incident stress management or peer support,
+12 except at the request of, or with the consent of, the relevant affected person.
+13 2. Confidentiality. Proceedings, communications and records connected with the
+14 provision of critical incident stress management or peer support are confidential and are
+15 not subject to subpoena, discovery or introduction into evidence in a civil or criminal action
+16 unless the confidentiality is waived by the relevant affected person. Statistical data that
+17 does not identify a person seeking the assistance of a critical incident stress management
+18 team or peer team must be made available for statistical evaluation and may not be made
+19 available for any other purpose.
+20 3. Disclosure required by law. This section does not prohibit disclosure by a person
+21 that provides critical incident stress management or peer support of information concerning
+22 an affected person if the disclosure is required pursuant to any applicable law or the person
+23 that provides critical incident stress management or peer support reasonably believes, in
+24 that person's judgment, that the affected person presents a danger to the affected person or
+25 to others. This subsection does not modify or affect the provisions of Title 22, sections
+26 4011-A to 4015.'
+27 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+28 number to read consecutively.
+29 SUMMARY
+3300 This amendment replaces the bill. The amendment does the following.
+31 It defines "peer support" as a type of service distinct from critical incident stress
+32 management services and broadens the scope of the communications protected as
+33 confidential to include communications related to the provision of either type of service to
+34 an affected person, which the amendment defines as a member or employee of an
+35 organization or agency providing certain safety or emergency care or response services.
+36 Under current law, only communications related to critical incident stress management are
+37 protected.
+38 It designates communications of providers of critical incident stress management and
+39 peer support services as confidential communications.
+40 It authorizes providers of critical incident stress management and peer support services
+41 to disclose information that is otherwise confidential if the disclosure is required by law or
+42 the provider of critical incident stress management or peer support services reasonably
+Page 3 - 132LR1263(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 568, L.D. 882
+413 believes, in the provider's judgment, that an affected person presents a danger to the
+424 affected person or to others.
+3 It repeals current law regarding critical incident stress management teams.
+4 It requires that a peer support person be trained in accordance with accepted best
+5 practices and that a peer team be trained through an organized peer support training
+6 program that meets or exceeds peer support training standards adopted by the International
+7 Association of Firefighters or the International Association of Chiefs of Police, or their
+8 successor organizations. It removes certain requirements that a volunteer team coordinator
+9 be trained in accordance with best practices and standards established by the Commissioner
+10 of Public Safety.
+Page 4 - 132LR1263(03)
+COMMITTEE AMENDMENT

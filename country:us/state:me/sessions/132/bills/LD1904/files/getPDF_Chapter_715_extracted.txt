@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 715
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 15, 2026 715
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 745 - L.D. 1904
+An Act to Establish the Municipal Shoreline Protection Legal Fund
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 38 MRSA §450 is enacted to read:
+§450. Municipal Shoreline Protection Legal Fund
+1. Fund established. The Municipal Shoreline Protection Legal Fund, referred to in
+this section as "the fund," is established within the department to provide financial
+assistance to municipalities that have incurred or expect to incur legal costs in pursuing
+shoreland zoning violations. The fund consists of money received from any public or
+private source, including, but not limited to, any monetary penalties deposited in the fund
+in accordance with section 480-R, subsection 1. The fund must be held separate and apart
+from all other money, funds and accounts. Interest earned by the fund must be credited to
+the fund. Any unexpended balances remaining in the fund at the end of any fiscal year do
+not lapse and must be carried forward to the next fiscal year.
+2. Administration; use of money in fund. The department shall administer the fund.
+In accordance with rules adopted by the department pursuant to subsection 4, the
+department shall use money in the fund to provide financial assistance to municipalities
+that have incurred or expect to incur legal costs in pursuing shoreland zoning violations.
+The department may use money in the fund to cover the department's actual costs incurred
+in administering the fund.
+3. Reimbursement. In accordance with rules adopted by the department pursuant to
+subsection 4, a municipality that receives financial assistance from the fund under
+subsection 2 may be required to reimburse the fund following the settlement or final
+adjudication of the legal claim for which the financial assistance was received.
+4. Rules. The department shall adopt rules necessary for the implementation and
+administration of the fund, including, but not limited to, rules establishing standards for the
+provision of financial assistance from the fund to a municipality pursuant to subsection 2
+and rules establishing standards for municipal reimbursement of financial assistance
+received from the fund pursuant to subsection 3. Rules adopted pursuant to this subsection
+are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+Page 1 - 132LR1507(03)
+
+Sec. 2. 38 MRSA §480-R, sub-§1, as enacted by PL 1987, c. 809, §2, is amended
+by enacting at the end a new first blocked paragraph to read:
+Notwithstanding any provision of law to the contrary, of the total penalties paid by all
+persons found to have violated this article in any fiscal year, the commissioner shall ensure
+that $100,000 of that amount, or the total amount of penalties paid in the fiscal year if that
+amount is less than $100,000, is deposited in the Municipal Shoreline Protection Legal
+Fund established in section 450.
+Sec. 3. Transfer from General Fund unappropriated surplus; Department
+of Environmental Protection, Municipal Shoreline Protection Legal Fund. On
+or before September 1, 2026, the State Controller shall transfer $100,000 from the
+unappropriated surplus of the General Fund to the Department of Environmental
+Protection, Municipal Shoreline Protection Legal Fund, Other Special Revenue Funds
+account to provide financial assistance to municipalities that have incurred or expect to
+incur legal costs in pursuing shoreland zoning violations in accordance with the provisions
+of the Maine Revised Statutes, Title 38, section 450.
+Sec. 4. Appropriations and allocations. The following appropriations and
+allocations are made.
+ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+Land Resources Z188
+Initiative: Provides funding for one Environmental Specialist III position and associated
+All Other costs.
+GENERAL FUND 2025-26 2026-27
+POSITIONS - LEGISLATIVE COUNT 0.000 1.000
+Personal Services $0 $79,114
+All Other $0 $22,767
+__________ __________
+GENERAL FUND TOTAL $0 $101,881
+Municipal Shoreline Protection Legal Fund N528
+Initiative: Provides ongoing allocations to allow for the provision of financial assistance to
+municipalities that have incurred or expect to incur legal costs in pursuing shoreland zoning
+violations in accordance with the Maine Revised Statutes, Title 38, section 450.
+OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+All Other $0 $100,000
+__________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $0 $100,000
+ENVIRONMENTAL PROTECTION,
+DEPARTMENT OF
+DEPARTMENT TOTALS 2025-26 2026-27
+GENERAL FUND $0 $101,881
+OTHER SPECIAL REVENUE FUNDS $0 $100,000
+Page 2 - 132LR1507(03)
+
+__________ __________
+DEPARTMENT TOTAL - ALL FUNDS $0 $201,881
+Page 3 - 132LR1507(03)

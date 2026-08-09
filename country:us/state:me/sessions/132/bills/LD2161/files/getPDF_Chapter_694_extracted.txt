@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 694
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 694
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1450 - L.D. 2161
+An Act to Modify Certain Statutes Governing Revocation of Probation,
+Victim Confidentiality and the Commissioner of Corrections
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 17-A MRSA §1810, sub-§2, as enacted by PL 2019, c. 113, Pt. A, §2, is
+amended to read:
+2. Contents of summons; probation officer to file motion for revocation. The
+summons delivered pursuant to subsection 1 must include the signature of the probation
+officer; a brief statement of the alleged violation; the time and place of the alleged violation;
+and the time, place and date the person is to appear in court or a statement that the court
+will notify the person of the time, place and date to appear. As soon as practical after
+service of the summons, the probation officer shall file with the court a motion for
+revocation of probation that sets forth the facts underlying the alleged violation. The
+motion must be approved by the prosecuting attorney before it is filed with the court. The
+motion may be withdrawn by either the probation officer or the prosecuting attorney. If
+the request to withdraw the motion is made by the probation officer, the request must state
+the position of the prosecuting attorney regarding that request.
+Sec. 2. 17-A MRSA §1811, sub-§1, as enacted by PL 2019, c. 113, Pt. A, §2, is
+amended to read:
+1. Timing of motion for probation revocation. A motion for probation revocation,
+which first must be approved by the prosecuting attorney, must be filed within 3 days,
+excluding Saturdays, Sundays and holidays, of the arrest of a person on probation pursuant
+to section 1809. The motion may be withdrawn by either the probation officer or the
+prosecuting attorney. If the request to withdraw the motion is made by the probation
+officer, the request must state the position of the prosecuting attorney regarding that
+request.
+Sec. 3. 17-A MRSA §1812, sub-§1, as enacted by PL 2019, c. 113, Pt. A, §2, is
+amended to read:
+1. Place of hearing. The hearing on a motion to revoke probation must be held in the
+court that sentenced the person to probation in either the county or division in which the
+Page 1 - 132LR2664(03)
+
+person resides or is incarcerated, unless the court orders otherwise in the interests of justice.
+A motion to transfer the hearing to another court may be filed by either the probation officer
+or the prosecuting attorney. If the motion to transfer the hearing to another court is filed
+by the probation officer, the motion must state the position of the prosecuting attorney at
+the time of the motion regarding the motion and, if applicable, the prosecuting attorney
+receiving the transfer. A motion for revocation of probation need not be heard by the justice
+or judge who originally imposed probation, but may be heard by any justice or judge.
+Sec. 4. 17-A MRSA §2109, as amended by PL 2025, c. 139, §7, is further amended
+by amending the section headnote to read:
+§2109. Certain communications by and information from victims confidential
+Sec. 5. 17-A MRSA §2109, first ¶, as enacted by PL 2019, c. 113, Pt. A, §2, is
+amended to read:
+The following communications and information are privileged from disclosure.
+Sec. 6. 17-A MRSA §2109, sub-§4 is enacted to read:
+4. Information obtained by Department of Corrections; community-based
+programs. Information from a victim obtained by the Department of Corrections for the
+purpose of evaluating a client's ability to participate in a community-based program as
+described in Title 34-A, section 1216, subsection 1 is privileged from disclosure as
+provided in Title 34-A, section 1216, subsection 1. For the purposes of this subsection,
+"client" has the same meaning as in Title 34-A, section 1001, subsection 1-A.
+Sec. 7. 34-A MRSA §1401, sub-§2, ¶B, as enacted by PL 1983, c. 459, §6, is
+amended to read:
+B. If the office of the commissioner is vacant or if the commissioner is absent or
+disabled, the deputy commissioner or an associate commissioner shall perform the
+duties and have the powers provided by law for the commissioner.
+Page 2 - 132LR2664(03)

@@ -1,0 +1,747 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-565)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 474
+2 Date: (Filing No. S- )
+3 ENVIRONMENT AND NATURAL RESOURCES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474, “An Act to Improve
+10 Maine's Environment and Protect Natural Resources”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Establish a Stewardship Program for Primary and Rechargeable Batteries'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 38 MRSA §1604, sub-§2, as enacted by PL 1989, c. 583 and repealed and
+16 replaced by c. 878, Pt. A, §116, is amended to read:
+17 2. Lead-acid battery retailers. A Except as provided in subsection 2-A, a person
+18 selling or offering for retail sale lead-acid batteries shall:
+19 A. Accept, at the point of transfer, used lead-acid batteries in reasonably clean and
+20 unbroken condition from customers in a quantity at least equal to the number of new
+21 batteries purchased;
+22 B. If a used lead-acid battery is not exchanged at the time of sale, collect a $10 deposit
+23 on the new battery.
+24 (1) The deposit shall be returned to the customer when the customer delivers a
+25 used lead-acid battery within 30 days of the date of sale.
+26 (2) All funds received by a dealer as a deposit on a lead-acid battery shall be held
+27 in trust and separately accounted for by the retailer. Any interest on those funds
+28 shall inure to the benefit of the retailer. Annually on July 1st, all deposits not
+29 returned to customers in exchange for lead-acid batteries during the previous year
+30 ending June 30th shall inure to the benefit of the retailer; and
+31 C. Post an 8 1/2" x 11" written notice that includes the display of the universal
+32 recycling symbol and the following language.
+33 (1) "State law requires us to accept motor vehicle batteries or other lead-acid
+34 batteries for recycling in exchange for new batteries purchased."
+Page 1 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+1 (2) "A deposit of $10 will be charged for each new lead-acid battery that is not
+2 exchanged with an old lead-acid battery."
+3 (3) "It is illegal to dump, bury or incinerate a motor vehicle lead-acid battery or
+4 other lead-acid battery."
+5 (4) "Recycle your used batteries."
+6 Sec. 2. 38 MRSA §1604, sub-§2-A is enacted to read:
+7 2-A. Relationship to other programs. A person is exempt from complying with the
+8 requirements of subsection 2 with respect to any lead-acid battery sold or offered for sale
+9 by that person if:
+10 A. The battery is a covered battery, as defined in section 1617, subsection 1, paragraph
+11 I; and
+12 B. The battery is managed under a covered battery stewardship program established
+13 in accordance with section 1617 and the person is participating under the program as a
+14 collection site for covered batteries.
+15 Sec. 3. 38 MRSA §1617 is enacted to read:
+16 §1617. Battery stewardship program
+17 1. Definitions. As used in this section, unless the context otherwise indicates, the
+18 following terms have the following meanings.
+19 A. "Battery" means a device consisting of one or more cells in which chemical energy
+20 is converted into electricity and used as a source of power or for power storage.
+21 B. "Battery stewardship organization" or "stewardship organization" means a
+22 corporation, nonprofit organization or other legal entity created or designated by a
+23 producer or a group of producers to directly implement and operate a battery
+24 stewardship program in accordance with a battery stewardship plan approved by the
+25 department.
+26 C. "Battery stewardship program" or "stewardship program" means a program
+27 financed and implemented by a producer, a group of producers or a battery stewardship
+28 organization on behalf of a producer or a group of producers in accordance with a
+29 battery stewardship plan approved by the department.
+30 D. "Brand" has the same meaning as in section 1771, subsection 1.
+31 E. "Collection" means the gathering of waste, including the preliminary sorting and
+32 storage of waste, for the purposes of transporting the waste to a recycling
+33 establishment.
+34 F. "Collection container" means a container used at a collection site under a battery
+35 stewardship program that is accessible to and usable by persons bringing covered
+36 batteries to the collection site for collection. "Collection container" does not include a
+37 container used at a collection site solely to store collected covered batteries that is not
+38 accessible to or usable by persons bringing covered batteries to the collection site for
+39 collection.
+40 G. "Collection rate" means a percentage, by weight, of covered batteries collected by
+41 a battery stewardship program in the State, calculated by dividing the total weight of
+Page 2 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+412 covered batteries collected by the program during the prior calendar year by the average
+423 annual weight of all covered batteries estimated to have been sold into the State during
+434 the prior 3 calendar years, which may be based on reasonable pro rata calculations
+445 using national sales data, by all producers participating in the program.
+5 H. "Collection site" means a location to which a person may bring covered batteries
+6 for collection under a battery stewardship program that is approved by the operator of
+7 the program pursuant to subsection 7 and that is operated by a retailer, wholesaler,
+8 municipality or tribal government, solid waste management facility, household
+9 hazardous waste facility or other entity.
+10 I. "Covered battery" means a portable battery or a medium format battery. "Covered
+11 battery" does not include:
+12 (1) Prior to January 1, 2030, a portable battery or medium format battery that is
+13 an embedded battery. Beginning January 1, 2030, "covered battery" includes a
+14 portable battery or medium format battery that is an embedded battery;
+15 (2) A battery contained within a medical device that is not principally designed
+16 for or marketed to consumers for personal use;
+17 (3) A large format battery;
+18 (4) A battery that contains an electrolyte as a free liquid; or
+19 (5) A lead-acid battery, as defined in section 1604, weighing greater than 11
+20 pounds.
+21 J. "Covered battery-containing product" means a product that contains or is packaged
+22 with a covered battery. "Covered battery-containing product" does not include a
+23 product that is a covered electronic device regulated under section 1610.
+24 K. "Damaged or defective battery" means a battery that has been damaged or identified
+25 by the producer as being defective for safety reasons and that has the potential of
+26 producing a dangerous evolution of heat, fire or short circuit, as described in 49 Code
+27 of Federal Regulations, 173.185(f).
+28 L. "Easily removable" means, with respect to a battery within a battery-containing
+29 product, designed by the producer of the product to be removable by a user of the
+30 product using common household tools.
+31 M. "Embedded battery" means a portable battery or medium format battery that is
+32 contained within a battery-containing product and that is not intended or designed to
+33 be easily removable from the product.
+34 N. "Large format battery" means:
+35 (1) A primary battery that weighs more than 25 pounds; or
+36 (2) A rechargeable battery that:
+37 (a) Weighs more than 25 pounds; or
+38 (b) Has a rating of more than 2,000 watt-hours.
+39 O. "Medium format battery" means:
+Page 3 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+1 (1) A primary battery that weighs more than 4.4 pounds but not more than 25
+2 pounds; or
+3 (2) A rechargeable battery that:
+4 (a) Weighs more than 11 pounds but not more than 25 pounds; or
+5 (b) Has a rating of more than 300 watt-hours but not more than 2,000 watt-
+6 hours.
+7 P. "Municipality" means a city, town, county, township, village or plantation; a refuse
+8 disposal district under chapter 17; or a regional association, as defined in section
+9 1303-C, subsection 24.
+10 Q. "Portable battery" means:
+11 (1) A primary battery that weighs not more than 4.4 pounds; or
+12 (2) A rechargeable battery that:
+13 (a) Weighs not more than 11 pounds; and
+14 (b) Has a rating of not more than 300 watt-hours.
+15 R. "Primary battery" means a battery that is not designed to be and is not capable of
+16 being recharged.
+17 S. "Producer" means, with respect to a covered battery or covered battery-containing
+18 product:
+19 (1) If the battery or product is sold, offered for sale or distributed for sale in or into
+20 the State under a brand owned by the person that manufactures the battery or
+21 product, the person that manufactures the battery or product;
+22 (2) If the battery or product is sold, offered for sale or distributed for sale in or into
+23 the State under a brand not owned by the person that manufactures the battery or
+24 product, the person that owns the brand under which the battery or product is sold,
+25 offered for sale or distributed for sale in or into the State;
+26 (3) If there is no person to which subparagraph (1) or (2) applies, the person that
+27 is a licensee of the brand or trademark under which the battery or product is sold,
+28 offered for sale or distributed for sale in or into the State;
+29 (4) If there is no person to which subparagraph (1), (2) or (3) applies that is located
+30 in the United States, the person that is the importer of record into the United States
+31 for the battery or product for the purpose of selling, offering for sale or distributing
+32 for sale the battery or product in or into the State; or
+33 (5) If there is no person to which subparagraph (1), (2), (3) or (4) applies that has
+34 a commercial presence in the State, the person that first sells, offers for sale or
+35 distributes for sale the battery or product in or into the State.
+36 "Producer" does not include a person that sells, offers for sale or distributes for sale a
+37 covered battery-containing product in or into the State if the covered battery contained
+38 in or packaged with the product is supplied by a producer participating in a battery
+39 stewardship program in the State for that battery, as long as the participating producer
+40 provides the person and the operator of the program with a written certification
+41 stipulating the producer's participation in the program for that battery.
+Page 4 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+1 "Producer" does not include a person that would otherwise be considered a producer
+2 under this paragraph if the person enters into a signed agreement with another producer
+3 that is participating in a battery stewardship program in the State to accept
+4 responsibility as producer under this section for the person's covered batteries or
+5 covered battery-containing products sold, offered for sale or distributed for sale in or
+6 into the State, as long as the other producer provides a copy of that signed agreement
+7 to the operator of the program.
+8 T. "Proprietary information" has the same meaning as in section 1771, subsection 6‑A.
+9 U. "Rechargeable battery" means a battery that contains one or more voltaic or
+10 galvanic cells that are electrically connected to produce electric energy and that is
+11 designed to be recharged.
+12 V. "Recycling" has the same meaning as in section 1771, subsection 7.
+13 W. "Recycling efficiency rate" means a percentage, by weight, calculated by dividing
+14 the weight of components and material recycled by the operator of a battery
+15 stewardship program under this section by the weight of covered batteries collected by
+16 the operator.
+17 X. "Recycling establishment" has the same meaning as in section 2101-A, subsection
+18 4.
+19 Y. "Retailer" means a person that sells or offers for sale a covered battery or covered
+20 battery-containing product in or into the State or that offers, distributes or otherwise
+21 makes a covered battery or covered battery-containing product available to an
+22 individual or commercial customer for the customer's use in the State.
+23 Z. "Tribal government" means the government of a federally recognized Indian tribe
+24 in the State.
+25 2. Sales requirements. This subsection governs requirements for the sale, offer for
+26 sale or distribution for sale in or into the State of covered batteries, covered battery-
+27 containing products and, prior to January 1, 2030, products containing embedded batteries.
+28 A. Beginning 180 days after the date a battery stewardship plan submitted pursuant to
+29 subsection 4 is first approved by the department in accordance with subsection 5, a
+30 producer may not sell, offer for sale or distribute for sale in or into the State a covered
+31 battery or covered battery-containing product unless the producer is participating in a
+32 battery stewardship program that is operating in accordance with an approved
+33 stewardship plan.
+34 B. Beginning March 1, 2027, a producer participating in a battery stewardship program
+35 under this section may not sell, offer for sale or distribute for sale in or into the State a
+36 battery-containing product that contains an embedded battery unless the producer
+37 annually provides to the operator of the battery stewardship program for inclusion in
+38 the report required pursuant to subsection 8 the information for that embedded battery
+39 and product required pursuant to subsection 8, paragraph C. The operator of the battery
+40 stewardship program shall notify the department of any failure by the participating
+41 producer to provide to the operator the information for that embedded battery and
+42 product required pursuant to subsection 8, paragraph C.
+43 This paragraph is repealed January 1, 2030.
+Page 5 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+1 3. Marking requirement. Except as otherwise provided by the department by rule
+2 adopted pursuant to this subsection, beginning 2 years after the date a battery stewardship
+3 plan submitted pursuant to subsection 4 is first approved by the department in accordance
+4 with subsection 5, a producer or retailer may not sell, offer for sale or distribute for sale in
+5 or into the State a covered battery or covered battery-containing product if the covered
+6 battery or the covered battery contained in or packaged with the product is 1/2 inch or
+7 greater in diameter or has a surface with a length that is 1/2 inch or greater, unless that
+8 covered battery is marked with information that identifies the producer and chemistry of
+9 the battery and that indicates the battery should not be disposed of as household waste.
+10 The department may adopt rules establishing marking requirements that differ from this
+11 subsection as necessary to maintain consistency with federal laws or federal regulations
+12 concerning battery labeling requirements or concerning voluntary standards for battery
+13 labeling.
+14 4. Submission of plan; plan requirements. Not later than 6 months after the effective
+15 date of rules initially adopted by the department to implement this section pursuant to
+16 subsection 11, a producer, individually, collectively with one or more producers or through
+17 a battery stewardship organization, shall submit a proposed battery stewardship plan to the
+18 department for review and approval. The plan must cover a term of not more than 5 years
+19 and must include, at a minimum, the following information:
+20 A. Identification of and contact information for the individual or entity submitting the
+21 plan and for each producer that will be participating in the battery stewardship program,
+22 as well as information regarding the brands of covered batteries and covered battery-
+23 containing products for each participating producer that will be managed under the
+24 plan.
+25 (1) Pursuant to subsection 1, paragraph S, the plan must include copies of:
+26 (a) Any written certification describing a participating producer's
+27 responsibility under the program for a covered battery supplied by the producer
+28 to a person for sale in or with a covered-battery containing product of that
+29 person; and
+30 (b) Any signed agreement entered into by a participating producer to accept
+31 responsibility under this section for a person's covered batteries or covered
+32 battery-containing products.
+33 (2) If the plan is submitted by a battery stewardship organization, the plan must
+34 also include:
+35 (a) A description of the organization, including its organizational structure,
+36 administration and management, and the tasks that will be performed by the
+37 organization; and
+38 (b) A written certification that the organization will assume the
+39 responsibilities, obligations and liabilities under this section for all producers
+40 that will be participating in the battery stewardship program;
+41 B. A description of how the program will provide effective education and outreach to
+42 promote program use and ensure that collection options for covered batteries are
+43 understood by consumers, retailers and others, which must include, but is not limited
+44 to:
+Page 6 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+1 (1) A description of how the program will develop and maintain a publicly
+2 accessible website that provides information regarding the producers participating
+3 in the program and the brands of covered batteries and covered battery-containing
+4 products managed under the program; and
+5 (2) A description of the methods to be used by the program to educate and conduct
+6 outreach to retailers regarding the prohibition under subsection 2, paragraph A on
+7 the sale of covered batteries and covered battery-containing products of a producer
+8 that is not participating in a battery stewardship program under this section;
+9 C. A description of how the stewardship program will include a collection system for
+10 all covered battery chemistries and brands that is convenient and adequate to serve the
+11 needs of persons in both rural and urban areas and that otherwise satisfies the
+12 requirements of subsection 6. Information regarding the proposed collection system
+13 must include, but is not limited to:
+14 (1) A list of collection sites and the street addresses of those sites proposed for use
+15 under the program;
+16 (2) A description of the criteria that will be used to determine whether an entity
+17 will be approved to participate as a collection site for covered batteries under the
+18 program;
+19 (3) A description of how the program will make available for voluntary use by
+20 collection sites signage, written materials and other promotional items that may be
+21 used by collection sites to inform consumers regarding end-of-life management
+22 options for batteries collected under the program;
+23 (4) A description of the safety training procedures related to battery collection
+24 activities at collection sites that will be developed for use by collection sites under
+25 the program, including a description of the operating protocols that will be used to
+26 reduce the risk of spills or fires at collection sites, the response protocols that will
+27 be used in the event of spills or fires at collection sites and the protocols that will
+28 be used for the safe management of damaged or defective batteries collected at
+29 collection sites;
+30 (5) Identification of proposed service providers, including sorters, transporters,
+31 processors and recycling establishments, that will be used by the program to
+32 provide for the final disposition of batteries collected through the program's
+33 collection system and a description of the method by which collected batteries will
+34 be recorded, tracked and documented from the point of collection to the point of
+35 final disposition; and
+36 (6) Identification of and explanation for any anticipated delays in the
+37 implementation of the collection system for covered batteries that are medium
+38 format batteries, including any anticipated delays in the program's ability to collect,
+39 package, transport or process medium format batteries pursuant to the requirements
+40 of this section.
+41 The plan must be designed to ensure that, if the implementation of the collection system
+42 for and management of covered batteries that are medium format batteries is delayed,
+43 the collection system requirements for and management of medium format batteries in
+44 accordance with subsection 6, paragraph A will be satisfied not later than 2 years after
+Page 7 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+415 the date of commencement of collection of covered batteries under the program's
+426 collection system;
+3 D. Proposed performance goals for the stewardship program for at least the first 3
+4 years of program implementation, which must include, but are not limited to:
+5 (1) A description of the promotional activities that will be undertaken and the
+6 public awareness goals that will be achieved by the stewardship program and a
+7 description of the public education and outreach strategies the program will employ
+8 to achieve those goals; and
+9 (2) A description of how the stewardship program will be designed to achieve
+10 collection rates and recycling efficiency rates for covered batteries that are primary
+11 batteries and for covered batteries that are rechargeable batteries;
+12 E. A description of the methods by which the producers participating in the battery
+13 stewardship program will finance the collection and transportation and the reuse,
+14 recycling or disposition of covered batteries under the program; effective education
+15 and outreach related to the program; program assessment and reporting; any incentives
+16 necessary to achieve program goals, including education and infrastructure investments
+17 made under the program; and payment to the department in accordance with subsection
+18 11 of reasonable fees for review of the program plan and any proposed amendments
+19 and annual fees to cover the department's actual costs for the program for report review,
+20 oversight, administration and enforcement.
+21 (1) For a program that will be implemented by or on behalf of more than one
+22 producer, the plan must include a description of the methods by which each
+23 participating producer's cost share will be determined and paid, which must be
+24 designed to equitably distribute responsibility for the costs of implementing,
+25 administering and operating the program among the participating producers and
+26 may not create unreasonable barriers to producer participation in the program.
+27 (2) The program must be designed to provide at a minimum a half-time employee
+28 or contracted agent whose job duties are dedicated to implementing the program in
+29 the State unless the commissioner determines that a lesser staffing requirement is
+30 adequate to provide the administrative oversight, training and ongoing technical
+31 support for collection sites, education and outreach efforts, program performance
+32 assessment and reporting necessary for program implementation; and
+33 F. Any other information required by the department.
+34 5. Review and approval of plan; amendments. The department shall review a
+35 proposed battery stewardship plan or amendment to an approved stewardship plan in
+36 accordance with the provisions of this subsection.
+37 A. Within 120 days after receipt of a proposed battery stewardship plan, the
+38 department shall determine whether the stewardship plan complies with the
+39 requirements of this section and the rules adopted pursuant to this section. The
+40 department shall notify the person that submitted the plan in writing regarding its
+41 decision to approve or disapprove the proposed plan. If the department disapproves a
+42 proposed stewardship plan, the written notice of disapproval must state the reason or
+43 reasons for the disapproval.
+Page 8 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+1 B. Upon receipt of a written notice of disapproval pursuant to paragraph A, the entity
+2 that submitted the proposed battery stewardship plan may submit a revised plan to the
+3 department within 60 days of the date of issuance of the written notice or may withdraw
+4 the plan. The department shall review and approve or disapprove a revised plan
+5 submitted under this paragraph within 90 days of receipt.
+6 C. The operator of a battery stewardship program making a substantive change to an
+7 approved battery stewardship plan shall submit the proposed change as a plan
+8 amendment to the department for review and approval prior to implementation. If the
+9 operator determines a change is not substantive, the operator shall inform the
+10 department of the change within 30 days of implementation but need not receive
+11 department approval unless the department determines that the change is substantive.
+12 (1) Examples of changes to an approved battery stewardship plan that are not
+13 substantive include, but are not limited to, the addition to or removal from the
+14 program of collection sites, participating producers or battery transporters,
+15 processors or recycling establishments used by the program.
+16 (2) Examples of changes to an approved battery stewardship plan that are
+17 substantive include, but are not limited to, changes to the financing method used
+18 for funding the program.
+19 The department shall review and approve a proposed amendment to an approved
+20 stewardship plan using the process described in paragraphs A and B.
+21 D. A battery stewardship plan approved by the department under this subsection must
+22 be updated as necessary by the operator of the battery stewardship program and
+23 submitted for review and reapproval at least once every 5 years. If the department has
+24 determined that a program has failed to make adequate progression toward achieving
+25 the performance goals established under the approved plan pursuant to subsection 4,
+26 paragraph D, the updated plan submitted to the department under this paragraph must
+27 propose corrective measures designed to achieve those goals, as directed by the
+28 department or as proposed by the operator, which may include, but are not limited to,
+29 improvements to the convenience of the collection system, increased program
+30 investments in education or infrastructure or other improvements to the program to
+31 improve program performance.
+32 E. A proposed battery stewardship plan, revised stewardship plan or amendment to an
+33 approved stewardship plan that is submitted to the department for review under this
+34 subsection must be made available for review on the department's publicly accessible
+35 website and the department shall accept public comment on that proposed plan or
+36 amendment for at least 30 days.
+37 F. Within 30 days of approval by the department of a battery stewardship plan or an
+38 amendment to an approved stewardship plan pursuant to this subsection, the
+39 department shall make the approved plan available on its publicly accessible website.
+40 6. Collection system requirements. In accordance with the provisions of this
+41 subsection, a battery stewardship program must implement and administer a collection
+42 system for covered batteries that is convenient and adequate to serve the needs of persons
+43 in both rural and urban areas. Except as otherwise provided in this section, the collection
+44 system must be designed to allow any individual, business, government entity, nonprofit
+Page 9 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+415 organization or other person to bring a covered battery of any chemistry or brand for
+426 collection, without charge, to any collection site under the program.
+3 A. Except as otherwise provided in this subsection, not later than one year following
+4 the commencement of collection of covered batteries under a battery stewardship
+5 program's collection system, the program must provide statewide collection
+6 opportunities for covered batteries that are portable batteries, medium format batteries
+7 and damaged or defective batteries that include a reasonable geographic distribution of
+8 collection sites for those batteries throughout the State with:
+9 (1) At least one permanent collection site for portable batteries, medium format
+10 batteries and damaged or defective batteries within a 15-mile radius for at least
+11 95% of the residents of the State;
+12 (2) At least one permanent collection site for portable batteries, medium format
+13 batteries and damaged or defective batteries in each county; and
+14 (3) At least one additional collection site for portable batteries, medium format
+15 batteries and damaged or defective batteries for each 30,000 residents in a
+16 population center in a location that provides convenient and reasonably equitable
+17 access for residents of the population center unless otherwise approved by the
+18 department.
+19 Unless otherwise approved by the department, any delay in the satisfaction by the
+20 program of the requirements of this paragraph for medium format batteries must be
+21 consistent with any delay provisions included in the program's approved plan pursuant
+22 to subsection 4, paragraph C, subparagraph (6).
+23 B. Except as otherwise provided in this subsection, not later than January 1, 2031, or
+24 one year following the commencement of collection of covered batteries that are
+25 embedded batteries under a battery stewardship program's collection system,
+26 whichever is later, the program must provide statewide collection opportunities for
+27 covered batteries that are embedded batteries that include a reasonable geographic
+28 distribution of collection sites for embedded batteries throughout the State with:
+29 (1) At least one permanent collection site for embedded batteries in each county;
+30 and
+31 (2) At least one additional collection site for embedded batteries for each 30,000
+32 residents in a population center in a location that provides convenient and
+33 reasonably equitable access for residents of the population center unless otherwise
+34 approved by the department.
+35 C. Determination of whether a battery stewardship program has satisfied the collection
+36 system requirements of this subsection must be based on geographic information
+37 modeling data and must account only for permanent collection sites available under the
+38 program. A battery stewardship program may offer one-time or recurring but
+39 nonpermanent collection events to provide additional collection opportunities for
+40 covered batteries, but nonpermanent collection events may not be counted towards the
+41 program's satisfaction of the requirements of this subsection.
+42 D. The department may waive the requirements of paragraph A or B with respect to
+43 collection sites within a county or population center in the State if the department
+44 determines that those requirements are not practicable due to geographical constraints
+Page 10 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+415 or that implementation by the stewardship program of an alternative collection system
+426 that does not meet those requirements will result in equivalent and more efficient
+437 collection opportunities in the county or population center.
+4 As used in this subsection, "population center" means an urbanized area or urban cluster,
+5 as defined by the United States Department of Commerce, Bureau of the Census to identify
+6 areas of high population density and urban land use with a population of 2,500 or greater.
+7 7. Collection site and collection event requirements and operation. This subsection
+8 governs collection sites and collection events available under a battery stewardship
+9 program.
+10 A. Within 90 days of receiving a request from a retailer, wholesaler, municipality or
+11 tribal government, solid waste management facility, household hazardous waste
+12 facility or other entity to participate in a battery stewardship program as a collection
+13 site or to hold a collection event for covered batteries, the operator of the program shall
+14 approve that participation as long as the proposed site or event satisfies the
+15 requirements of the approved battery stewardship plan to serve as a site or event. Once
+16 a battery stewardship program has met the collection system requirements of
+17 subsection 6, the operator, with prior approval from the department, may decline
+18 additional collection site or collection event requests under this paragraph.
+19 B. The operator of a battery stewardship program shall provide to each approved
+20 collection site or collection event under the program all appropriate collection
+21 containers, ancillary materials and staff training necessary for that participation.
+22 (1) Collection containers provided to a collection site or collection event must be
+23 suitable for the collection of covered batteries and must be segregated from other
+24 waste that may be accepted at the site or event or, with the agreement of the entity
+25 managing the site or event, the operator may implement an alternative arrangement
+26 for covered battery collection consistent with the approved battery stewardship
+27 plan.
+28 (2) Each collection container used at a collection site or collection event must be
+29 located within the view of a responsible person at the site or event and must be
+30 accompanied by signage made available to the site or event through the program
+31 containing information for consumers regarding end-of-life management options
+32 for batteries accepted at the site or event.
+33 (3) All reasonable costs associated with the participation of a collection site or
+34 collection event in a battery stewardship program must be paid or reimbursed to
+35 the entity managing the site or event by the battery stewardship program.
+36 C. A collection site or collection event may accept for collection covered batteries that
+37 are medium format batteries only if the site or event meets applicable state
+38 requirements for the management of household hazardous waste or for the management
+39 of medium format batteries.
+40 D. A collection site or collection event may accept for collection covered batteries that
+41 are damaged or defective batteries only if the site or event is staffed by responsible
+42 persons trained to handle and prepare damaged or defective batteries for transportation.
+43 The operator of a battery stewardship program shall provide for the collection,
+44 overseen by qualified staff persons, of damaged or defective batteries at any permanent
+Page 11 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+415 collection site under the program that meets applicable state requirements for the
+426 management of household hazardous waste or for the management of damaged or
+437 defective batteries.
+4 E. A collection site or collection event is not required to accept, and a battery
+5 stewardship program is not required to provide or support collection opportunities for,
+6 batteries that are not covered batteries, including, but not limited to, large format
+7 batteries, batteries contained within covered electronic devices regulated under section
+8 1610 or, prior to January 1, 2030, embedded batteries.
+9 F. A collection site or collection event may not require a person that brings a covered
+10 battery for collection to the site or event to pay a fee associated with that collection.
+11 G. The operator of a battery stewardship program may issue a warning to, suspend or
+12 terminate a collection site or collection event participating in the program if the site or
+13 event fails to satisfy the requirements of the approved battery stewardship plan for sites
+14 or events or if the operator determines, after consultation with the department, that the
+15 site or event poses an immediate risk to public health or safety.
+16 8. Annual reporting requirement; record retention. In accordance with the
+17 requirements of this subsection, by May 1st of the calendar year after the calendar year in
+18 which an approved battery stewardship program is implemented, and annually thereafter,
+19 the operator of the program shall submit to the department a report on the program for the
+20 previous calendar year. The department shall make any report submitted pursuant to this
+21 subsection available on its publicly accessible website. A report submitted to the
+22 department pursuant to this subsection must include, at a minimum, the following
+23 information:
+24 A. Contact information for the operator of the battery stewardship program and a list
+25 of producers participating in the program. The report must include, if known by the
+26 operator of the program, a list of producers not participating in the program that the
+27 operator believes are not in compliance with the requirements of this section. The
+28 report must include any information known by the operator regarding the covered
+29 batteries or covered battery-containing products of a noncompliant producer that have
+30 been sold, offered for sale or distributed for sale in or into the State;
+31 B. The brands and universal product codes, or UPCs, of the covered batteries and
+32 covered battery-containing products of the producers participating in the battery
+33 stewardship program;
+34 C. Beginning with the report due under this subsection in 2027 and ending with the
+35 report due in 2030, for each battery-containing product that contains an embedded
+36 battery that is sold, offered for sale or distributed for sale in or into the State by a
+37 producer participating in the battery stewardship program:
+38 (1) A description of the product and identification of the battery chemistry and
+39 battery type of the embedded battery; and
+40 (2) The universal product code, or UPC, of the embedded battery.
+41 This paragraph is repealed April 1, 2030;
+42 D. The total amount, by weight or by volume, of each type of covered battery,
+43 including covered batteries contained in covered battery-containing products, that was
+Page 12 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+414 sold, offered for sale or distributed for sale in or into the State by each producer
+425 participating in the battery stewardship program during the prior calendar year. The
+436 report must also include information regarding the collection rate and recycling
+447 efficiency rate for covered batteries collected under the program during the prior
+458 calendar year;
+6 E. A complete accounting of payments made to the operator of the battery stewardship
+7 program by producers participating in the program and of expenditures made by the
+8 operator during the prior calendar year, including information regarding how the
+9 amount required to be paid by each participating producer was determined.
+10 (1) The report must include an assessment of whether the payments required of
+11 producers participating in the program pursuant to subsection 4, paragraph E have
+12 been or are designed to incentivize improvements in the recycling efficiency rate
+13 or recyclability of covered batteries.
+14 (2) The report must include a complete accounting of revenue derived by the
+15 operator of the battery stewardship program from the sale of covered batteries
+16 collected for recycling under the program during the prior calendar year.
+17 (3) The report must include a description of the education and infrastructure
+18 investments made by the operator of the battery stewardship program during the
+19 prior calendar year and an evaluation of how those investments were designed to
+20 increase access to recycling for covered batteries in the State and to encourage
+21 proper management of unwanted batteries.
+22 (4) The report must include the results of a 3rd-party financial audit of the battery
+23 stewardship program paid for by the operator of the program;
+24 F. An assessment of the progress made by the battery stewardship program during the
+25 prior calendar year in achieving the program's performance goals set forth in the plan
+26 pursuant to subsection 4, paragraph D;
+27 G. A description of any proposals for changes to the battery stewardship program or
+28 new investments in education or infrastructure designed to increase access to recycling
+29 for covered batteries, increase the collection rate or the recycling efficiency rate or
+30 recyclability of covered batteries, reduce program costs or otherwise increase program
+31 efficiency;
+32 H. An estimate of the annual greenhouse gas emissions effects in the State associated
+33 with the operation of the battery stewardship program, calculated using methods
+34 directed by the department by rule; and
+35 I. Any other information required by the department.
+36 The operator of a battery stewardship program shall retain any record relating to the
+37 implementation and administration of the stewardship program for not less than 5 years
+38 from the date the record is created and shall make those records available to the department
+39 for inspection upon request. As used in this subsection, "universal product code" or "UPC"
+40 has the same meaning as in section 2146, subsection 1, paragraph V.
+41 9. Battery stewardship fund required; authorized expenditures. The operator of
+42 a battery stewardship program shall establish a battery stewardship fund as a separate
+43 account or separate accounts maintained by the operator into which the operator shall
+Page 13 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+414 deposit all payments received from participating producers in accordance with subsection
+425 4, paragraph E and all other revenue derived by the operator from the management of the
+436 program. The operator shall expend money within that fund only for the following
+447 authorized purposes:
+5 A. To cover the operator's costs of implementing, administering and operating the
+6 battery stewardship program, which must be annually verified by a 3rd-party financial
+7 audit paid for from the fund as required by subsection 8, paragraph E, subparagraph
+8 (4);
+9 B. To pay to the department all applicable fees required in accordance with subsection
+10 11 for costs incurred by the department in implementing, administering and enforcing
+11 the requirements of this section and the rules adopted pursuant to this section;
+12 C. To pay for or reimburse costs incurred by retailers, wholesalers, municipalities or
+13 tribal governments, solid waste management facilities, household hazardous waste
+14 facilities or other entities for their participation in the battery stewardship program as
+15 a collection site in accordance with subsection 7; and
+16 D. To pay for investments in education or infrastructure made in accordance with
+17 subsection 10.
+18 10. Education and infrastructure investments. In accordance with the provisions
+19 of this subsection, the operator of a battery stewardship program shall make investments in
+20 education and infrastructure to support or improve the recycling of covered batteries in the
+21 State under the program.
+22 A. Prior to making any proposed investment in education or infrastructure, the operator
+23 shall submit the proposed investment to the department for review and approval. A
+24 proposed investment submitted to the department must incorporate any input solicited
+25 and received by the operator regarding the proposal from participating producers;
+26 municipalities, tribal governments, retailers and other entities participating in the
+27 program as collection sites; and recycling establishments, transporters and processors
+28 used by the program for the transportation, management and disposition of collected
+29 covered batteries. The department shall approve or deny a proposed investment in
+30 writing within 90 days of receipt of the proposal.
+31 B. The department shall adopt rules setting forth criteria for its review and approval
+32 or disapproval of proposed education or infrastructure investments under this
+33 subsection. In reviewing and approving proposed education or infrastructure
+34 investments under this subsection, the department shall ensure that funding preference
+35 is given to proposals that support the solid waste management hierarchy under section
+36 2101; promote a circular economy for batteries; increase the recyclability of batteries
+37 that are not readily recyclable in the State; increase access to recycling infrastructure
+38 in the State for batteries; improve consumer education efforts in the State regarding the
+39 recycling and recyclability of batteries; and equitably support battery recycling and
+40 education efforts in municipalities participating in the program as collection sites,
+41 particularly in those municipalities that have not previously benefited from an
+42 investment made pursuant to this subsection.
+43 11. Department administration. The following provisions govern the administration
+44 and enforcement of this section by the department.
+Page 14 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+1 A. The department shall implement, administer and enforce this section and may adopt
+2 rules as necessary for those purposes. Rules adopted pursuant to this paragraph are
+3 routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+4 B. The operator of a battery stewardship program is responsible for payment to the
+5 department of:
+6 (1) A reasonable fee associated with the department's review of the stewardship
+7 program's proposed stewardship plan and any proposed amendments to that plan
+8 pursuant to subsection 5. A fee required under this subparagraph must be paid to
+9 the department at the time that the proposed stewardship plan or amendment is
+10 submitted to the department for review; and
+11 (2) A reasonable annual fee to cover the department's actual costs for annual report
+12 review, oversight, administration and enforcement for the program. An annual fee
+13 required under this subparagraph must be properly documented and provided by
+14 the department to the operator prior to or at the time the payment is required.
+15 C. Beginning February 15, 2027, and annually thereafter, the department shall submit
+16 to the joint standing committee of the Legislature having jurisdiction over environment
+17 and natural resources matters a report regarding the status of battery stewardship
+18 programs implemented under this section. The report required under this paragraph
+19 may be included in the report required pursuant to section 1772, subsection 1.
+20 12. Relationship to other programs. A producer of a covered battery subject to the
+21 requirements of section 2165 and to the requirements of this section may submit a request
+22 to the department for a waiver from the requirements of this section with respect to that
+23 battery.
+24 A. The department shall grant the waiver if it determines that the producer has
+25 established and is maintaining a system for the proper collection, transportation and
+26 processing of that battery in accordance with all applicable requirements of section
+27 2165.
+28 B. If the department grants a waiver to a producer under this subsection, the producer
+29 is relieved from complying with the requirements of this section with respect to that
+30 battery.
+31 A producer of a covered battery subject to the requirements of section 2165 and to the
+32 requirements of this section that complies with all applicable requirements of this section
+33 is exempt from complying with the requirements of section 2165 with respect to that
+34 battery.
+35 13. Antitrust exclusions. A producer or battery stewardship organization, including
+36 a producer's or stewardship organization's officers, members, employees and agents, that
+37 organizes a battery stewardship program under this section is immune from liability for the
+38 producer's or stewardship organization's conduct under state laws relating to antitrust,
+39 restraint of trade, unfair trade practices and other regulation of trade or commerce only to
+40 the extent necessary to plan and implement the producer's or stewardship organization's
+41 battery stewardship program consistent with the requirements of this section.
+42 14. Proprietary information. Proprietary information submitted to the department
+43 pursuant to the requirements of this section or the rules adopted by the department pursuant
+44 to this section that is identified by the submittor as proprietary information is confidential
+Page 15 - 132LR1469(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 214, L.D. 474
+415 and must be handled by the department in the same manner as confidential information is
+426 handled under section 1310-B.
+3 Sec. 4. 38 MRSA §2165, sub-§2, as enacted by PL 1991, c. 808, §2, is amended to
+4 read:
+5 2. Disposal ban. A person employed directly or indirectly by a government agency,
+6 or an industrial, communications or medical facility may not knowingly dispose of a dry
+7 cell mercuric oxide battery or a rechargeable battery in a manner that is not part of a
+8 collection system established under subsection 4 or under section 1617.
+9 Sec. 5. 38 MRSA §2165, sub-§4, as enacted by PL 1991, c. 808, §2, is amended to
+10 read:
+11 4. Manufacturer responsibility. A Except as provided under section 1617,
+12 subsection 12, a manufacturer of dry cell mercuric oxide or rechargeable batteries that are
+13 subject to subsection 1 shall:
+14 A. Establish and maintain a system for the proper collection, transportation and
+15 processing of waste dry cell mercuric oxide and rechargeable batteries for purchasers
+16 in this State;
+17 B. Clearly inform each purchaser that intends to use these batteries of the prohibition
+18 on disposal of dry cell mercuric oxide and rechargeable batteries and of the available
+19 systems for proper collection, transportation and processing of these batteries;
+20 C. Identify a collection system through which mercuric oxide and rechargeable
+21 batteries must be returned to the manufacturer or to a manufacturer-designated
+22 collection site; and
+23 D. Include the cost of proper collection, transportation and processing of the waste
+24 batteries in the sales transaction or agreement between the manufacturer and any
+25 purchaser.'
+26 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+27 number to read consecutively.
+28 SUMMARY
+2299 This amendment changes the title of and replaces the bill, which is a concept draft. The
+3300 amendment requires producers of primary batteries and rechargeable batteries and of
+3311 products that contain those batteries to individually, collectively or through a battery
+3322 stewardship organization submit to the Department of Environmental Protection for review
+3333 and approval a plan for the establishment of a battery stewardship program to manage
+3344 primary and rechargeable batteries sold by producers in the State. One hundred and eighty
+3355 days after such a battery stewardship plan is approved by the department, a producer of
+3366 primary batteries, rechargeable batteries or products that contain those batteries may not
+3377 sell, offer for sale or distribute for sale in or into the State a primary battery, rechargeable
+3388 battery or product that contains those batteries unless the producer participates in an
+3399 approved battery stewardship program, individually, collectively or through a battery
+4400 stewardship organization.
+4411 FISCAL NOTE REQUIRED
+4422 (See attached)
+Page 16 - 132LR1469(02)
+COMMITTEE AMENDMENT

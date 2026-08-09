@@ -1,0 +1,506 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-605)
+Media Type: application/pdf
+
+================================================================================
+
+1 L.D. 1457
+2 Date: (Filing No. S- )
+3 TRANSPORTATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457, “Resolve, to Allow the
+10 Maine Turnpike Authority to Conduct a Pilot Program to Implement Automated Speed
+11 Control Systems in Highway Work Zones”
+12 Amend the resolve by striking out everything after the title and inserting the following:
+13 'Sec. 1. Maine Turnpike Authority authorized to conduct pilot program to
+14 implement automated speed control systems in highway work zones.
+15 Resolved: That, notwithstanding any provision of law to the contrary, the Maine Turnpike
+16 Authority, in conjunction with the Department of Public Safety, is authorized to conduct a
+17 pilot program to operate automated speed control systems in a highway work zone.
+18 Sec. 2. Definitions. Resolved: That, as used in this resolve, unless the context
+19 otherwise indicates, the following terms have the following meanings.
+20 1. "Authority" means the Maine Turnpike Authority under the Maine Revised Statutes,
+21 Title 23, chapter 24.
+22 2. "Director" means the executive director of the authority appointed under the Maine
+23 Revised Statutes, Title 23, section 1964-A, subsection 8.
+24 3. "Highway work zone" means an active construction work area denoted by roadway
+25 construction signs with workers present.
+26 4. "Operator" means an operator of a system who is a person trained and certified to
+27 operate a system.
+28 5. "Personally identifiable information" means information created or maintained by
+29 the authority or a vendor that identifies or describes a registrant and includes the registrant's
+30 address, telephone number, license plate number, photograph, bank account information,
+31 credit card number or debit card number or the date, time, location or direction of the
+32 registrant's travel on the Maine Turnpike.
+33 6. "Pilot program" means the pilot program established pursuant to this resolve.
+Page 1 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+1 7. "Registrant" means a person in whose name a motor vehicle is registered under the
+2 law of a jurisdiction, including a person issued a dealer or transporter registration plate.
+3 The lessee of a motor vehicle that is leased for more than 30 days must be considered the
+4 registrant of that motor vehicle for the purpose of this section.
+5 8. "System" means an automated speed control system, composed of one or both of
+6 the following:
+7 A. A device having one or more motor vehicle sensors connected to a camera that
+8 records the speed, location and license plate of the motor vehicle operating in violation
+9 of section 4 and the date and time of the alleged violation; and
+10 B. Software systems, subsystems and interfaces to process vehicle data, identify
+11 registrants, send warnings and infractions, process payments and appeals and provide
+12 other functions necessary for implementation of the pilot program.
+13 9. "Toll violation process" means the process to collect or appeal unpaid tolls on the
+14 Maine Turnpike pursuant to the Maine Revised Statutes, Title 23, section 1980, subsection
+15 2-A, paragraph C.
+16 10. "Vendor" means a person selected by the authority:
+17 A. To provide services to the authority under this resolve;
+18 B. That operates, maintains, leases or licenses a system; or
+19 C. That is authorized to review and assemble the recorded images captured by a system.
+20 Sec. 3. Pilot program requirements. Resolved: That the pilot program may be
+21 modeled to the extent feasible on the toll violation process and must incorporate the
+22 following.
+23 1. The pilot program may operate a system at up to 3 locations on the Maine Turnpike
+24 at any one time. A system may be used to record images of license plates of motor vehicles
+25 traveling on the Maine Turnpike within a highway work zone in which the speed limit,
+26 established using generally accepted traffic engineering practices, is 45 miles per hour or
+27 more.
+28 2. A system may be used if:
+29 A. The system is operated by an operator;
+30 B. At least 3 conspicuous road signs are placed at a reasonable distance in advance of
+31 a highway work zone notifying drivers that a system is in operation;
+32 C. An appropriate sign is conspicuously placed within the highway work zone with a
+33 system that is operational; and
+34 D. A notice identifying the location of a system is available on the authority's publicly
+35 accessible website.
+36 3. A system may be used only to record images of motor vehicles that are exceeding
+37 the posted highway work zone speed limit by 11 miles per hour or more in violation of
+38 section 4. The authority or operator shall certify to the Department of Public Safety when
+39 a system is operational.
+40 4. Any recorded images collected as part of a system may not be used for any purpose
+41 other than enforcement of violations of section 4. If an image shows the face of a passenger
+Page 2 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+412 or driver of the motor vehicle, the image may not be used for enforcement or any other
+423 purposes, and the authority shall delete the image within one business day upon discovery
+434 of an image that shows the face of a passenger or driver of a motor vehicle.
+4 5. The director may:
+5 A. Enter into an agreement with a vendor for the design, operation or maintenance, or
+6 any combination thereof, of systems; and
+7 B. Retain and employ a consultant or assistant on a contract or other basis for rendering
+8 legal, financial, professional, technical or other assistance and advice necessary for the
+9 design, operation and maintenance of a system. If a vendor provides, deploys or
+10 operates a system, the vendor's fee may not be contingent on the number of violations
+11 issued or penalties paid pursuant to section 4.
+12 6. The pilot program must commence within one year of the effective date of this
+13 resolve and may remain operational for no more than 3 years from the effective date of this
+14 resolve.
+15 7. The pilot program must include an initial warning period of at least 90 days during
+16 which a registrant must receive a warning that the driver was recorded speeding in a
+17 highway work zone. During the initial warning period, the authority is limited to the
+18 following activities:
+19 A. Gathering data, including, but not limited to, the volume and frequency of
+20 violations; and
+21 B. Issuing notices for public awareness regarding speeding in a highway work zone.
+22 The notices must include:
+23 (1) All information listed in section 7, subsection 1, except for paragraph F;
+24 (2) A description of the pilot program and its purposes; and
+25 (3) Information on the forthcoming penalties for a violation of section 4.
+26 A notice issued during the initial warning period may not be considered a notice of
+27 violation pursuant to section 4.
+28 8. Notwithstanding the Maine Revised Statutes, Title 29-A, section 2054, subsection
+29 2, paragraph D, or any other provision of law to the contrary, for the duration of the pilot
+30 program, a vehicle operated by the authority or its vendor may be equipped with blue lights
+31 attached on the vehicle if the lights are operated only when the vehicle is stationary and the
+32 lights are used for the purpose of alerting drivers that a system is in operation.
+33 Sec. 4. Penalties for exceeding speed limit in highway work zone detected
+34 by system. Resolved: That a registrant that exceeds the posted speed limit by 11 miles
+35 per hour or more, as detected by a system, within a highway work zone where a system is
+36 operational is in violation of this section. The authority may administer penalties to such
+37 a registrant. The authority may change the threshold speed at which a notice of violation
+38 may be issued, except that the authority may not set the threshold speed to less than 11
+39 miles per hour over the posted highway work zone speed limit.
+40 1. The registrant identified by a system as violating this section:
+41 A. For a first violation, must receive a written warning; and
+Page 3 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+1 B. For each subsequent violation, is liable for a $100 fine.
+2 2. The authority may provide for a grace period of no less than 21 days following the
+3 issuance of a notice of violation to the registrant. If the authority establishes a grace period,
+4 the registrant may not receive additional notices of violation for violations involving that
+5 vehicle that occur during the grace period.
+6 3. A violation of this section is a civil violation. The violation:
+7 A. Is not subject to demerit points under the Maine Revised Statutes, Title 29-A,
+8 section 2458, subsection 3;
+9 B. May not be used for merit rating for insurance purposes; and
+10 C. Does not authorize the imposition of surcharge points in the provision of motor
+11 vehicle insurance coverage.
+12 4. Within 30 days of issuance of a violation, the registrant must:
+13 A. Pay the fine required by subsection 1, paragraph B; or
+14 B. Request an administrative review remotely, by telephone or over the Internet, or in
+15 person at the authority's headquarters in Portland or another location to be designated
+16 by the authority to contest the violation within 30 days of the issuance of the violation,
+17 as prescribed by rules adopted by the authority.
+18 If the registrant does not request a review within 30 days of the issuance of the
+19 violation, an administrative review under this section may not be conducted.
+20 5. In an administrative review pursuant to subsection 4, paragraph B, the authority
+21 shall determine if the registrant is liable for the fine.
+22 A. If the registrant is determined not to be liable based on the defenses in section 8,
+23 the authority shall dismiss the violation, and the registrant may not be subject to any
+24 fine for that violation. The violation may not be considered when assessing a fine owed
+25 for any future violation by that registrant.
+26 B. If the registrant is determined to be liable, the registrant must pay the fine as
+27 required by this section within 30 days of the final determination of liability.
+28 6. If the registrant does not respond to the notice of violation pursuant to subsection 4,
+29 the authority shall issue a final notice to the registrant that the registrant must pay, within
+30 30 days of issuance of a violation, the fine required by subsection 1, paragraph B. The final
+31 notice must include a warning that failure to pay the fine within 30 days of issuance of a
+32 violation may result in revocation of the registration certificate and plates issued for a motor
+33 vehicle registered in this State or suspension of the right to operate the motor vehicle in
+34 this State if it is registered in another jurisdiction.
+35 7. The authority may notify the Secretary of State, who shall, in accordance with the
+36 Maine Revised Statutes, Title 29‑A, section 154, subsection 6, suspend the registration
+37 certificate and plates issued for the vehicle involved in an alleged failure to pay a fine if
+38 that vehicle is registered in this State or, if that vehicle is registered in another jurisdiction,
+39 suspend the right to operate the motor vehicle in accordance with Title 29‑A, section 2461
+40 if a registrant:
+41 A. Does not pay the fine within 30 days of issuance of the notice pursuant to subsection
+42 4;
+Page 4 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+1 B. Does not pay the fine within 30 days of issuance of the final notice pursuant to
+2 subsection 6; or
+3 C. Is determined to be liable for the civil violation after the administrative review
+4 requested under subsection 4, paragraph B and does not pay the fine pursuant to
+5 subsection 5, paragraph B.
+6 8. Any fines collected by the authority under this section must be forwarded to the
+7 Treasurer of State to be transferred to the Highway Fund.
+8 9. An administrative review may be conducted by an employee of the vendor, as long
+9 as the employee conducting the review reports directly to the authority and operates under
+10 the supervision of the authority and the authority takes precautions to ensure that the
+11 employee understands the administrative review procedure and the rights of the registrant.
+12 All decisions of an administrative review conducted by an employee of the vendor must be
+13 reviewed and approved by an employee of the authority before taking final effect.
+14 10. An administrative review conducted under this section must be informal and not
+15 subject to any rules of evidence.
+16 Sec. 5. Review of recorded images. Resolved: That the notice of violation must
+17 be reviewed and verified by the authority or its vendor before issuance and is admissible
+18 as prima facie evidence of the facts contained in the notice in any court proceeding for an
+19 alleged violation of section 4. The notice of violation is self-authenticating for the purposes
+20 of any such proceeding.
+21 Sec. 6. Operator training and duties; system calibration. Resolved: That:
+22 1. An operator shall complete training offered by the manufacturer of a system or the
+23 manufacturer's representative in the procedures for setting up, testing and operating the
+24 system, including training on any device critical to the operation of the system. Upon
+25 completion of the training, the manufacturer or manufacturer's representative shall issue a
+26 signed certificate to the operator. The signed certificate is admissible as prima facie
+27 evidence of the facts contained in the certificate in any court proceeding related to an
+28 alleged violation of section 4. The certificate is self-authenticating for the purposes of any
+29 such proceeding;
+30 2. An operator shall complete and sign a log for a system used in a highway work zone
+31 that day. The log must:
+32 A. State the date, time and location of the system's setup;
+33 B. State that the operator successfully performed any testing and the system passed
+34 any testing specified by the manufacturer of the system;
+35 C. Certify that workers were present in the highway work zone for the duration of the
+36 system's operation that day. If workers were not present in the highway work zone for
+37 one or more periods of time during that operation, the log must specifically note those
+38 periods;
+39 D. Be kept on file at the principal office of the operator; and
+40 E. Be admissible in any proceeding for an alleged violation of section 4 as prima facie
+41 evidence of the facts contained in the log; and
+Page 5 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+1 3. A system must undergo an annual calibration check performed at a calibration
+2 laboratory. The calibration laboratory shall issue a signed certificate of calibration after the
+3 annual calibration check. The signed certificate of calibration must be kept on file and is
+4 admissible as prima facie evidence as to the facts contained in the certificate in any
+5 proceeding related to an alleged violation of section 4. The certificate is self-authenticating
+6 for the purposes of any such proceeding.
+7 Sec. 7. Notice of violation. Resolved: That:
+8 1. The notice of violation for an alleged violation of section 4 must include:
+9 A. A copy of the recorded image showing the motor vehicle with the motor vehicle's
+10 license plate visible;
+11 B. The registration number, registration plate type and state of issuance of the motor
+12 vehicle registration;
+13 C. Certification that the system was operating correctly at the time of the alleged
+14 violation of section 4 and the date of the most recent calibration check under section 6,
+15 subsection 3;
+16 D. The date, time and location of the alleged violation of section 4 and the speed of
+17 the vehicle involved at the time of the violation;
+18 E. Certification that the highway work zone was active with workers present in the
+19 highway work zone at the time the image in the notice was recorded, which may be
+20 based on a log maintained by the operator; and
+21 F. A description of the registrant's rights to contest the violation with the authority and
+22 the statutory defenses described in section 8. The notice must also include a warning
+23 that failure to contest in the manner and time provided is an admission of liability and
+24 a waiver of defenses and that failure to pay or respond may result in revocation of the
+25 registration certificate and plates issued for a motor vehicle registered in this State or
+26 suspension of the right to operate the motor vehicle in this State if it is registered in
+27 another jurisdiction;
+28 2. The notice of violation must be mailed no later than 30 days after the commission
+29 of the alleged violation of section 4 or after the identity of the registrant is ascertained,
+30 whichever is later. The notice must be mailed to:
+31 A. For an alleged violation of section 4 involving a motor vehicle registered in this
+32 State, the address of the registrant that is in the records of the Department of the
+33 Secretary of State, Bureau of Motor Vehicles; or
+34 B. For an alleged violation of section 4 involving a motor vehicle registered in another
+35 jurisdiction, the address of the registrant that is in the records of the other jurisdiction
+36 issuing the registration.
+37 If no address is on record with the authority or the Secretary of State, the notice may be
+38 sent to an address for the registrant obtained by the authority through other reasonable
+39 means, including, but not limited to, through databases compiled by law enforcement or
+40 other government agencies pursuant to section 9;
+Page 6 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+1 3. The notice of violation for an alleged violation of section 4 is invalid unless the
+2 notice is mailed to the registrant no later than 90 days after the alleged violation of section
+3 4; and
+4 4. The notice of violation for an alleged violation of section 4 must be sent by first-
+5 class mail. A manual or automatic record of mailing prepared by the operator in the
+6 ordinary course of business is prima facie evidence of mailing and is admissible in any
+7 proceeding as to the facts contained in the notice.
+8 Sec. 8. Defenses. Resolved: That the following defenses are available to the
+9 registrant identified by a system as allegedly violating section 4:
+10 1. The violation took place during a period of time in which the motor vehicle had
+11 been reported to a law enforcement unit as being stolen, as described in the Maine Revised
+12 Statutes, Title 17-A, section 360, subsection 1, paragraph A, and had not been recovered
+13 prior to the time of the violation;
+14 2. The system was not in compliance with the provisions of section 6 relating to tests
+15 for accuracy, certification or calibration; or
+16 3. The registrant received a citation from a law enforcement officer for speeding at the
+17 time of the violation.
+18 Sec. 9. Information to authority and vendor. Resolved: That:
+19 1. The Department of Public Safety shall facilitate access for the authority and its
+20 vendor to the national database of the International Justice and Public Safety Network, also
+21 known as Nlets, for the purpose of law enforcement. The authority may use the database,
+22 or another database of comparable reliability, to obtain information regarding the registrant
+23 identified by the system as allegedly violating section 4, including, but not limited to, the
+24 make of the motor vehicle, the registration plate type and license plate number of the motor
+25 vehicle and the name and address of the registrant; and
+26 2. The Department of the Secretary of State, Bureau of Motor Vehicles shall provide
+27 the authority or its vendor with information regarding the registrant identified by a system
+28 as allegedly violating section 4 if that information is not readily available through access
+29 to the national database of the International Justice and Public Safety Network, also known
+30 as Nlets or another database of comparable reliability. The information must include the
+31 make of the motor vehicle, the registration plate type and license plate number of the motor
+32 vehicle and the name and address of the registrant.
+33 Sec. 10. Personally identifiable information; sale, disclosure, maintenance,
+34 collection and destruction. Resolved: That:
+35 1. Personally identifiable information may not be sold by the authority or any vendor
+36 to any person;
+37 2. Except as specifically provided in this section, personally identifiable information
+38 is confidential and may not be disclosed by the authority or any vendor to any person. The
+39 authority or a vendor may disclose personally identifiable information only in the following
+40 circumstances:
+41 A. Upon request to the registrant to whom the information relates;
+42 B. As required under section 7 when issuing a notice of violation;
+Page 7 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+1 C. As necessary to enforce a fine pursuant to section 4, including as necessary for
+2 purposes of any administrative appeal or judicial review proceeding; or
+3 D. Pursuant to a judicial order, including a search warrant or subpoena issued in a
+4 criminal proceeding;
+5 3. Personally identifiable information must be destroyed by the authority and any
+6 vendor as follows.
+7 A. Any recorded images that show the face of a passenger or driver of a motor vehicle
+8 must be permanently destroyed by the authority and any vendor within one business
+9 day as required by section 3, subsection 4.
+10 B. All personally identifiable information related to an alleged violation, including any
+11 image of the alleged violation recorded by a system, must be destroyed by the authority
+12 and any vendor as soon as possible after the issuance of a final decision in favor of the
+13 registrant in an administrative review proceeding or the issuance of a final decision in
+14 favor of the registrant by a court of competent jurisdiction reviewing the imposition of
+15 a fine.
+16 C. Except as otherwise required by law or as required to comply with an administrative
+17 summons or judicial order, including a search warrant or subpoena, the authority and
+18 any vendor shall destroy an image recorded by a system related to a violation:
+19 (1) No later than 21 days after the registrant fails to request an administrative
+20 review of the violation within the time required by section 4, subsection 5; or
+21 (2) No later than 21 days after the final resolution of any administrative review or
+22 judicial review concluding that a violation occurred, or the end of any applicable
+23 appeals period, whichever is later.
+24 D. All personally identifiable information related to a violation must be destroyed by
+25 the authority and any vendor as soon as possible after collection of a fine imposed
+26 pursuant to section 4, except that the authority and a vendor may maintain the
+27 registration plate type and license plate number for purposes of determining whether
+28 the vehicle is involved in a subsequent violation as described in section 4, subsection
+29 1; and
+30 4. Notwithstanding any other provision of this section:
+31 A. The authority and any vendor may maintain information that is not personally
+32 identifiable information in a system and may compile and disclose this information for
+33 research purposes and as part of the reports required by sections 12 and 14; and
+34 B. The authority shall engage an independent auditing firm to perform an annual audit
+35 of the pilot program's compliance with this section. The auditing firm shall destroy all
+36 personally identifiable information it receives as soon as possible after completing the
+37 audit. The authority shall provide a copy of the result of each annual audit to the joint
+38 standing committee of the Legislature having jurisdiction over transportation matters.
+39 Sec. 11. Rules. Resolved: That the authority may adopt rules to carry out the
+40 purposes of this resolve, including rules that establish the criteria that must be met before
+41 a system may be operated in a highway work zone, rules governing the procedures for
+42 administrative reviews and rules regarding pilot program administration. Rules adopted
+43 pursuant to this section are routine technical rules under the Maine Revised Statutes, Title
+Page 8 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+414 5, chapter 375, subchapter 2-A. Rules adopted pursuant to this section are applicable only
+425 during the course of the pilot program.
+3 Sec. 12. Progress of implementation of pilot program. Resolved: That, by
+4 January 31, 2028, the authority shall present to the joint standing committee of the
+5 Legislature having jurisdiction over transportation matters on the implementation of the
+6 pilot program to date.
+7 Sec. 13. Highway work zone automated speed control system discontinued.
+8 Resolved: That the system authorized pursuant to this resolve is not authorized to
+9 continue beyond the time frame established in section 3, subsection 6, except that the
+10 penalties and notifications for violations that occurred on or before that date may continue
+11 to be processed.
+12 Sec. 14. Report. Resolved: That, no later than 3 months following the end of the
+13 pilot program, the director shall submit a report evaluating the pilot program along with
+14 any recommended legislation to the joint standing committee of the Legislature having
+15 jurisdiction over transportation matters, which may report out legislation in the next regular
+16 or special session after the report has been received.'
+17 Amend the resolve by relettering or renumbering any nonconsecutive Part letter or
+18 section number to read consecutively.
+19 SUMMARY
+2200 This amendment replaces the resolve and does the following.
+21 1. It exempts the pilot program from the prohibition of uses of an automated license
+22 plate recognition system and a photo-monitoring system.
+23 2. It removes the definition of "limited access state highway," and all references to that
+24 term are replaced with Maine Turnpike.
+25 3. It defines "toll violation process" to mean the process to collect or appeal unpaid
+26 tolls on the Maine Turnpike pursuant to the Maine Revised Statutes, Title 23, section 1980,
+27 subsection 2-A, paragraph C.
+28 4. It defines "registrant" to mean a person in whose name a motor vehicle is registered
+29 under the law of a jurisdiction, including a person issued a dealer or transporter registration
+30 plate. In the case of a motor vehicle that is leased for more than 30 days, the lessee must
+31 be considered the registrant of that motor vehicle.
+32 5. It replaces all references to "owner" with "registrant" in reference to possession of
+33 a motor vehicle.
+34 6. It clarifies that the automated speed control system described in the amendment can
+35 be composed of one or both of the following components:
+36 A. A device having one or more motor vehicle sensors connected to a camera that
+37 records the date, time, speed, location and license plate of the motor vehicle operating
+38 in violation of the provisions set forth in the amendment; and
+39 B. Software systems, subsystems and interfaces to process vehicle data, identify
+40 vehicle registrants, send warnings and infractions, process payments and appeals and
+41 provide other functions necessary for implementation of the pilot program.
+Page 9 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+1 7. It allows, rather than requires, the Maine Turnpike Authority to operate the
+2 automated speed control system at up to 3 locations on the Maine Turnpike.
+3 8. It increases, from 2 to 3, the number of signs that must be placed at a reasonable
+4 distance in advance of a highway work zone to notify drivers that a system is in operation
+5 and states that the sign that says the system is operational must be within, rather than at the
+6 end of, the highway work zone.
+7 9. It clarifies that any recorded images collected as part of the system are prohibited
+8 from being used for any purpose other than enforcement of speeding in a highway work
+9 zone while workers are present.
+10 10. It requires the authority to delete all recorded images that show the face of a
+11 passenger or driver within one business day upon discovery of the image.
+12 11. It changes the penalty for a speeding violation in a highway work zone to a civil
+13 violation with a written warning for a first violation and a $100 fine for each subsequent
+14 violation rather than a fine equal to 2 times the fine designated for a similar speeding
+15 violation determined by the Department of Transportation and removes provisions related
+16 to traffic infractions to conform with this change.
+17 12. It authorizes the pilot program to begin within one year of the effective date of the
+18 resolve, rather than specifying the program must begin on or before January 1, 2026, and
+19 allows the pilot program to remain in operation for no more than 3 years from the effective
+20 date of the resolve, rather than specifying the program must terminate on December 31,
+21 2028.
+22 13. It states that the pilot program begins with a warning period during which a
+23 registrant receives a notice of speeding in a highway work zone while workers are present
+24 and limits the authority's activity during the warning period to data gathering, including the
+25 volume and frequency of violations, and the issuance of notices. It also clarifies that notices
+26 issued during the warning period are not considered a speeding violation.
+27 14. It allows the authority to establish a grace period of no less than 21 days following
+28 the issuance of each warning or violation to the registrant.
+29 15. It allows, notwithstanding Title 29-A, section 2054, subsection 2, paragraph D, a
+30 vehicle operated by the authority or its vendor to be equipped with blue lights on the vehicle
+31 for the duration of the pilot program if the lights are operated when the vehicle is stationary
+32 and the lights are used for the purpose of alerting drivers in or near a highway work zone
+33 that a system is in operation.
+34 16. It authorizes the notice, the calibration certificate and the log completed by the
+35 system operator when the system is operational to be admissible as prima facie evidence of
+36 the facts contained in the notice, calibration certificate or log in any court proceeding
+37 related to an alleged speeding violation.
+38 17. It requires the log to also certify that workers were present in the highway work
+39 zone for the duration of the system's operation that day. If the workers were not present for
+40 one or more periods during the operation, the log must note when workers were not present
+41 in the highway work zone.
+42 18. It adds the following to the information required to be included in a notice of
+43 violation:
+Page 10 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+1 A. Registration plate type;
+2 B. Speed of the vehicle; and
+3 C. A description of the registrant's rights to contest the violation with the authority and
+4 the information necessary for the registrant to contest the violation.
+5 19. It establishes a process for collecting the fine if the registrant fails to respond, and
+6 this process matches, to the extent feasible, the process for collecting unpaid tolls on the
+7 Maine Turnpike.
+8 20. It establishes a process to appeal the notice of violation through an administrative
+9 review. It allows the administrative review to be conducted by the authority or its vendor
+10 if the vendor employee reports directly to the authority and operates under the supervision
+11 of the authority. The authority is required to take precautions to ensure that the vendor
+12 employee authorized to conduct administrative review understands the review procedure
+13 and the rights of the registrant, and an employee of the authority is required to review and
+14 approve all decisions conducted by the vendor employee before the result of the hearing
+15 takes final effect.
+16 21. It requires any fines collected by the authority to be transferred to the Highway
+17 Fund.
+18 22. It allows the authority or its vendor to use the database of the International Justice
+19 and Public Safety Network, or Nlets, or another database of comparable reliability, to
+20 obtain information on a motor vehicle registrant identified by the system as allegedly
+21 speeding in a highway work zone. The information includes, but is not limited to, the make
+22 of the motor vehicle, registration plate type and license plate number of the motor vehicle
+23 and the name and address of the registrant. The Secretary of State is required to provide the
+24 information if that information is not readily available through access to Nlets.
+25 23. It requires personally identifiable information, which is confidential, to be stored
+26 and maintained by the authority. The information is only allowed to be disclosed under
+27 specific circumstances.
+28 24. It requires personally identifiable information to be destroyed within 21 days of
+29 the final resolution of the fine, except for the registration plate type and license plate
+30 number of the registrant to identify repeat offenses by the same registrant.
+31 25. It clarifies that nonpersonally identifiable information may be used by the authority
+32 for research purposes and for the purposes of reporting back to the joint standing committee
+33 of the Legislature having jurisdiction over transportation matters.
+34 26. It requires the auditing firm engaged by the authority to destroy all personally
+35 identifiable information as soon as possible upon completion of the audit.
+36 27. It requires the authority to present to the joint standing committee of the Legislature
+37 having jurisdiction over transportation matters within one year of implementation of the
+38 pilot program on the progress of the program.
+39 28. It states that any penalties in the amendment are not authorized to continue beyond
+40 the time established in the amendment, except that penalties and notices for violations that
+41 occurred on or before that date may continue to be processed.
+Page 11 - 132LR1457(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 598, L.D. 1457
+1 29. It specifies that the joint standing committee of the Legislature having jurisdiction
+2 over transportation matters is authorized to report out a bill in the next regular or special
+3 session after the report has been received.
+44 FISCAL NOTE REQUIRED
+55 (See attached)
+Page 12 - 132LR1457(02)
+COMMITTEE AMENDMENT

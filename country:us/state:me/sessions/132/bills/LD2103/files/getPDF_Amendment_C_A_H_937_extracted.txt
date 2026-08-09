@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-937)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2103
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1418, L.D. 2103, “An Act Requiring
+10 Hospitals to Adopt Cybersecurity Plans”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 22 MRSA §1832, as enacted by PL 2011, c. 254, §1 and affected by §2, is
+14 repealed and the following enacted in its place:
+15 §1832. Safety and security in hospitals; cybersecurity
+16 1. Safety and security plan. A hospital licensed under this chapter shall, on an annual
+17 basis, adopt a safety and security plan to protect the patients, visitors and employees of the
+18 hospital from aggressive and violent behavior. The safety and security plan must include
+19 a process for hospitals to receive and record incidents and threats of violent behavior
+20 occurring at or arising out of employment at the hospital. The safety and security plan must
+21 prohibit a representative or employee of the hospital from interfering with a person making
+22 a report as provided in the plan.
+23 2. Cybersecurity plan. A hospital licensed under this chapter shall adopt a
+24 cybersecurity plan. The cybersecurity plan must be consistent with best practices
+25 established by the United States Department of Homeland Security, Cybersecurity and
+26 Infrastructure Security Agency; the United States Department of Commerce, National
+27 Institute of Standards and Technology; and the Healthcare and Public Health Sector
+28 Coordinating Council or its successor organization. The cybersecurity plan must be
+29 consistent with applicable federal laws and regulations, including the federal Health
+30 Insurance Portability and Accountability Act of 1996. The hospital shall review the
+31 cybersecurity plan at least once per year and, if requested by the department, immediately
+32 submit the most current plan to the department.
+33 A. As used in this subsection, the following terms have the following meanings.
+34 (1) "Cybersecurity" means the process of preventing unauthorized modification,
+35 misuse or denial of use, or the unauthorized use, of information that is stored,
+36 accessed or transferred from an electronic device to an external recipient.
+Page 1 - 132LR2881(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1418, L.D. 2103
+1 (2) "Cybersecurity intrusion" means an unwanted intrusion into a computer system
+2 that impacts patient care, protected health information or hospital security.
+3 (3) "Security incident" means the attempted or successful unauthorized access,
+4 use, disclosure, modification or destruction of information or interference with
+5 system operations in a computer system.
+6 (4) "Security incident response plan" means the part of a cybersecurity plan
+7 adopted by a hospital detailing how a hospital employee must report suspected or
+8 known security incidents and how a hospital will respond to suspected or known
+9 security incidents.
+10 B. The cybersecurity plan must include, at a minimum:
+11 (1) A provision for the timely notification, by electronic means and by mail, of a
+12 cybersecurity intrusion to appropriate parties, including, but not limited to, law
+13 enforcement agencies, patients, municipalities, state regulators, media and hospital
+14 employees. The hospital shall include in all public communications related to the
+15 cybersecurity intrusion information regarding patient rights and the contact
+16 information for registering a patient complaint;
+17 (2) A backup communication response provision that ensures continuity of care
+18 for patients in the event of a disruption of hospital computer systems caused by a
+19 cybersecurity intrusion or a natural or human-made disaster and that includes a
+20 complaint process for patients who are experiencing challenges accessing medical
+21 care and a system to triage patient complaints, including:
+22 (a) A requirement that emergent concerns receive a response within 48 hours
+23 of the submission of the complaint and that nonemergent concerns receive a
+24 response within 7 days of the submission of the complaint. For the purposes of
+25 this division, "emergent concern" means a condition that requires immediate
+26 attention or action due to its serious or life-threatening nature; and
+27 (b) A requirement for the timely management of complaints related to
+28 prescriptions;
+29 (3) A provision requiring that all manually charted records be timely integrated
+30 into the hospital's electronic record system;
+31 (4) A provision to ensure proper triage of hospital services in the event of a
+32 disruption of hospital computer systems, including:
+33 (a) A provision for the appropriate triage of all hospital services, including
+34 elective procedures, based on hospital capacities and patient needs;
+35 (b) A provision for the diversion of hospital services as necessary, including
+36 assisting patients in arranging emergency and nonemergency transportation
+37 services to access health care not available at the hospital as a result of the
+38 cybersecurity intrusion; and
+39 (c) A requirement for the hospital to enter into written agreements with a
+40 sufficient number of other health care providers to facilitate continuity of care
+41 for patients during the disruption;
+Page 2 - 132LR2881(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1418, L.D. 2103
+1 (5) A written security incident response plan documenting how hospital employees
+2 are to report suspected or known security incidents and how the hospital will
+3 respond clinically to suspected or known security incidents. The security incident
+4 response plan must include provisions detailing how hospital employees can
+5 effectively communicate with one another and with outside medical providers in
+6 the event hospital electronic systems are not operative. The security incident
+7 response plan must be made available to all hospital employees;
+8 (6) A provision for, at a minimum, annual cybersecurity training for hospital
+9 employees, hospital board members and organizations affiliated with the hospital,
+10 including new employee and annual training for all hospital employees who use
+11 electronic health record systems for patient care. The training must include
+12 information relating to the management of patient records in the event of unplanned
+13 downtime of the hospital's electronic health record system, including training on
+14 paper charting;
+15 (7) A requirement that the hospital perform an annual test involving all hospital
+16 shifts and units of downtime procedures for the hospital's cybersecurity plan and a
+17 requirement that all downtime paperwork be reviewed and updated at the time of
+18 the annual test. This requirement is waived if the hospital experiences a security
+19 incident during the prior year and conducted a post-incident review in accordance
+20 with subparagraph (11). For the purposes of this subparagraph, "downtime
+21 paperwork" means documentation a hospital maintains to ensure care can be
+22 documented manually when a hospital's computer systems are not operative;
+23 (8) Written procedures for testing and revising the cybersecurity plan, including:
+24 (a) A requirement that the hospital perform an annual review of the criticality
+25 of its information systems and technology assets to determine the priority for
+26 restoration;
+27 (b) A requirement that the hospital perform a tabletop simulation of a security
+28 incident resulting in the disruption of hospital computer systems; and
+29 (c) A requirement that the hospital perform continuous vulnerability scans and
+30 annual penetration testing to identify network vulnerabilities;
+31 (9) A provision for timely restoration of communication with the state-designated
+32 statewide health information exchange described in section 1711-C, subsection 18.
+33 This subparagraph does not impose additional duties, standards or regulatory
+34 obligations on the state-designated statewide health information exchange;
+35 (10) A provision requiring the review of the hospital's response to any security
+36 incidents that have taken place at the hospital since January 1, 2024. As part of the
+37 review, the hospital shall produce a report that includes a part that describes the
+38 lessons learned from the security incidents and a description of any actions taken
+39 by the hospital to prevent future security incidents and to mitigate the harm caused
+40 by similar events. The report must include information regarding the involvement
+41 of security consultants, law enforcement and cybersecurity insurance providers;
+42 and
+43 (11) A provision requiring the hospital to conduct a timely post-incident review
+44 of any security incident experienced by the hospital. The review must include an
+Page 3 - 132LR2881(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1418, L.D. 2103
+415 evaluation of the effectiveness of the hospital's cybersecurity plan and timely
+426 revision of any required updates to the plan.
+3 C. The cybersecurity plan must be developed and maintained with the input of an
+4 annual working group convened by the hospital that includes health care workers
+5 employed by the hospital and those workers' labor unions.
+6 D. A hospital licensed under this chapter shall maintain physical copies of all forms
+7 and other paperwork required to maintain continuity of care during a disruption of
+8 hospital computer systems.
+9 E. A hospital licensed under this chapter shall annually submit the hospital's
+10 cybersecurity plan to an audit by an independent, certified cybersecurity auditor or
+11 certified cybersecurity expert to determine the adequacy of the cybersecurity plan and
+12 identify any necessary improvements to the plan and processes. The hospital shall
+13 submit a high-level summary of the results of each audit to the department upon the
+14 request of the department.
+15 F. A hospital licensed under this chapter shall make available to hospital employees
+16 and the public information regarding how to file a complaint under the complaint
+17 process developed pursuant to paragraph B, subparagraph (2), including by posting this
+18 information in public areas of the hospital.
+19 G. In the event of a cybersecurity incident, a hospital licensed under this chapter shall
+20 coordinate with personnel from the Maine Center for Disease Control and Prevention
+21 and shall allow such personnel access to the hospital facility. The State shall indemnify
+22 and hold the hospital harmless for the actions of state personnel related to the
+23 cybersecurity incident response.
+24 H. A cybersecurity plan submitted to the department under this section and the high-
+25 level summary of the results of an audit submitted to the department in accordance with
+26 paragraph E are confidential only to the extent that release of information contained in
+27 the record could reasonably be expected to jeopardize the physical safety of
+28 government personnel or the public, as determined by the department.
+29 3. Statutory construction. This section may not be construed or applied to be less
+30 restrictive than or in a manner that conflicts with applicable federal law and related
+31 regulations. This section may be construed or applied to be more restrictive than federal
+32 law.
+33 4. Effective date. This section takes effect January 1, 2027.'
+34 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+35 number to read consecutively.
+36 SUMMARY
+3377 This amendment replaces the bill. The amendment requires hospitals, beginning
+3388 January 1, 2027, to adopt a cybersecurity plan that is consistent with best practices
+3399 established by the United States Department of Homeland Security, Cybersecurity and
+4400 Infrastructure Security Agency; the United States Department of Commerce, National
+4411 Institute of Standards and Technology; and the Healthcare and Public Health Sector
+4422 Coordinating Council or its successor organization. The amendment establishes
+Page 4 - 132LR2881(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1418, L.D. 2103
+413 requirements regarding testing and revising such plans, training of employees, post-
+424 incident review, auditing and confidentiality.
+Page 5 - 132LR2881(02)
+COMMITTEE AMENDMENT

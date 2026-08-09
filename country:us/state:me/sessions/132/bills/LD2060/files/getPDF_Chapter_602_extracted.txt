@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 602
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 3, 2026 602
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 846 - L.D. 2060
+An Act to Make Technical Changes to the Maine Uniform Securities Act and
+to Clarify the Securities Administrator's Authority to Grant Licensing
+Exemptions for Broker-Dealers
+Emergency preamble. Whereas, acts and resolves of the Legislature do not
+become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, this legislation makes technical changes to the Maine Uniform Securities
+Act to ensure its provisions are accurate and consistent; and
+Whereas, this legislation also clarifies the scope of the authority of the Securities
+Administrator in the Department of Professional and Financial Regulation, Office of
+Securities to grant licensing exemptions to all broker-dealers wherever they are located;
+and
+Whereas, immediate enactment of this legislation is necessary to provide clear
+authority for the administration and enforcement of the Maine Uniform Securities Act; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within
+the meaning of the Constitution of Maine and require the following legislation as
+immediately necessary for the preservation of the public peace, health and safety; now,
+therefore,
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 32 MRSA §16202, sub-§26, as amended by PL 2019, c. 252, Pt. A, §1, is
+further amended to read:
+26. Nonpublic offerings under 4(2) Section 4(a)(2). A security offered in a
+nonpublic offering under Section 4(2) 4(a)(2) of the federal Securities Act of 1933, 15
+United States Code, Section 77d(2) 77d(a)(2) if, no later than 15 days after the first sale in
+this State, a notice on "Form D," as promulgated by the Securities and Exchange
+Commission, is filed with the administrator together with a consent to service of process
+complying with section 16611, signed by the issuer, and the payment of a nonrefundable
+filing fee of $300 for each type or class of security sold. If the Form D includes a consent
+to service of process, a separate document need not be filed for this purpose, and if the
+consent to service of process on the Form D is executed in a manner accepted by the
+Page 1 - 132LR2813(03)
+
+Securities and Exchange Commission, it is deemed to comply with the requirement in this
+section and section 16611, subsection 1 that the consent be signed. An additional
+nonrefundable late filing fee of $500 must be paid for a filing made 16 or more days after
+the first sale in this State.
+Sec. 2. 32 MRSA §16401, sub-§2, as enacted by PL 2005, c. 65, Pt. A, §2, is
+amended to read:
+2. Exemptions from licensing. The following persons are exempt from the licensing
+requirement of subsection 1:
+A. A broker-dealer without a place of business in this State if its only transactions
+effected in this State are with:
+(1) The issuer of the securities involved in the transactions;
+(2) A broker-dealer licensed as a broker-dealer under this chapter or not required
+to be licensed as a broker-dealer under this chapter, except when the person is
+acting as a clearing broker-dealer;
+(3) An institutional investor;
+(4) A nonaffiliated federal covered investment adviser with investments under
+management in excess of $100,000,000 acting for the account of others pursuant
+to discretionary authority in a signed record;
+(5) A bona fide preexisting customer whose principal place of residence is not in
+this State and the person is registered as a broker-dealer under the federal Securities
+Exchange Act of 1934 or not required to be registered under the federal Securities
+Exchange Act of 1934 and is registered or licensed under the securities act of the
+state in which the customer maintains a principal place of residence; and
+(6) A bona fide preexisting customer whose principal place of residence is in this
+State but was not present in this State when the customer relationship was
+established, if:
+(a) The broker-dealer is registered under the federal Securities Exchange Act
+of 1934 or not required to be registered under the federal Securities Exchange
+Act of 1934 and is registered or licensed under the securities laws of the state
+in which the customer relationship was established and where the customer
+had maintained a principal place of residence; and
+(b) Within 45 days after the customer's first transaction in this State, the person
+files an application for licensing as a broker-dealer in this State and no further
+transactions are effected until the license is effective. Any broker-dealer may
+seek an order granting a temporary exemption under subparagraph (7)
+paragraph C while the application is pending; and
+(7) Any other person exempted by rule adopted or order issued under this chapter;
+and
+B. A person that deals solely in United States government securities and is supervised
+as a dealer in government securities by the Board of Governors of the Federal Reserve
+System, the Federal Deposit Insurance Corporation or the United States Department of
+the Treasury, Office of Thrift Supervision or Comptroller of the Currency.; and
+Page 2 - 132LR2813(03)
+
+C. Any other person exempted by rule adopted or order issued under this chapter.
+Sec. 3. 32 MRSA §16606, sub-§1, as enacted by PL 2005, c. 65, Pt. A, §2, is
+amended to read:
+1. Public register of filings. Subject to state record-keeping requirements, the
+administrator shall maintain, or designate a person to maintain, records or a register of:
+applications for registration of securities; registration statements; notice filings;
+applications for registration licensure of broker-dealers, agents, investment advisers and
+investment adviser representatives; notice filings by federal covered investment advisers
+that are or have been effective under this chapter or the predecessor act; notices of claims
+of exemption from registration or notice filing requirements contained in a record; orders
+issued under this chapter or the predecessor act; and interpretative opinions or no action
+determinations issued under this chapter. Records may be maintained in computer or
+microform format or any other form of data storage, as long as the records are readily
+accessible.
+Emergency clause. In view of the emergency cited in the preamble, this legislation
+takes effect when approved.
+Page 3 - 132LR2813(03)

@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 532
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 532
+JANUARY 11, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+S.P. 372 - L.D. 839
+An Act to Create the Net Energy Billing Cost Stabilization Fund
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 35-A MRSA §3209-F is enacted to read:
+§3209-F. Net Energy Billing Cost Stabilization Fund
+1. Fund established. There is established the Net Energy Billing Cost Stabilization
+Fund, referred to in this section as "the fund," as an account within the commission. The
+fund is a nonlapsing, revolving fund administered by the commission for the purpose of
+offsetting the costs to ratepayers associated with the net energy billing program under
+section 3209-A and section 3209-B.
+2. Sources for fund. The commission may receive and deposit in the fund funds from
+the following sources:
+A. Federal funds and awards that may be used for the purposes specified in this section;
+B. Appropriations and transfers authorized by the Legislature; and
+C. Any other funds from public or private sources received for the purposes of this
+section.
+3. Use of funds. To the extent that funds are available, the commission shall use the
+fund exclusively to make payments to reimburse transmission and distribution utilities for
+any costs incurred as a result of the net energy billing program under section 3209-A and
+section 3209-B that would have otherwise been paid by ratepayers.
+4. Rules. The commission may adopt rules to implement this section. Rules adopted
+pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+subchapter 2‑A.
+5. Report. By February 1st of any year in which the commission has paid a
+reimbursement from the fund to a transmission and distribution utility in the prior calendar
+year, the commission shall provide a report to the joint standing committee of the
+Legislature having jurisdiction over electricity matters that includes the amount of the
+reimbursement paid in the prior calendar year, the source of any funds received by the fund
+Page 1 - 132LR0706(04)
+
+in the prior calendar year and any other relevant information as determined by the
+commission. The committee may report out a bill related to the commission's report.
+Sec. 2. Appropriations and allocations. The following appropriations and
+allocations are made.
+PUBLIC UTILITIES COMMISSION
+Net Energy Billing Cost Stabilization Fund N540
+Initiative: Provides one-time funding for the purpose of making payments to transmission
+and distribution utilities that would have otherwise been paid by ratepayers.
+GENERAL FUND 2025-26 2026-27
+All Other $500 $0
+__________ __________
+GENERAL FUND TOTAL $500 $0
+Page 2 - 132LR0706(04)

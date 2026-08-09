@@ -1,0 +1,252 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-987)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2208
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1487, L.D. 2208, “An Act to Offset
+10 Federal Cuts to Health Insurance for Certain Maine Families and Seniors”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 22 MRSA §1730-B is enacted to read:
+14 §1730-B. Rural Health Stabilization Fund
+15 1. Definitions. For the purposes of this section, unless the context otherwise indicates,
+16 the following terms have the following meanings.
+17 A. "Fund" means the Rural Health Stabilization Fund established in subsection 2.
+18 B. "Hospital facility price" means the total amount a hospital expects to receive for
+19 health care services, including both the amount paid to a hospital by any insurer or plan
+20 sponsor and any payment received directly from an insured or uninsured individual for
+21 institutional services.
+22 C. "Insurer" has the same meaning as in Title 24-A, section 3952, subsection 6.
+23 D. "Plan sponsor" means any person, other than an insurer, that establishes or
+24 maintains a health plan covering residents of this State, including, but not limited to,
+25 plans established or maintained by 2 or more employers or jointly by one or more
+26 employers and one or more employee organizations, associations, committees, joint
+27 boards of trustees or other similar groups of representatives of the parties that establish
+28 or maintain the plan. "Plan sponsor" does not include the MaineCare program; the
+29 federal Medicare program; the Civilian Health and Medical Program for the Uniformed
+30 Services, known as TRICARE; the federal Employees Health Benefits program; the
+31 United States Department of Health and Human Services, Indian Health Service; or
+32 any program providing health benefits administered by the United States Department
+33 of Veterans Affairs.
+34 2. Rural Health Stabilization Fund. The Rural Health Stabilization Fund is
+35 established as a dedicated, nonlapsing fund administered by the department to support the
+Page 1 - 132LR2772(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1487, L.D. 2208
+316 department initiatives approved under the rural health transformation program authorized
+327 by the federal Act to Provide for Reconciliation Pursuant to Title II of H. Con. Res. 14,
+338 Public Law 119-21, Section 71401 that benefit rural health care providers in the State and
+349 that promote access and affordability of health care for residents of the State in rural areas.
+450 The department may receive money from any gift, grant, contribution, legislative
+461 appropriation, allocation or transfer or bond proceeds. The money in the fund may be used
+472 only for the purposes described in this subsection and paying program administration costs.
+8 3. Funding eligibility. As a condition of accepting funding from the department from
+9 the fund, a hospital or health system shall meet the following requirements.
+10 A. A hospital or health system that accepts funds must limit the annual growth of
+11 hospital facility prices to a percentage equal to the inpatient prospective payment
+12 system hospital market basket index established by the federal Medicare program for
+13 a period of 5 years from the time funds are initially disbursed. A hospital or health
+14 system that accepts funds may not:
+15 (1) Enter into a contract with any insurer or plan sponsor in which the growth of
+16 the allowed amount for any inpatient or outpatient facility service exceeds the
+17 hospital facility price growth limit for that plan year; or
+18 (2) Charge or collect payment for any inpatient or outpatient facility service in an
+19 amount that exceeds the prior year's price for that same service by more than the
+20 hospital facility price growth limit for that plan year, including any amount charged
+21 to or collected from an insurer, plan sponsor or individual or any other source with
+22 respect to the service.
+23 B. Except as otherwise provided in this subsection, for a period of 5 years from the
+24 disbursement of funds, a hospital or health system that accepts funds may not:
+25 (1) Charge or collect payment from any insurer, plan sponsor or patient for any
+26 inpatient or outpatient facility service in an amount that exceeds 200% of the
+27 Medicare rate for the same service in the same geographic area;
+28 (2) Enter into a contract with any insurer or plan sponsor in which the allowed
+29 amount paid for any inpatient or outpatient facility service exceeds 200% of the
+30 Medicare rate for the same service in the same geographic area; or
+31 (3) Charge or collect payment for any amount exceeding the allowed amount for
+32 a covered health care service pursuant to this subsection, except for any applicable
+33 in-network coinsurance, deductible or copayment amount, including any amount
+34 charged to or collected from an insurer, plan sponsor or individual or any other
+35 source with respect to the service.
+36 C. Paragraph B does not apply to:
+37 (1) Charges for services provided to a critical access hospital that accepts funds
+38 under this subsection; or
+39 (2) Charges for services provided to a hospital determined to be financially
+40 distressed by the Office of Affordable Health Care. A determination of financial
+41 distress is valid for a period of no less than one year.
+42 D. A hospital or health system that accepts funds under this subsection that fails to
+43 comply with the requirements of paragraph A or B commits a civil violation for which
+Page 2 - 132LR2772(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1487, L.D. 2208
+414 a fine equal to at least 110% and no more than 200% of any charge exceeding the limits
+425 set forth in paragraph A or B may be adjudged and all funding granted to the hospital
+436 or health system under this section must be returned to the State.
+4 4. Rulemaking. The department may adopt rules to implement this section. Rules
+5 adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter
+6 375, subchapter 2-A.
+7 Sec. 2. 22 MRSA §3198 is enacted to read:
+8 §3198. Health Care Premium Stabilization Fund
+9 1. Fund established. The Health Care Premium Stabilization Fund, referred to in this
+10 section as "the fund," is established as a dedicated, nonlapsing fund administered by the
+11 department to maintain coverage for residents of the State through the Maine Health
+12 Insurance Marketplace, established in chapter 1479.
+13 2. Sources of fund. The fund consists of amounts appropriated or allocated by the
+14 State. The department may receive money from any gift, grant, contribution, legislative
+15 appropriation, allocation or transfer or bond proceeds.
+16 3. Uses of fund. The department shall use the fund to establish a state subsidy to offset
+17 the financial impact of the expiration of the enhanced premium tax credits under the
+18 American Rescue Plan Act of 2021, Public Law 117-2. The subsidy must be used to
+19 increase the amount of assistance available to those previously eligible for subsidies under
+20 the federal Affordable Care Act, Public Law 111-148 and to expand assistance to those
+21 with an income at or above 400% of the federal poverty level if the recipient's monthly
+22 premium cost of the second lowest cost silver health plan, as described in the United States
+23 Internal Revenue Code of 1986, Section 36B(b)(3)(B), would, prior to the receipt of a
+24 subsidy under this section, exceed 8.5% of the recipient's monthly household income.
+25 4. State subsidy; treatment for tax purposes. The department shall implement this
+26 section in a manner that minimizes the impact of any subsidy on a recipient's income for
+27 federal tax purposes to the greatest extent permissible under federal law and the law of this
+28 State. Notwithstanding any provision of law to the contrary, for Maine income tax
+29 purposes, the amount of any subsidy provided to a recipient may not be considered income.
+30 5. Rulemaking. The department may adopt rules to implement this section. Rules
+31 adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter
+32 375, subchapter 2-A.
+33 Sec. 3. 22 MRSA §3199 is enacted to read:
+34 §3199. MaineCare Federal Response Fund
+35 1. Fund established. The MaineCare Federal Response Fund, referred to in this
+36 section as "the fund," is established as a dedicated, nonlapsing fund administered by the
+37 department to supplement funding for the MaineCare program in the case of funding
+38 revenue shortfalls due to reductions in federal contributions that support the MaineCare
+39 program. The department may use funds in the fund to enhance program outreach and to
+40 address changes to federal requirements related to program eligibility and renewals. The
+41 department may not use funds in the fund to expand eligibility or services under the
+42 MaineCare program.
+Page 3 - 132LR2772(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1487, L.D. 2208
+1 2. Rulemaking. The department may adopt rules to implement this section. Rules
+2 adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter
+3 375, subchapter 2-A.
+4 Sec. 4. Appropriations and allocations. The following appropriations and
+5 allocations are made.
+6 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+7 Miscellaneous Acts and Resolves - Finance 0306
+8 Initiative: Appropriates ongoing funding to be distributed to the Maine Guaranteed Access
+9 Reinsurance Association to support the reinsurance program.
+10 GENERAL FUND 2025-26 2026-27
+11 All Other $0 $40,000,000
+12 __________ __________
+13 GENERAL FUND TOTAL $0 $40,000,000
+1140
+15 ADMINISTRATIVE AND FINANCIAL
+16 SERVICES, DEPARTMENT OF
+17 DEPARTMENT TOTALS 2025-26 2026-27
+18
+19 GENERAL FUND $0 $40,000,000
+20 __________ __________
+21 DEPARTMENT TOTAL - ALL FUNDS $0 $40,000,000
+2125 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+23 Health Care Premium Stabilization Fund N566
+24 Initiative: Provides one-time funding for the Health Care Premium Stabilization Fund,
+25 including one-time funds for equipment and technology costs. The technology funds will
+26 be used to implement changes in the enrollment and eligibility system for state subsidy
+27 program eligibility determination, as well as changes to premium, coverage and billing
+28 information.
+29 GENERAL FUND 2025-26 2026-27
+30 All Other $0 $17,300,000
+31 Capital Expenditures $0 $8,000,000
+32 __________ __________
+33 GENERAL FUND TOTAL $0 $25,300,000
+3249 MaineCare Federal Response Fund N568
+35 Initiative: Provides one-time funding to address reductions in federal funding for the
+36 MaineCare program, including funding for technology improvements at the department's
+37 office for family independence and office of MaineCare services to implement federal
+38 policy changes. The department may also use these funds to enhance outreach to help with
+39 the rollout of new federal requirements related to eligibility and renewals.
+40 GENERAL FUND 2025-26 2026-27
+41 All Other $0 $105,000,000
+42 __________ __________
+Page 4 - 132LR2772(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1487, L.D. 2208
+1 GENERAL FUND TOTAL $0 $105,000,000
+21 Rural Health Stabilization Fund N567
+3 Initiative: Provides one-time funding to support approved department initiatives under the
+4 federal rural health transformation program.
+5 GENERAL FUND 2025-26 2026-27
+6 All Other $0 $50,000,000
+7 __________ __________
+8 GENERAL FUND TOTAL $0 $50,000,000
+95
+10 HEALTH AND HUMAN SERVICES,
+11 DEPARTMENT OF
+12 DEPARTMENT TOTALS 2025-26 2026-27
+13
+14 GENERAL FUND $0 $180,300,000
+15 __________ __________
+16 DEPARTMENT TOTAL - ALL FUNDS $0 $180,300,000
+1170
+18 SECTION TOTALS 2025-26 2026-27
+19
+20 GENERAL FUND $0 $220,300,000
+21 __________ __________
+22 SECTION TOTAL - ALL FUNDS $0 $220,300,000
+2138 '
+24 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+25 number to read consecutively.
+26 SUMMARY
+2277 This amendment, which is the majority report of the committee, replaces the bill and
+2288 does the following.
+29 1. It establishes the Rural Health Stabilization Fund to provide $50 million in one-time
+30 funding to support the Department of Health and Human Services' initiatives approved
+31 under the rural health transformation program authorized by the federal Act to Provide for
+32 Reconciliation Pursuant to Title II of H. Con. Res. 14, Public Law 119-21, Section 71401
+33 that benefit rural health providers in the State and that promote access and affordability of
+34 health care for residents of the State in rural areas. As a condition of accepting a grant by
+35 the department from the fund, a hospital or health system that accepts funds must limit the
+36 annual growth of hospital facility prices to a percentage equal to the inpatient prospective
+37 payment system hospital market basket index established by the federal Medicare program
+38 for a period of 5 years from the time funds are initially disbursed. A participating hospital
+39 or health system may not charge or collect payment from any insurer, plan sponsor or
+40 patient for any inpatient or outpatient facility service in an amount that exceeds 200% of
+41 the Medicare rate for the same service in the same geographic area. The conditions do not
+42 apply to critical access hospitals or hospitals determined to be financially distressed by the
+Page 5 - 132LR2772(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1487, L.D. 2208
+413 Office of Affordable Health Care. A participating hospital or health system that fails to
+424 comply with the requirements commits a civil violation for which a fine may be adjudged
+435 and is required to return all funding granted to the hospital or health system to the State.
+4 2. It establishes the Health Care Premium Stabilization Fund to provide $17.3 million
+5 in one-time funding to establish a state subsidy to offset the financial impact of the
+6 expiration of the enhanced premium tax credits under the American Rescue Plan Act of
+7 2021 to those residents of the State who receive health care coverage under the Maine
+8 Health Insurance Marketplace who were previously eligible for subsidies under the federal
+9 Affordable Care Act.
+10 3. It establishes the MaineCare Federal Response Fund to provide $105 million in one-
+11 time funding to supplement funding for the MaineCare program in the event of funding
+12 revenue shortfalls due to reductions in federal contributions that support the MaineCare
+13 program. It provides that the funding is not intended to be used to expand eligibility or
+14 services for the MaineCare program.
+15 4. It provides ongoing funding of $40 million to the Maine Guaranteed Access
+16 Reinsurance Association to increase the reinsurance program.
+1177 FISCAL NOTE REQUIRED
+1188 (See attached)
+Page 6 - 132LR2772(02)
+COMMITTEE AMENDMENT

@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-1006)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2092
+2 Date: (Filing No. H- )
+3 STATE AND LOCAL GOVERNMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1407, L.D. 2092, “An Act to Update
+10 Certain Terms and References Regarding Information Technology and Cybersecurity”
+11 Amend the bill by striking out all of sections 5 and 6.
+12 Amend the bill by striking out all of section 10.
+13 Amend the bill in section 12 in subsection 1 in the 5th and 6th lines (page 2, lines 31
+14 and 32 in L.D.) by striking out the following: "data processing information technology
+15 products, hardware, software" and inserting the following: 'data processing'
+16 Amend the bill by striking out all of sections 13 to 17 and inserting the following:
+17 'Sec. 13. 5 MRSA §1974, sub-§2, as enacted by PL 2001, c. 388, §14, is amended
+18 to read:
+19 2. Develop training and development programs in data processing. The Chief
+20 Information Officer, or the Chief Information Officer's designee, is responsible for
+21 developing training and development programs for state employees in data processing and
+22 for the implementation of these programs.
+23 Sec. 14. 5 MRSA §1974, sub-§3, as amended by PL 2005, c. 12, Pt. SS, §12, is
+24 further amended to read:
+25 3. Develop and administer written standards for data processing and
+26 telecommunications. The Chief Information Officer, or the Chief Information Officer's
+27 designee, shall develop and administer written standards for data processing and
+28 telecommunications. These written standards pertain to:
+29 A. Acquisition of equipment;
+30 B. Acquisition of computer software and systems;
+31 C. Development of computer systems and computer programs;
+32 D. Computer operations; and
+Page 1 - 132LR2678(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1407, L.D. 2092
+1 D-1. Information security and cybersecurity policies, procedures and related
+2 operations; and
+3 E. Any other standards determined necessary by the Chief Information Officer and the
+4 board.
+5 Sec. 15. 5 MRSA §1975, as amended by PL 2005, c. 12, Pt. SS, §15, is further
+6 amended to read:
+7 §1975. Noncompliance
+8 The purchase of data processing equipment, software or services or internal systems
+9 development efforts may not be made except in accordance with this chapter. An agency
+10 may not purchase any data processing equipment, software or services without the prior
+11 written approval of the commissioner or the Chief Information Officer or the Chief
+12 Information Officer's designee. The State Controller may not authorize payment for data
+13 processing equipment, software or services without evidence of prior approval of the
+14 purchases by the commissioner or the Chief Information Officer or the Chief Information
+15 Officer's designee.
+16 1. Noncompliance defined. A state agency is in noncompliance with this chapter if
+17 the agency:
+18 A. Purchases data processing equipment, software or services in noncompliance with
+19 this chapter; or
+20 B. Fails to adhere to the data processing standards established by the commissioner
+21 and the Chief Information Officer or the Chief Information Officer's designee.
+22 2. Penalty. Any state agency found to be in noncompliance as defined in this section
+23 is prohibited from acquiring or purchasing data processing equipment, software and
+24 services until the commissioner or the Chief Information Officer determines that the state
+25 agency is in compliance with this chapter.
+26 Notwithstanding the provisions of this section, the commissioner or the Chief Information
+27 Officer may act to acquire or purchase data processing equipment, software and services
+28 to maintain or meet the emergency needs of a state agency.
+29 3. Cybersecurity services. Notwithstanding the requirements of sections 1553 and
+30 1825-B, or any other statutory or regulatory provisions to the contrary, the Chief
+31 Information Officer, after reasonable investigation, may procure cybersecurity services on
+32 a retainer basis when determined necessary to ensure the State is prepared to detect, prevent
+33 and respond to cyberattacks.'
+34 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+35 number to read consecutively.
+36 SUMMARY
+3377 This amendment, which is the majority report of the committee, amends the bill by
+3388 retaining certain language in current law governing the Department of Administrative and
+3399 Financial Services, Office of Information Technology relating to the mission, duties and
+4400 responsibilities of the office of the Chief Information Officer. The amendment also retains
+Page 2 - 132LR2678(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1407, L.D. 2092
+411 certain language in current law governing noncompliance by a state agency with
+422 requirements for the purchase of data processing equipment.
+433 FISCAL NOTE REQUIRED
+444 (See attached)
+Page 3 - 132LR2678(02)
+COMMITTEE AMENDMENT

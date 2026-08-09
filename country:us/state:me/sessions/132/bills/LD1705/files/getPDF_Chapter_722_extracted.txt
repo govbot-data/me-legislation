@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 722
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 16, 2026 722
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1140 - L.D. 1705
+An Act Regarding Adult Education Funding and Oversight
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 20-A MRSA §8606-A, sub-§8 is enacted to read:
+8. Annual assessment and reporting. The department shall annually assess adult
+education needs in the State relative to funding appropriated by the Legislature. By
+December 3, 2026 and annually thereafter, the department shall submit a report to the joint
+standing committee of the Legislature having jurisdiction over education matters with the
+findings of the assessment. The report must include:
+A. Funding allocated to each adult education program in the State;
+B. The full funding amount that each adult education program in the State is eligible
+for and the amount that figure has been prorated by the department;
+C. The impact of funding on adult education program outcomes;
+D. Additional funding needs;
+E. A plan for gradually increasing annual funding to adult education programs in order
+to reach 100% of the State's obligation for adult education funding in accordance with
+subsection 4; and
+F. Recommendations on improvements to adult education.
+Sec. 2. 20-A MRSA §8606-A, sub-§9 is enacted to read:
+9. Funds not disbursed; justification. If funds appropriated for adult education are
+not disbursed in accordance with the reimbursement procedures and rates described in this
+section and in section 8607-A, the department shall submit to the Legislature a detailed
+written explanation describing the reason the funds were not disbursed and describing the
+purpose of the funds.
+Sec. 3. 20-A MRSA §8607-B is enacted to read:
+§8607-B. Program oversight
+Page 1 - 132LR1805(05)
+
+1. Guidelines. The department shall adopt and maintain clear, transparent and
+consistent guidelines for the use of state funds for adult education programs to ensure fiscal
+responsibility and alignment with state goals.
+2. Stakeholder input. Prior to finalizing its budget, the department shall biennially
+convene a stakeholder group to provide the department with input on statewide goals for
+adult education, funding priorities and statewide program improvements. The stakeholder
+group must include, but is not limited to:
+A. One or more members that serve as directors of adult education programs in the
+State;
+B. One or more members representing a statewide adult education professional
+association;
+C. One or more members that serve as adult education instructors in the State; and
+D. One or more members representing adult education students.
+Sec. 4. Distribution of funding. The Department of Education may not distribute
+any funding attributable to adult education programs through a school administrative unit
+starting in fiscal year 2027-28. The department shall distribute all funding associated with
+the college transitions programs under the Maine Revised Statutes, Title 20-A, section
+15688-A, subsection 2 directly to adult education programs through the subsidy outlined
+in Title 20-A, section 8607-A.
+Sec. 5. Appropriations and allocations. The following appropriations and
+allocations are made.
+EDUCATION, DEPARTMENT OF
+Adult Education 0364
+Initiative: Provides one-time funding to support adult education programs.
+GENERAL FUND 2025-26 2026-27
+All Other $0 $150,000
+__________ __________
+GENERAL FUND TOTAL $0 $150,000
+Page 2 - 132LR1805(05)

@@ -1,0 +1,888 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-1043)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1847
+2 Date: (Filing No. H- )
+3 VETERANS AND LEGAL AFFAIRS
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847, “An Act to Institute
+10 Testing and Tracking of Medical Use Cannabis and Cannabis Products Similar to Adult
+11 Use Cannabis and Cannabis Products, Dedicate a Portion of the Adult Use Cannabis Sales
+12 and Excise Tax to Medical Use Cannabis Programs and Create a Study Group”
+13 Amend the bill by striking out the title and substituting the following:
+14 'An Act to Institute Testing and Tracking of Medical Use Cannabis Similar to Adult
+15 Use Cannabis and Cannabis Products, to Amend the Excise Tax Provisions for Adult
+16 Use Cannabis for Cannabis Pre-rolls and to Make Other Changes to the Medical Use
+17 and Adult Use Cannabis Programs'
+18 Amend the bill by striking out everything after the enacting clause and inserting the
+19 following:
+20 'PART A
+21 Sec. A-1. 22 MRSA §2421-A, sub-§1-A is enacted to read:
+22 1-A. Batch. "Batch" means a specific quantity of cannabis flower, cannabis trim,
+23 cannabis concentrate or cannabis products harvested or manufactured at the same time
+24 under the same conditions using the same process or procedure.
+25 Sec. A-2. 22 MRSA §2421-A, sub-§3-A is enacted to read:
+26 3-A. Cannabis flower. "Cannabis flower" means the pistillate reproductive organs of
+27 a mature cannabis plant, whether processed or unprocessed, including the flowers and buds
+28 of the plant. "Cannabis flower" does not include cannabis trim or whole mature cannabis
+29 plants or the flower of hemp as defined in Title 7, section 2231, subsection 1‑A, paragraph
+30 D.
+31 Sec. A-3. 22 MRSA §2421-A, sub-§6-A is enacted to read:
+32 6-A. Cannabis pre-roll. "Cannabis pre-roll" means cannabis flower, cannabis trim
+33 or a combination of cannabis flower and cannabis trim that is rolled in rolling papers,
+Page 1 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+314 cigarette papers or wraps, with or without a cardboard filter, and intended for smoking. A
+325 cannabis pre-roll may be infused with cannabis concentrate.
+3 Sec. A-4. 22 MRSA §2421-A, sub-§8, as enacted by PL 2023, c. 679, Pt. A, §3, is
+4 repealed and the following enacted in its place:
+5 8. Cannabis testing facility. "Cannabis testing facility" means a facility registered in
+6 accordance with section 2425-A or a facility licensed under Title 28-B, chapter 1 to operate
+7 a testing facility.
+8 Sec. A-5. 22 MRSA §2421-A, sub-§9-A is enacted to read:
+9 9-A. Cannabis trim. "Cannabis trim" means any part of a cannabis plant, whether
+10 processed or unprocessed, that is not cannabis flower or a cannabis seed, except that
+11 "cannabis trim" does not include the stalks or roots of the cannabis plant. "Cannabis trim"
+12 does not include any part of a hemp plant as defined in Title 7, section 2231, subsection
+13 1‑A, paragraph D.
+14 Sec. A-6. 22 MRSA §2421-A, sub-§27-A is enacted to read:
+15 27-A. Matrix. "Matrix" means, as applicable to the testing of harvested cannabis, the
+16 form in which harvested cannabis exists at the time it is subject to mandatory testing in
+17 accordance with this chapter. "Matrix" includes the following categories of harvested
+18 cannabis:
+19 A. Cannabis flower and cannabis trim, including cannabis pre-rolls;
+20 B. Cannabis concentrate, including concentrates extracted using solvents, as well as
+21 solventless extraction methods; and
+22 C. Cannabis product.
+23 Sec. A-7. 22 MRSA §2421-A, sub-§45-A is enacted to read:
+24 45-A. Remediation. "Remediation" means the process by which a registrant mitigates
+25 or otherwise removes a contaminant from a batch of harvested cannabis that failed
+26 mandatory testing due to the presence of that contaminant. "Remediation" includes without
+27 limitation the application of heat, radiation or ozone; solvent extraction; or further drying
+28 and curing. "Remediation" does not include the dilution of contaminants through the
+29 addition of uncontaminated material to batches of harvested cannabis that are
+30 contaminated.
+31 Sec. A-8. 22 MRSA §2421-A, sub-§51-A is enacted to read:
+32 51-A. Testing or test. "Testing" or "test" means the analysis of harvested cannabis or
+33 other substances for contaminants, safety or potency. "Testing" or "test" includes the
+34 collection of samples of harvested cannabis for testing purposes but does not include
+35 cultivation or manufacturing.
+36 Sec. A-9. 22 MRSA §2421-A, sub-§51-B is enacted to read:
+37 51-B. THC. "THC" means tetrahydrocannabinol.
+38 Sec. A-10. 22 MRSA §2423-A, sub-§2, ¶M, as repealed and replaced by PL 2019,
+39 c. 331, §11 and amended by PL 2021, c. 669, §5, is repealed.
+Page 2 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 Sec. A-11. 22 MRSA §2423-A, sub-§10, as amended by PL 2025, c. 390, Pt. A,
+2 §38 and c. 611, §3, is repealed.
+3 Sec. A-12. 22 MRSA §2423-A, sub-§12, as repealed and replaced by PL 2019, c.
+4 331, §15 and amended by PL 2021, c. 669, §5, is repealed.
+5 Sec. A-13. 22 MRSA §2423-F, sub-§4, ¶D, as repealed and replaced by PL 2019,
+6 c. 331, §17 and amended by PL 2021, c. 669, §5, is repealed.
+7 Sec. A-14. 22 MRSA §2423-F, sub-§5, ¶D, as repealed and replaced by PL 2019,
+8 c. 331, §17 and amended by PL 2021, c. 669, §5, is repealed.
+9 Sec. A-15. 22 MRSA §2423-G is enacted to read:
+10 §2423-G. Testing program established
+11 The office shall establish a testing program for harvested cannabis.
+12 1. Testing required. Except as otherwise provided in this chapter, the testing program
+13 must require a dispensary, a caregiver or an assistant of a caregiver, prior to selling,
+14 distributing or transferring harvested cannabis to a qualifying patient or to an individual on
+15 behalf of a qualifying patient, to submit the harvested cannabis to a cannabis testing facility
+16 for testing to ensure that the harvested cannabis does not exceed the maximum level of
+17 allowable contamination for any contaminant that is injurious to health and for which
+18 testing is required and to ensure accurate labeling.
+19 2. Rules. The office shall adopt rules establishing a testing program pursuant to this
+20 section, including, but not limited to:
+21 A. Rules identifying the types of contaminants that are injurious to health for which
+22 harvested cannabis must be tested under this chapter and rules regarding the maximum
+23 level of allowable contamination for each identified contaminant;
+24 B. Rules establishing testing and maximum level parameters for speciation testing of
+25 harmful yeasts and molds, including the range for allowing speciation tests for cannabis
+26 flower and cannabis trim testing, which must be set based on evidence-based practices;
+27 and
+28 C. Rules establishing testing protocols that ensure consistent and accurate reporting of
+29 potency.
+30 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5,
+31 chapter 375, subchapter 2-A.
+32 Sec. A-16. 22 MRSA §2423-H is enacted to read:
+33 §2423-H. Cannabis testing facilities; requirements
+34 1. Facility requirements. The following requirements are applicable to the operation
+35 of a cannabis testing facility registered in accordance with this chapter regarding mandatory
+36 testing and other testing of harvested cannabis.
+37 A. A testing facility that is licensed pursuant to Title 28-B, chapter 1 to test cannabis
+38 and cannabis products for harmful contaminants and cannabinoid profiles may be
+39 issued a registration certificate to operate a cannabis testing facility under this chapter,
+40 as long as the licensed testing facility is in good standing with the office and the request
+41 for a registration certificate is submitted on forms provided by the office. There is no
+Page 3 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+412 fee for a registration certificate issued to a testing facility licensed under Title 28-B,
+423 chapter 1. All employees of the cannabis testing facility that conduct mandatory and
+434 other testing on harvested cannabis shall obtain from the office a registry identification
+445 card in accordance with section 2425-A.
+5 B. A person that is not licensed under Title 28-B, chapter 1 to operate a testing facility
+6 may apply for a registration certificate to operate a cannabis testing facility under this
+7 chapter in accordance with the requirements of section 2425-A. The office may not
+8 issue a registration certificate to a person pursuant to this paragraph and section 2425-A
+9 unless the applicant also demonstrates that:
+10 (1) The applicant has obtained accreditation pursuant to standard ISO/IEC 17025
+11 of the International Organization for Standardization by a 3rd-party accrediting
+12 body for all fields of mandatory testing, in all matrices, required under this chapter;
+13 (2) The applicant has obtained certification by the Maine Center for Disease
+14 Control and Prevention in accordance with section 569 for all fields of mandatory
+15 testing, in all matrices, required under this chapter;
+16 (3) The applicant and, if the applicant is a business entity, anyone with a financial
+17 or other interest in the applicant is not a caregiver, a registered caregiver or an
+18 officer or director of a registered dispensary or manufacturing facility; and
+19 (4) The applicant has obtained local authorization in accordance with section
+20 2429-D from the municipality where the cannabis testing facility will be located.
+21 C. For the purposes of administering tests pursuant to this chapter, a registered cannabis
+22 testing facility is authorized to:
+23 (1) Accept and possess samples of harvested cannabis for mandatory testing from
+24 registrants;
+25 (2) Accept and possess samples of harvested cannabis for other testing from
+26 registrants, qualifying patients and members of the public;
+27 (3) Test samples of harvested cannabis for mandatory and other testing and report
+28 the results of such testing to the registrant, qualifying patient or member of the
+29 public that submitted the samples for testing;
+30 (4) Report the results of any mandatory and other testing conducted pursuant to
+31 this chapter to the office;
+32 (5) Test samples of harvested cannabis that are submitted for retesting after a failed
+33 mandatory test and report the results of retesting to the registrant, qualifying patient
+34 or member of the public that submitted the samples for retesting and to the office;
+35 and
+36 (6) Hire any number of cardholders necessary to conduct analyses in accordance
+37 with this chapter.
+38 2. Rules. The office may adopt rules regarding the registration, certification,
+39 accreditation and operation of cannabis testing facilities authorized under this chapter,
+40 including, but not limited to, rules establishing acceptable testing practices for cannabis
+41 testing facilities, including, but not limited to, provisions relating to testing practices,
+42 methods and standards; remediation and retesting procedures; quality control analysis;
+Page 4 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+413 equipment certification and calibration; chemical identification; cannabis testing facility
+424 record-keeping, documentation and business practices; disposal of used, unused and waste
+435 harvested cannabis; and reporting of test results. The office shall, to the extent practicable,
+446 establish pass and fail requirements for cannabis testing in accordance with applicable
+457 national and international quality standards established for botanical ingredients by the
+468 American Herbal Pharmacopoeia, the United States Pharmacopeia, the European
+479 Pharmacopoeia and the British Pharmacopoeia or successor organizations. Rules adopted
+580 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+591 subchapter 2-A. The office may, alternatively, require cannabis testing facilities registered
+1502 pursuant to this chapter to comply with any rules and standards established for testing
+1513 facilities licensed under Title 28-B, chapter 1.
+12 Sec. A-17. 22 MRSA §2425-A, first ¶, as enacted by PL 2017, c. 452, §12 and
+13 amended by PL 2021, c. 669, §5, is further amended to read:
+14 This section governs registry identification cards and registration certificates, except
+15 that registration of manufacturing facilities and persons authorized to engage in cannabis
+16 extraction is governed by section 2423‑F and registration of cannabis testing facilities is
+17 governed by section 2423‑A, subsection 10 2423-H.
+18 Sec. A-18. 22 MRSA §2425-A, sub-§2, as enacted by PL 2017, c. 452, §12, is
+19 amended to read:
+20 2. Required registration. A caregiver, other than a caregiver operating under section
+21 2423‑A, subsection 3, paragraph C, and an officer or director or assistant of a dispensary
+22 or a caregiver registrant, other than a caregiver operating under section 2423‑A, subsection
+23 3, paragraph C, shall obtain a registry identification card in accordance with subsections 3,
+24 4 and 5. A long-term care facility designated by a qualifying patient pursuant to section
+25 2423‑A, subsection 1, paragraph F‑1, subparagraph (2) and a dispensary or a cannabis
+26 testing facility shall obtain a registration certificate in accordance with subsections 6, 7 and
+27 8.
+28 Sec. A-19. 22 MRSA §2425-A, sub-§6, as amended by PL 2025, c. 611, §7, is
+29 further amended to read:
+30 6. Application for registration certificate; qualifications. The department office
+31 shall register and issue a registration certificate to an applicant who submits a complete
+32 application that meets the requirements of this subsection.
+33 The department office shall conduct a criminal history record check pursuant to section
+34 2425-B for each officer or director of the applicant for a registration certificate. The
+35 department office may not issue a registration certificate to an applicant if any officer or
+36 director of the applicant has been convicted of a disqualifying drug offense.
+37 An application must include, as applicable:
+38 A. The annual fee required pursuant to subsection 10;
+39 B. Evidence of the applicant's registration with the Secretary of State and evidence
+40 that the applicant is in good standing with the Secretary of State; and
+41 C. The name, address and date of birth of each officer or director of the applicant.;
+42 D. For applicants for a dispensary registration certificate, plans for compliance with
+43 the requirements of section 2428; and
+Page 5 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 E. For applicants for a cannabis testing facility registration certificate, demonstration
+2 that the applicant is in compliance with the requirements of section 2423-H.
+3 Sec. A-20. 22 MRSA §2428, sub-§1-A, ¶G, as repealed and replaced by PL 2019,
+4 c. 331, §25 and amended by PL 2021, c. 669, §5, is repealed.
+5 Sec. A-21. 22 MRSA §2429-A, sub-§1, ¶C, as enacted by PL 2017, c. 452, §18
+6 and amended by PL 2021, c. 669, §5, is further amended to read:
+7 C. Packaged in a container with an integral measurement component and child-
+8 resistant cap if the cannabis product is a multiserving liquid; and
+9 Sec. A-22. 22 MRSA §2429-A, sub-§1, ¶C-1 is enacted to read:
+10 C-1. Packaged in a manner that does not introduce harmful contaminants to the
+11 harvested cannabis after it has passed mandatory testing required under this chapter;
+12 and
+13 Sec. A-23. 22 MRSA §2429-A, sub-§3, as enacted by PL 2017, c. 452, §18 and
+14 amended by PL 2021, c. 669, §5, is further amended to read:
+15 3. Labels. If a A registered caregiver, registered dispensary or manufacturing facility
+16 affixes shall affix a label on the packaging of any harvested cannabis provided to a
+17 qualifying patient, and that label includes must include information about contaminants,
+18 the cannabinoid profile or and potency of the harvested cannabis, the label and must be
+19 verified by a cannabis testing facility. This subsection does not apply if there is no cannabis
+20 testing facility operating in accordance with section 2423‑A, subsection 10.
+21 Sec. A-24. 22 MRSA §2429-C, sub-§1-A is enacted to read:
+22 1-A. Cannabinoid potency. May have the amount or potency of cannabinoids
+23 calculated using an allowable variance rate of 10%. In the calculation of the amount or
+24 potency of cannabinoids allowed under this subsection, the allowable variance rate may be
+25 in addition to the allowable variance rate applicable to a cannabis testing facility pursuant
+26 to section 2430-O, subsection 7;
+27 Sec. A-25. 22 MRSA §2430, sub-§3-A, ¶C, as enacted by PL 2025, c. 368, §3, is
+28 amended to read:
+29 C. Grants to organizations in the State conducting outreach and providing support
+30 services to active duty military members and their families who are transitioning to
+31 civilian life. Notwithstanding any provision of law to the contrary, on or before
+32 September 30, 2025, and by every September 30th thereafter, the State Controller shall
+33 transfer $200,000 from the fund to the Active Duty Military Transition to Civilian Life
+34 Fund established within the Department of Economic and Community Development
+35 under Title 5, section 13056‑K to administer grants issued pursuant to this paragraph;
+36 and
+37 Sec. A-26. 22 MRSA §2430, sub-§3-A, ¶D, as enacted by PL 2025, c. 368, §3, is
+38 amended to read:
+39 D. Grants to organizations in the State providing housing and support services for
+40 unhoused veterans and their children and for survivors of military sexual trauma.
+41 Notwithstanding any provision of law to the contrary, on or before September 30, 2025,
+42 and by every September 30th thereafter, the State Controller shall transfer $285,000
+Page 6 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+413 from the fund to the Survivors of Military Sexual Trauma Fund under section 3971 to
+424 administer grants issued pursuant to this paragraph.; and
+3 Sec. A-27. 22 MRSA §2430, sub-§3-A, ¶E is enacted to read:
+4 E. Reimbursements to qualifying registrants for a portion of the costs of batch testing
+5 required under section 2430-O. For the purposes of this paragraph, "qualifying
+6 registrant" means a registrant subject to mandatory testing under section 2430-O whose
+7 gross annual revenue generated from authorized conduct under this chapter is less than
+8 $125,000 and whose annual total testing costs for testing required under section
+9 2430-O is greater than 10% of the registrant's gross annual revenue. Reimbursements
+10 under this paragraph must be $100 per batch tested pursuant to section 2430-O for the
+11 year in which the registrant qualifies. The office may adopt rules to implement and
+12 administer reimbursement of qualifying registrants under this paragraph. Rules adopted
+13 pursuant to this paragraph are routine technical rules as defined in Title 5, chapter 375,
+14 subchapter 2-A.
+15 Sec. A-28. 22 MRSA §2430-J, as enacted by PL 2023, c. 365, §21, is amended to
+16 read:
+17 §2430-J. Reporting; record keeping; labels Records; inventory tracking information
+18 The department office shall develop, implement and maintain administer a statewide
+19 electronic portal inventory tracking system through which registered caregivers, registered
+20 dispensaries, cannabis testing facilities and manufacturing facilities may shall submit to the
+21 department office the electronic records required pursuant to this chapter. Registrants of
+22 the inventory tracking system shall pay all costs and fees associated with the use of the
+23 inventory tracking system and all other costs associated with the keeping of records
+24 required in this section. The department office may not require records submitted through
+25 the portal maintained in the inventory tracking system to contain information identifying
+26 qualifying patients or their medical providers.
+27 1. Required records. A registered caregiver, a registered dispensary, a cannabis
+28 testing facility and a manufacturing facility shall:
+29 A. Keep a record of all transfers of cannabis plants and harvested cannabis from
+30 immature cannabis plant to the point of sale or transfer to a qualifying patient, return,
+31 disposal or destruction; and
+32 B. Keep the books and records for a period of 4 6 years; and.
+33 C. Make the books and records maintained under this subsection available for
+34 inspection by the department upon the department's request.
+35 2. Required label. A registered caregiver, registered dispensary, cannabis testing
+36 facility and manufacturing facility shall accompany all cannabis plants and harvested
+37 cannabis being transported pursuant to this chapter with a label that identifies:
+38 A. The person transferring the cannabis plants or harvested cannabis, including the
+39 person's registry identification number;
+40 B. The person receiving the cannabis plants or harvested cannabis, including the
+41 person's registry identification number or, if the person is not required to register under
+42 this chapter, a unique identifier assigned to the person;
+Page 7 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 C. A description of the cannabis plants or harvested cannabis being transferred,
+2 including the amount and form;
+3 D. The time and date of the transfer; and
+4 E. The destination of the cannabis plants or harvested cannabis.
+5 The department may adopt rules to implement this subsection. Rules adopted pursuant to
+6 this subsection are major substantive rules as defined in Title 5, chapter 375, subchapter
+7 2‑A.
+8 2-A. Required inventory tracking information. Registrants of the inventory
+9 tracking system shall submit to the office by 11:59 p.m. every day the following
+10 information through the inventory tracking system:
+11 A. A complete inventory of all cannabis plants and harvested cannabis cultivated,
+12 manufactured, stored or otherwise within the possession or control of the registrant;
+13 B. A record of all transfers of cannabis plants or harvested cannabis transferred to or
+14 from the registrant that includes, at a minimum:
+15 (1) The person transferring the cannabis plants or harvested cannabis, including
+16 the person's registry identification number;
+17 (2) The person receiving the cannabis plants or harvested cannabis, including the
+18 person's registry identification number or, if the person is not required to register
+19 under this chapter, a unique identifier assigned to the person.
+20 A registrant transferring cannabis plants or harvested cannabis to a person who is
+21 not required to register under this chapter shall maintain and produce to the office
+22 upon request a list that identifies the unique identifier and the person to whom that
+23 identifier is assigned;
+24 (3) A description of the cannabis plants or harvested cannabis being transferred,
+25 including the amount and form;
+26 (4) The time and date of the transfer; and
+27 (5) The destination of the cannabis plants or harvested cannabis; and
+28 C. A record of all mandatory test results for each batch of harvested cannabis offered
+29 to qualifying patients.
+30 This subsection may not be construed to require a registrant to resubmit inventory tracking
+31 information to the office if no changes have been made to the inventory maintained by the
+32 registrant.
+33 The office may adopt rules to implement this section, including, but not limited to,
+34 rules regarding the process and content of records to be submitted and the frequency with
+35 which records must be submitted, as well as rules regarding enforcement of the inventory
+36 tracking requirements of this chapter. Rules adopted pursuant to this paragraph are routine
+37 technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+38 Sec. A-29. 22 MRSA §2430-O is enacted to read:
+39 §2430-O. Mandatory testing
+Page 8 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 A registered caregiver, dispensary or manufacturing facility may not sell, distribute or
+2 transfer harvested cannabis to a qualifying patient or to an individual on behalf of a
+3 qualifying patient unless the harvested cannabis has been tested pursuant to this chapter
+4 and that testing demonstrates that the harvested cannabis does not exceed the maximum
+5 level of allowable contamination for any contaminant for which testing is required, as
+6 applicable, based upon the matrix in which the harvested cannabis is intended to be used
+7 by a qualifying patient. The office may require testing for some analytes in some matrices
+8 before the harvested cannabis is further processed, manufactured or combined to ensure
+9 that contaminants that are injurious to health do not contaminate other batches of harvested
+10 cannabis. All cannabis concentrates used to manufacture cannabis products in accordance
+11 with this chapter must be tested in accordance with subsection 3 or 4 prior to being used to
+12 manufacture a cannabis product or a cannabis pre-roll infused with cannabis concentrate.
+13 The office may temporarily waive mandatory testing requirements under this section
+14 for any contaminant or factor for which the office has determined that there exists no
+15 cannabis testing facility in the State capable of and authorized to perform such testing.
+16 1. Scope of mandatory testing generally. Mandatory testing of harvested cannabis
+17 under this section must include, but is not limited to, testing for:
+18 A. Residual solvents, poisons and toxins;
+19 B. Metals;
+20 C. Dangerous molds and mildew, including, but not limited to, Aspergillus spp. and
+21 mycotoxins, as applicable;
+22 D. Harmful microbes, including, but not limited to, Escherichia coli and Salmonella;
+23 E. Pesticides, fungicides and insecticides;
+24 F. Water activity, for harvested cannabis except cannabis concentrate; and
+25 G. THC potency, homogeneity and cannabinoid profiles.
+26 2. Scope of mandatory testing for cannabis flower and cannabis trim. Cannabis
+27 flower and cannabis trim, including cannabis pre-rolls and cannabis flower or cannabis trim
+28 that has been mixed with cannabis concentrate, must be tested for:
+29 A. Metals;
+30 B. Dangerous molds and mildew, including, but not limited to, Aspergillus spp. and
+31 mycotoxins, as applicable. Testing for mycotoxins is mandatory if the batch fails
+32 mandatory testing for dangerous molds and mildew and is subsequently retested;
+33 C. Harmful microbes;
+34 D. Pesticides, fungicides and insecticides;
+35 E. Water activity; and
+36 F. THC potency and cannabinoid profiles.
+37 3. Scope of mandatory testing for cannabis concentrate extracted using solvents
+38 other than water. Cannabis concentrate that has been extracted using solvents other than
+39 water must be tested for:
+40 A. Residual solvents, poisons and toxins;
+Page 9 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 B. Metals;
+2 C. Pesticides, fungicides and insecticides;
+3 D. Mycotoxins; and
+4 E. THC potency, homogeneity and cannabinoid profiles.
+5 4. Scope of mandatory testing for cannabis concentrate extracted without use of
+6 solvents other than water. Cannabis concentrate that has been extracted without the use
+7 of solvents other than water must be tested for:
+8 A. Metals;
+9 B. Dangerous molds and mildew, including, but not limited to, Aspergillus spp. and
+10 mycotoxins, as applicable. Testing for mycotoxins is mandatory if the batch fails
+11 mandatory testing for dangerous molds and mildew and is subsequently retested;
+12 C. Harmful microbes;
+13 D. Pesticides, fungicides and insecticides; and
+14 E. THC potency, homogeneity and cannabinoid profiles.
+15 5. Scope of mandatory testing for cannabis products. Cannabis products, including
+16 edible cannabis products, must be tested for:
+17 A. Dangerous molds and mildew, including, but not limited to, Aspergillus spp. and
+18 mycotoxins, as applicable. Testing for mycotoxins is mandatory if the batch fails
+19 mandatory testing for dangerous molds and mildew and is subsequently retested;
+20 B. Harmful microbes;
+21 C. Water activity, except that edible cannabis products that are preserved by
+22 refrigeration are not required to be tested for water activity; and
+23 D. THC potency, homogeneity and cannabinoid profiles.
+24 6. Record keeping. A registrant, not exempt under subsection 8, shall maintain a
+25 record of all mandatory testing that includes a description of the harvested cannabis
+26 provided to the cannabis testing facility, the identity of the cannabis testing facility and the
+27 results of the mandatory test. The results of all mandatory tests conducted by a cannabis
+28 testing facility must be recorded in accordance with the record-keeping and inventory
+29 tracking requirements of section 2430‑J.
+30 7. Sample collection, testing processes, protocols and standards. The office may
+31 establish by rule processes, protocols and standards for the collection of samples for
+32 mandatory testing and for the mandatory and other testing of harvested cannabis that
+33 conform with the best practices generally used to sample the applicable matrices and test
+34 for the presence or absence of the contaminants identified in this section based upon the
+35 matrix of the harvested cannabis tested. The rules may include an allowable variance rate
+36 for determining the amount or potency of THC or other cannabinoids in edible cannabis
+37 products. The office shall, to the extent practicable, establish pass and fail requirements for
+38 cannabis testing in accordance with applicable national and international quality standards
+39 established for botanical ingredients by the American Herbal Pharmacopoeia, the United
+40 States Pharmacopeia, the European Pharmacopoeia and the British Pharmacopoeia or
+41 successor organizations. Rules adopted pursuant to this subsection are routine technical
+Page 10 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+412 rules as defined in Title 5, chapter 375, subchapter 2-A. The office may, alternatively,
+423 require registrants to comply with any rules and standards established for testing cannabis
+434 under Title 28-B, chapter 1.
+4 8. Exemption from mandatory testing. Harvested cannabis cultivated by a registered
+5 caregiver who meets the following criteria is exempt from the mandatory testing
+6 requirements in this section:
+7 A. The registered caregiver's cultivation area is located at the registered caregiver's
+8 primary residence;
+9 B. The registered caregiver does not have a 2nd cultivation area located on property
+10 that is not the registered caregiver's primary residence;
+11 C. The registered caregiver's cultivation area does not exceed 500 square feet of mature
+12 plant canopy or 30 mature plants;
+13 D. There are no other registered caregivers with a cultivation area on the property
+14 where the registered caregiver's cultivation area is located with the exception of one
+15 family member who shares a primary residence with the registered caregiver and the
+16 combined cultivation area does not exceed a total of 1,000 square feet of mature plant
+17 canopy or 60 mature plants; and
+18 E. The registered caregiver, or any other family or household member who cultivates
+19 at the primary residence of the registered caregiver, does not engage in wholesale
+20 transactions.
+21 The office shall adopt rules for certifying that a registered caregiver meets the criteria in
+22 this subsection. Harvested cannabis that is exempt from testing pursuant to this section
+23 must include the following warning statement: "NOT TESTED FOR RESIDUAL
+24 SOLVENTS, POISONS, TOXINS, HARMFUL CHEMICALS, DANGEROUS YEASTS,
+25 MOLDS AND MILDEWS, HARMFUL MICROBES, PESTICIDES, FUNGICIDES AND
+26 INSECTICIDES." The warning statement must appear on the front or the most
+27 prominently displayed side of any marketing layer, must appear in bold and must be no
+28 smaller than 12-point font or 1/12 inch. Rules adopted pursuant to this subsection are
+29 routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+30 9. Maximum batch size for mandatory testing. For the purpose of sampling and
+31 mandatory testing under this section, a batch may not exceed 44 pounds by net weight,
+32 regardless of matrix.
+33 A. For cannabis flower and cannabis trim, including cannabis pre-rolls, the 44‑pound
+34 limit applies to the combined net weight of cannabis flower or cannabis trim harvested
+35 or manufactured at the same time under the same conditions using the same process or
+36 procedure.
+37 B. For cannabis concentrate and cannabis products, the 44‑pound limit applies to the
+38 combined net weight of the finished material in that matrix that is manufactured at the
+39 same time under the same conditions using the same process or procedure.
+40 The office may adopt rules for sample collection that ensure representative sampling within
+41 the 44‑pound maximum batch size in accordance with subsection 7. Rules adopted pursuant
+42 to this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter
+43 2-A.
+Page 11 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 Sec. A-30. 22 MRSA §2430-P is enacted to read:
+2 §2430-P. Notification requirements
+3 1. Notification of testing results required. If the results of a mandatory test
+4 conducted pursuant to section 2430-O indicate that the harvested cannabis exceeds the
+5 maximum level of allowable contamination for any contaminant that is injurious to health
+6 and for which testing is required, the cannabis testing facility shall immediately notify the
+7 office and the registered caregiver, dispensary or manufacturing facility that submitted the
+8 samples for mandatory testing of the failed test. If a registered caregiver, dispensary or
+9 manufacturing facility successfully undertakes remediation and retesting of harvested
+10 cannabis, the cannabis testing facility shall notify the office of the subsequent passed
+11 mandatory testing.
+12 2. Notification of testing results not required. A cannabis testing facility is not
+13 required to notify the office of the results of any test conducted on:
+14 A. Harvested cannabis at the direction of a registered caregiver, dispensary or
+15 manufacturing facility pursuant to section 2430-O that demonstrates that the harvested
+16 cannabis does not exceed the maximum level of allowable contamination for any
+17 contaminant that is injurious to health and for which testing is required;
+18 B. Harvested cannabis at the direction of a registered caregiver, dispensary or
+19 manufacturing facility for research and development purposes only, as long as the
+20 registered caregiver, dispensary or manufacturing facility notifies the cannabis testing
+21 facility prior to the performance of the test that the testing is for research and
+22 development purposes only;
+23 C. Harvested cannabis at the direction of a person who is not a registered caregiver,
+24 dispensary or manufacturing facility; or
+25 D. A substance that is not harvested cannabis.
+26 Sec. A-31. 22 MRSA §2430-Q is enacted to read:
+27 §2430-Q. Sample collection for testing
+28 1. Sample collecting rules. A registered caregiver, an assistant of a registered
+29 caregiver, a dispensary, a manufacturing facility, a sample collector licensed pursuant to
+30 Title 28-B, chapter 1 or an employee of a sample collector or cannabis testing facility may
+31 collect samples of harvested cannabis for mandatory testing. The office may adopt rules
+32 regarding the collection of samples of harvested cannabis for mandatory testing by a
+33 registered caregiver, an assistant of a registered caregiver, a dispensary, a manufacturing
+34 facility, a sample collector licensed pursuant to Title 28-B, chapter 1 or an employee of a
+35 sample collector or cannabis testing facility, which may include, but are not limited to:
+36 A. Establishment of sample collecting processes, protocols and standards, which must
+37 be complied with by any person collecting samples of harvested cannabis for
+38 mandatory testing purposes;
+39 B. Requirements for a registered caregiver, an assistant of a registered caregiver, a
+40 dispensary or a manufacturing facility to demonstrate that the sample collector's sample
+41 collecting practices comply with paragraph A;
+Page 12 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 C. Provisions authorizing the office to conduct audits of harvested cannabis that was
+2 tested using samples collected by a registered caregiver, an assistant of a registered
+3 caregiver, a dispensary or a manufacturing facility pursuant to this section, with all
+4 costs of the audits to be paid for by the registered caregiver, assistant of a registered
+5 caregiver, dispensary or manufacturing facility subject to an audit of that sample
+6 collector's sample collecting practices;
+7 D. Provisions authorizing the office to take samples of harvested cannabis from a
+8 registrant, including from a retail location maintained by a registrant, for testing by a
+9 cannabis testing facility to audit or verify mandatory test results issued by the cannabis
+10 testing facility, with all costs of the testing to be paid for by the registrant;
+11 E. Provisions authorizing the office to conduct interlaboratory proficiency testing to
+12 ensure cannabis testing facility compliance with testing program requirements and to
+13 ensure the quality, consistency and reliability of mandatory testing conducted by
+14 cannabis testing facilities authorized pursuant to this chapter;
+15 F. Requirements for the transportation, delivery and transfer of samples of harvested
+16 cannabis collected by a registered caregiver, an assistant of a registered caregiver, a
+17 dispensary or a manufacturing facility to a cannabis testing facility, which must require
+18 the in-person transfer of the samples by the registered caregiver, the assistant of a
+19 registered caregiver, the dispensary or the manufacturing facility to a cannabis testing
+20 facility; and
+21 G. A prohibition on the intentional tampering with or interference in the mandatory
+22 testing process or auditing process, including failure of any audit conducted in
+23 accordance with paragraph C, by a registered caregiver, an assistant of a registered
+24 caregiver, a dispensary or a manufacturing facility, which, notwithstanding any
+25 provision of this chapter to the contrary, may be treated by the office as constituting a
+26 violation of program requirements and as a basis for imposition of a penalty pursuant
+27 to section 2430-I, subsection 2, as applicable.
+28 2. Samples for investigation. This section may not be construed to limit the authority
+29 of the office to take samples of harvested cannabis pursuant to an investigation by the office
+30 into the conduct of a registrant or a registrant agent.
+31 3. Rules. Rules adopted pursuant to this section are routine technical rules as defined
+32 in Title 5, chapter 375, subchapter 2-A.
+33 Sec. A-32. 22 MRSA §2430-R is enacted to read:
+34 §2430-R. Additional testing not required
+35 Notwithstanding section 2430-O, a registered caregiver, an assistant of a registered
+36 caregiver, a dispensary or a manufacturing facility may sell, transfer or otherwise furnish
+37 to a qualifying patient or caregiver or to another registered caregiver, assistant of a
+38 registered caregiver, dispensary or manufacturing facility harvested cannabis that the
+39 registered caregiver, assistant of a registered caregiver, dispensary or manufacturing
+40 facility has not submitted for testing in accordance with this chapter if:
+41 1. Prior testing. The harvested cannabis has previously undergone all required testing
+42 in accordance with this chapter at the direction of another registered caregiver, assistant of
+43 a registered caregiver, dispensary or manufacturing facility and that testing demonstrated
+Page 13 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+414 that the harvested cannabis does not exceed the maximum level of allowable contamination
+425 for any contaminant that is injurious to health and for which testing is required;
+3 2. Proper documentation. The mandatory testing process and the test results for the
+4 harvested cannabis are documented in accordance with the requirements of this chapter;
+5 3. Tracking maintained. Tracking from immature cannabis plant to the point of sale
+6 or transfer to a qualifying patient, or another individual on behalf of a qualifying patient,
+7 has been maintained for the harvested cannabis and transfers of the harvested cannabis to
+8 another registered caregiver, assistant of a registered caregiver, dispensary or
+9 manufacturing facility or to a qualifying patient or caregiver on behalf of a qualifying
+10 patient can be readily identified; and
+11 4. No further processing, manufacturing or alteration. Since the performance of
+12 the prior testing under subsection 1, the harvested cannabis has not undergone any further
+13 processing, manufacturing or alteration other than the packaging and labeling of the
+14 harvested cannabis in accordance with this chapter. For the purposes of this subsection,
+15 "further processing, manufacturing or alteration" does not include the use of cannabis
+16 concentrate in the creation of an edible cannabis product, except for testing under section
+17 2430-O, subsection 5, paragraph D.
+18 Sec. A-33. 22 MRSA §2430-S is enacted to read:
+19 §2430-S. Patient education
+20 In addition to the educational materials required under section 2429-A, subsection 4,
+21 registrants shall provide educational materials to the qualifying patient at the time of sale,
+22 in printed or electronic form, about product dosing; delayed onset and duration; risks of
+23 overconsumption and impairment; considerations for individuals inexperienced with
+24 cannabis or at risk for psychiatric problems; and safe storage to prevent access by children
+25 and pets. The office shall develop and make publicly available minimum content
+26 requirements for such educational materials. In developing minimum content requirements
+27 for educational materials under this section, the office may consult with the Maine Center
+28 for Disease Control and Prevention and the Northern New England Poison Center or
+29 successor organization.
+30 PART B
+31 Sec. B-1. 28-B MRSA §102-A, sub-§14-A is enacted to read:
+32 14-A. Cannabis pre-roll. "Cannabis pre-roll" means cannabis flower, cannabis trim
+33 or a combination of cannabis flower and cannabis trim that is rolled in rolling papers,
+34 cigarette papers or wraps, with or without a cardboard filter, and intended for smoking. A
+35 cannabis pre-roll may be infused with cannabis concentrate.
+36 Sec. B-2. 28-B MRSA §102-A, sub-§40-A is enacted to read:
+37 40-A. Matrix. "Matrix" means, as applicable to the testing of adult use cannabis or
+38 adult use cannabis products, the form in which the adult use cannabis or adult use cannabis
+39 product exists at the time it is subject to mandatory testing in accordance with this chapter.
+40 "Matrix" includes the following categories of adult use cannabis and adult use cannabis
+41 products:
+42 A. Cannabis flower and cannabis trim, including cannabis pre-rolls;
+Page 14 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 B. Cannabis concentrate, including concentrates extracted using solvents, as well as
+2 solventless extraction methods; and
+3 C. Cannabis product.
+4 Sec. B-3. 28-B MRSA §102-A, sub-§64, as enacted by PL 2023, c. 679, Pt. B, §3,
+5 is amended to read:
+6 64. Testing facility. "Testing facility" means a facility licensed under this chapter to
+7 develop, research and test cannabis, and cannabis products and other substances or a facility
+8 registered in accordance with Title 22, chapter 558-C.
+9 Sec. B-4. 28-B MRSA §602, first ¶, as amended by PL 2021, c. 612, §2 and c.
+10 669, §5, is further amended to read:
+11 A licensee may not sell or distribute adult use cannabis or an adult use cannabis product
+12 to a consumer under this chapter unless the cannabis or cannabis product has been tested
+13 pursuant to this subchapter and the rules adopted pursuant to this subchapter and that
+14 mandatory testing has demonstrated that the cannabis or cannabis product does not exceed
+15 the maximum level of allowable contamination for any contaminant that is injurious to
+16 health and for which testing is required. The office may require testing for some analytes
+17 in some matrices before the cannabis or cannabis product is further processed,
+18 manufactured or combined to ensure that contaminants that are injurious to health do not
+19 contaminate other batches of cannabis or cannabis product. All cannabis concentrates used
+20 to manufacture cannabis products in accordance with this chapter must be tested in
+21 accordance with subsection 1-C or 1-D prior to being used to manufacture a cannabis
+22 product or a cannabis pre-roll infused with cannabis concentrate. The office shall also adopt
+23 rules establishing testing and maximum level parameters for speciation testing, including
+24 the range for allowing speciation tests for cannabis flower and cannabis trim testing, which
+25 must be set based on evidence-based practices.
+26 Sec. B-5. 28-B MRSA §602, sub-§1, as amended by PL 2023, c. 679, Pt. B, §§113
+27 and 114, is further amended to read:
+28 1. Scope of mandatory testing. Mandatory testing of adult use cannabis and adult
+29 use cannabis products under this section must include, but is not limited to, testing for:
+30 A. Residual solvents, poisons and toxins;
+31 B. Harmful chemicals Metals;
+32 C. Dangerous yeasts, molds and mildew as specified in rules adopted by the office,
+33 including, but not limited to, Aspergillus spp. and mycotoxins, as applicable;
+34 D. Harmful microbes, including, but not limited to, Escherichia coli and salmonella
+35 Salmonella;
+36 E. Pesticides, fungicides and insecticides; and
+37 F. THC potency, homogeneity and cannabinoid profiles to ensure correct labeling.;
+38 and
+39 G. Water activity, except for cannabis concentrate.
+Page 15 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 The office may temporarily waive mandatory testing requirements under this section for
+2 any contaminant or factor for which the office has determined that there exists no licensed
+3 testing facility in the State capable of and certified to perform such testing.
+4 Sec. B-6. 28-B MRSA §602, sub-§1-B is enacted to read:
+5 1-B. Scope of mandatory testing; cannabis flower and cannabis trim. Except as
+6 provided in section 605, subsection 4, cannabis flower and cannabis trim, including
+7 cannabis pre-rolls and cannabis flower or cannabis trim that has been mixed with cannabis
+8 concentrate, must be tested for:
+9 A. Metals;
+10 B. Dangerous molds and mildew, including, but not limited to, Aspergillus spp. and
+11 mycotoxins, as applicable. Testing for mycotoxins is mandatory if the batch fails
+12 mandatory testing for dangerous molds and mildew and is subsequently retested;
+13 C. Harmful microbes;
+14 D. Pesticides, fungicides and insecticides;
+15 E. Water activity; and
+16 F. THC potency and cannabinoid profiles.
+17 Sec. B-7. 28-B MRSA §602, sub-§1-C is enacted to read:
+18 1-C. Scope of mandatory testing; cannabis concentrate extracted using solvents
+19 other than water. Cannabis concentrate that has been extracted using solvents other than
+20 water must be tested for:
+21 A. Residual solvents, poisons and toxins;
+22 B. Metals;
+23 C. Pesticides, fungicides and insecticides;
+24 D. Mycotoxins; and
+25 E. THC potency, homogeneity and cannabinoid profiles.
+26 Sec. B-8. 28-B MRSA §602, sub-§1-D is enacted to read:
+27 1-D. Scope of mandatory testing; cannabis concentrate extracted without use of
+28 solvents other than water. Cannabis concentrate that has been extracted without the use
+29 of solvents other than water must be tested for:
+30 A. Metals;
+31 B. Dangerous molds and mildew, including, but not limited to, Aspergillus spp. and
+32 mycotoxins, as applicable. Testing for mycotoxins is mandatory if the batch fails
+33 mandatory testing for dangerous molds and mildew and is subsequently retested;
+34 C. Harmful microbes;
+35 D. Pesticides, fungicides and insecticides; and
+36 E. THC potency, homogeneity and cannabinoid profiles.
+37 Sec. B-9. 28-B MRSA §602, sub-§1-E is enacted to read:
+Page 16 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 1-E. Scope of mandatory testing; cannabis products. Cannabis products, including
+2 edible cannabis products, must be tested for:
+3 A. Dangerous molds and mildew, including, but not limited to, Aspergillus spp. and
+4 mycotoxins, as applicable. Testing for mycotoxins is mandatory if the batch fails
+5 mandatory testing for dangerous molds and mildew and is subsequently retested;
+6 B. Harmful microbes;
+7 C. Water activity, except that edible cannabis products that are preserved by
+8 refrigeration are not required to be tested for water activity; and
+9 D. THC potency, homogeneity and cannabinoid profiles.
+10 Sec. B-10. 28-B MRSA §602, sub-§1-F is enacted to read:
+11 1-F. Maximum batch size for mandatory testing. For the purpose of sampling and
+12 mandatory testing under this section, a batch may not exceed 44 pounds by net weight,
+13 regardless of matrix.
+14 A. For cannabis flower and cannabis trim, including cannabis pre-rolls, the 44‑pound
+15 limit applies to the combined net weight of cannabis flower or cannabis trim harvested
+16 or manufactured at the same time under the same conditions using the same process or
+17 procedure.
+18 B. For cannabis concentrate and cannabis products, the 44‑pound limit applies to the
+19 combined net weight of the finished material in that matrix that is manufactured at the
+20 same time under the same conditions using the same process or procedure.
+21 The office may adopt rules for sample collection that ensure representative sampling within
+22 the 44‑pound maximum batch size.
+23 Sec. B-11. 28-B MRSA §605, sub-§4, as amended by PL 2023, c. 679, Pt. B, §120,
+24 is further amended to read:
+25 4. No subsequent further processing, manufacturing or alteration. Since the
+26 performance of the prior testing under subsection 1, the cannabis or cannabis product has
+27 not undergone any further processing, manufacturing or alteration that would result in an
+28 increase in the concentration of any contaminants or factors identified in section 602,
+29 subsection 1 or in any rules adopted by the office pursuant to that section. For the purposes
+30 of this subsection, "further processing, manufacturing or alteration" does not include the
+31 use of cannabis concentrate in the creation of an edible cannabis product, except for testing
+32 under section 602, subsection 1-E, paragraph D.
+33 Sec. B-12. 28-B MRSA §1101, sub-§2, ¶B-1 is enacted to read:
+34 B-1. Money credited to the fund may be expended by the office to fund research on
+35 the public health impacts of cannabis use, including, but not limited to, cannabis use
+36 by individuals under 21 years of age.
+37 PART C
+38 Sec. C-1. 36 MRSA §4921, sub-§7-A is enacted to read:
+39 7-A. Cannabis pre-roll. "Cannabis pre-roll" has the same meaning as in Title 28-B,
+40 section 102-A, subsection 14-A.
+Page 17 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 Sec. C-2. 36 MRSA §4923, sub-§2-A is enacted to read:
+2 2-A. Excise tax on cannabis pre-roll. Beginning January 1, 2027, a cultivation
+3 facility licensee shall pay an excise tax pursuant to subsection 1 or 2 based upon the amount
+4 per pound or fraction thereof of cannabis flower or cannabis trim contained within a
+5 cannabis pre-roll.
+6 PART D
+7 Sec. D-1. Monthly reports on inventory tracking system contract
+8 performance. Beginning August 1, 2026, through the end of the current contract for the
+9 statewide adult use cannabis inventory tracking system under the Maine Revised Statutes,
+10 Title 28-B, section 105, the Department of Administrative and Financial Services, Office
+11 of Cannabis Policy shall submit monthly reports regarding the performance of the
+12 inventory tracking system provider to the joint standing committee of the Legislature
+13 having jurisdiction over cannabis matters.
+14 Sec. D-2. Competitive bidding process. The Department of Administrative and
+15 Financial Services, Office of Cannabis Policy shall conduct competitive bidding and issue
+16 a request for proposals in order to select a vendor to provide medical use cannabis inventory
+17 tracking services as provided in the Maine Revised Statutes, Title 22, section 2430-J. The
+18 office shall begin the competitive bidding process by August 1, 2026.
+19 Sec. D-3. Estimate for cost to develop and maintain electronic inventory
+20 tracking system. By March 1, 2027, the Office of Cannabis Policy and the Office of
+21 Information Technology, both within the Department of Administrative and Financial
+22 Services, shall provide to the joint standing committee of the Legislature having
+23 jurisdiction over cannabis matters an estimated cost for development and maintenance of
+24 an electronic inventory tracking system for cannabis that would be developed and
+25 maintained by the State and that meets the requirements outlined in the Maine Revised
+26 Statutes, Title 22, chapter 558-C and Title 28-B, chapter 1 and in rule for both the medical
+27 use of cannabis program and the adult use cannabis program. The estimate should include
+28 information on the functionality of such an inventory tracking system and an estimated
+29 timeline for implementation, as well as estimated total costs for development and for
+30 ongoing implementation and maintenance of the system.
+31 PART E
+32 Sec. E-1. Effective date. Parts A, B and C of this Act take effect January 1, 2027.'
+33 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+34 number to read consecutively.
+35 SUMMARY
+3366 This amendment replaces the bill and changes the title.
+37 Part A of the amendment makes the following changes to the Maine Medical Use of
+38 Cannabis Act.
+39 1. It defines the terms "batch," "cannabis flower," "cannabis pre-roll," "cannabis trim,"
+40 "matrix," "remediation," "testing" and "THC" and repeals and replaces the definition of
+41 "cannabis testing facility."
+Page 18 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 2. It clarifies that only cannabis testing facilities may conduct testing.
+2 3. It adds certain requirements related to testing to the provisions on packaging and
+3 labeling.
+4 4. It establishes a program for mandatory testing of harvested cannabis.
+5 5. It replaces previous authorization for cannabis testing facilities with a provision
+6 establishing a cannabis testing facility registration and establishes additional requirements
+7 necessary to obtain a registration certificate to operate a cannabis testing facility.
+8 6. It includes cannabis testing facilities in the standard application process for a
+9 registration certificate.
+10 7. It authorizes the Department of Administrative and Financial Services, Office of
+11 Cannabis Policy to use funds from the Medical Use of Cannabis Fund to provide $100
+12 reimbursements to qualifying registrants in the medical use of cannabis program. It
+13 establishes the criteria for qualifying for reimbursements and authorizes the department to
+14 develop rules for the reimbursement program.
+15 8. It revises reporting and record-keeping requirements to require records retention for
+16 6 years and to mandate that all registrants report all required inventory information in the
+17 statewide inventory tracking system implemented and administered by the office.
+18 9. It requires the testing of harvested cannabis provided to a qualifying patient by a
+19 registrant.
+20 10. It requires mandatory testing of all harvested cannabis for the presence of harmful
+21 contaminants and cannabinoid profiles.
+22 11. It exempts cannabis flower and cannabis trim cultivated by a registered caregiver
+23 who meets certain criteria regarding cultivation area and amount cultivated and who does
+24 not engage in wholesale transactions from mandatory testing. A warning statement
+25 indicating that the cannabis flower or cannabis trim is not tested is required.
+26 12. It specifies that the maximum size of a batch for mandatory testing is 44 pounds.
+27 13. It requires reporting of mandatory test results of failed tests to the office and to the
+28 registrant that submitted samples to a cannabis testing facility for testing.
+29 14. It establishes sampling requirements and permits the office to take samples for audit
+30 testing to verify mandatory test results and to ensure the quality, consistency and reliability
+31 of the testing program.
+32 15. It identifies the circumstances in which additional mandatory testing is not required
+33 before harvested cannabis is provided to a qualifying patient.
+34 16. It requires registrants to provide certain educational materials to qualifying patients
+35 at the time of sale.
+36 Part B of the amendment makes the following changes to the Cannabis Legalization
+37 Act.
+38 1. It adds definitions of "cannabis pre-roll" and "matrix."
+39 2. It amends the definition of "testing facility" to include a registered cannabis testing
+40 facility under the Maine Medical Use of Cannabis Act.
+Page 19 - 132LR0854(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1231, L.D. 1847
+1 3. It identifies what tests for harmful contaminants are mandatory for adult use cannabis
+2 and adult use cannabis products based upon the matrix of the cannabis or cannabis product
+3 at the time it is subject to mandatory testing.
+4 4. It specifies that the maximum size of a batch for mandatory testing is 44 pounds.
+5 5. It provides exemptions from final form testing for cannabis pre-rolls and edible
+6 cannabis products.
+7 6. It authorizes funds from the Adult Use Cannabis Public Health and Safety and
+8 Municipal Opt-in Fund to be used for research on public health impacts of cannabis use,
+9 including use by individuals who have not attained 21 years of age.
+10 Part C of the amendment does the following.
+11 1. It defines "cannabis pre-roll" for the purposes of the cannabis excise tax using the
+12 same definition of "cannabis pre-roll" in the adult use cannabis program.
+13 2. It establishes an excise tax for adult use cannabis pre-rolls as the amount per pound
+14 or fraction thereof of adult use cannabis flower or adult use cannabis trim used in a cannabis
+15 pre-roll.
+16 Part D of the amendment does the following.
+17 1. It directs the office to provide, beginning January 1, 2027, monthly reports to the
+18 joint standing committee of the Legislature having jurisdiction over cannabis matters on
+19 the performance of the entity that holds the contract with the State for the implementation
+20 and administration of the statewide adult use cannabis inventory tracking system.
+21 2. It directs the office to begin, by August 1, 2026, a competitive bidding process for a
+22 statewide inventory tracking system for the medical use of cannabis program.
+23 3. It directs the office and the Office of Information Technology within the Department
+24 of Administrative and Financial Services to develop an estimate for a statewide inventory
+25 tracking system for both the medical use of cannabis program and the adult use cannabis
+26 program that is developed, administered and maintained by the State and report back to the
+27 joint standing committee of the Legislature having jurisdiction over cannabis matters by
+28 March 1, 2027 on the cost to develop and implement such a system, the cost to administer
+29 and maintain such a system, the functionality of such a system and a projected timeline for
+30 implementation.
+31 Part E of the amendment establishes an effective date of January 1, 2027 for Parts A,
+32 B and C of the amendment.
+3333 FISCAL NOTE REQUIRED
+3344 (See attached)
+Page 20 - 132LR0854(02)
+COMMITTEE AMENDMENT

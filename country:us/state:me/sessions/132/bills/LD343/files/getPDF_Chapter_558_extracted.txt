@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 558
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 9, 2026 558
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 243 - L.D. 343
+An Act to Incorporate the Assessment of Emerging Energy Technologies into
+the Comprehensive State Energy Plan
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 35-A MRSA §10305, sub-§1, ¶H, as enacted by PL 2025, c. 476, Pt. A,
+§16, is amended to read:
+H. Include energy supply and demand forecasts that must be considered in other
+planning efforts including updates to the state climate action plan under Title 38,
+section 577 and the Efficiency Maine Trust's triennial plan under section 10104,
+subsection 4; and
+Sec. 2. 35-A MRSA §10305, sub-§1, ¶I, as enacted by PL 2025, c. 476, Pt. A,
+§16, is amended to read:
+I. Identify approximate total project award targets for the next 3 competitive
+solicitations to be conducted by the department pursuant to section 10313.; and
+Sec. 3. 35-A MRSA §10305, sub-§1, ¶J is enacted to read:
+J. Identify and assess emerging energy technologies, including assessing the
+commercial readiness, costs and potential appropriateness of those technologies for
+application in the State consistent with the department's policy and program goals
+described in section 10303 prioritizing carbon-free and lowest-emission technologies.
+Page 1 - 132LR0443(09)

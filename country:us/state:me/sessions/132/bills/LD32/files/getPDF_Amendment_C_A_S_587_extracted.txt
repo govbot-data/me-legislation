@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-587)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 32
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 49, L.D. 32, “An Act to Repeal the Laws
+10 Regarding Net Energy Billing”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act Regarding the Interconnection Ombudsman Position at the Public Utilities
+13 Commission'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 35-A MRSA §107, sub-§1, ¶B, as amended by PL 2023, c. 307, §1, is
+17 further amended to read:
+18 B. With the approval of the Attorney General, a general counsel; and
+19 Sec. 2. 35-A MRSA §107, sub-§1, ¶C, as amended by PL 2023, c. 307, §1, is
+20 further amended to read:
+21 C. An assistant administrative director; and.
+22 Sec. 3. 35-A MRSA §107, sub-§1, ¶D, as enacted by PL 2023, c. 307, §1, is
+23 repealed.
+24 Sec. 4. 35-A MRSA §107, sub-§2, ¶F, as repealed and replaced by PL 2025, c.
+25 110, §1, is repealed.
+26 Sec. 5. 35-A MRSA §3474, sub-§4, as amended by PL 2023, c. 643, Pt. WWW,
+27 §1, is further amended to read:
+28 4. Interconnection ombudsman; fund. The commission shall designate an
+29 interconnection ombudsman appointed pursuant to section 107, subsection 1 shall to assist
+30 persons seeking interconnections governed by rules adopted under subsection 3. The
+31 commission shall appoint an interconnection ombudsman who possesses designated by the
+32 commission must possess technical expertise related to interconnection and interconnection
+33 procedures.
+Page 1 - 132LR0075(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 49, L.D. 32
+1 A. The duties of the interconnection ombudsman include but are not limited to:
+2 (1) Tracking interconnection disputes;
+3 (2) Facilitating the efficient and fair resolution of disputes between customers
+4 seeking to interconnect and investor-owned transmission and distribution utilities;
+5 (3) Reviewing investor-owned transmission and distribution utility
+6 interconnection policies to assess opportunities for reducing interconnection
+7 disputes;
+8 (4) Convening stakeholder groups as necessary to facilitate effective
+9 communication between interconnection stakeholders;
+10 (5) Preparing reports that detail the number, type, resolution timeline and outcome
+11 of interconnection disputes; and
+12 (6) Any other technical or regulatory work involving public utilities.
+13 B. The commission by rule shall establish a fee to be paid by persons seeking
+14 interconnections to fund the interconnection ombudsman. Notwithstanding Title 5,
+15 section 8071, rules adopted under this paragraph are routine technical rules as defined
+16 in Title 5, chapter 375, subchapter 2‑A.
+17 C. The interconnection ombudsman fund is established within the commission as a
+18 nonlapsing fund for the purposes of offsetting costs for interconnection‑related
+19 activities undertaken by the interconnection ombudsman pursuant to paragraph A,
+20 subparagraphs (1), (2), (3), (4) and (5). The commission shall deposit all fees collected
+21 under this subsection into the fund and all money in the fund must be used to fund the
+22 interconnection ombudsman. In addition to the fees established in accordance with this
+23 subsection, the fund may accept federal money and contributions from private and
+24 public sources.
+25 Any activities undertaken by the interconnection ombudsman pursuant to paragraph A,
+26 subparagraph (6) must be funded in accordance with section 116.'
+27 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+28 number to read consecutively.
+29 SUMMARY
+3300 This amendment replaces the bill and changes the title. It removes the requirement that
+3311 the interconnection ombudsman be appointed by the Public Utilities Commission and
+3322 instead requires that the commission designate an interconnection ombudsman. It also
+3333 clarifies the activities that may be funded by the interconnection ombudsman fund
+3344 established within the Public Utilities Commission.
+3355 FISCAL NOTE REQUIRED
+3366 (See attached)
+Page 2 - 132LR0075(02)
+COMMITTEE AMENDMENT

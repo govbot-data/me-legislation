@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-582)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2194
+2 Date: (Filing No. S- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 895, L.D. 2194, “An Act to Clarify
+10 Responsibility for Compensation of Court-appointed Attorneys in Certain Proceedings”
+11 Amend the bill by striking out all of section 1 and inserting the following:
+12 'Sec. 1. 4 MRSA §1802, sub-§4, as amended by PL 2025, c. 511, §1, is further
+13 amended to read:
+14 4. Indigent legal services. "Indigent legal services" means:
+15 A. Legal representation provided to an indigent defendant in a criminal case in which
+16 the United States Constitution or the Constitution of Maine or federal or state law
+17 requires that the State provide representation;
+18 B. Legal representation provided to an indigent party in a civil case in which the United
+19 States Constitution or the Constitution of Maine or federal or state law, except any
+20 provision of Title 18-C, requires that the State provide representation;
+21 B-1. Legal representation provided by an attorney appointed by a court:
+22 (1) Pursuant to Title 25, section 2244, subsection 2, paragraph B to represent an
+23 indigent party who is a respondent in an extreme risk protection order proceeding;
+24 (2) Pursuant to Title 34-B, section 3862-A, subsection 6, paragraph A to represent
+25 an indigent party who is a restricted person in an extreme risk protection order
+26 proceeding; and
+27 (3) Pursuant to Title 34-B, section 3864, subsection 5, paragraph D to represent a
+28 person who is the subject of an involuntary commitment proceeding or involuntary
+29 treatment proceeding;
+30 C. Legal representation provided by an attorney appointed by a court to represent a
+31 juvenile defendants defendant or a juvenile who petitions for emancipation pursuant to
+32 Title 15, section 3506-A;
+33 C-1. Legal services performed for a nonparty witness if the nonparty witness is located
+34 in the State, if the nonparty witness is determined to be indigent by a court and if the
+Page 1 - 132LR3015(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 895, L.D. 2194
+315 United States Constitution or the Constitution of Maine requires that the State provide
+326 counsel to the nonparty witness related to the nonparty witness's expected testimony in
+337 a criminal proceeding, a juvenile proceeding, an emancipation proceeding, a child
+348 protection proceeding, an involuntary commitment proceeding, an involuntary
+359 treatment proceeding or an extreme risk protection order proceeding. For purposes of
+460 this paragraph, "indigent legal services" includes only those legal services necessary to
+471 preserve the nonparty witness's privilege against self-incrimination afforded under the
+482 United States Constitution and the Constitution of Maine;
+9 D. Legal representation provided to an indigent defendant or party or a juvenile for the
+10 purpose of filing, on behalf of that indigent defendant or party or juvenile, a petition
+11 for certiorari to the Supreme Court of the United States from an adverse decision of the
+12 Law Court on a case for which services were previously provided to that defendant or
+13 party or juvenile pursuant to paragraph A, B, B-1 or C; and
+14 E. Services performed by an attorney at the direction of the commission that aid the
+15 commission in fulfilling the commission's purpose under section 1801.
+16 "Indigent legal services" includes the services of an attorney appointed pursuant to Title
+17 22, section 4005, subsection 1, paragraph F but does not include the services of a guardian
+18 ad litem appointed pursuant to any provision of Title 18-C or pursuant to Title 19-A, section
+19 1658, subsection 2-A or Title 22, section 4005, subsection 1.
+20 Sec. 2. 15 MRSA §3506-A, sub-§1, as amended by PL 2019, c. 525, §32, is further
+21 amended to read:
+22 1. Petition for emancipation. If a juvenile is 16 years of age or older and refuses to
+23 live in the home provided by the juvenile's parent or parents, guardian or legal custodian,
+24 the juvenile may request the District Court in the division in which the juvenile's parent or
+25 parents, guardian or legal custodian resides to appoint counsel for the juvenile to petition
+26 for emancipation. If the court appoints counsel for the juvenile under this subsection, the
+27 juvenile must be considered indigent and the appointment must be at public expense.'
+28 Amend the bill by inserting after section 3 the following:
+29 'Sec. 4. 34-B MRSA §3864, sub-§5, ¶D, as amended by PL 2007, c. 319, §10, is
+30 further amended to read:
+31 D. The person must be afforded an opportunity to be represented by counsel, and, if
+32 neither the person nor others provide counsel, the court shall appoint counsel for the
+33 person. If the court appoints counsel for the person under this paragraph, the person
+34 must be considered indigent and the appointment must be at public expense.
+35 Sec. 5. Appropriations and allocations. The following appropriations and
+36 allocations are made.
+37 PUBLIC DEFENSE SERVICES, MAINE COMMISSION ON
+38 Maine Commission on Public Defense Services Z112
+39 Initiative: Provides funding for compensating assigned counsel and providing training.
+40 GENERAL FUND 2025-26 2026-27
+41 All Other $0 $995,000
+42 __________ __________
+Page 2 - 132LR3015(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 895, L.D. 2194
+1 GENERAL FUND TOTAL $0 $995,000
+21 '
+3 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+4 number to read consecutively.
+5 SUMMARY
+66 This amendment, which is the majority report of the committee, makes the following
+77 changes to the bill.
+8 1. It clarifies that legal services performed for a nonparty witness are considered
+9 indigent legal services if the nonparty witness is determined to be indigent, the United
+10 States Constitution or the Constitution of Maine requires that the State provide counsel to
+11 that nonparty witness regarding the witness's privilege against self-incrimination and the
+12 nonparty witness will appear as a witness in the State in a criminal proceeding; a juvenile
+13 proceeding; an emancipation proceeding; a child protection proceeding; an involuntary
+14 commitment proceeding; an involuntary treatment proceeding; or an extreme risk
+15 protection order proceeding. This requirement differs from the bill, which does not
+16 specifically require the nonparty witness to be indigent or limit the types of proceedings in
+17 which the nonparty witness has been called to testify in order to receive indigent legal
+18 services under this provision of law.
+19 2. It clarifies that, if a court appoints an attorney to represent a juvenile in an
+20 emancipation proceeding or a respondent in an involuntary commitment or involuntary
+21 treatment proceeding, the juvenile or respondent must be considered indigent and the
+22 appointment must be at public expense.
+2233 3. It adds an appropriations and allocations section.
+2244 FISCAL NOTE REQUIRED
+2255 (See attached)
+Page 3 - 132LR3015(02)
+COMMITTEE AMENDMENT

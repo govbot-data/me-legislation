@@ -1,0 +1,112 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-640)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 2176
+2 Date: (Filing No. S- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 881, L.D. 2176, “An Act to Create a
+10 Right to Judicial Review Under the Maine Civil Rights Act for Persons Erroneously
+11 Detained”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Safeguard Personal Information and Strengthen Tenant Rights in Maine'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 5 MRSA §4651, sub-§2, ¶C, as amended by PL 2025, c. 400, §1 and c.
+17 417, §1, is further amended to read:
+18 C. A single act or course of conduct constituting a violation of section 4681; Title 14,
+19 section 6025-B or 9102; Title 17, section 2931; or Title 17‑A, section 201, 202, 203,
+20 204, 207, 208, 209, 210, 210‑A, 211, 253, 254, 255‑A, 256, 258, 259‑A, 259‑B, 260,
+21 261, 282, 283, 301, 302, 303, 506, 506‑A, 511, 511‑A, 556, 802, 805, 806, 852 or 853;
+22 or
+23 Sec. 2. 14 MRSA §6025, sub-§3, as amended by PL 1999, c. 204, §1, is further
+24 amended to read:
+25 3. Remedy. If a landlord makes an entry in violation of this section, makes a lawful
+26 entry in an unreasonable manner or makes repeated demands for entry otherwise lawful
+27 that have the effect of harassing the tenant, the tenant may recover actual damages or $100
+28 $250, whichever is greater, and obtain injunctive relief to prevent recurrence of the conduct,
+29 and if the tenant obtains a judgment after a contested hearing, reasonable attorney's fees.
+30 If a tenant changes the lock and does not provide the landlord with a duplicate key, in the
+31 case of emergency the landlord may gain admission through whatever reasonable means
+32 necessary and charge the tenant reasonable costs for any resulting damage. If a tenant
+33 changes the lock and refuses to provide the landlord with a duplicate key, the landlord may
+34 terminate the tenancy with a 7-day notice.
+35 Sec. 3. 14 MRSA §6025-B is enacted to read:
+Page 1 - 132LR2714(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 881, L.D. 2176
+1 §6025-B. Disclosure of information
+2 1. Definitions. For purposes of this section, "personal information" means the
+3 following information about a tenant, prospective tenant, occupant or prospective occupant
+4 of a rental property:
+5 A. Identifying information, including name, address, telephone number or e-mail
+6 address;
+7 B. Information about racial or ethnic origins, religious beliefs, health conditions,
+8 sexual activity, sexual orientation, gender identity, national origin, citizenship,
+9 immigration status or alien registration number;
+10 C. A social security number, driver's license number or nondriver identification card
+11 number;
+12 D. Billing, financial or payment method information; or
+13 E. Information concerning an individual's status as a victim of a crime. For the
+14 purposes of this paragraph, "victim" has the same meaning as in Title 17-A, section
+15 2101, subsection 2.
+16 2. Prohibition. Except as provided in subsection 3, a landlord, a landlord's agent and
+17 any other person acting under the direction of the landlord may not, with the intent to
+18 harass, intimidate or otherwise cause a person to vacate a rental property outside of the
+19 judicial process as established in chapter 709, and without a legitimate business purpose,
+20 disclose to any person the personal information of a known tenant, prospective tenant,
+21 occupant or prospective occupant of a rental property owned or managed by the landlord
+22 without the express consent of the known or prospective tenant or occupant.
+23 3. Exceptions. Notwithstanding subsection 2, a landlord, a landlord's agent and any
+24 other person acting under the direction of the landlord may disclose the personal
+25 information of a tenant, prospective tenant, occupant or prospective occupant of the rental
+26 property owned or managed by the landlord if the disclosure is:
+27 A. In response to a valid discovery request, subpoena or judicial warrant with respect
+28 to any state administrative proceeding, state or federal judicial proceeding or state or
+29 federal criminal investigation;
+30 B. Made to a state, local or county law enforcement agency in the State due to exigent
+31 circumstances or as reasonably necessary to prevent or prosecute a criminal act;
+32 C. Reasonably necessary for the sale or refinancing of the property subject to the
+33 tenancy;
+34 D. Reasonably necessary for the application for or receipt of funds and services related
+35 to federally supported or state-supported affordable housing programs; or
+36 E. Reasonably necessary to respond to a request from a municipal code enforcement
+37 officer, fire inspector or similar municipal officer.
+38 4. Remedy. If a landlord, a landlord's agent or any other person acting under the
+39 direction of the landlord discloses personal information in violation of this section, the
+40 tenant, prospective tenant, occupant or prospective occupant whose personal information
+41 was disclosed may recover actual damages or $1,000, whichever is greater, and obtain
+42 injunctive relief to prevent the recurrence of the conduct. If the tenant, prospective tenant,
+Page 2 - 132LR2714(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 881, L.D. 2176
+413 occupant or prospective occupant obtains a judgment after a contested hearing, the tenant,
+424 prospective tenant, occupant or prospective occupant whose personal information was
+435 disclosed may recover reasonable attorney's fees.'
+4 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+5 number to read consecutively.
+6 SUMMARY
+77 This amendment replaces the bill and changes the title. The amendment adds the
+88 disclosure of private information to the definition of "harassment" in the protection from
+99 harassment statute. The amendment increases from $100 to $250 the penalty when a
+1100 landlord enters the dwelling of a tenant without reasonable notice. The amendment also
+1111 makes it illegal for a landlord to disclose to any person the personal information of a tenant,
+1122 prospective tenant, occupant or prospective occupant of a rental property owned or
+1133 managed by the landlord without the express consent of the tenant, prospective tenant,
+1144 occupant or prospective occupant, except in certain cases. The amendment creates a $1,000
+1155 penalty for a landlord who discloses personal information in violation of this provision.
+1166 FISCAL NOTE REQUIRED
+1177 (See attached)
+Page 3 - 132LR2714(02)
+COMMITTEE AMENDMENT

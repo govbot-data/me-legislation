@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-B to C-A (S-649)
+Media Type: application/pdf
+
+================================================================================
+
+1 L.D. 1457
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 SECOND REGULAR SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to S.P. 598,
+9 L.D. 1457, “Resolve, to Allow the Maine Turnpike Authority to Conduct a Pilot Program
+10 to Implement Automated Speed Control Systems in Highway Work Zones”
+11 Amend the amendment in section 10 in subsection 1 in the last line (page 7, line 36 in
+12 amendment) by inserting after the following: "person" the following: '. The authority shall
+13 own and maintain custody of personally identifiable information and the equipment on
+14 which it is stored. A vendor may not disclose personally identifiable information without
+15 permission from the authority'
+16 Amend the amendment in section 10 in subsection 4 in paragraph A in the last line
+17 (page 8, line 33 in amendment) by striking out the following: "12 and 14" and inserting the
+18 following: '13 and 15'
+19 Amend the amendment by inserting after section 10 the following:
+20 'Sec. 11. Joint Advisory Group on Privacy Protection. Resolved: That the
+21 Joint Advisory Group on Privacy Protections, referred to in this section as "the advisory
+22 group," is established to advise the director on data handling and privacy protections to be
+23 contained in a contract entered into with a vendor under this resolve.
+24 1. The advisory group is made up of 6 members who must be residents of the State at
+25 the time of their appointment. Members appointed to the advisory group are not subject to
+26 legislative review or senate confirmation. All members of the advisory group must be
+27 appointed prior to September 30, 2026. The advisory group consists of the following
+28 members:
+29 A. Two members of the Senate, one of whom must be appointed as joint chair of the
+30 advisory group, appointed by the President of the Senate;
+31 B. Two members of the House of Representatives, one of whom must be appointed as
+32 joint chair of the advisory group, appointed by the Speaker of the House;
+33 C. One member who is a resident of a county through which the Maine Turnpike runs,
+34 appointed by the President of the Senate; and
+35 D. One representative from the American Civil Liberties Union of Maine or another
+36 civil liberties organization, appointed by the Speaker of the House.
+Page 1 - 132LR1457(05)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to S.P. 598, L.D. 1457
+1 2. During the development of any contract pursuant to this resolve to be entered into
+2 with a vendor that will have access to personally identifiable information, the director shall
+3 share the provisions of the contract addressing data handling and privacy protection,
+4 including, but not limited to, the provisions relating to the requirements of section 10, with
+5 the advisory group. The advisory group shall provide written comments on the provisions,
+6 including any suggested changes, to the director within 30 days of receipt. Prior to entering
+7 into any contract with a vendor under this resolve, the director shall respond in writing to
+8 any comments received.
+9 3. The Senate chair of the advisory group shall, in consultation with the House chair,
+10 determine when the advisory group must meet and shall set the procedure for no fewer than
+11 3 meetings. The quorum for a meeting of the advisory group is 3 members.'
+12 Amend the amendment by inserting after section 14 the following:
+13 'Sec. 15. Appropriations and allocations. Resolved: That the following
+14 appropriations and allocations are made.
+15 LEGISLATURE
+16 Legislature 0081
+17 Initiative: Provides ongoing funding for the costs of Legislators serving on the Joint
+18 Advisory Group on Privacy Protection.
+19 GENERAL FUND 2025-26 2026-27
+20 Personal Services $0 $660
+21 All Other $0 $1,440
+22 __________ __________
+23 GENERAL FUND TOTAL $0 $2,100
+2149 '
+25 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+26 section number to read consecutively.
+27 SUMMARY
+2288 This amendment amends Committee Amendment "A" by clarifying that the Maine
+2299 Turnpike Authority must own and maintain custody of personally identifiable information
+3300 that is created or maintained by the authority and vendors may not disclose personally
+3311 identifiable information without permission from the authority. The amendment also
+3322 establishes the Joint Advisory Group on Privacy Protection.
+3333 SPONSORED BY: ___________________________________
+3344 (Senator FARRIN, B.)
+3355 COUNTY: Somerset
+Page 2 - 132LR1457(05)
+SENATE AMENDMENT

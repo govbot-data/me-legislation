@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 637
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 3, 2026 637
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 884 - L.D. 2179
+An Act Regarding the Licensing of Online Used Car Dealers
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 29-A MRSA §958 is enacted to read:
+§958. Online used car dealer licensure and regulation
+1. Online used car dealer; definition. As used in this section, unless the context
+otherwise indicates, "online used car dealer" means a licensed used motor vehicle dealer
+that conducts sales exclusively through electronic or digital platforms and does not operate
+a physical retail display location in this State. An online used car dealer may partner with
+a service center or inspection station licensed in this State as required by law but may not
+maintain an in-person sales lot.
+2. Licensure and regulation. The bureau shall conduct a 2-year pilot program to
+license and regulate online used car dealers operating under this section. The bureau may
+license and regulate online used car dealers operating under this section.
+3. Eligibility. To qualify for licensure as an online used car dealer, an applicant must:
+A. Hold valid authority as a corporation or limited liability entity in good standing
+with the Secretary of State;
+B. Demonstrate motor vehicle sales in multiple jurisdictions within the United States;
+C. Provide proof of a minimum of 100 annual motor vehicle sales; and
+D. Meet all background check requirements established by the Secretary of State.
+4. Application for license. The following provisions govern the application for a
+license for an online used car dealer.
+A. An online used car dealer shall apply for a license in accordance with the
+requirements under section 901.
+B. An online used car dealer is exempt from the established place of business
+requirements set forth in sections 851 to 952 but may maintain a physical location in
+this State. If an online used car dealer elects to establish or operate a physical office,
+inspection station or repair facility in this State, that location must fully comply with
+Page 1 - 132LR2713(03)
+
+all applicable dealer licensing standards and regulatory requirements in effect for used
+car dealer licensees.
+C. An online used car dealer shall file with the Secretary of State and maintain a surety
+bond of $350,000.
+D. The annual fee for an online used car dealer license is $500.
+5. License requirements. Unless expressly modified by this section, an online used
+car dealer is subject to and shall comply with all applicable laws, rules and regulations
+governing the licensing and sale of new and used motor vehicles in this State.
+6. Disclosure requirements. The following provisions govern online used car dealer
+disclosures.
+A. An online used car dealer is exempt from the physical display requirements set
+forth in Title 10, sections 1474 and 1475. At the time of an electronic or digital display
+on an electronic or digital platform, an online used car dealer shall provide a consumer
+with a disclosure consistent with the requirements of Title 10, chapter 217 and the
+Federal Trade Commission's Used Motor Vehicle Trade Regulation Rule in 16 Code
+of Federal Regulations, Part 455.
+B. A disclosure form authorized by this State must be provided to the purchaser at the
+time of delivery to the purchaser, signed by the purchaser and retained by the online
+used car dealer in compliance with the record-keeping requirements of Title 10, chapter
+217.
+7. Inspection requirements. The following provisions govern inspections of motor
+vehicles under this section.
+A. A motor vehicle sold by an online used car dealer must pass an inspection in this
+State prior to sale. A reconstructable motor vehicle as defined in Title 10, section 1471,
+subsection 6-A or an unsafe motor vehicle may not be sold by an online used car dealer.
+B. A motor vehicle sold to a purchaser in this State must be inspected by an inspection
+station licensed in this State prior to delivery to the purchaser and must display a valid
+inspection sticker issued within 60 days of sale.
+8. Inspection stations; repair facilities. The following provisions govern inspection
+stations and repair facilities in relation to online used car dealers.
+A. An online used car dealer may obtain a license for an inspection station in this State.
+All standards governing inspection stations apply to such an inspection station.
+B. An online used car dealer may partner with an inspection station in this State. The
+partner inspection station must be included in the application for licensure and renewal.
+The partnership must be set out in writing. Any changes to the partnership must be
+immediately disclosed to the bureau.
+C. The failure of an online used car dealer to obtain a license for an inspection station
+in this State or to have a partner inspection station in this State is grounds for
+suspension of a license issued pursuant to subsection 4.
+D. An online used car dealer that does not maintain a repair facility in this State shall,
+in writing, disclose to a vehicle purchaser the name, address and contact information
+of a designated repair facility or a partner location authorized to perform required
+Page 2 - 132LR2713(03)
+
+warranty service. The disclosure must be provided at or before the time of the vehicle
+sale and included in the online used car dealer's warranty documentation.
+9. Records. All sales and transaction records must be maintained in accordance with
+section 956, may be kept electronically and must be produced within one business day upon
+request of the Secretary of State, the Attorney General or a law enforcement officer.
+10. Plates. An online used car dealer is not eligible for dealer plates. Temporary
+plates issued by this State may be issued only for sales to purchasers in this State.
+11. Contact information. An online used car dealer shall:
+A. Provide a direct-access telephone number to a designated corporate representative
+of the online used car dealer who is authorized to assist the bureau and the Office of
+the Attorney General in resolving consumer complaints and inquiries and in obtaining
+required records;
+B. Provide written customer support contact information, including a toll-free
+telephone number and electronic communication address, to each purchaser at the time
+of sale; and
+C. Maintain business hours at reasonable times during which a customer can contact
+the online used car dealer.
+12. Enforcement. The following provisions govern enforcement of this section.
+A. An online used car dealer's failure to comply with the provisions of this section,
+including inspection, disclosure, warranty obligations or record retention, constitutes
+grounds for license suspension or revocation under section 903.
+B. Breach of a consumer sales contract by an online used car dealer is expressly
+grounds for administrative action, including license suspension or revocation under
+section 903.
+C. An online used car dealer shall designate an agent registered in this State to accept
+service of process. The name and contact information of the registered agent must be
+provided to the bureau.
+13. Rulemaking. The Secretary of State may adopt rules to implement this section,
+including licensing procedures, disclosure formats, inspection coordination and reporting
+requirements. Rules adopted under this subsection are routine technical rules as defined in
+Title 5, chapter 375, subchapter 2-A.
+14. Repeal. This section is repealed December 31, 2028.
+Sec. 2. Report. The Secretary of State shall submit a report to the joint standing
+committee of the Legislature having jurisdiction over transportation matters no later than
+January 15, 2028 evaluating the effectiveness, risks and consumer protection outcomes of
+online used car dealer licensure and regulation established in the Maine Revised Statutes,
+Title 29-A, section 958. The joint standing committee of the Legislature having jurisdiction
+over transportation matters may report out legislation regarding the Secretary of State's
+report to the Second Regular Session of the 133rd Legislature.
+Page 3 - 132LR2713(03)

@@ -1,0 +1,308 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (H-836)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1806
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1207, L.D. 1806, “An Act to Create a
+10 Residential Rental Unit Registry”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Require Submission of Information on the Rental or Leasing of Residential
+13 Buildings and Residential Dwellings'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 13-B MRSA §1301, sub-§1, ¶D, as enacted by PL 2007, c. 323, Pt. B, §27
+17 and affected by Pt. G, §4, is amended to read:
+18 D. A brief statement of the character of the activities in which the domestic or foreign
+19 corporation is actually engaged in this State, if any; and
+20 Sec. 2. 13-B MRSA §1301, sub-§1, ¶E, as enacted by PL 2007, c. 323, Pt. B, §27
+21 and affected by Pt. G, §4, is amended to read:
+22 E. The address of its principal office, wherever located.; and
+23 Sec. 3. 13-B MRSA §1301, sub-§1, ¶F is enacted to read:
+24 F. The industry code of a domestic or foreign corporation under the North American
+25 Industry Classification System of the United States Department of Commerce, United
+26 States Census Bureau.
+27 Sec. 4. 13-B MRSA §1301, sub-§1-A is enacted to read:
+28 1-A. Residential rental units. Beginning June 1, 2028, if a domestic or foreign
+29 corporation required to file an annual report under subsection 1 is classified under the North
+30 American Industry Classification System as engaged in renting or leasing residential
+31 buildings or residential dwellings, referred to collectively in this subsection as "the
+32 residential rental unit," the corporation shall provide the following information on a form
+33 prescribed by the Secretary of State:
+Page 1 - 132LR2072(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1207, L.D. 1806
+1 A. The name, e-mail address and telephone number of the owner of the residential
+2 rental unit;
+3 B. If the owner is not directly involved with the administration or management of the
+4 residential rental unit, the name, e-mail address and telephone number of the registered
+5 agent, manager or management company responsible for the administration or
+6 management of the residential rental unit;
+7 C. The name, e-mail address and telephone number of any entity that is a parent or
+8 subsidiary of the owner of the residential rental unit and that is authorized by the
+9 Secretary of State to conduct business in the State;
+10 D. Emergency contact information of the owner of the residential rental unit if the
+11 information is different from paragraph A or B;
+12 E. The physical address of the residential rental unit for 9-1-1 services as defined in
+13 Title 25, section 2921, subsection 6;
+14 F. The mailing address of the residential rental unit if different from the physical
+15 address under paragraph E; and
+16 G. If the owner owns property with multiple residential rental units, the total number
+17 of residential rental units, the number of residential rental units occupied as of the date
+18 of the annual report and the total number of residential rental units on each property
+19 not available for occupancy due to construction or renovation.
+20 For purposes of this subsection, "owner" means the corporation or the person holding the
+21 title to the residential rental unit, if different than the corporation.
+22 Sec. 5. 13-C MRSA §1621, sub-§1, ¶I, as enacted by PL 2021, c. 385, §2, is
+23 amended to read:
+24 I. An indication of how many female directors are on the board of directors of the
+25 publicly held domestic corporation; and
+26 Sec. 6. 13-C MRSA §1621, sub-§1, ¶J, as enacted by PL 2021, c. 385, §2, is
+27 amended to read:
+28 J. An indication as to whether the domestic publicly held corporation has the minimum
+29 number of female directors on its board of directors required by section 803, subsection
+30 4.; and
+31 Sec. 7. 13-C MRSA §1621, sub-§1, ¶K is enacted to read:
+32 K. The industry code of a domestic or foreign corporation under the North American
+33 Industry Classification System of the United States Department of Commerce, United
+34 States Census Bureau.
+35 Sec. 8. 13-C MRSA §1621, sub-§1-A is enacted to read:
+36 1-A. Residential rental units. Beginning June 1, 2028, if a domestic or foreign
+37 corporation required to file an annual report under subsection 1 is classified under the North
+38 American Industry Classification System as engaged in renting or leasing residential
+39 buildings or residential dwellings, referred to collectively in this subsection as "the
+40 residential rental unit," the corporation shall provide the following information on a form
+41 prescribed by the Secretary of State:
+Page 2 - 132LR2072(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1207, L.D. 1806
+1 A. The name, e-mail address and telephone number of the owner of the residential
+2 rental unit;
+3 B. If the owner is not directly involved with the administration or management of the
+4 residential rental unit, the name, e-mail address and telephone number of the registered
+5 agent, manager or management company responsible for the administration or
+6 management of the residential rental unit;
+7 C. The name, e-mail address and telephone number of any entity that is a parent or
+8 subsidiary of the owner of the residential rental unit and that is authorized by the
+9 Secretary of State to conduct business in the State;
+10 D. Emergency contact information of the owner of the residential rental unit if the
+11 information is different from paragraph A or B;
+12 E. The physical address of the residential rental unit for 9-1-1 services as defined in
+13 Title 25, section 2921, subsection 6;
+14 F. The mailing address of the residential rental unit if different from the physical
+15 address under paragraph E; and
+16 G. If the owner owns property with multiple residential rental units, the total number
+17 of residential rental units, the number of residential rental units occupied as of the date
+18 of the annual report and the total number of residential rental units on each property
+19 not available for occupancy due to construction or renovation.
+20 For purposes of this subsection, "owner" means the corporation or the person holding the
+21 title to the residential rental unit, if different than the corporation.
+22 Sec. 9. 31 MRSA §873, sub-§1, ¶C, as enacted by PL 1995, c. 633, Pt. B, §1, is
+23 amended to read:
+24 C. A brief statement of the character of the business in which the limited liability
+25 partnership is actually engaged in this State, if any; and
+26 Sec. 10. 31 MRSA §873, sub-§1, ¶D, as repealed and replaced by PL 2005, c. 543,
+27 Pt. B, §12 and affected by §15, is amended to read:
+28 D. The street address of the partnership's chief executive office, the street address of
+29 an office of the partnership in this State and the name and street address of the contact
+30 partner.; and
+31 Sec. 11. 31 MRSA §873, sub-§1, ¶E is enacted to read:
+32 E. The industry code of a registered limited liability partnership or foreign limited
+33 liability partnership under the North American Industry Classification System of the
+34 United States Department of Commerce, United States Census Bureau.
+35 Sec. 12. 31 MRSA §873, sub-§1-A is enacted to read:
+36 1-A. Residential rental units. Beginning June 1, 2028, if a registered limited liability
+37 partnership or foreign limited liability partnership required to file an annual report under
+38 subsection 1 is classified under the North American Industry Classification System as
+39 engaged in renting or leasing residential buildings or residential dwellings, referred to
+40 collectively in this subsection as "the residential rental unit," the limited liability
+Page 3 - 132LR2072(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1207, L.D. 1806
+411 partnership shall provide the following information on a form prescribed by the Secretary
+422 of State:
+3 A. The name, e-mail address and telephone number of the owner of the residential
+4 rental unit;
+5 B. If the owner is not directly involved with the administration or management of the
+6 residential rental unit, the name, e-mail address and telephone number of the registered
+7 agent, manager or management company responsible for the administration or
+8 management of the residential rental unit;
+9 C. The name, e-mail address and telephone number of any entity that is a parent or
+10 subsidiary of the owner of the residential rental unit and that is authorized by the
+11 Secretary of State to conduct business in the State;
+12 D. Emergency contact information of the owner of the residential rental unit if the
+13 information is different from paragraph A or B;
+14 E. The physical address of the residential rental unit for 9-1-1 services as defined in
+15 Title 25, section 2921, subsection 6;
+16 F. The mailing address of the residential rental unit if different from the physical
+17 address under paragraph E; and
+18 G. If the owner owns property with multiple residential rental units, the total number
+19 of residential rental units, the number of residential rental units occupied as of the date
+20 of the annual report and the total number of residential rental units on each property
+21 not available for occupancy due to construction or renovation.
+22 For purposes of this subsection, "owner" means the registered limited liability partnership
+23 or foreign limited liability partnership or the person holding the title to the residential rental
+24 unit, if different than the registered limited liability partnership or foreign limited liability
+25 partnership.
+26 Sec. 13. 31 MRSA §1330, sub-§1, ¶A, as amended by PL 2007, c. 323, Pt. F, §15
+27 and affected by Pt. G, §4, is further amended by amending subparagraph (4) to read:
+28 (4) The name and business or residence address of each general partner, including
+29 the street or rural route number, town or city and state; and
+30 Sec. 14. 31 MRSA §1330, sub-§1, ¶A, as amended by PL 2007, c. 323, Pt. F, §15
+31 and affected by Pt. G, §4, is further amended by amending subparagraph (5) to read:
+32 (5) The address of its principal office, wherever located.; and
+33 Sec. 15. 31 MRSA §1330, sub-§1, ¶A, as amended by PL 2007, c. 323, Pt. F, §15
+34 and affected by Pt. G, §4, is further amended by enacting a new subparagraph (6) to read:
+35 (6) The industry code of a domestic limited partnership or foreign limited
+36 partnership under the North American Industry Classification System of the United
+37 States Department of Commerce, United States Census Bureau.
+38 Sec. 16. 31 MRSA §1330, sub-§1-A is enacted to read:
+39 1-A. Residential rental units. Beginning June 1, 2028, if a domestic limited
+40 partnership or foreign limited partnership required to file an annual report under subsection
+41 1 is classified under the North American Industry Classification System as engaged in
+Page 4 - 132LR2072(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1207, L.D. 1806
+412 renting or leasing residential buildings or residential dwellings, referred to collectively in
+423 this subsection as "the residential rental unit," the limited partnership shall provide the
+434 following information on a form prescribed by the Secretary of State:
+4 A. The name, e-mail address and telephone number of the owner of the residential
+5 rental unit;
+6 B. If the owner is not directly involved with the administration or management of the
+7 residential rental unit, the name, e-mail address and telephone number of the registered
+8 agent, manager or management company responsible for the administration or
+9 management of the residential rental unit;
+10 C. The name, e-mail address and telephone number of any entity that is a parent or
+11 subsidiary of the owner of the residential rental unit and that is authorized by the
+12 Secretary of State to conduct business in the State;
+13 D. Emergency contact information of the owner of the residential rental unit if the
+14 information is different from paragraph A or B;
+15 E. The physical address of the residential rental unit for 9-1-1 services as defined in
+16 Title 25, section 2921, subsection 6;
+17 F. The mailing address of the residential rental unit if different from the physical
+18 address under paragraph E; and
+19 G. If the owner owns property with multiple residential rental units, the total number
+20 of residential rental units, the number of residential rental units occupied as of the date
+21 of the annual report and the total number of residential rental units on each property
+22 not available for occupancy due to construction or renovation.
+23 For purposes of this subsection, "owner" means the domestic limited partnership or foreign
+24 limited partnership or the person holding the title to the residential rental unit, if different
+25 than the domestic limited partnership or foreign limited partnership.
+26 Sec. 17. 31 MRSA §1665, sub-§1, ¶D, as enacted by PL 2009, c. 629, Pt. A, §2
+27 and affected by §3, is amended to read:
+28 D. A brief statement of the character of the business in which the limited liability
+29 company is actually engaged in this State; and
+30 Sec. 18. 31 MRSA §1665, sub-§1, ¶E, as amended by PL 2011, c. 113, Pt. B, §8,
+31 is further amended to read:
+32 E. The name and address of at least one person who is a member, manager or other
+33 authorized person of the limited liability company.; and
+34 Sec. 19. 31 MRSA §1665, sub-§1, ¶F is enacted to read:
+35 F. The industry code of a limited liability company or foreign limited liability company
+36 under the North American Industry Classification System of the United States
+37 Department of Commerce, United States Census Bureau.
+38 Sec. 20. 31 MRSA §1665, sub-§1-A is enacted to read:
+39 1-A. Residential rental units. Beginning June 1, 2028, if a limited liability company
+40 or foreign limited liability company required to file an annual report under subsection 1 is
+41 classified under the North American Industry Classification System as engaged in renting
+Page 5 - 132LR2072(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1207, L.D. 1806
+412 or leasing residential buildings or residential dwellings, referred to collectively in this
+423 subsection as "the residential rental unit," the company shall provide the following
+434 information on a form prescribed by the Secretary of State:
+4 A. The name, e-mail address and telephone number of the owner of the residential
+5 rental unit;
+6 B. If the owner is not directly involved with the administration or management of the
+7 residential rental unit, the name, e-mail address and telephone number of the registered
+8 agent, manager or management company responsible for the administration or
+9 management of the residential rental unit;
+10 C. The name, e-mail address and telephone number of any entity that is a parent or
+11 subsidiary of the owner of the residential rental unit and that is authorized by the
+12 Secretary of State to conduct business in the State;
+13 D. Emergency contact information of the owner of the residential rental unit if the
+14 information is different from paragraph A or B;
+15 E. The physical address of the residential rental unit for 9-1-1 services as defined in
+16 Title 25, section 2921, subsection 6;
+17 F. The mailing address of the residential rental unit if different from the physical
+18 address under paragraph E; and
+19 G. If the owner owns property with multiple residential rental units, the total number
+20 of residential rental units, the number of residential rental units occupied as of the date
+21 of the annual report and the total number of residential rental units on each property of
+22 the owner not available for occupancy due to construction or renovation.
+23 For purposes of this subsection, "owner" means the limited liability company or foreign
+24 limited liability company or the person holding the title to the residential rental unit, if
+25 different than the limited liability company or foreign limited liability company.
+26 Sec. 21. Secretary of State to update forms. By January 1, 2028, the Secretary
+27 of State shall provide a form or other method for the submission of the following
+28 information as required under the Maine Revised Statutes, Title 13-B, section 1301; Title
+29 13-C, section 1621; and Title 31, sections 873, 1330 and 1665:
+30 1. The name, e-mail address and telephone number of the owner of the residential
+31 rental unit;
+32 2. If the owner is not directly involved with the administration or management of the
+33 residential rental unit, the name, e-mail address and telephone number of the registered
+34 agent, manager or management company responsible for the administration or management
+35 of the residential rental unit;
+36 3. The name, e-mail address and telephone number of any entity that is a parent or
+37 subsidiary of the owner of the residential rental unit and that is authorized by the Secretary
+38 of State to conduct business in the State;
+39 4. Emergency contact information of the owner of the residential rental unit if the
+40 information is different from subsection 1 or 2;
+41 5. The physical address of the residential rental unit for 9-1-1 services as defined in
+42 Title 25, section 2921, subsection 6;
+Page 6 - 132LR2072(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1207, L.D. 1806
+1 6. The mailing address of the residential rental unit if different from the physical
+2 address under subsection 5; and
+3 7. If the owner owns property with multiple residential rental units, the total number
+4 of residential rental units, the number of residential rental units occupied as of the date of
+5 the annual report and the total number of residential rental units on each property of the
+6 owner not available for occupancy due to construction or renovation.
+7 Sec. 22. Appropriations and allocations. The following appropriations and
+8 allocations are made.
+9 SECRETARY OF STATE, DEPARTMENT OF
+10 Bureau of Corporations, Elections and Commissions 0692
+11 Initiative: Provides funding for 2 Office Specialist II positions and related costs to submit
+12 information on the rental or leasing of residential buildings and residential dwellings.
+13 GENERAL FUND 2025-26 2026-27
+14 POSITIONS - LEGISLATIVE COUNT 0.000 2.000
+15 Personal Services $0 $171,597
+16 All Other $0 $322,515
+17 __________ __________
+18 GENERAL FUND TOTAL $0 $494,112
+1193 '
+20 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+21 number to read consecutively.
+22 SUMMARY
+2233 This amendment, which is the minority report of the committee, changes the title and
+2244 replaces the bill. The amendment requires certain business entities to include, on the annual
+2255 report required to be filed with the Secretary of State, the business entities' industry code
+2266 under the North American Industry Classification System of the United States Department
+2277 of Commerce, United States Census Bureau. This new requirement applies to for-profit
+2288 and nonprofit corporations, limited liability partnerships, limited partnerships and limited
+2299 liability companies, all whether foreign or domestic. The amendment requires that
+3300 additional information be provided with the annual report if the business entity's industry
+3311 code indicates the business is engaged in renting or leasing residential buildings or
+3322 residential dwellings in the State. The amendment requires the Secretary of State to provide
+3333 a form or other method for the submission of the additional information by January 1, 2028.
+3344 The amendment includes an appropriations and allocations section.
+3355 FISCAL NOTE REQUIRED
+3366 (See attached)
+Page 7 - 132LR2072(02)
+COMMITTEE AMENDMENT

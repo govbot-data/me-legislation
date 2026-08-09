@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 681
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+APRIL 13, 2026 681
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+S.P. 386 - L.D. 897
+An Act Regarding the Nonwires Alternative Process and Required Negative
+Pricing Provisions in Contracts for Energy Resulting from Competitive
+Solicitations Conducted by the Public Utilities Commission
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 35-A MRSA §3132-B, sub-§1, as enacted by PL 2019, c. 298, §13, is
+amended to read:
+1. Planning study. Each investor-owned transmission and distribution utility in this
+State shall annually complete and submit to the commission and to the Office of the Public
+Advocate, for review by the nonwires alternative coordinator, a planning study for small
+transmission projects and distribution projects. In completing the planning study, an
+investor-owned transmission and distribution utility shall develop and use system planning
+models. The study must:
+A. Analyze system needs for the next 5 years and provide a schedule of proposed
+projects and associated costs;
+B. Describe system capacity and load by substation and circuit; and
+C. Identify corresponding planned and anticipated growth-related investments.
+After review of a planning study submitted under this subsection, the nonwires alternative
+coordinator may provide comments or recommendations, which may include
+recommendations to achieve the policy goals established in section 3143. An investor-
+owned transmission and distribution utility may, at its discretion, incorporate
+recommendations on a planning study made by the nonwires alternative coordinator.
+Failure to incorporate recommendations made by the nonwires alternative coordinator may
+not result in a presumption of imprudence.
+Sec. 2. 35-A MRSA §3132-C, sub-§4, as enacted by PL 2019, c. 298, §14, is
+amended to read:
+4. Recommendations. On the basis of the investigation under subsection 1, the
+nonwires alternative coordinator shall develop and provide to the commission or to an
+investor-owned transmission and distribution utility, as appropriate, recommendations
+Page 1 - 132LR1576(04)
+
+regarding cost-effective nonwires alternatives to the wires project, including a proposed
+plan for procurement of the recommended nonwires alternatives. The proposed
+procurement plan must be that identifies components that are behind the meter or on the
+grid side of the meter and is consistent with the provisions of section 3132‑D.
+Sec. 3. 35-A MRSA §3132-C, sub-§5 is enacted to read:
+5. Rules. The commission may adopt rules to implement this section. Rules adopted
+pursuant to this subsection are routine technical rules as defined by Title 5, chapter 375,
+subchapter 2-A.
+Sec. 4. 35-A MRSA §3149, first ¶, as enacted by PL 2025, c. 392, §1, is amended
+to read:
+The commission may not approve a contract for energy resulting from a competitive
+solicitation conducted by the commission under this Title unless the contract includes a
+provision that requires the reduction of payments to the bidder under the contract by the
+stranded costs arising from energy produced absolute value of the applicable negative price
+multiplied by the energy produced and delivered under the contract during negative price
+intervals. The commission may grant an exception from the inclusion of such a negative
+price provision if the bidder demonstrates good cause for the exception and the commission
+finds that the contract is cost-effective, includes other price protections for ratepayers and
+will avoid to the maximum extent possible the curtailment of existing renewable resource
+generators.
+Page 2 - 132LR1576(04)

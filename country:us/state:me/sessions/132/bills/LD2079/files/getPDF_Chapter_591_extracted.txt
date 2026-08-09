@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 591
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+APPROVED CHAPTER
+MARCH 23, 2026 591
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-SIX
+_____
+H.P. 1394 - L.D. 2079
+An Act to Amend the Laws Governing Municipal Reporting on Residential
+Buildings
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 5 MRSA §3241, sub-§5, as enacted by PL 2025, c. 495, §2, is amended to
+read:
+5. Municipal housing data reporting. By January March 31st of each year, a
+municipality with 4,000 or more residents shall provide to the office for use in
+administering the program an annual a report of that includes the following information
+from the prior calendar year:
+A. Residential The number of residential units approved through residential building
+permit applications, including the number of applications submitted, approved and
+denied, categorized into single-family, single-family with the following residential
+building types: accessory dwelling unit, 2-to-4-family and more-than-4-family homes
+single-family housing unit, 2-unit housing, 3-to-4-unit housing and housing with 5 or
+more units. The number of units that are income-restricted must also be reported if
+known;
+B. The number of dwelling units permitted and demolished approved for demolition;
+and
+C. The number of residential units approved through certificates of occupancy or other
+final approvals of housing units issued, the number of those housing units affordable
+to persons or families whose incomes are 80% or less of the area median income as
+determined by the Maine State Housing Authority and the number of those housing
+units affordable to persons or families whose incomes are from 81% to 120% of the
+area median income as determined by the Maine State Housing Authority categorized
+into the following residential building types: accessory dwelling unit, single-family
+housing unit, 2-unit housing, 3-to-4-unit housing and housing with 5 or more units.
+As used in this subsection, "accessory dwelling unit" has the same meaning as in Title
+30‑A, section 4301, subsection 1‑C.
+Page 1 - 132LR2639(03)
+
+The office shall encourage municipalities with fewer than 4,000 residents to report the
+information required by this subsection.
+Page 2 - 132LR2639(03)

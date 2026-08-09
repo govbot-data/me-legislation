@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Chapter 539
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LAW WITHOUT
+CHAPTER
+GOVERNOR'S
+SIGNATURE 539
+JANUARY 11, 2026 PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+H.P. 840 - L.D. 1265
+An Act to Amend the Laws Governing Public Employee Market Pay Studies
+and Comprehensive Reviews of the Classification Plan for State Service
+Positions
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 5 MRSA §7061, sub-§4, ¶B, as enacted by PL 2023, c. 412, Pt. UUU, §1,
+is amended to read:
+B. The procedure must provide for a market pay study every 4 years that compares the
+salaries of state employees with employees performing comparable work for a
+sampling of private and public employees in this State, other New England states and
+other states as appropriate. The bureau shall issue a request for proposals and contract
+with an experienced contractor to complete a market pay study conducted pursuant to
+this paragraph. The bureau shall submit the market pay study and a report on the market
+pay study to the joint standing committee of the Legislature having jurisdiction over
+appropriations and financial affairs, the joint standing committee of the Legislature
+having jurisdiction over state and local government matters and the bargaining agents
+that represent a bargaining unit of state employees no later than September 30, 2024
+and every 4 years thereafter.
+Sec. 2. 5 MRSA §7061, sub-§4, ¶C, as enacted by PL 2023, c. 412, Pt. UUU, §1,
+is amended to read:
+C. Beginning in 2024, the procedure must provide for a comprehensive review of the
+classification plan every 10 years to make modifications and improvements as
+determined necessary. The bureau shall issue a request for proposals and contract with
+an experienced contractor to complete these reviews.
+Sec. 3. Funds transfer. Notwithstanding any provision of law to the contrary, the
+State Controller shall transfer $2,000,000 on or before June 30, 2027 from the Department
+of Administrative and Financial Services, Salary Plan program, General Fund account to
+the unappropriated surplus of the General Fund to provide funding to contract with
+contractors to complete market pay studies and reviews pursuant to the Maine Revised
+Statutes, Title 5, section 7061, subsection 4, paragraphs B and C.
+Page 1 - 132LR1702(10)
+
+Sec. 4. Appropriations and allocations. The following appropriations and
+allocations are made.
+ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+Administration - Human Resources 0038
+Initiative: Provides one-time funding to contract with a consultant to complete market pay
+studies and reviews prior to the report deadline of September 30, 2028.
+GENERAL FUND 2025-26 2026-27
+All Other $0 $2,000,000
+__________ __________
+GENERAL FUND TOTAL $0 $2,000,000
+Page 2 - 132LR1702(10)

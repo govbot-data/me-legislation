@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - Amendment C-A (S-615)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 1954
+2 Date: (Filing No. S- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 SECOND REGULAR SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 762, L.D. 1954, “An Act to Lower
+10 Household Costs by Expanding the Sales Tax Exemption for Certain Grocery Staples Sold
+11 in Grocery Stores”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Update the Sales Tax Fairness Credit'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 36 MRSA §5213-A, sub-§1, ¶A-1, as enacted by PL 2017, c. 474, Pt. B,
+17 §9, is amended to read:
+18 A-1. For tax years beginning on or after January 1, 2018 and before January 1, 2026,
+19 "base credit" means:
+20 (1) For single individuals, $125; and
+21 (2) For individuals filing joint returns or as heads of households, $175 plus an
+22 additional amount equal to:
+23 (a) For individuals filing joint returns, $25 if they can claim the federal child
+24 tax credit pursuant to the Code, Section 24 for no more than one qualifying
+25 child or dependent or $50 if they can claim the credit for more than one
+26 qualifying child or dependent; or
+27 (b) For individuals filing as heads of households, $25 if they can claim the
+28 federal child tax credit pursuant to the Code, Section 24 for 2 qualifying
+29 children or dependents or $50 if they can claim the credit for more than 2
+30 qualifying children or dependents.
+31 Sec. 2. 36 MRSA §5213-A, sub-§1, ¶A-2 is enacted to read:
+32 A-2. For tax years beginning on or after January 1, 2026, "base credit" means:
+33 (1) For single individuals, $170; and
+Page 1 - 132LR1889(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 762, L.D. 1954
+1 (2) For individuals filing joint returns or as heads of households, $240 plus an
+2 additional amount equal to:
+3 (a) For individuals filing joint returns, $40 if they can claim the federal child
+4 tax credit pursuant to the Code, Section 24 for no more than one qualifying
+5 child or dependent or $75 if they can claim the credit for more than one
+6 qualifying child or dependent; or
+7 (b) For individuals filing as heads of households, $40 if they can claim the
+8 federal child tax credit pursuant to the Code, Section 24 for 2 qualifying
+9 children or dependents or $75 if they can claim the credit for more than 2
+10 qualifying children or dependents.
+11 Sec. 3. 36 MRSA §5213-A, sub-§4, as enacted by PL 2015, c. 267, Pt. DD, §19,
+12 is amended to read:
+13 4. Phase-out of credit. The credit allowed under this section is phased out as follows.
+14 A. For single individuals, the credit is reduced by $10 for every $500 or portion thereof
+15 that exceeds $20,000 of the income.
+16 B. For unmarried individuals or legally separated individuals who qualify as heads of
+17 households, the credit is reduced by $15 for every $750 or portion thereof that exceeds
+18 $30,000 of the income.
+19 C. For individuals filing married joint returns or surviving spouses permitted to file
+20 joint returns, the credit is reduced by $20 for every $1,000 or portion thereof that
+21 exceeds $40,000 of the income.
+22 D. For tax years beginning before January 1, 2026:
+23 (1) For single individuals, the credit is reduced by $10 for every $500 or portion
+24 thereof that exceeds $20,000 of the income;
+25 (2) For unmarried individuals or legally separated individuals who qualify as
+26 heads of households, the credit is reduced by $15 for every $750 or portion thereof
+27 that exceeds $30,000 of the income; and
+28 (3) For individuals filing married joint returns or surviving spouses permitted to
+29 file joint returns, the credit is reduced by $20 for every $1,000 or portion thereof
+30 that exceeds $40,000 of the income.
+31 E. For tax years beginning on or after January 1, 2026:
+32 (1) For single individuals, the credit is reduced by $10 for every $500 or portion
+33 thereof that exceeds $34,000 of the income;
+34 (2) For unmarried individuals or legally separated individuals who qualify as
+35 heads of households, the credit is reduced by $15 for every $750 or portion thereof
+36 that exceeds $51,000 of the income; and
+37 (3) For individuals filing married joint returns or surviving spouses permitted to
+38 file joint returns, the credit is reduced by $20 for every $1,000 or portion thereof
+39 that exceeds $68,000 of the income.
+40 Sec. 4. 36 MRSA §5403, sub-§5, ¶A, as amended by PL 2017, c. 474, Pt. B, §22,
+41 is further amended to read:
+Page 2 - 132LR1889(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 762, L.D. 1954
+1 A. Beginning in 2018 and each year thereafter, by the base credit amounts in section
+2 5213‑A, subsection 1, paragraph A‑1, including the additional amounts in section
+3 5213-A, subsection 1, paragraph A-1, subparagraph (2), divisions (a) and (b), except
+4 that for the purposes of this paragraph, notwithstanding section 5402, subsection 1‑B,
+5 the "cost-of-living adjustment" is the Chained Consumer Price Index for the 12-month
+6 period ending June 30th of the preceding calendar year divided by the Chained
+7 Consumer Price Index for the 12-month period ending June 30, 2017. If the base credit
+8 amount, adjusted by application of the cost-of-living adjustment, is not a multiple of
+9 $5, any increase must be rounded to the next lowest multiple of $5; and
+10 Sec. 5. 36 MRSA §5403, sub-§5, ¶C, as amended by PL 2017, c. 474, Pt. B, §22,
+11 is further amended to read:
+12 C. Beginning in 2016 and each year thereafter prior to 2026, by the dollar amount of
+13 the income threshold set forth in section 5213‑A, subsection 4, paragraph D, except
+14 that for the purposes of this paragraph, notwithstanding section 5402, subsection 1‑B,
+15 the "cost-of-living adjustment" is the Chained Consumer Price Index for the 12-month
+16 period ending June 30th of the preceding calendar year divided by the Chained
+17 Consumer Price Index for the 12-month period ending June 30, 2015;
+18 Sec. 6. 36 MRSA §5403, sub-§5, ¶D is enacted to read:
+19 D. Beginning in 2026 and each year thereafter, by the base credit amounts in section
+20 5213-A, subsection 1, paragraph A-2, including the additional amounts in section
+21 5213-A, subsection 1, paragraph A-2, subparagraph (2), divisions (a) and (b), except
+22 that for the purposes of this paragraph, notwithstanding section 5402, subsection 1-B,
+23 the "cost-of-living adjustment" is the Chained Consumer Price Index for the 12-month
+24 period ending June 30th of the preceding calendar year divided by the Chained
+25 Consumer Price Index for the 12-month period ending June 30, 2025. If the base credit
+26 amount, adjusted by application of the cost-of-living adjustment, is not a multiple of
+27 $5, any increase must be rounded to the next lowest multiple of $5; and
+28 Sec. 7. 36 MRSA §5403, sub-§5, ¶E is enacted to read:
+29 E. Beginning in 2026 and each year thereafter, by the dollar amount of the income
+30 threshold set forth in section 5213-A, subsection 4, paragraph E, except that for the
+31 purposes of this paragraph, notwithstanding section 5402, subsection 1-B, the "cost-of-
+32 living adjustment" is the Chained Consumer Price Index for the 12-month period
+33 ending June 30th of the preceding calendar year divided by the Chained Consumer
+34 Price Index for the 12-month period ending June 30, 2025;'
+35 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+36 number to read consecutively.
+37 SUMMARY
+3388 This amendment replaces the bill, changes the title and updates the sales tax fairness
+3399 credit for tax years beginning on or after January 1, 2026. The maximum credit allowed
+4400 under the updated credit is $170 for single filers, $240 for individuals filing jointly with no
+4411 qualifying children or dependents or as heads of households with no more than one
+4422 qualifying child or dependent, $280 for individuals filing jointly with no more than one
+4433 qualifying child or dependent or as heads of households with no more than 2 qualifying
+Page 3 - 132LR1889(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 762, L.D. 1954
+414 children or dependents and $315 for individuals filing jointly with 2 or more qualifying
+425 children or dependents or as heads of households with 3 or more qualifying children or
+436 dependents. The updated credit begins to phase out at $34,000 for single filers, $51,000 for
+447 heads of households and $68,000 for married joint filers. The updated credit is adjusted
+458 annually for inflation.
+469 FISCAL NOTE REQUIRED
+570 (See attached)
+Page 4 - 132LR1889(02)
+COMMITTEE AMENDMENT
